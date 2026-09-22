@@ -6,6 +6,10 @@ const teamIds = [...new Set((snapshot as { teams: { id: string }[] }).teams.map(
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
+  // GitHub project Pages lives at /oll-athletics/. Local/dev stays at /.
+  app: {
+    baseURL: process.env.NUXT_APP_BASE_URL || '/'
+  },
   css: [
     // Self-hosted so the site has no third-party font dependency.
     '@fontsource/anton/400.css',

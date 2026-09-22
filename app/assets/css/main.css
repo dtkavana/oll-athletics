@@ -257,7 +257,7 @@ footer {
   transform: translate(-50%, -50%);
   width: min(280px, 78vw);
   height: min(280px, 78vw);
-  background: url('/brand/lion-gold.png') center / contain no-repeat;
+  background: var(--lion-mark) center / contain no-repeat;
   opacity: .12;
   pointer-events: none;
   z-index: 0;

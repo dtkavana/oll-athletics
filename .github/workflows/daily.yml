@@ -58,6 +58,8 @@ jobs:
           git push
 
       - name: Build
+        env:
+          NUXT_APP_BASE_URL: /oll-athletics/
         run: npm run generate
 
       - uses: actions/configure-pages@v5

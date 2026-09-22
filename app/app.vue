@@ -12,7 +12,7 @@ const schoolSite = 'https://www.ollindy.org/'
 useHead({
   titleTemplate: t => (t ? `${t} · OLL Lyons Athletics` : 'OLL Lyons Athletics'),
   htmlAttrs: { lang: 'en' },
-  link: [{ rel: 'icon', href: '/brand/lion-gold-sm.png' }],
+  link: [{ rel: 'icon', href: publicUrl('brand/lion-gold-sm.png') }],
   meta: [
     { name: 'description', content: 'Schedules, scores and standings for Our Lady of Lourdes Lyons and East Side Crusaders CYO teams.' },
     { name: 'theme-color', content: '#002B5C' }
@@ -21,12 +21,12 @@ useHead({
 </script>
 
 <template>
-  <div>
+  <div :style="{ '--lion-mark': `url('${publicUrl('brand/lion-gold.png')}')` }">
     <NuxtRouteAnnouncer />
 
     <header class="masthead">
       <div class="wrap masthead__inner">
-        <img class="masthead__lion" src="/brand/lion-gold.png" alt="" width="84" height="84">
+        <img class="masthead__lion" :src="publicUrl('brand/lion-gold.png')" alt="" width="84" height="84">
         <div>
           <h1>Lourdes <em>Lyons</em> Athletics</h1>
         </div>
@@ -57,7 +57,7 @@ useHead({
 
     <footer>
       <div class="wrap foot">
-        <img class="foot__lion" src="/brand/lion-gold.png" alt="" width="64" height="64">
+        <img class="foot__lion" :src="publicUrl('brand/lion-gold.png')" alt="" width="64" height="64">
         <div>
           <p><strong>Go Lyons!</strong></p>
           <nav class="foot__links" aria-label="Related sites">

@@ -106,7 +106,7 @@ const daysAway = (iso: string) => {
 .slider::after {
   content: ''; position: absolute; right: -50px; bottom: -70px;
   width: 300px; height: 300px;
-  background: url('/brand/lion-gold.png') center/contain no-repeat;
+  background: var(--lion-mark) center/contain no-repeat;
   opacity: .12; pointer-events: none;
 }
 

@@ -26,7 +26,7 @@ const standings = computed(() => {
   return mine.length ? mine : table.rows
 })
 
-const icsUrl = computed(() => `/ics/${team.value!.id}.ics`)
+const icsUrl = computed(() => publicUrl(`ics/${team.value!.id}.ics`))
 </script>
 
 <template>
@@ -35,7 +35,7 @@ const icsUrl = computed(() => `/ics/${team.value!.id}.ics`)
 
     <!-- Team banner: the jersey, basically. -->
     <header class="banner">
-      <img class="banner__lion" src="/brand/lion-gold.png" alt="" width="84" height="84">
+      <img class="banner__lion" :src="publicUrl('brand/lion-gold.png')" alt="" width="84" height="84">
       <div class="banner__id">
         <p class="banner__sport">{{ sportOf(team.season) }} &middot; {{ team.season }}</p>
         <h1>{{ teamLabel(team) }}</h1>

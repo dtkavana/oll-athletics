@@ -138,7 +138,7 @@ function toggleAll () {
 
     <p class="muted small intro">
       Click any day to see full game details.
-      <a href="/ics/all-games.ics">Subscribe to every game (.ics)</a>
+      <a :href="publicUrl('ics/all-games.ics')">Subscribe to every game (.ics)</a>
     </p>
 
     <div
