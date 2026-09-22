@@ -37,7 +37,7 @@ const range = (w: { start: string; end: string } | null) =>
         <table>
           <thead>
             <tr>
-              <th>Team</th><th>League</th><th>Div</th>
+              <th>Team</th><th>League</th>
               <th class="num">League</th><th>Coach</th>
             </tr>
           </thead>
@@ -45,7 +45,6 @@ const range = (w: { start: string; end: string } | null) =>
             <tr v-for="t in g.teams" :key="t.id">
               <td><NuxtLink class="teamlink" :to="`/teams/${t.id}`">{{ teamLabel(t) }}</NuxtLink></td>
               <td>{{ t.league }}</td>
-              <td>{{ t.division }}</td>
               <td class="num">
                 <template v-if="teamRecord(t).w + teamRecord(t).l + teamRecord(t).t">
                   {{ teamRecord(t).w }}&ndash;{{ teamRecord(t).l }}<template v-if="teamRecord(t).t">&ndash;{{ teamRecord(t).t }}</template>
@@ -72,8 +71,8 @@ h2 { display: flex; align-items: center; gap: 9px; }
 }
 .teamlink {
   display: block; padding: 6px 0; min-height: 34px;
-  font-family: var(--font-display); font-size: 1.05rem;
-  text-transform: uppercase; text-decoration: none; color: var(--navy);
+  font-family: var(--font-cond); font-weight: 700; font-size: 1.05rem;
+  letter-spacing: .03em; text-transform: uppercase; text-decoration: none; color: var(--navy);
 }
 .teamlink:hover { text-decoration: underline; text-decoration-color: var(--gold); text-decoration-thickness: 3px; }
 @media (prefers-color-scheme: dark) { .teamlink { color: var(--gold); } }

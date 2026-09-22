@@ -40,7 +40,7 @@ const icsUrl = computed(() => publicUrl(`ics/${team.value!.id}.ics`))
         <p class="banner__sport">{{ sportOf(team.season) }} &middot; {{ team.season }}</p>
         <h1>{{ teamLabel(team) }}</h1>
         <p class="banner__league">
-          {{ team.league }} &middot; Division {{ team.division }}
+          {{ team.league }}
           <template v-if="team.coaches.length"> &middot; Coach {{ team.coaches.join(', ') }}</template>
         </p>
       </div>
@@ -69,7 +69,7 @@ const icsUrl = computed(() => publicUrl(`ics/${team.value!.id}.ics`))
 
     <section v-if="standings.length" class="section">
       <div class="section__head">
-        <h2>{{ team.league }} &middot; Division {{ team.division }}</h2>
+        <h2>{{ team.league }}</h2>
         <NuxtLink to="/standings">All standings &rarr;</NuxtLink>
       </div>
       <div class="card table-wrap">
@@ -98,6 +98,7 @@ const icsUrl = computed(() => publicUrl(`ics/${team.value!.id}.ics`))
   letter-spacing: .1em; text-transform: uppercase; color: var(--muted); text-decoration: none;
 }
 .back:hover { color: var(--navy); }
+@media (prefers-color-scheme: dark) { .back:hover { color: var(--gold); } }
 
 .banner {
   display: flex; align-items: center; gap: 18px; flex-wrap: wrap;

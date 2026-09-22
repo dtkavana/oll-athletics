@@ -76,10 +76,16 @@ const yearLabel = computed(() => {
 .lead a,
 .register-note a,
 .assist-note a { color: var(--gold-deep); text-decoration: underline; text-underline-offset: 2px; }
+.lead a:hover,
+.register-note a:hover,
+.assist-note a:hover { color: var(--navy); }
 @media (prefers-color-scheme: dark) {
   .lead a,
   .register-note a,
   .assist-note a { color: var(--gold); }
+  .lead a:hover,
+  .register-note a:hover,
+  .assist-note a:hover { color: var(--gold-bright); }
 }
 .seasons__sport { font-weight: 600; }
 .seasons__cost { min-width: 5rem; white-space: nowrap; }

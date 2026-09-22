@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import {
   type Game, isOurs, formatDate, formatTime, outcome,
-  sportOf, sportVar, matchup, displayTeam, sides
+  sportOf, sportVar, matchup, displayTeam, sides, isCampusHomeGame
 } from '~/composables/useSnapshot'
 
 // Vue casts an absent Boolean prop to false, so showDate needs an explicit
@@ -11,7 +11,9 @@ const props = withDefaults(defineProps<{
   /** When set, the row is written from this team's point of view. */
   perspective?: string
   showDate?: boolean
-}>(), { perspective: undefined, showDate: true })
+  /** Gold Home chip — only the homepage Coming up list asks for this. */
+  showHome?: boolean
+}>(), { perspective: undefined, showDate: true, showHome: false })
 
 const result = computed(() => outcome(props.game, viewpoint.value))
 const played = computed(() => props.game.status === 'Played')
@@ -43,7 +45,7 @@ const viewpoint = computed(() => props.perspective ?? sides(props.game).ours.nam
         <span v-if="game.tournament" class="row__tourney">
           &#127942; Tournament<template v-if="game.tournament.round"> R{{ game.tournament.round }}</template>
         </span>
-        <span>{{ game.league }}<template v-if="game.division"> · Div {{ game.division }}</template></span>
+        <span>{{ game.league }}</span>
         <span v-if="game.venue">{{ game.venue }}</span>
       </p>
     </div>
@@ -58,9 +60,7 @@ const viewpoint = computed(() => props.perspective ?? sides(props.game).ours.nam
           <b>F</b><span class="scorebox__n">{{ game.team1.score }}&ndash;{{ game.team2.score }}</span>
         </span>
       </template>
-      <!-- The time already sits in the left column; use this slot for the one
-           thing a schedule does not otherwise say at a glance. -->
-      <span v-else-if="m.home" class="homebadge">Home</span>
+      <span v-else-if="showHome && isCampusHomeGame(game)" class="homebadge">Home</span>
     </div>
   </li>
 </template>
@@ -91,8 +91,8 @@ const viewpoint = computed(() => props.perspective ?? sides(props.game).ours.nam
 
 .row__teams { grid-column: 1; min-width: 0; }
 .row__matchup {
-  margin: 0; font-family: var(--font-display); font-size: 1.1rem;
-  text-transform: uppercase; line-height: 1.15; overflow-wrap: anywhere;
+  margin: 0; font-family: var(--font-cond); font-weight: 700; font-size: 1.12rem;
+  letter-spacing: .03em; text-transform: uppercase; line-height: 1.25; overflow-wrap: anywhere;
 }
 .vs { color: var(--muted); font-family: var(--font-cond); font-size: .8rem; margin: 0 5px; }
 /* "@" carries meaning (road game), so it gets weight the neutral "vs" does not. */

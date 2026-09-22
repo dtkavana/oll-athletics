@@ -8,6 +8,10 @@ const updated = computed(() =>
 
 const cyoSite = 'https://www.cyoarchindy.org/'
 const schoolSite = 'https://www.ollindy.org/'
+const route = useRoute()
+const navOpen = ref(false)
+
+watch(() => route.path, () => { navOpen.value = false })
 
 useHead({
   titleTemplate: t => (t ? `${t} · OLL Lyons Athletics` : 'OLL Lyons Athletics'),
@@ -27,16 +31,29 @@ useHead({
     <header class="masthead">
       <div class="wrap masthead__inner">
         <img class="masthead__lion" :src="publicUrl('brand/lion-gold.png')" alt="" width="84" height="84">
-        <div>
+        <div class="masthead__title">
           <h1>Lourdes <em>Lyons</em> Athletics</h1>
         </div>
+        <button
+          class="nav__toggle"
+          type="button"
+          :class="{ 'is-open': navOpen }"
+          :aria-expanded="navOpen"
+          aria-controls="main-nav"
+          :aria-label="navOpen ? 'Close menu' : 'Open menu'"
+          @click="navOpen = !navOpen"
+        >
+          <span class="nav__burger" aria-hidden="true">
+            <span /><span /><span />
+          </span>
+        </button>
       </div>
     </header>
     <div class="varsity" />
 
-    <nav class="nav" aria-label="Main">
+    <nav class="nav" :class="{ 'nav--open': navOpen }" aria-label="Main">
       <div class="wrap">
-        <ul>
+        <ul id="main-nav">
           <li><NuxtLink to="/">Home</NuxtLink></li>
           <li><NuxtLink to="/at-oll">@ OLL</NuxtLink></li>
           <li><NuxtLink to="/calendar">Calendar</NuxtLink></li>

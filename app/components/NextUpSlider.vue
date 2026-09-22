@@ -59,7 +59,6 @@ const daysAway = (iso: string) => {
       <div class="slide__tag">
         <span class="slide__when">{{ daysAway(g.date) }}</span>
         <span class="slide__sport">{{ sportOf(g.season) }}</span>
-        <span v-if="matchup(g).home" class="slide__home">Home</span>
       </div>
 
       <p class="slide__match">
@@ -71,7 +70,7 @@ const daysAway = (iso: string) => {
       <dl class="slide__facts">
         <div><dt>When</dt><dd>{{ formatDate(g.date, { weekday: 'long' }) }} · {{ formatTime(g.startTime) }}</dd></div>
         <div><dt>Where</dt><dd>{{ g.venue ?? 'TBD' }}</dd></div>
-        <div><dt>League</dt><dd>{{ g.league }}<template v-if="g.division"> · Div {{ g.division }}</template></dd></div>
+        <div><dt>League</dt><dd>{{ g.league }}</dd></div>
       </dl>
 
       <NuxtLink v-if="teamFor(g)" class="btn btn--primary" :to="`/teams/${teamFor(g)!.id}`">
@@ -129,15 +128,14 @@ const daysAway = (iso: string) => {
   font-family: var(--font-cond); font-weight: 600; font-size: .86rem;
   letter-spacing: .14em; text-transform: uppercase; padding: 3px 10px; border-radius: 3px;
 }
-.slide__sport, .slide__home {
+.slide__sport {
   font-family: var(--font-cond); font-weight: 600; font-size: .86rem;
   letter-spacing: .16em; text-transform: uppercase; color: #9FB6D6;
 }
-.slide__home { color: var(--gold); border: 1px solid currentColor; padding: 1px 8px; border-radius: 3px; }
 
 .slide__match {
-  margin: 0 0 14px; font-family: var(--font-display);
-  font-size: clamp(1.4rem, 4.4vw, 2.4rem); line-height: 1.05; text-transform: uppercase;
+  margin: 0 0 14px; font-family: var(--font-cond); font-weight: 700;
+  font-size: clamp(1.35rem, 4vw, 2.15rem); line-height: 1.15; letter-spacing: .04em; text-transform: uppercase;
 }
 .slide__match .ours { color: var(--gold); }
 .slide__sep { font-family: var(--font-cond); font-size: .78em; color: #7E97BC; margin: 0 8px; }

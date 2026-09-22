@@ -55,6 +55,14 @@ const tally = computed(() => {
 
     <section class="section">
       <div class="section__head">
+        <h2>Latest results</h2>
+        <NuxtLink to="/scores">All scores &rarr;</NuxtLink>
+      </div>
+      <GameList :games="recent" empty="No games played yet" />
+    </section>
+
+    <section class="section">
+      <div class="section__head">
         <h2>Coming up</h2>
         <NuxtLink to="/calendar">Full calendar &rarr;</NuxtLink>
       </div>
@@ -65,35 +73,25 @@ const tally = computed(() => {
             <span>{{ games.length }} game<template v-if="games.length !== 1">s</template></span>
           </p>
           <ul class="list">
-            <GameRow v-for="g in games" :key="g.id" :game="g" :show-date="false" />
+            <GameRow v-for="g in games" :key="g.id" :game="g" :show-date="false" show-home />
           </ul>
         </template>
       </div>
       <p v-else class="card empty">No games on the CYO schedule right now</p>
     </section>
 
-    <div class="grid grid--2">
-      <section class="section">
-        <div class="section__head">
-          <h2>Latest results</h2>
-          <NuxtLink to="/scores">All scores &rarr;</NuxtLink>
-        </div>
-        <GameList :games="recent" empty="No games played yet" />
-      </section>
-
-      <section class="section">
-        <div class="section__head"><h2>CYO sport dates</h2></div>
-        <div class="card">
-          <ul v-if="events.length" class="list">
-            <li v-for="e in events" :key="e.date + e.title" class="ev">
-              <span class="ev__date">{{ formatDate(e.date) }}</span>
-              <span>{{ e.title }}</span>
-            </li>
-          </ul>
-          <p v-else class="empty">Nothing scheduled</p>
-        </div>
-      </section>
-    </div>
+    <section class="section">
+      <div class="section__head"><h2>CYO sport dates</h2></div>
+      <div class="card">
+        <ul v-if="events.length" class="list">
+          <li v-for="e in events" :key="e.date + e.title" class="ev">
+            <span class="ev__date">{{ formatDate(e.date) }}</span>
+            <span>{{ e.title }}</span>
+          </li>
+        </ul>
+        <p v-else class="empty">Nothing scheduled</p>
+      </div>
+    </section>
   </div>
 </template>
 

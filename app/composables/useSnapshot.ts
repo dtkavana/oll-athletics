@@ -206,8 +206,7 @@ export function sportOf (season: string) {
  * every set of sports that can share one month view. At most three sports ever
  * co-occur in a month, and the live triples -- {Volleyball, Kickball, Football}
  * and {Volleyball, Kickball, Soccer} -- both pass all checks in both modes.
- * Cross country is assigned a hue for completeness but CYO does not enter meets
- * as games, so it never renders a chip.
+ * Cross country has no CYO fixtures; its hue is used for CYO meet dates.
  */
 export const SPORT_ORDER = ['Volleyball', 'Football', 'Kickball', 'Soccer', 'Cross Country'] as const
 export const SPORT_VAR: Record<string, string> = {
@@ -227,12 +226,16 @@ export function sportsWithGames () {
   )
 }
 
-/** Sports with games or registered teams (e.g. cross country has meets, not CYO games). */
+export function isCrossCountryEvent (e: { title: string }) {
+  return /^\s*cross country\b/i.test(e.title)
+}
+
+/** Fixtures plus Cross Country when CYO lists a meet or we field a team. */
 export function sportsForCalendar () {
-  const present = new Set([
-    ...data.games.map(g => sportOf(g.season)),
-    ...data.teams.map(t => sportOf(t.season))
-  ])
+  const present = new Set(sportsWithGames())
+  const hasCc = data.teams.some(t => sportOf(t.season) === 'Cross Country')
+    || sportEvents.some(isCrossCountryEvent)
+  if (hasCc) present.add('Cross Country')
   return SPORT_ORDER.filter(s => present.has(s)).concat(
     [...present].filter(s => !SPORT_ORDER.includes(s as never)).sort()
   )
@@ -267,18 +270,6 @@ export function gameVideosOn (date: string) {
 export const sportEvents = calendarEvents.filter(e => e.category === 'sport')
 /** Explicit "No CYO Sports" days — useful, but off by default as there are many. */
 export const blackoutEvents = calendarEvents.filter(e => e.category === 'blackout')
-
-/** CYO calendar window for cross country (season start through championship day). */
-export function crossCountrySeason () {
-  const begins = sportEvents.find(e => /^Cross Country Begins$/i.test(e.title.trim()))
-  const championship = sportEvents.find(e => /Cross Country Championship/i.test(e.title))
-  if (!begins || !championship) return null
-  return {
-    start: begins.date,
-    end: championship.date,
-    championshipTitle: championship.title
-  }
-}
 
 export interface ParentSportSeason {
   sport: string
@@ -555,13 +546,9 @@ export function matchup (game: Game) {
 }
 
 /**
- * CYO suffixes every team with a colour ("OL Lourdes-Blue") because a parish may
- * field more than one team in a league. Where we field only one, the colour is
- * noise, so it is dropped for OUR teams only — other parishes keep theirs, since
- * we cannot know how many teams they have in a league.
- *
- * The colour returns automatically the moment a second Lourdes team appears in
- * the same season and league, which is the only case where it disambiguates.
+ * CYO suffixes every team with a colour ("OL Lourdes-Blue"). Opponents drop
+ * that suffix on this site. Our own colour is kept only when we field more
+ * than one team in the same season and league.
  */
 const ourTeamsPerLeague = new Map<string, Set<string>>()
 for (const t of data.teams) {
@@ -570,14 +557,11 @@ for (const t of data.teams) {
   ourTeamsPerLeague.get(k)!.add(t.name)
 }
 
-const dropColour = (name: string) => {
-  const parts = name.split('-')
-  return parts.length > 1 ? parts.slice(0, -1).join('-').trim() : name
-}
+const COLOUR_SUFFIX = /-(Black|Blue|Gold|Gray|Green|Maroon|Navy|Purple|Red|Royal|Silver|White|Yellow)$/i
+const dropColour = (name: string) => name.replace(COLOUR_SUFFIX, '')
 
 export function displayTeam (name: string, season?: string | null, league?: string | null) {
-  if (!isOurs(name)) return name
-  // Without league context we cannot prove it is unambiguous, so keep it as-is.
+  if (!isOurs(name)) return dropColour(name)
   if (!season || !league) return name
   const siblings = ourTeamsPerLeague.get(`${season}|${league}`)
   return siblings && siblings.size > 1 ? name : dropColour(name)
@@ -588,17 +572,6 @@ export const teamLabel = (t: Team) => displayTeam(t.name, t.season, t.league)
 
 const SPORT_IN_TEXT = /(volleyball|football|basketball|kickball|soccer|softball|baseball|wrestling|track|cross ?country)/i
 const normSport = (s: string) => s.toLowerCase().replace(/\s+/g, '')
-
-/**
- * Sports we field a team in but that CYO never publishes as games — cross
- * country scores meets, not fixtures. They have no place on the games calendar,
- * so their season is described on the teams page from the CYO calendar instead.
- */
-export const gamelessSports = new Set(
-  [...new Set(data.teams.map(t => t.season))]
-    .filter(season => !data.games.some(g => g.season === season))
-    .map(season => normSport(sportOf(season)))
-)
 
 /** Years a season label can span: "2026-2027 Boys Basketball" covers both. */
 function seasonYears (season: string) {

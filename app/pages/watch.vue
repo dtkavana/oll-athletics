@@ -70,5 +70,11 @@ const otherVideos = computed(() => decorated.value.filter(v => !v.isGame))
 .vid__body { padding: 10px 12px 12px; }
 .vid__title { margin: 0 0 4px; font-weight: 650; line-height: 1.3; }
 .vid:hover .vid__title { text-decoration: underline; }
+.muted a { color: var(--gold-deep); text-decoration: underline; text-underline-offset: 2px; }
+.muted a:hover { color: var(--navy); }
+@media (prefers-color-scheme: dark) {
+  .muted a { color: var(--gold); }
+  .muted a:hover { color: var(--gold-bright); }
+}
 .note { margin-top: 18px; }
 </style>

@@ -17,6 +17,7 @@ export default defineNuxtConfig({
     '@fontsource/barlow/600.css',
     '@fontsource/barlow/700.css',
     '@fontsource/barlow-condensed/600.css',
+    '@fontsource/barlow-condensed/700.css',
     '~/assets/css/main.css'
   ],
 

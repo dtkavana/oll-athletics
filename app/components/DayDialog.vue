@@ -2,7 +2,8 @@
 import {
   type Game, type CalendarEvent,
   formatDate, formatTime, isOurs, sides, resultClass,
-  sportOf, sportVar, teamById, gameVideosOn, channel, matchup, displayTeam
+  sportOf, sportVar, teamById, gameVideosOn, channel, matchup, displayTeam,
+  isCrossCountryEvent
 } from '~/composables/useSnapshot'
 
 const props = defineProps<{ date: string | null; games: Game[]; events: CalendarEvent[] }>()
@@ -59,7 +60,7 @@ function ourTeamId (g: Game) {
               Tournament<template v-if="g.tournament.round"> R{{ g.tournament.round }}</template>
             </span>
             <span class="muted small">
-              {{ g.league }}<template v-if="g.division"> &middot; Div {{ g.division }}</template>
+              {{ g.league }}
             </span>
             <span
               v-if="resultClass(g)"
@@ -93,9 +94,14 @@ function ourTeamId (g: Game) {
 
         <article
           v-for="e in events" :key="e.title"
-          class="ev" :class="{ 'ev--blackout': e.category === 'blackout' }"
+          class="ev"
+          :class="{
+            'ev--blackout': e.category === 'blackout',
+            'ev--cc': isCrossCountryEvent(e)
+          }"
+          :style="isCrossCountryEvent(e) ? { '--accent': `var(${sportVar('Cross Country')})` } : undefined"
         >
-          <span class="ev__tag">{{ e.category === 'blackout' ? 'NO PLAY' : 'CYO' }}</span>
+          <span class="ev__tag">{{ e.category === 'blackout' ? 'NO PLAY' : isCrossCountryEvent(e) ? 'CC' : 'CYO' }}</span>
           <p>{{ e.title }}</p>
         </article>
 
@@ -151,8 +157,8 @@ function ourTeamId (g: Game) {
   text-transform: uppercase; letter-spacing: .12em; color: var(--accent);
 }
 .gm__teams {
-  margin: 0 0 10px; font-family: var(--font-display);
-  font-size: 1.2rem; text-transform: uppercase; line-height: 1.15;
+  margin: 0 0 10px; font-family: var(--font-cond); font-weight: 700;
+  font-size: 1.15rem; letter-spacing: .03em; text-transform: uppercase; line-height: 1.25;
 }
 .gm__sc { font-variant-numeric: tabular-nums; font-weight: 700; margin-left: 4px; }
 .gm__sep { color: var(--muted); font-family: var(--font-cond); margin: 0 6px; }
@@ -186,6 +192,11 @@ function ourTeamId (g: Game) {
   background: var(--event); color: #fff; padding: 2px 6px; border-radius: 4px;
 }
 
+.ev--cc {
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--border));
+  background: color-mix(in srgb, var(--accent) 12%, var(--surface));
+}
+.ev--cc .ev__tag { background: var(--accent); }
 .ev--blackout {
   border-color: color-mix(in srgb, var(--muted) 35%, var(--border));
   background: color-mix(in srgb, var(--muted) 8%, var(--surface));
