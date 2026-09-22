@@ -2,10 +2,11 @@ name: Scrape CYO and deploy
 
 on:
   schedule:
-    # 06:10 America/Indiana/Indianapolis (10:10 UTC in EST, 11:10 in EDT-adjacent
-    # months -- cron is UTC-only, so this drifts by an hour across DST).
-    # Morning runs pick up scores entered after the previous evening's games.
-    - cron: '10 10 * * *'
+    # Indianapolis local (America/Indiana/Indianapolis). Cron is UTC-only, so
+    # these hit :10 past the hour in EDT and run one hour earlier in EST.
+    - cron: '10 10 * * *'  # 6:10 AM EDT / 5:10 AM EST
+    - cron: '10 17 * * *'  # 1:10 PM EDT / 12:10 PM EST
+    - cron: '10 2 * * *'   # 10:10 PM EDT / 9:10 PM EST
   workflow_dispatch:
   push:
     branches: [main]
