@@ -1,0 +1,26 @@
+{
+  "name": "oll-sports",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "scrape": "node --env-file-if-exists=.env scripts/scrape.mjs",
+    "rebuild": "node --env-file-if-exists=.env scripts/scrape.mjs --rebuild"
+  },
+  "dependencies": {
+    "@fontsource/anton": "^5.3.0",
+    "@fontsource/barlow": "^5.3.0",
+    "@fontsource/barlow-condensed": "^5.3.0",
+    "cheerio": "^1.2.0",
+    "nuxt": "^4.5.2",
+    "vue": "^3.5.43",
+    "vue-router": "^5.3.1"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

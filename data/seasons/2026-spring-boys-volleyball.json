@@ -1,0 +1,498 @@
+{
+  "season": "2026 Spring Boys Volleyball",
+  "scrapedAt": "2026-09-21T22:44:34.370Z",
+  "teams": [
+    {
+      "id": "2026-spring-boys-volleyball--56-a-boys--1n--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Spring Boys Volleyball",
+      "seasonId": "1836",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "56 A Boys",
+      "division": "1N",
+      "coaches": [
+        "Monica Horner"
+      ],
+      "gameIds": []
+    },
+    {
+      "id": "2026-spring-boys-volleyball--cadet-a-boys--1n--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Spring Boys Volleyball",
+      "seasonId": "1836",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "coaches": [
+        "Allyson Bollenbacher"
+      ],
+      "gameIds": [
+        "9586226e6c69",
+        "e87a4c35b1e6",
+        "e83215c473d7",
+        "efb7f83dec40",
+        "924d7781e8a2",
+        "96e69cf1e556"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-03-05",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Played",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "team2": {
+        "name": "St. Matthew-Red",
+        "score": 2
+      },
+      "id": "9586226e6c69",
+      "season": "2026 Spring Boys Volleyball",
+      "teamIds": [
+        "2026-spring-boys-volleyball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-03-10",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "venue": "Holy Spirit, Indy Gym",
+      "status": "Played",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "team2": {
+        "name": "OL Of Grace-Gold",
+        "score": 2
+      },
+      "id": "e87a4c35b1e6",
+      "season": "2026 Spring Boys Volleyball",
+      "teamIds": [
+        "2026-spring-boys-volleyball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-03-16",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "CYO Center",
+      "status": "Played",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "Nativity-Red",
+        "score": 2
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "id": "e83215c473d7",
+      "season": "2026 Spring Boys Volleyball",
+      "teamIds": [
+        "2026-spring-boys-volleyball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-03-30",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "venue": "St. Barnabas #1",
+      "status": "Played",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "St. Barnabas-Gold",
+        "score": 2
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "id": "efb7f83dec40",
+      "season": "2026 Spring Boys Volleyball",
+      "teamIds": [
+        "2026-spring-boys-volleyball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-08",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Played",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "St. Mark-Black",
+        "score": 2
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "id": "924d7781e8a2",
+      "season": "2026 Spring Boys Volleyball",
+      "teamIds": [
+        "2026-spring-boys-volleyball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "St. Roch Gym #2",
+      "status": "Played",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "St. Roch-Gold",
+        "score": 2
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "id": "96e69cf1e556",
+      "season": "2026 Spring Boys Volleyball",
+      "teamIds": [
+        "2026-spring-boys-volleyball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    }
+  ],
+  "standings": [
+    {
+      "season": "2026 Spring Boys Volleyball",
+      "league": "56 A Boys",
+      "rows": [
+        {
+          "division": "1A",
+          "team": "St. Jude-Gold",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Luke-Royal",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Mount Carmel-Gold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Barnabas-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Louis de Mont.-Black",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Simon-Royal",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Immac. Heart-Blue",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Mark-Black",
+          "wins": 7,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Greenwood-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Pius X-Purple",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Of Grace-Gold",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Roch-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Nativity-Red",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Matthew-Red",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Spring Boys Volleyball",
+      "league": "Cadet A Boys",
+      "rows": [
+        {
+          "division": "1A",
+          "team": "St. Luke-Royal",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Pius X-Purple",
+          "wins": 4,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Charles-Red",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Jude-Gold",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Simon-Royal",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Mount Carmel-Gold",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Mark-Black",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Matthew-Red",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Christ the King-Black",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Of Grace-Gold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Nativity-Red",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Barnabas-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Roch-Gold",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Malachy-Green",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Holy Name-Blue",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,695 @@
+{
+  "source": "/private/tmp/claude-501/-Users-dtkavana-Documents-sites-oll-sports/9488271e-a6fe-4d2a-80c9-7000c4bc3c72/scratchpad/cyocal.pdf",
+  "events": [
+    {
+      "date": "2026-07-19",
+      "title": "Fall Sports Teams Due (Kickball, Football, & Cross Country)",
+      "category": "sport",
+      "source": "page 3"
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Chess Entries Sent Out",
+      "category": "other",
+      "source": "page 4"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "First Non-Contact Football Practice",
+      "category": "sport",
+      "source": "page 4"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Kickball Begins",
+      "category": "sport",
+      "source": "page 4"
+    },
+    {
+      "date": "2026-08-12",
+      "title": "First Contact Football Practice",
+      "category": "sport",
+      "source": "page 4"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Football Weigh-Ins for All Leagues @ CYO Center",
+      "category": "sport",
+      "source": "page 4"
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Holy Day",
+      "category": "other",
+      "source": "page 4"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Girls & Boys High School Volleyball AND Girls Grade School Volleyball Teams and Gym Dates Due",
+      "category": "sport",
+      "source": "page 4"
+    },
+    {
+      "date": "2026-08-18",
+      "title": "34 Football Coaches Meeting @ CYO Center - 5:30pm",
+      "category": "sport",
+      "source": "page 4"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "Girls & Boys High School Volleyball Begins",
+      "category": "sport",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Cross Country Begins",
+      "category": "sport",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Labor Day",
+      "category": "other",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Chess Team Entries Due",
+      "category": "other",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Football Opening Weekend",
+      "category": "sport",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Football Opening Weekend",
+      "category": "sport",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "CYO Board of Directors Meeting - 12pm",
+      "category": "other",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Girls Grade School Volleyball Begins",
+      "category": "sport",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Football Second Weigh-Ins @ CYO Center",
+      "category": "sport",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Chess Begins",
+      "category": "other",
+      "source": "page 5"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Fall Break #1",
+      "category": "other",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Cross Country Championship @ Blue River CC Course",
+      "category": "sport",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Boys Grade School Basketball Teams & Gym Dates Due",
+      "category": "sport",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Fall Break #2",
+      "category": "other",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Fall Break #3",
+      "category": "other",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-24",
+      "title": "34 Football Playoffs",
+      "category": "sport",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "56 & Cadet Football Playoffs",
+      "category": "sport",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Girls & Boys High School Basketball Teams & Gym Dates Due",
+      "category": "sport",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-30",
+      "title": "CYO Music Contest Information Available",
+      "category": "other",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "34 Football Playoffs",
+      "category": "sport",
+      "source": "page 6"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "56 & Cadet Football Playoffs",
+      "category": "sport",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-01",
+      "title": "Holy Day",
+      "category": "other",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "CYO Board of Directors Meeting - 12pm",
+      "category": "other",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-07",
+      "title": "34 & 56 Football Championship @ Roncalli High School",
+      "category": "sport",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-08",
+      "title": "Cadet Football Championship @ Roncalli High School",
+      "category": "sport",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-14",
+      "title": "CYO Chess City Tournament",
+      "category": "other",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-15",
+      "title": "Girls Volleyball City Championships",
+      "category": "sport",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-21",
+      "title": "Boys Grade School Basketball Begins",
+      "category": "sport",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-26",
+      "title": "Thanksgiving",
+      "category": "other",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Girls & Boys High School Basketball Begins",
+      "category": "sport",
+      "source": "page 7"
+    },
+    {
+      "date": "2026-12-06",
+      "title": "Girls Grade School Basketball Teams & Gym Dates Due",
+      "category": "sport",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-08",
+      "title": "Holy Day No CYO Sports",
+      "category": "blackout",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-21",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-22",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-23",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-24",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-25",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-28",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-29",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-30",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2026-12-31",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 8"
+    },
+    {
+      "date": "2027-01-01",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-03",
+      "title": "Boys Wrestling Teams & Gym Dates Due",
+      "category": "sport",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-07",
+      "title": "CYO Music Contest Forms Due",
+      "category": "other",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-11",
+      "title": "Boys Basketball Tournament Begins",
+      "category": "sport",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-11",
+      "title": "CYO Board of Directors Meeting - 12pm",
+      "category": "other",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-18",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-18",
+      "title": "Martin Luther King Jr. Day",
+      "category": "other",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-19",
+      "title": "Girls Grade School Basketball Begins",
+      "category": "sport",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-20",
+      "title": "Boys Wrestling Coaches Meeting @ CYO Center-5:30pm",
+      "category": "sport",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-22",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-23",
+      "title": "CYO Bingo Night",
+      "category": "other",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-01-24",
+      "title": "Boys Grade School Volleyball Teams & Gym Dates Due",
+      "category": "sport",
+      "source": "page 9"
+    },
+    {
+      "date": "2027-02-01",
+      "title": "Boys Wrestling Begins",
+      "category": "sport",
+      "source": "page 10"
+    },
+    {
+      "date": "2027-02-06",
+      "title": "Fr. Thomas J. Murphy Music Contest @ Bishop Chatard High School",
+      "category": "other",
+      "source": "page 10"
+    },
+    {
+      "date": "2027-02-10",
+      "title": "Ash Wednesday No CYO Sports",
+      "category": "blackout",
+      "source": "page 10"
+    },
+    {
+      "date": "2027-02-14",
+      "title": "Fr. Thomas J. Murphy Music Recital @ Marian University",
+      "category": "other",
+      "source": "page 10"
+    },
+    {
+      "date": "2027-02-15",
+      "title": "President\u2019s Day CYO Office Closed",
+      "category": "other",
+      "source": "page 10"
+    },
+    {
+      "date": "2027-02-20",
+      "title": "Boys Grade School Volleyball Begins",
+      "category": "sport",
+      "source": "page 10"
+    },
+    {
+      "date": "2027-02-21",
+      "title": "Spring Sports Due (Kickball, Softball, Baseball, Co-Ed Soccer, Track & Field)",
+      "category": "sport",
+      "source": "page 10"
+    },
+    {
+      "date": "2027-03-01",
+      "title": "CYO Awards Form Due",
+      "category": "other",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-01",
+      "title": "CYO Board of Directors Meeting - 12pm",
+      "category": "other",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-09",
+      "title": "Boys Wrestling Seeding Meeting",
+      "category": "sport",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-14",
+      "title": "CYO Boys Wrestling City Tournament",
+      "category": "sport",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-25",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-25",
+      "title": "Holy Thursday",
+      "category": "other",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-25",
+      "title": "No CYO Sports",
+      "category": "blackout",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-26",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-26",
+      "title": "Good Friday",
+      "category": "other",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-26",
+      "title": "No CYO Sports",
+      "category": "blackout",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-27",
+      "title": "Holy Saturday",
+      "category": "other",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-27",
+      "title": "No CYO Sports",
+      "category": "blackout",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-28",
+      "title": "Easter No CYO Sports",
+      "category": "blackout",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-29",
+      "title": "Easter Monday CYO Office Closed",
+      "category": "other",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-29",
+      "title": "No CYO Sports",
+      "category": "blackout",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-30",
+      "title": "NCEA Conference No CYO Sports",
+      "category": "blackout",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-03-31",
+      "title": "NCEA Conference No CYO Sports",
+      "category": "blackout",
+      "source": "page 11"
+    },
+    {
+      "date": "2027-04-01",
+      "title": "NCEA Conference No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-02",
+      "title": "NCEA Conference No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-03",
+      "title": "Spring Break - No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-04",
+      "title": "Spring Break - No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-05",
+      "title": "Spring Break - No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-06",
+      "title": "Spring Break - No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-07",
+      "title": "Spring Break - No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-08",
+      "title": "Spring Break - No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-09",
+      "title": "Spring Break - No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-10",
+      "title": "Spring Break - No CYO Sports",
+      "category": "blackout",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-11",
+      "title": "Track & Field Begins",
+      "category": "sport",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-04-12",
+      "title": "Kickball, Softball, Baseball, & Co-Ed Soccer Begin",
+      "category": "sport",
+      "source": "page 12"
+    },
+    {
+      "date": "2027-05-03",
+      "title": "CYO Board of Directors Meeting - 12pm",
+      "category": "other",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-06",
+      "title": "Holy Day",
+      "category": "other",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-06",
+      "title": "No CYO Sports",
+      "category": "blackout",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-14",
+      "title": "CYO Track & Field Championships @ Guerin Catholic High School",
+      "category": "sport",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-15",
+      "title": "CYO Track & Field Championships @ Guerin Catholic High School",
+      "category": "sport",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-18",
+      "title": "CYO Volunteer Awards @ Saints Peter & Paul Cathedral",
+      "category": "other",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-19",
+      "title": "CYO Track & Field Championships @ Marian University",
+      "category": "sport",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-28",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-31",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-05-31",
+      "title": "Memorial Day",
+      "category": "other",
+      "source": "page 13"
+    },
+    {
+      "date": "2027-07-01",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 15"
+    },
+    {
+      "date": "2027-07-02",
+      "title": "CYO Office Closed",
+      "category": "other",
+      "source": "page 15"
+    },
+    {
+      "date": "2027-07-04",
+      "title": "Independence Day",
+      "category": "other",
+      "source": "page 15"
+    },
+    {
+      "date": "2027-07-18",
+      "title": "Fall Sports Teams Due (Kickball, Football, & Cross Country)",
+      "category": "sport",
+      "source": "page 15"
+    }
+  ]
+}

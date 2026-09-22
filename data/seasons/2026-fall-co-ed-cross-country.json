@@ -1,0 +1,163 @@
+{
+  "season": "2026 Fall CO-ED Cross Country",
+  "scrapedAt": "2026-09-21T21:05:13.195Z",
+  "teams": [
+    {
+      "id": "2026-fall-co-ed-cross-country--cadet-56-34--0--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Fall CO-ED Cross Country",
+      "seasonId": "1895",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "Cadet/56/34",
+      "division": "0",
+      "coaches": [
+        "Jenny McNulty"
+      ],
+      "gameIds": []
+    }
+  ],
+  "games": [],
+  "standings": [
+    {
+      "season": "2026 Fall CO-ED Cross Country",
+      "league": "Cadet/56/34",
+      "rows": [
+        {
+          "division": "",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Simon-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Barnabas-Maroon",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Jude-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Of Grace-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Luke-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Susanna-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Pius X-Purple",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Card. Ritter Jr. H-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Immac. Heart-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Philip-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Charles-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Mount Carmel-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    }
+  ]
+}

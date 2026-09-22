@@ -1,0 +1,854 @@
+{
+  "season": "2026 Fall Boys Football",
+  "scrapedAt": "2026-09-22T19:39:24.108Z",
+  "teams": [
+    {
+      "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
+      "org": "esc",
+      "orgName": "East Side Crusaders",
+      "season": "2026 Fall Boys Football",
+      "seasonId": "1893",
+      "name": "East Side Crusaders-Red",
+      "parish": "East Side Crusaders",
+      "league": "56",
+      "division": "A",
+      "coaches": [],
+      "gameIds": [
+        "0e3e1455740c",
+        "d404f0465b34",
+        "5a617f8c4f09",
+        "3aa4c1e3b6e4",
+        "2c20ddd6b69a",
+        "b485caeba946"
+      ]
+    },
+    {
+      "id": "2026-fall-boys-football--34--aaa--east-side-crusaders-red",
+      "org": "esc",
+      "orgName": "East Side Crusaders",
+      "season": "2026 Fall Boys Football",
+      "seasonId": "1893",
+      "name": "East Side Crusaders-Red",
+      "parish": "East Side Crusaders",
+      "league": "34",
+      "division": "AAA",
+      "coaches": [],
+      "gameIds": [
+        "7f5db8be3132",
+        "957fa6ccc051",
+        "aaf1daeb1c29",
+        "998fea24ff06",
+        "8ceca7227305",
+        "5954d45fac03"
+      ]
+    },
+    {
+      "id": "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red",
+      "org": "esc",
+      "orgName": "East Side Crusaders",
+      "season": "2026 Fall Boys Football",
+      "seasonId": "1893",
+      "name": "East Side Crusaders-Red",
+      "parish": "East Side Crusaders",
+      "league": "Cadet",
+      "division": "AAA",
+      "coaches": [
+        "Nolan Ayres"
+      ],
+      "gameIds": [
+        "a0852d0172ee",
+        "069bd44e0896",
+        "e6434a9d3e0a",
+        "811269e4678f",
+        "7e0772f25a4a",
+        "d28ee3eb0b88"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-09-12",
+      "startTime": "09:00",
+      "endTime": "10:15",
+      "venue": "Central Catholic Fb",
+      "status": "Played",
+      "league": "34",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": 18
+      },
+      "team2": {
+        "name": "South Central-Black",
+        "score": 6
+      },
+      "id": "7f5db8be3132",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-09-13",
+      "startTime": "13:00",
+      "endTime": "14:15",
+      "venue": "Scecina HS Fb",
+      "status": "Played",
+      "league": "56",
+      "division": "A",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": 14
+      },
+      "team2": {
+        "name": "St. Barnabas-Gold",
+        "score": 0
+      },
+      "id": "0e3e1455740c",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--56--a--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-09-13",
+      "startTime": "14:15",
+      "endTime": "15:45",
+      "venue": "Scecina HS Fb",
+      "status": "Played",
+      "league": "Cadet",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": 22
+      },
+      "team2": {
+        "name": "St. Pius X-Purple",
+        "score": 20
+      },
+      "id": "a0852d0172ee",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-09-19",
+      "startTime": "09:00",
+      "endTime": "10:15",
+      "venue": "OL Grace-FB",
+      "status": "Played",
+      "league": "34",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": 22
+      },
+      "team2": {
+        "name": "OL Of Grace-Gold",
+        "score": 12
+      },
+      "id": "957fa6ccc051",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-09-20",
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "venue": "Roncalli HS-FB",
+      "status": "Played",
+      "league": "Cadet",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": 8
+      },
+      "team2": {
+        "name": "St. Jude-Red",
+        "score": 0
+      },
+      "id": "069bd44e0896",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-09-20",
+      "startTime": "15:45",
+      "endTime": "17:00",
+      "venue": "Cathedral HS FB",
+      "status": "Played",
+      "league": "56",
+      "division": "A",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": 7
+      },
+      "team2": {
+        "name": "St. Maria Gor.-Navy",
+        "score": 0
+      },
+      "id": "d404f0465b34",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--56--a--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-09-26",
+      "startTime": "10:15",
+      "endTime": "11:30",
+      "venue": "Central Catholic Fb",
+      "status": "Paired",
+      "league": "34",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "Johnson Co. Catholic-White",
+        "score": null
+      },
+      "id": "aaf1daeb1c29",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-09-27",
+      "startTime": "14:15",
+      "endTime": "15:30",
+      "venue": "OL Mount Carmel FB",
+      "status": "Paired",
+      "league": "56",
+      "division": "A",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "Mount Carmel-Gold",
+        "score": null
+      },
+      "id": "5a617f8c4f09",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--56--a--east-side-crusaders-red"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-09-27",
+      "startTime": "14:15",
+      "endTime": "15:45",
+      "venue": "St. Matthew Fb",
+      "status": "Paired",
+      "league": "Cadet",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Luke-Royal",
+        "score": null
+      },
+      "id": "e6434a9d3e0a",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-03",
+      "startTime": "09:00",
+      "endTime": "10:15",
+      "venue": "St. Maria Goretti Fb",
+      "status": "Paired",
+      "league": "34",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Maria Gor.-Navy",
+        "score": null
+      },
+      "id": "998fea24ff06",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-10-04",
+      "startTime": "13:00",
+      "endTime": "14:15",
+      "venue": "Scecina HS Fb",
+      "status": "Paired",
+      "league": "56",
+      "division": "A",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Matthew-White",
+        "score": null
+      },
+      "id": "3aa4c1e3b6e4",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--56--a--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-04",
+      "startTime": "14:15",
+      "endTime": "15:45",
+      "venue": "Scecina HS Fb",
+      "status": "Paired",
+      "league": "Cadet",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "Mount Carmel-Gold",
+        "score": null
+      },
+      "id": "811269e4678f",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-07",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "St. Matthew Fb",
+      "status": "Paired",
+      "league": "56",
+      "division": "A",
+      "team1": {
+        "name": "Immac. Heart-White",
+        "score": null
+      },
+      "team2": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "id": "2c20ddd6b69a",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--56--a--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-10",
+      "startTime": "10:15",
+      "endTime": "11:30",
+      "venue": "St. Matthew Fb",
+      "status": "Paired",
+      "league": "34",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "Immac. Heart-Blue",
+        "score": null
+      },
+      "id": "8ceca7227305",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-11",
+      "startTime": "14:15",
+      "endTime": "15:30",
+      "venue": "Roncalli HS-FB",
+      "status": "Paired",
+      "league": "56",
+      "division": "A",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "Nativity-Red",
+        "score": null
+      },
+      "id": "b485caeba946",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--56--a--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-11",
+      "startTime": "14:15",
+      "endTime": "15:45",
+      "venue": "Beech Grove Middle School FB",
+      "status": "Paired",
+      "league": "Cadet",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "South Central-Blue",
+        "score": null
+      },
+      "id": "7e0772f25a4a",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-17",
+      "startTime": "09:00",
+      "endTime": "10:15",
+      "venue": "Central Catholic Fb",
+      "status": "Paired",
+      "league": "34",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "South Central-Black",
+        "score": null
+      },
+      "id": "5954d45fac03",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-18",
+      "startTime": "14:15",
+      "endTime": "15:45",
+      "venue": "Bishop Chatard HS Fb",
+      "status": "Paired",
+      "league": "Cadet",
+      "division": "AAA",
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Pius X-Purple",
+        "score": null
+      },
+      "id": "d28ee3eb0b88",
+      "season": "2026 Fall Boys Football",
+      "teamIds": [
+        "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    }
+  ],
+  "standings": [
+    {
+      "season": "2026 Fall Boys Football",
+      "league": "56",
+      "rows": [
+        {
+          "division": "A",
+          "team": "St. Matthew-White",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "East Side Crusaders-Red",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "Nativity-Red",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "Immac. Heart-White",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "Mount Carmel-Gold",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "St. Barnabas-Gold",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Barnabas-Maroon",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Pius X-Purple",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Pius X-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "OL Of Grace-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Christ the King-Black",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Luke-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Johnson Co. Catholic-White",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Jude-Red",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Simon-Royal",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Mount Carmel-Navy",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "South Central-Gold",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Fall Boys Football",
+      "league": "34",
+      "rows": [
+        {
+          "division": "AA",
+          "team": "South Central-Blue",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Matthew-White",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Barnabas-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Maria Gor.-Red",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Christ the King-Black",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Christ the King-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "South Central-Gold",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Immac. Heart-Blue",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "East Side Crusaders-Red",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Johnson Co. Catholic-White",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "South Central-Black",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "OL Of Grace-Gold",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Fall Boys Football",
+      "league": "Cadet",
+      "rows": [
+        {
+          "division": "AA",
+          "team": "St. Simon-Royal",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Christ the King-Black",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Barnabas-Maroon",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "OL Of Grace-Gold",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Mount Carmel-Navy",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Johnson Co. Catholic-Navy",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "East Side Crusaders-Red",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Mount Carmel-Gold",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "South Central-Blue",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Pius X-Purple",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Jude-Red",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Luke-Royal",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        }
+      ]
+    }
+  ]
+}

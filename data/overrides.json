@@ -1,0 +1,34 @@
+{
+  "parentSportCostEstimates": {
+    "Kickball (fall)": "",
+    "Football": "",
+    "Cross country": "",
+    "Girls volleyball": "",
+    "Boys grade school basketball": "",
+    "Girls grade school basketball": "",
+    "Boys wrestling": "",
+    "Boys volleyball": "",
+    "Track & field": "",
+    "Kickball (spring)": "",
+    "Co-ed soccer (spring)": ""
+  },
+  "coachReplace": {
+    "2026 Spring Boys Volleyball": {
+      "Allyson Bollenbacher": "-"
+    }
+  },
+  "coachesByTeamId": {
+    "2026-fall-girls-kickball--56-a-fall--2--ol-lourdes-gold": [
+      "Matthew Cowden"
+    ],
+    "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue": [
+      "Colleen Moran"
+    ],
+    "2026-fall-girls-volleyball--56-a-girls--2n--ol-lourdes-blue": [
+      "Jessica Naber"
+    ],
+    "2026-fall-girls-volleyball--56-b-girls--2n--ol-lourdes-blue": [
+      "Carrie Anglemyer"
+    ]
+  }
+}

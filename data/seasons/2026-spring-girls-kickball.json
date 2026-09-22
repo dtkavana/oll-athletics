@@ -1,0 +1,864 @@
+{
+  "season": "2026 Spring Girls Kickball",
+  "scrapedAt": "2026-09-21T22:44:34.370Z",
+  "teams": [
+    {
+      "id": "2026-spring-girls-kickball--cadet-spring-kickball--1--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Spring Girls Kickball",
+      "seasonId": "1840",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "Cadet Spring Kickball",
+      "division": "1",
+      "coaches": [
+        "Sarah Harbor"
+      ],
+      "gameIds": [
+        "370d814d0907",
+        "a7bc1d4542f4",
+        "2bdd3b75eaef",
+        "494097966889",
+        "1ad2f9c0bd48",
+        "c9a12678e854",
+        "2e3e348ef506"
+      ]
+    },
+    {
+      "id": "2026-spring-girls-kickball--3-4-mixed-spring--2--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Spring Girls Kickball",
+      "seasonId": "1840",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "3/4 Mixed Spring",
+      "division": "2",
+      "coaches": [
+        "Catherine Sponsel"
+      ],
+      "gameIds": [
+        "182382def7bb",
+        "c2329bf568b3",
+        "526587b218ef",
+        "09f7d2744017",
+        "89afdb018fa3",
+        "702b2e0e7ef3",
+        "acca088b78a0"
+      ]
+    },
+    {
+      "id": "2026-spring-girls-kickball--56-spring-kickball--2--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Spring Girls Kickball",
+      "seasonId": "1840",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "56 Spring Kickball",
+      "division": "2",
+      "coaches": [
+        "Christina Bledsoe"
+      ],
+      "gameIds": [
+        "e398cec20983",
+        "bc65cde54849",
+        "0ca053c5afea",
+        "34a5c86ea978",
+        "c2cfca1ea2e3",
+        "0ab4dd5589c5"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-04-01",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "St. Barnabas KB",
+      "status": "Played",
+      "league": "56 Spring Kickball",
+      "division": "2",
+      "team1": {
+        "name": "St. Barnabas-Gold",
+        "score": 7
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 32
+      },
+      "id": "e398cec20983",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--56-spring-kickball--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-07",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Spring",
+      "division": "2",
+      "team1": {
+        "name": "Little Flower-Gold",
+        "score": 26
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 14
+      },
+      "id": "182382def7bb",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--3-4-mixed-spring--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-07",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "Nativity Kb (Back)",
+      "status": "Played",
+      "league": "Cadet Spring Kickball",
+      "division": "1",
+      "team1": {
+        "name": "Nativity-Red",
+        "score": 21
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 15
+      },
+      "id": "370d814d0907",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--cadet-spring-kickball--1--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-07",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "56 Spring Kickball",
+      "division": "2",
+      "team1": {
+        "name": "Nativity-White",
+        "score": 13
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 7
+      },
+      "id": "bc65cde54849",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--56-spring-kickball--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-08",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Paired",
+      "league": "3/4 Mixed Spring",
+      "division": "2",
+      "team1": {
+        "name": "St. Mark-Black",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "c2329bf568b3",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--3-4-mixed-spring--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-09",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Jude SE #1",
+      "status": "Played",
+      "league": "Cadet Spring Kickball",
+      "division": "1",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 38
+      },
+      "team2": {
+        "name": "St. Jude-Red",
+        "score": 18
+      },
+      "id": "a7bc1d4542f4",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--cadet-spring-kickball--1--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-13",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "OL Lourdes Kb",
+      "status": "Paired",
+      "league": "3/4 Mixed Spring",
+      "division": "2",
+      "team1": {
+        "name": "Holy Spirit, Indy-Green",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "526587b218ef",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--3-4-mixed-spring--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-13",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "Cadet Spring Kickball",
+      "division": "1",
+      "team1": {
+        "name": "St. Malachy-Green",
+        "score": 44
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 32
+      },
+      "id": "2bdd3b75eaef",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--cadet-spring-kickball--1--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-15",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "56 Spring Kickball",
+      "division": "2",
+      "team1": {
+        "name": "Little Flower-Gold",
+        "score": 17
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 29
+      },
+      "id": "0ca053c5afea",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--56-spring-kickball--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-16",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "Ss. Frances & Clare-KB",
+      "status": "Played",
+      "league": "3/4 Mixed Spring",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 1
+      },
+      "team2": {
+        "name": "Ss. Fran. & Clare-Navy",
+        "score": 42
+      },
+      "id": "09f7d2744017",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--3-4-mixed-spring--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-20",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "56 Spring Kickball",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 24
+      },
+      "team2": {
+        "name": "Mount Carmel-Blue",
+        "score": 23
+      },
+      "id": "34a5c86ea978",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--56-spring-kickball--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-20",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "Cadet Spring Kickball",
+      "division": "1",
+      "team1": {
+        "name": "Nativity-Red",
+        "score": 39
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 21
+      },
+      "id": "494097966889",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--cadet-spring-kickball--1--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-22",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "Cadet Spring Kickball",
+      "division": "1",
+      "team1": {
+        "name": "Little Flower-Gold",
+        "score": 25
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 16
+      },
+      "id": "1ad2f9c0bd48",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--cadet-spring-kickball--1--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-23",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "Little Flower Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Spring",
+      "division": "2",
+      "team1": {
+        "name": "Little Flower-Gold",
+        "score": 23
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 4
+      },
+      "id": "89afdb018fa3",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--3-4-mixed-spring--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-23",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "St. Malachy Kb",
+      "status": "Played",
+      "league": "56 Spring Kickball",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 31
+      },
+      "team2": {
+        "name": "St. Malachy-White",
+        "score": 2
+      },
+      "id": "c2cfca1ea2e3",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--56-spring-kickball--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-04-24",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "St. Pius #1 Kb",
+      "status": "Paired",
+      "league": "56 Spring Kickball",
+      "division": "2",
+      "team1": {
+        "name": "St. Pius X-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "0ab4dd5589c5",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--56-spring-kickball--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-27",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "St. Malachy Kb",
+      "status": "Paired",
+      "league": "Cadet Spring Kickball",
+      "division": "1",
+      "team1": {
+        "name": "St. Malachy-Green",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "c9a12678e854",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--cadet-spring-kickball--1--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-28",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "venue": "Little Flower Kb",
+      "status": "Played",
+      "league": "Cadet Spring Kickball",
+      "division": "1",
+      "team1": {
+        "name": "Little Flower-Gold",
+        "score": 27
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 8
+      },
+      "id": "2e3e348ef506",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--cadet-spring-kickball--1--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-29",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "OL Lourdes Kb",
+      "status": "Paired",
+      "league": "3/4 Mixed Spring",
+      "division": "2",
+      "team1": {
+        "name": "St. Mark-Black",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "702b2e0e7ef3",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--3-4-mixed-spring--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-05-01",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "Holy Spirit Kb",
+      "status": "Paired",
+      "league": "3/4 Mixed Spring",
+      "division": "2",
+      "team1": {
+        "name": "Holy Spirit, Indy-Green",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "acca088b78a0",
+      "season": "2026 Spring Girls Kickball",
+      "teamIds": [
+        "2026-spring-girls-kickball--3-4-mixed-spring--2--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    }
+  ],
+  "standings": [
+    {
+      "season": "2026 Spring Girls Kickball",
+      "league": "Cadet Spring Kickball",
+      "rows": [
+        {
+          "division": "1",
+          "team": "Nativity-Red",
+          "wins": 7,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Little Flower-Gold",
+          "wins": 7,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Malachy-Green",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "OL Lourdes-Blue",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Jude-Red",
+          "wins": 0,
+          "losses": 7,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Lawrence-Red",
+          "wins": 7,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Joan of Arc-Gold",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Rose-Blue",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Susanna-Blue",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Malachy-White",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Spring Girls Kickball",
+      "league": "3/4 Mixed Spring",
+      "rows": [
+        {
+          "division": "1",
+          "team": "St. Luke-Royal",
+          "wins": 8,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Christ the King-Black",
+          "wins": 4,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Luke-Gold",
+          "wins": 3,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Joan of Arc-Brown",
+          "wins": 3,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Mount Carmel-Blue",
+          "wins": 0,
+          "losses": 7,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Little Flower-Gold",
+          "wins": 5,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Mark-Black",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Spring Girls Kickball",
+      "league": "56 Spring Kickball",
+      "rows": [
+        {
+          "division": "1",
+          "team": "St. Pius X-Purple",
+          "wins": 6,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 6,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Malachy-Green",
+          "wins": 5,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Nativity-Red",
+          "wins": 2,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 1,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Simon-Royal",
+          "wins": 1,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Nativity-White",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Lourdes-Blue",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Little Flower-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Pius X-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Mount Carmel-Blue",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Malachy-White",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Barnabas-Gold",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "OL Greenwood-Gold",
+          "wins": 6,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Joan of Arc-Blue",
+          "wins": 6,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Roch-Blue",
+          "wins": 5,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "Holy Spirit, Indy-Yellow",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Monica-Blue",
+          "wins": 1,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Christopher-Red",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    }
+  ]
+}

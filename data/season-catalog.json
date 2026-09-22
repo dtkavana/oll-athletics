@@ -1,0 +1,329 @@
+{
+  "_note": "Historical CYO season names and ids recovered from archived copies of the season dropdown (web.archive.org). REFERENCE ONLY - contains no game data. The live site refuses any season id not in its current dropdown, so these cannot be re-scraped; they exist to identify a season precisely when asking the CYO office to re-publish or export it. If CYO ever re-lists one, the daily scrape picks it up and archives it with no code change.",
+  "_recovered": "2026-09-21",
+  "seasons": {
+    "1125": {
+      "name": "2019 Fall Boys Football",
+      "seen": [
+        "20191031"
+      ]
+    },
+    "1127": {
+      "name": "2019 Fall Girls Basketball",
+      "seen": [
+        "20191031"
+      ]
+    },
+    "1128": {
+      "name": "2019 Fall Girls Kickball",
+      "seen": [
+        "20191031"
+      ]
+    },
+    "1130": {
+      "name": "2019-2020 Boys & High School Basketball",
+      "seen": [
+        "20191230",
+        "20200129"
+      ]
+    },
+    "1136": {
+      "name": "2020 Winter Boys & Girls Volleyball",
+      "seen": [
+        "20200129"
+      ]
+    },
+    "1390": {
+      "name": "2021 Fall Boys Football",
+      "seen": [
+        "20211102"
+      ]
+    },
+    "1391": {
+      "name": "2021 Fall Boys & Girls High School Volleyball",
+      "seen": [
+        "20211102"
+      ]
+    },
+    "1392": {
+      "name": "2021 Fall Girls Basketball",
+      "seen": [
+        "20211102"
+      ]
+    },
+    "1394": {
+      "name": "2021 Fall Girls Kickball",
+      "seen": [
+        "20211102"
+      ]
+    },
+    "1526": {
+      "name": "2022 Fall Girls Basketball",
+      "seen": [
+        "20221127"
+      ]
+    },
+    "1528": {
+      "name": "2022-2023 Boys & High School Basketball",
+      "seen": [
+        "20221127"
+      ]
+    },
+    "1537": {
+      "name": "2022 Fall Boys & Girls High School Volleyball",
+      "seen": [
+        "20221127"
+      ]
+    },
+    "1639": {
+      "name": "2024 Winter Girls Basketball",
+      "seen": [
+        "20240422",
+        "20240804"
+      ]
+    },
+    "1640": {
+      "name": "2024 Spring Boys Volleyball",
+      "seen": [
+        "20240422",
+        "20240804"
+      ]
+    },
+    "1641": {
+      "name": "2024 Spring Boys Baseball",
+      "seen": [
+        "20240422",
+        "20240804"
+      ]
+    },
+    "1642": {
+      "name": "2024 Spring CO-ED Soccer",
+      "seen": [
+        "20240422",
+        "20240804"
+      ]
+    },
+    "1644": {
+      "name": "2024 Spring Girls Kickball",
+      "seen": [
+        "20240422",
+        "20240804"
+      ]
+    },
+    "1645": {
+      "name": "2024 Spring Girls Softball",
+      "seen": [
+        "20240422",
+        "20240804"
+      ]
+    },
+    "1739": {
+      "name": "2024 Fall Girls Kickball",
+      "seen": [
+        "20240804"
+      ]
+    },
+    "1743": {
+      "name": "2025 Winter Girls Basketball",
+      "seen": [
+        "20250207",
+        "20250315"
+      ]
+    },
+    "1744": {
+      "name": "2024-2025 GS Boys & HS Boys & Girls Basketball",
+      "seen": [
+        "20250207"
+      ]
+    },
+    "1746": {
+      "name": "2025 Spring Boys Volleyball",
+      "seen": [
+        "20250315",
+        "20250427"
+      ]
+    },
+    "1747": {
+      "name": "2025 Spring Boys Baseball",
+      "seen": [
+        "20250315",
+        "20250427"
+      ]
+    },
+    "1748": {
+      "name": "2025 Spring CO-ED Soccer",
+      "seen": [
+        "20250315",
+        "20250427"
+      ]
+    },
+    "1750": {
+      "name": "2025 Spring Girls Kickball",
+      "seen": [
+        "20250315",
+        "20250427"
+      ]
+    },
+    "1751": {
+      "name": "2025 Spring Girls Softball",
+      "seen": [
+        "20250315",
+        "20250427"
+      ]
+    },
+    "1827": {
+      "name": "2025 Fall Boys Football",
+      "seen": [
+        "20251014",
+        "20251108"
+      ]
+    },
+    "1831": {
+      "name": "2025 Fall Girls Volleyball",
+      "seen": [
+        "20251014",
+        "20251108"
+      ]
+    },
+    "1832": {
+      "name": "2025-2026 Boys Basketball",
+      "seen": [
+        "20251108",
+        "20260218"
+      ]
+    },
+    "1833": {
+      "name": "2025-2026 Boys & Girls High School Basketball",
+      "seen": [
+        "20251108",
+        "20260218"
+      ]
+    },
+    "1834": {
+      "name": "2026 Winter Girls Basketball",
+      "seen": [
+        "20260218"
+      ]
+    },
+    "1836": {
+      "name": "2026 Spring Boys Volleyball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1837": {
+      "name": "2026 Spring Boys Baseball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1838": {
+      "name": "2026 Spring CO-ED Soccer",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1840": {
+      "name": "2026 Spring Girls Kickball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1841": {
+      "name": "2026 Spring Girls Softball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1893": {
+      "name": "2026 Fall Boys Football",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1894": {
+      "name": "2026 Fall Girls Kickball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1895": {
+      "name": "2026 Fall CO-ED Cross Country",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1896": {
+      "name": "2026 Fall Boys & Girls High School Volleyball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1897": {
+      "name": "2026 Fall Girls Volleyball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1898": {
+      "name": "2026-2027 Boys Basketball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1899": {
+      "name": "2026-2027 Boys & Girls High School Basketball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1900": {
+      "name": "2027 Winter Girls Basketball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1901": {
+      "name": "2027 Winter Boys Wrestling",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1902": {
+      "name": "2027 Boys Volleyball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1903": {
+      "name": "2027 Spring Boys Baseball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1904": {
+      "name": "2027 Spring CO-ED Soccer",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1905": {
+      "name": "2027 Spring CO-ED Track",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1906": {
+      "name": "2027 Spring Girls Kickball",
+      "seen": [
+        "20260609"
+      ]
+    },
+    "1907": {
+      "name": "2027 Spring Girls Softball",
+      "seen": [
+        "20260609"
+      ]
+    }
+  }
+}

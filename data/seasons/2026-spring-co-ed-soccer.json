@@ -1,0 +1,734 @@
+{
+  "season": "2026 Spring CO-ED Soccer",
+  "scrapedAt": "2026-09-21T22:44:34.370Z",
+  "teams": [
+    {
+      "id": "2026-spring-co-ed-soccer--56--3--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Spring CO-ED Soccer",
+      "seasonId": "1838",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "56",
+      "division": "3",
+      "coaches": [
+        "Christopher Black"
+      ],
+      "gameIds": [
+        "a6266402a3b2",
+        "ed80f9d7d977",
+        "dba1bff47439",
+        "938a4e104c21",
+        "aa0faecfe3cf",
+        "2e8c59bbb9ff"
+      ]
+    },
+    {
+      "id": "2026-spring-co-ed-soccer--cadet--3--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Spring CO-ED Soccer",
+      "seasonId": "1838",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "Cadet",
+      "division": "3",
+      "coaches": [
+        "Christopher Black"
+      ],
+      "gameIds": [
+        "c448b1257ed1",
+        "422efac7cff8",
+        "7ad3cdc3af97",
+        "5d0d20562617",
+        "f9f3ca49cdde",
+        "908e67e5f266"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-03-31",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "Providence Cristo Rey",
+      "status": "Played",
+      "league": "56",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 5
+      },
+      "team2": {
+        "name": "St. Michael, Indy-Red",
+        "score": 4
+      },
+      "id": "a6266402a3b2",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--56--3--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-04-08",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "Christian Park",
+      "status": "Played",
+      "league": "Cadet",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "team2": {
+        "name": "St. Michael, Indy-Red",
+        "score": 2
+      },
+      "id": "c448b1257ed1",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--cadet--3--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-04-08",
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "venue": "Christian Park",
+      "status": "Played",
+      "league": "56",
+      "division": "3",
+      "team1": {
+        "name": "Holy Spirit, Indy-Yellow",
+        "score": 2
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 2
+      },
+      "id": "ed80f9d7d977",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--56--3--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-04-14",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "Providence Cristo Rey",
+      "status": "Played",
+      "league": "Cadet",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 1
+      },
+      "team2": {
+        "name": "St. Monica-Red",
+        "score": 0
+      },
+      "id": "422efac7cff8",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--cadet--3--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-04-15",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "Christian Park",
+      "status": "Played",
+      "league": "Cadet",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 6
+      },
+      "team2": {
+        "name": "St. Philip-Gold",
+        "score": 2
+      },
+      "id": "7ad3cdc3af97",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--cadet--3--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-04-15",
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "venue": "Christian Park",
+      "status": "Played",
+      "league": "56",
+      "division": "3",
+      "team1": {
+        "name": "OL Greenwood-Green",
+        "score": 1
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 6
+      },
+      "id": "dba1bff47439",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--56--3--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-04-21",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "St. Malachy Soccer",
+      "status": "Played",
+      "league": "56",
+      "division": "3",
+      "team1": {
+        "name": "St. Malachy-Green",
+        "score": 5
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 1
+      },
+      "id": "938a4e104c21",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--56--3--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-04-29",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "Christian Park",
+      "status": "Played",
+      "league": "56",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 2
+      },
+      "team2": {
+        "name": "St. Michael, Indy-Red",
+        "score": 1
+      },
+      "id": "aa0faecfe3cf",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--56--3--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-04-30",
+      "startTime": "18:45",
+      "endTime": "20:00",
+      "venue": "St. Malachy Soccer",
+      "status": "Played",
+      "league": "Cadet",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 4
+      },
+      "team2": {
+        "name": "St. Malachy-Green",
+        "score": 0
+      },
+      "id": "5d0d20562617",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--cadet--3--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-05-04",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "St. Barnabas Soccer",
+      "status": "Played",
+      "league": "56",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 8
+      },
+      "team2": {
+        "name": "St. Barnabas-Gold",
+        "score": 0
+      },
+      "id": "2e8c59bbb9ff",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--56--3--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-05-05",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "St. Luke Soccer",
+      "status": "Played",
+      "league": "Cadet",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 4
+      },
+      "team2": {
+        "name": "St. Luke-Gold",
+        "score": 0
+      },
+      "id": "f9f3ca49cdde",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--cadet--3--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-05-06",
+      "startTime": "17:30",
+      "endTime": "18:45",
+      "venue": "St. Barnabas Soccer",
+      "status": "Played",
+      "league": "Cadet",
+      "division": "3",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 6
+      },
+      "team2": {
+        "name": "St. Barnabas-Gold",
+        "score": 0
+      },
+      "id": "908e67e5f266",
+      "season": "2026 Spring CO-ED Soccer",
+      "teamIds": [
+        "2026-spring-co-ed-soccer--cadet--3--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    }
+  ],
+  "standings": [
+    {
+      "season": "2026 Spring CO-ED Soccer",
+      "league": "56",
+      "rows": [
+        {
+          "division": "1",
+          "team": "Immac. Heart-Blue",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Mount Carmel-Gold",
+          "wins": 5,
+          "losses": 0,
+          "draws": 1
+        },
+        {
+          "division": "1",
+          "team": "St. Pius X-Purple",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Luke-Royal",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "division": "1",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Barnabas-Maroon",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Of Grace-Gold",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Jude-Gold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Mark-Black",
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "division": "2",
+          "team": "St. Matthew-Red",
+          "wins": 1,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "division": "2",
+          "team": "St. Pius X-Gold",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Malachy-Green",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "OL Lourdes-Blue",
+          "wins": 4,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "division": "3",
+          "team": "OL Greenwood-Green",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "Holy Spirit, Indy-Yellow",
+          "wins": 3,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "division": "3",
+          "team": "St. Michael, Indy-Red",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Barnabas-Gold",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "St. Christopher-Red",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "St. Monica-Red",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "St. Anthony-Red",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "St. Michael, Grnfld.-Blue",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "St. Philip-Green",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "St. Joan of Arc-Red",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Spring CO-ED Soccer",
+      "league": "Cadet",
+      "rows": [
+        {
+          "division": "1",
+          "team": "St. Pius X-Purple",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Immac. Heart-Blue",
+          "wins": 4,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "division": "1",
+          "team": "St. Mark-Black",
+          "wins": 4,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "division": "1",
+          "team": "OL Of Grace-Gold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "division": "1",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "division": "1",
+          "team": "St. Simon-Royal",
+          "wins": 1,
+          "losses": 3,
+          "draws": 2
+        },
+        {
+          "division": "1",
+          "team": "Mount Carmel-Blue",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Jude-Red",
+          "wins": 5,
+          "losses": 0,
+          "draws": 1
+        },
+        {
+          "division": "2",
+          "team": "St. Maria Gor.-Red",
+          "wins": 4,
+          "losses": 0,
+          "draws": 2
+        },
+        {
+          "division": "2",
+          "team": "St. Barnabas-Maroon",
+          "wins": 4,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "division": "2",
+          "team": "St. Mark-Gold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "division": "2",
+          "team": "St. Pius X-Gold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "division": "2",
+          "team": "St. Luke-Royal",
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "division": "2",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 1
+        },
+        {
+          "division": "2",
+          "team": "Mount Carmel-Gold",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "OL Lourdes-Blue",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Michael, Indy-Red",
+          "wins": 4,
+          "losses": 0,
+          "draws": 1
+        },
+        {
+          "division": "3",
+          "team": "St. Monica-Red",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Luke-Gold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Philip-Gold",
+          "wins": 2,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "division": "3",
+          "team": "St. Malachy-Green",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "3",
+          "team": "St. Barnabas-Gold",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "St. Anthony-Red",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "Central Cath.-Blue",
+          "wins": 4,
+          "losses": 1,
+          "draws": 1
+        },
+        {
+          "division": "4",
+          "team": "Little Flower-Blue",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "St. Lawrence-Red",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "division": "4",
+          "team": "Card. Ritter Jr. H-Red",
+          "wins": 1,
+          "losses": 3,
+          "draws": 2
+        },
+        {
+          "division": "4",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "4",
+          "team": "OL Greenwood-Gold",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        }
+      ]
+    }
+  ]
+}

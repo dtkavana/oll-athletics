@@ -1,0 +1,295 @@
+/* ============================================================
+   OLL Lyons Athletics — design system
+   Collegiate/athletic, not generic-SaaS: heavy condensed caps,
+   navy as a *ground* rather than an accent, warm paper for
+   content, gold for emphasis only, lion mascot as motif.
+   ============================================================ */
+
+:root {
+  /* Brand */
+  --navy:        #002B5C;
+  --navy-deep:   #001B3C;
+  --navy-mid:    #0A4585;
+  --navy-line:   #0d3a70;
+  --gold:        #DDB426;
+  --gold-bright: #F5CF4E;
+  --gold-deep:   #A8830F;
+
+  /* Ground: warm paper, not cold grey */
+  --bg:       #F4F1E8;
+  --bg-alt:   #EAE5D6;
+  --surface:  #FFFDF7;
+  --border:   #DCD4BE;
+  --text:     #15213A;
+  --muted:    #515F73;
+
+  --win:  #177A42;
+  --loss: #B3261E;
+  --tie:  #8A6D1F;
+
+  --radius: 4px;   /* squared-off and sporty, not pill-soft */
+  --shadow: 0 2px 0 rgba(0, 43, 92, .10);
+  --shadow-lift: 0 6px 0 rgba(0, 43, 92, .10);
+  --max: 1120px;
+
+  --font-display: 'Anton', 'Arial Narrow', sans-serif;
+  --font-cond: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  --font-body: 'Barlow', system-ui, -apple-system, sans-serif;
+
+  /* Sport hues — validated categorical set, retuned for this ground */
+  --sport-1: #1F6FD0;  /* volleyball */
+  --sport-2: #E2601F;  /* football   */
+  --sport-3: #0F9469;  /* kickball   */
+  --sport-4: #C9930A;  /* soccer     */
+  --sport-5: #5B3FB5;  /* cross country */
+  --sport-other: #515F73;
+  --event: #A8830F;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:      #0A1220;
+    --bg-alt:  #101B2E;
+    --surface: #132038;
+    --border:  #24354F;
+    --text:    #EDF1F8;
+    --muted:   #A4B0C7;
+    --navy:    #001B3C;
+    --navy-deep: #000E22;
+    --navy-mid: #123C70;
+    --navy-line: #1c4a80;
+    --shadow: 0 2px 0 rgba(0, 0, 0, .5);
+    --shadow-lift: 0 6px 0 rgba(0, 0, 0, .5);
+
+    --sport-1: #4E9BEE;
+    --sport-2: #F07D42;
+    --sport-3: #24B888;
+    --sport-4: #E0B23B;
+    --sport-5: #9585EE;
+    --sport-other: #A4B0C7;
+    --event: #E9C45C;
+    --win:  #43C97C;
+    --loss: #F1726A;
+    --tie:  #E5B84B;
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.55 var(--font-body);
+  /* Faint field stripes so the page has a surface, not a void. */
+  background-image: repeating-linear-gradient(
+    90deg, transparent 0 78px, rgba(0, 43, 92, .025) 78px 79px);
+}
+
+a { color: inherit; }
+
+/* ---------- type ---------- */
+h1, h2, h3 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: .01em;
+  line-height: 1.02;
+  text-transform: uppercase;
+}
+h1 { font-size: clamp(1.9rem, 5vw, 2.7rem); }
+h2 { font-size: clamp(1.25rem, 3vw, 1.6rem); }
+h3 { font-size: 1.05rem; }
+
+.eyebrow {
+  font-family: var(--font-cond);
+  font-weight: 600;
+  font-size: .82rem;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.wrap { max-width: var(--max); margin: 0 auto; padding-inline: 18px; }
+.muted { color: var(--muted); }
+.small { font-size: .88rem; }
+
+/* ---------- masthead ---------- */
+.masthead {
+  background:
+    radial-gradient(1100px 200px at 12% 120%, rgba(221, 180, 38, .16), transparent 70%),
+    linear-gradient(180deg, var(--navy) 0%, var(--navy-deep) 100%);
+  color: #fff;
+}
+.masthead__inner { display: flex; align-items: center; gap: 14px; padding-block: 16px; }
+.masthead__lion { width: 84px; height: 84px; flex: none; }
+.masthead h1 { font-size: clamp(1.4rem, 4vw, 2.05rem); color: #fff; }
+.masthead h1 em { font-style: normal; color: var(--gold); }
+
+/* Varsity stripe below masthead */
+.varsity { height: 7px; background: var(--gold); }
+
+/* ---------- nav ---------- */
+.nav { background: var(--navy-mid); }
+.nav ul { display: flex; gap: 0; list-style: none; margin: 0; padding: 0; overflow-x: auto; scrollbar-width: none; }
+.nav ul::-webkit-scrollbar { display: none; }
+.nav a {
+  display: block; padding: 12px 18px; color: #CBDCF2; text-decoration: none;
+  font-family: var(--font-cond); font-weight: 600; font-size: 1.02rem;
+  letter-spacing: .1em; text-transform: uppercase; white-space: nowrap;
+  border-bottom: 4px solid transparent;
+}
+.nav a:hover { color: #fff; background: rgba(255, 255, 255, .07); }
+.nav a.router-link-active { color: #fff; border-bottom-color: var(--gold); background: rgba(0, 0, 0, .18); }
+
+.content { padding-block: 26px 56px; }
+
+/* ---------- panels ---------- */
+.card {
+  background: var(--surface);
+  border: 2px solid var(--navy);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+@media (prefers-color-scheme: dark) { .card { border-color: var(--border); } }
+
+.section { margin-bottom: 30px; }
+.section__head {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; margin-bottom: 12px; flex-wrap: wrap;
+  border-bottom: 3px solid var(--navy);
+  padding-bottom: 6px;
+}
+@media (prefers-color-scheme: dark) { .section__head { border-bottom-color: var(--navy-mid); } }
+.section__head h1, .section__head h2 { position: relative; }
+.section__head a {
+  display: inline-block; padding: 10px 2px;
+  font-family: var(--font-cond); font-weight: 600; font-size: .92rem;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--muted);
+}
+.section__head a:hover { color: var(--navy); }
+
+.empty { padding: 26px; text-align: center; color: var(--muted); font-family: var(--font-cond); letter-spacing: .06em; text-transform: uppercase; }
+
+.grid { display: grid; gap: 14px; }
+@media (min-width: 760px) { .grid--2 { grid-template-columns: 1fr 1fr; } }
+
+/* ---------- day bar (scoreboard header) ---------- */
+.daybar {
+  margin: 0; padding: 7px 14px;
+  background: var(--navy); color: #fff;
+  font-family: var(--font-cond); font-weight: 600;
+  font-size: .92rem; letter-spacing: .12em; text-transform: uppercase;
+  display: flex; justify-content: space-between; gap: 10px;
+}
+.daybar--today { background: var(--gold); color: var(--navy); }
+
+/* ---------- pills ---------- */
+.pill {
+  display: inline-block; padding: 3px 9px; border-radius: 3px;
+  font-family: var(--font-cond); font-size: .84rem; font-weight: 600;
+  letter-spacing: .08em; text-transform: uppercase; white-space: nowrap;
+  background: var(--bg-alt); color: var(--text);
+}
+.pill--w { background: var(--win); color: #fff; }
+.pill--l { background: var(--loss); color: #fff; }
+.pill--t { background: var(--tie); color: #fff; }
+.pill--gold { background: var(--gold); color: var(--navy); }
+.pill--navy { background: var(--navy); color: #fff; }
+
+/* ---------- tables ---------- */
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: .96rem; }
+th, td { padding: 9px 12px; text-align: left; border-bottom: 1px solid var(--border); }
+thead th {
+  background: var(--navy); color: #fff;
+  font-family: var(--font-cond); font-size: .84rem; font-weight: 600;
+  letter-spacing: .12em; text-transform: uppercase; border-bottom: 0;
+}
+tbody tr:last-child td { border-bottom: 0; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; width: 1%; font-weight: 600; }
+tr.is-ours td {
+  background: color-mix(in srgb, var(--gold) 22%, transparent);
+  font-weight: 600;
+  box-shadow: inset 4px 0 0 var(--gold);
+}
+tr.divider td {
+  background: var(--bg-alt); font-family: var(--font-cond);
+  font-size: .84rem; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--navy); font-weight: 600;
+}
+@media (prefers-color-scheme: dark) { tr.divider td { color: var(--gold); } }
+
+/* ---------- controls ---------- */
+.btn {
+  display: inline-block; padding: 9px 16px; border-radius: 3px;
+  border: 2px solid var(--navy); background: var(--surface); color: var(--text);
+  text-decoration: none; font-family: var(--font-cond); font-weight: 600;
+  font-size: .96rem; letter-spacing: .08em; text-transform: uppercase;
+  cursor: pointer;
+}
+.btn:hover { background: var(--navy); color: #fff; }
+.btn--primary { background: var(--gold); border-color: var(--gold); color: var(--navy); }
+.btn--primary:hover { background: var(--gold-bright); border-color: var(--gold-bright); color: var(--navy); }
+
+select {
+  padding: 8px 12px; border-radius: 3px; border: 2px solid var(--navy);
+  background: var(--surface); color: var(--text);
+  font-family: var(--font-cond); font-weight: 600; font-size: 1rem;
+  letter-spacing: .05em; max-width: 100%;
+}
+@media (prefers-color-scheme: dark) { select, .btn { border-color: var(--border); } }
+
+/* ---------- footer ---------- */
+footer {
+  background: var(--navy-deep); color: #9FB6D6;
+  padding-block: 26px 40px; font-size: .88rem;
+  border-top: 7px solid var(--gold);
+}
+.foot { position: relative; }
+.foot > * { position: relative; z-index: 1; }
+.foot::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: min(280px, 78vw);
+  height: min(280px, 78vw);
+  background: url('/brand/lion-gold.png') center / contain no-repeat;
+  opacity: .12;
+  pointer-events: none;
+  z-index: 0;
+}
+@media (min-width: 760px) {
+  .foot::after {
+    left: auto;
+    right: 0;
+    transform: translateY(-50%);
+    width: 200px;
+    height: 200px;
+  }
+}
+footer a { color: var(--gold); }
+footer strong { color: #fff; font-family: var(--font-cond); letter-spacing: .1em; text-transform: uppercase; }
+.foot__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin: 0 0 10px;
+  font-family: var(--font-cond);
+  font-weight: 600;
+  font-size: .84rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.foot__links a {
+  text-decoration: underline;
+  text-decoration-color: rgba(221, 180, 38, .65);
+  text-underline-offset: 3px;
+}
+.foot__links a:hover {
+  color: var(--gold-bright);
+  text-decoration-color: currentColor;
+}

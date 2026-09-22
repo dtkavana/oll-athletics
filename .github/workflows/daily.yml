@@ -1,0 +1,75 @@
+name: Scrape CYO and deploy
+
+on:
+  schedule:
+    # 06:10 America/Indiana/Indianapolis (10:10 UTC in EST, 11:10 in EDT-adjacent
+    # months -- cron is UTC-only, so this drifts by an hour across DST).
+    # Morning runs pick up scores entered after the previous evening's games.
+    - cron: '10 10 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+# Never let a scheduled run race a manual one into the same commit.
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - run: npm ci
+
+      # Never fail the deploy on a bad scrape: the site then rebuilds from the
+      # last good snapshot that is already committed.
+      - name: Scrape CYO
+        id: scrape
+        continue-on-error: true
+        # Optional: with a YouTube Data API key the A/V club archive backfills
+        # the channel's full history instead of the feed's newest 15.
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/scrape.mjs
+
+      - name: Commit changed data
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name  "oll-sports-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "data: CYO sync $(date -u +%Y-%m-%d)" -m "$(git diff --cached --stat -- data/seasons/ | tail -1)"
+          git push
+
+      - name: Build
+        run: npm run generate
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .output/public
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

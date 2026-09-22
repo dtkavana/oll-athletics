@@ -1,0 +1,1356 @@
+{
+  "season": "2026 Fall Girls Kickball",
+  "scrapedAt": "2026-09-21T22:44:34.370Z",
+  "teams": [
+    {
+      "id": "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Fall Girls Kickball",
+      "seasonId": "1894",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "coaches": [
+        "Catherine Sponsel",
+        "Carrie Anglemyer"
+      ],
+      "gameIds": [
+        "4ccccc77fd23",
+        "ed89331d25e8",
+        "a8dbbfe6f259",
+        "0ef95570eac5",
+        "61ce3c3b47d3",
+        "8c6de47f6742",
+        "9d8ab0415bb8"
+      ]
+    },
+    {
+      "id": "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-gold",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Fall Girls Kickball",
+      "seasonId": "1894",
+      "name": "OL Lourdes-Gold",
+      "parish": "OL Lourdes",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "coaches": [
+        "Catherine Sponsel",
+        "Carrie Anglemyer"
+      ],
+      "gameIds": [
+        "2f8e944f5008",
+        "e58ccea81d97",
+        "d901449c0a42",
+        "095fa16ce96a",
+        "63d2608c5813",
+        "65f48609ba5c"
+      ]
+    },
+    {
+      "id": "2026-fall-girls-kickball--56-a-fall--2--ol-lourdes-gold",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Fall Girls Kickball",
+      "seasonId": "1894",
+      "name": "OL Lourdes-Gold",
+      "parish": "OL Lourdes",
+      "league": "56 A Fall",
+      "division": "2",
+      "coaches": [],
+      "gameIds": [
+        "27cbf0e299fe",
+        "600d99f94282",
+        "81a5b07f605f",
+        "7af5e21d4b08",
+        "9dd269e01d57",
+        "f30425448305"
+      ]
+    },
+    {
+      "id": "2026-fall-girls-kickball--cadet-a-fall--2--ol-lourdes-gold",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Fall Girls Kickball",
+      "seasonId": "1894",
+      "name": "OL Lourdes-Gold",
+      "parish": "OL Lourdes",
+      "league": "Cadet A Fall",
+      "division": "2",
+      "coaches": [
+        "Sarah Harbor"
+      ],
+      "gameIds": [
+        "79f429934224",
+        "562778358b01",
+        "607d72885c45",
+        "dc3f02973d82",
+        "2546ce3d9bd6",
+        "ed55044c64e1",
+        "1ea3dbd3e84e"
+      ]
+    },
+    {
+      "id": "2026-fall-girls-kickball--cadet-b-fall--2--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026 Fall Girls Kickball",
+      "seasonId": "1894",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "Cadet B Fall",
+      "division": "2",
+      "coaches": [
+        "Christina Bledsoe"
+      ],
+      "gameIds": [
+        "c7138b7d7a3c",
+        "a551b631c0bc",
+        "fa4e72330838",
+        "59a77b0e8780",
+        "ce346291c71f",
+        "e77ed0dc6ba7"
+      ]
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-08-10",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "Holy Name-Gold",
+        "score": 2
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": 0
+      },
+      "id": "2f8e944f5008",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-10",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "56 A Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 3
+      },
+      "team2": {
+        "name": "St. Luke-Royal",
+        "score": 28
+      },
+      "id": "27cbf0e299fe",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--56-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-14",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "St. Roch Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 19
+      },
+      "team2": {
+        "name": "St. Roch-Gold",
+        "score": 17
+      },
+      "id": "4ccccc77fd23",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-16",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "Cadet A Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 30
+      },
+      "team2": {
+        "name": "St. Matthew-Red",
+        "score": 2
+      },
+      "id": "79f429934224",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-16",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "Christ the King Kb",
+      "status": "Played",
+      "league": "56 A Fall",
+      "division": "2",
+      "team1": {
+        "name": "Christ the King-Black",
+        "score": 29
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": 5
+      },
+      "id": "600d99f94282",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--56-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-16",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "Cadet B Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "team2": {
+        "name": "St. Simon-Silver",
+        "score": 1
+      },
+      "id": "c7138b7d7a3c",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-b-fall--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-17",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 9
+      },
+      "team2": {
+        "name": "St. Roch-Gold",
+        "score": 32
+      },
+      "id": "e58ccea81d97",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-17",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Matthew Kickball",
+      "status": "Played",
+      "league": "56 A Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 1
+      },
+      "team2": {
+        "name": "St. Matthew-Red",
+        "score": 28
+      },
+      "id": "81a5b07f605f",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--56-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-17",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "Holy Spirit, Indy-Yellow",
+        "score": 7
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 26
+      },
+      "id": "ed89331d25e8",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-17",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "Little Flower Kb",
+      "status": "Played",
+      "league": "Cadet A Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 33
+      },
+      "team2": {
+        "name": "Little Flower-Gold",
+        "score": 5
+      },
+      "id": "562778358b01",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-19",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Greenwood Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 12
+      },
+      "team2": {
+        "name": "OL Greenwood-Green",
+        "score": 33
+      },
+      "id": "d901449c0a42",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-19",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Barnabas KB",
+      "status": "Played",
+      "league": "Cadet B Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "team2": {
+        "name": "St. Barnabas-Maroon",
+        "score": 1
+      },
+      "id": "a551b631c0bc",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-b-fall--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-20",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "St. Joan of Arc-Blue",
+        "score": 9
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 21
+      },
+      "id": "a8dbbfe6f259",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-20",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "56 A Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 18
+      },
+      "team2": {
+        "name": "Little Flower-Gold",
+        "score": 19
+      },
+      "id": "7af5e21d4b08",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--56-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-21",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "Holy Name Kb",
+      "status": "Played",
+      "league": "Cadet A Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 34
+      },
+      "team2": {
+        "name": "Holy Name-Gold",
+        "score": 9
+      },
+      "id": "607d72885c45",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-21",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "Immaculate Heart-Kb",
+      "status": "Played",
+      "league": "Cadet B Fall",
+      "division": "2",
+      "team1": {
+        "name": "Immac. Heart-White",
+        "score": 1
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "id": "fa4e72330838",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-b-fall--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-24",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Jude NE #2",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 9
+      },
+      "team2": {
+        "name": "St. Jude-Gold",
+        "score": 32
+      },
+      "id": "095fa16ce96a",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-24",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Matthew Kickball",
+      "status": "Played",
+      "league": "Cadet B Fall",
+      "division": "2",
+      "team1": {
+        "name": "St. Matthew-Red",
+        "score": 1
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "id": "59a77b0e8780",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-b-fall--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-25",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "Cadet A Fall",
+      "division": "2",
+      "team1": {
+        "name": "Christ the King-Black",
+        "score": 19
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": 22
+      },
+      "id": "dc3f02973d82",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-25",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 14
+      },
+      "team2": {
+        "name": "Holy Spirit, Indy-Yellow",
+        "score": 26
+      },
+      "id": "63d2608c5813",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-25",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "56 A Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 10
+      },
+      "team2": {
+        "name": "Holy Name-Gold",
+        "score": 25
+      },
+      "id": "9dd269e01d57",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--56-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-26",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Paired",
+      "league": "Cadet B Fall",
+      "division": "2",
+      "team1": {
+        "name": "St. Simon-White",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "ce346291c71f",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-b-fall--2--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-27",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Mark Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "St. Mark-Black",
+        "score": 10
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 27
+      },
+      "id": "0ef95570eac5",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-27",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "Immaculate Heart-Kb",
+      "status": "Played",
+      "league": "Cadet A Fall",
+      "division": "2",
+      "team1": {
+        "name": "Immac. Heart-Blue",
+        "score": 8
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": 33
+      },
+      "id": "2546ce3d9bd6",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-28",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "St. Joan of Arc Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "St. Joan of Arc-Blue",
+        "score": 36
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": 17
+      },
+      "id": "65f48609ba5c",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-08-29",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "Holy Name-Gold",
+        "score": 15
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 16
+      },
+      "id": "61ce3c3b47d3",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "Cadet A Fall",
+      "division": "2",
+      "team1": {
+        "name": "St. Joan of Arc-Black",
+        "score": 17
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": 41
+      },
+      "id": "ed55044c64e1",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-08-31",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Lourdes Kb",
+      "status": "Played",
+      "league": "Cadet B Fall",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "team2": {
+        "name": "St. Pius X-Gold",
+        "score": 1
+      },
+      "id": "e77ed0dc6ba7",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-b-fall--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-09-01",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "OL Greenwood Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": "1",
+      "team1": {
+        "name": "OL Greenwood-Green",
+        "score": 22
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 12
+      },
+      "id": "8c6de47f6742",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-09-03",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Joan of Arc Kb",
+      "status": "Played",
+      "league": "56 A Fall",
+      "division": "2",
+      "team1": {
+        "name": "St. Joan of Arc-Gold",
+        "score": 12
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": 8
+      },
+      "id": "f30425448305",
+      "season": "2026 Fall Girls Kickball",
+      "teamIds": [
+        "2026-fall-girls-kickball--56-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-09-08",
+      "startTime": "17:30",
+      "endTime": null,
+      "venue": "Little Flower Kb",
+      "status": "Played",
+      "league": "Cadet A Fall",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": 7
+      },
+      "team2": {
+        "name": "St. Jude-Gold",
+        "score": 34
+      },
+      "season": "2026 Fall Girls Kickball",
+      "tournament": {
+        "name": "2026 Fall Kickball Tourney - Cadet A",
+        "round": 1,
+        "host": "CYO",
+        "notes": "*If 9/8 games are rained out, then those will be played on 9/10 *If 9/8 games are moved to 9/10, then 9/10 game will be moved to 9/12 at 9 and 10am"
+      },
+      "id": "1ea3dbd3e84e",
+      "teamIds": [
+        "2026-fall-girls-kickball--cadet-a-fall--2--ol-lourdes-gold"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-09-10",
+      "startTime": "17:30",
+      "endTime": null,
+      "venue": "Holy Name Kb",
+      "status": "Played",
+      "league": "3/4 Mixed Fall",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 3
+      },
+      "team2": {
+        "name": "Little Flower-Gold",
+        "score": 9
+      },
+      "season": "2026 Fall Girls Kickball",
+      "tournament": {
+        "name": "2026 Fall Kickball Tourney - 34 League",
+        "round": 2,
+        "host": "CYO",
+        "notes": "*If 9/10 games are rained out, games will be on 9/12 at 10 and 11am *9/12 game is pushed back to 12p if 9/10 games get rained out"
+      },
+      "id": "9d8ab0415bb8",
+      "teamIds": [
+        "2026-fall-girls-kickball--3-4-mixed-fall--1--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    }
+  ],
+  "standings": [
+    {
+      "season": "2026 Fall Girls Kickball",
+      "league": "3/4 Mixed Fall",
+      "rows": [
+        {
+          "division": "1",
+          "team": "St. Jude-Gold",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "OL Greenwood-Green",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "OL Lourdes-Blue",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Joan of Arc-Blue",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Little Flower-Gold",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Holy Name-Gold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Roch-Gold",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Mark-Black",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Holy Spirit, Indy-Yellow",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "OL Lourdes-Gold",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Fall Girls Kickball",
+      "league": "56 A Fall",
+      "rows": [
+        {
+          "division": "1",
+          "team": "St. Jude-Gold",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Simon-White",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Nativity-Black",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Barnabas-Gold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Malachy-Green",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Pius X-Purple",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Roch-Gold",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Immac. Heart-Blue",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Christ the King-Black",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Holy Name-Gold",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Mount Carmel-Gold",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Luke-Royal",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Little Flower-Gold",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Matthew-Red",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Joan of Arc-Gold",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Lourdes-Gold",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Mark-Black",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Fall Girls Kickball",
+      "league": "Cadet A Fall",
+      "rows": [
+        {
+          "division": "1",
+          "team": "St. Barnabas-Gold",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Jude-Gold",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Luke-Royal",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Nativity-Black",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Simon-White",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Pius X-Purple",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Lourdes-Gold",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Roch-Gold",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Christ the King-Black",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Holy Name-Gold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Little Flower-Gold",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Matthew-Red",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Joan of Arc-Black",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026 Fall Girls Kickball",
+      "league": "Cadet B Fall",
+      "rows": [
+        {
+          "division": "1",
+          "team": "St. Simon-Blue",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Pius X-Purple",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Jude-Gold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Luke-Gold",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Nativity-Red",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Malachy-White",
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "division": "1",
+          "team": "St. Simon-Royal",
+          "wins": 1,
+          "losses": 4,
+          "draws": 1
+        },
+        {
+          "division": "1",
+          "team": "St. Roch-Gold",
+          "wins": 0,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Pius X-Gold",
+          "wins": 6,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Immac. Heart-White",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Barnabas-Maroon",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Christ the King-Black",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Mark-Black",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Simon-Silver",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Matthew-Red",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Luke-Blue",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Simon-White",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        }
+      ]
+    }
+  ]
+}
