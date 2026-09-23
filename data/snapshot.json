@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-22T20:40:35.417Z",
+  "scrapedAt": "2026-09-23T07:42:24.963Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2229,22 +2229,8 @@
         },
         {
           "division": "2N",
-          "team": "St. Michael, Indy-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Central Cath.-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "Card. Ritter Jr. H-Red",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
@@ -2258,6 +2244,20 @@
         {
           "division": "2N",
           "team": "St. Philip-Green",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Michael, Indy-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Central Cath.-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2312,16 +2312,16 @@
         },
         {
           "division": "1A",
-          "team": "Mount Carmel-Gold",
-          "wins": 1,
-          "losses": 1,
+          "team": "St. Louis de Mont.-Red",
+          "wins": 2,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
+          "team": "Mount Carmel-Gold",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2342,7 +2342,7 @@
           "division": "1A",
           "team": "St. Luke-Royal",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2389,16 +2389,16 @@
         },
         {
           "division": "1N",
-          "team": "Holy Name-Gold",
+          "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "OL Greenwood-Gold",
+          "team": "Holy Name-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2438,20 +2438,6 @@
         },
         {
           "division": "2A",
-          "team": "Immac. Heart-White",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Louis de Mont.-Black",
           "wins": 1,
           "losses": 0,
@@ -2460,6 +2446,20 @@
         {
           "division": "2A",
           "team": "Mount Carmel-Navy",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "Immac. Heart-White",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "Holy Spirit Geist-Blue",
           "wins": 1,
           "losses": 0,
           "draws": 0
@@ -2480,6 +2480,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Luke-Gold",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 0,
           "losses": 2,
@@ -2493,36 +2500,22 @@
           "draws": 0
         },
         {
-          "division": "2A",
-          "team": "St. Luke-Gold",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Michael, Grnfld.-Gold",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
           "division": "2N",
           "team": "St. Roch-Gold",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "Little Flower-Gold",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Mark-Gold",
           "wins": 1,
           "losses": 0,
           "draws": 0
@@ -2543,9 +2536,16 @@
         },
         {
           "division": "2N",
-          "team": "St. Monica-Black",
-          "wins": 0,
+          "team": "St. Michael, Grnfld.-Gold",
+          "wins": 1,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "OL Greenwood-Green",
+          "wins": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2564,21 +2564,21 @@
         },
         {
           "division": "2N",
-          "team": "OL Greenwood-Green",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "OL Lourdes-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Monica-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2647,21 +2647,21 @@
         },
         {
           "division": "1N",
-          "team": "OL Of Grace-Gold",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Christopher-Blue",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Mark-Black",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Of Grace-Gold",
           "wins": 1,
           "losses": 0,
           "draws": 0
@@ -2691,7 +2691,7 @@
           "division": "1N",
           "team": "Holy Spirit Geist-Blue",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2718,7 +2718,7 @@
         {
           "division": "2A",
           "team": "Christ the King-Black",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0
         },
@@ -2768,7 +2768,7 @@
           "division": "2A",
           "team": "St. Roch-Blue",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2849,9 +2849,16 @@
         },
         {
           "division": "1A",
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Ss. Fran. & Clare-Gray",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2866,13 +2873,6 @@
           "team": "St. Pius X-White",
           "wins": 0,
           "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "Immac. Heart-Blue",
-          "wins": 0,
-          "losses": 1,
           "draws": 0
         },
         {
@@ -2933,6 +2933,13 @@
         },
         {
           "division": "1N",
+          "team": "Immac. Heart-White",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Jude-Gold",
           "wins": 1,
           "losses": 0,
@@ -2947,16 +2954,9 @@
         },
         {
           "division": "1N",
-          "team": "Immac. Heart-White",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Luke-Blue",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3199,7 +3199,7 @@
         {
           "division": "1N",
           "team": "St. Louis de Mont.-Black",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
           "draws": 0
         },
@@ -3256,7 +3256,7 @@
           "division": "1N",
           "team": "St. Simon-Silver",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3275,14 +3275,14 @@
         },
         {
           "division": "2A",
-          "team": "St. Luke-Blue",
+          "team": "St. Mark-Black",
           "wins": 1,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "Holy Name-Gold",
+          "team": "St. Luke-Blue",
           "wins": 1,
           "losses": 0,
           "draws": 0
@@ -3296,16 +3296,16 @@
         },
         {
           "division": "2A",
-          "team": "Nativity-Red",
-          "wins": 0,
-          "losses": 1,
+          "team": "Holy Name-Gold",
+          "wins": 1,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3317,9 +3317,9 @@
         },
         {
           "division": "2A",
-          "team": "St. Mark-Black",
+          "team": "Nativity-Red",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3345,9 +3345,23 @@
         },
         {
           "division": "2N",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Monica-Blue",
           "wins": 1,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Joan of Arc-Gold",
+          "wins": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3366,13 +3380,6 @@
         },
         {
           "division": "2N",
-          "team": "St. Joan of Arc-Gold",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "Little Flower-Gold",
           "wins": 0,
           "losses": 1,
@@ -3382,14 +3389,7 @@
           "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -6172,16 +6172,16 @@
       "startTime": "10:00",
       "endTime": "11:00",
       "venue": "St. Thomas Aquinas #2",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet B Girls",
       "division": "2N",
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "St. Thomas Aquin.-Blue",
-        "score": null
+        "score": 2
       },
       "id": "a915e352b040",
       "season": "2026 Fall Girls Volleyball",
@@ -6379,16 +6379,16 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "venue": "St. Roch Gym #1",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 1
       },
       "team2": {
         "name": "St. Roch-Gold",
-        "score": null
+        "score": 2
       },
       "id": "15aa8f84cb08",
       "season": "2026 Fall Girls Volleyball",
