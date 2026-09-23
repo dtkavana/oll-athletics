@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-09-23T07:42:24.963Z",
+  "scrapedAt": "2026-09-23T14:59:34.700Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -78,9 +78,9 @@
       "coaches": [],
       "gameIds": [
         "9d25995219e4",
-        "d355585e15a6",
         "894eb2aedf55",
         "4465cf498030",
+        "828d162e1a84",
         "137ebed45030",
         "5b2af8a65bda",
         "1ec06b861114"
@@ -362,29 +362,6 @@
     },
     {
       "date": "2026-09-24",
-      "startTime": "17:30",
-      "endTime": "18:30",
-      "venue": "Holy Spirit, Indy Gym",
-      "status": "Paired",
-      "league": "56 A Girls",
-      "division": "2N",
-      "team1": {
-        "name": "Holy Spirit, Indy-Green",
-        "score": null
-      },
-      "team2": {
-        "name": "OL Lourdes-Blue",
-        "score": null
-      },
-      "id": "d355585e15a6",
-      "season": "2026 Fall Girls Volleyball",
-      "teamIds": [
-        "2026-fall-girls-volleyball--56-a-girls--2n--ol-lourdes-blue"
-      ],
-      "homeSide": 1
-    },
-    {
-      "date": "2026-09-24",
       "startTime": "19:30",
       "endTime": "20:30",
       "venue": "Holy Spirit, Indy Gym",
@@ -656,6 +633,29 @@
       "season": "2026 Fall Girls Volleyball",
       "teamIds": [
         "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-10-19",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "venue": "Holy Spirit, Indy Gym",
+      "status": "Paired",
+      "league": "56 A Girls",
+      "division": "2N",
+      "team1": {
+        "name": "Holy Spirit, Indy-Green",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "828d162e1a84",
+      "season": "2026 Fall Girls Volleyball",
+      "teamIds": [
+        "2026-fall-girls-volleyball--56-a-girls--2n--ol-lourdes-blue"
       ],
       "homeSide": 1
     },
@@ -1425,6 +1425,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Barnabas-Maroon",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Jude-Red",
           "wins": 1,
           "losses": 0,
@@ -1455,14 +1462,7 @@
           "division": "1N",
           "team": "Holy Name-Gold",
           "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Barnabas-Maroon",
-          "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1725,6 +1725,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Monica-Black",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "Nativity-Red",
           "wins": 1,
           "losses": 0,
@@ -1739,13 +1746,6 @@
         },
         {
           "division": "1N",
-          "team": "St. Monica-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "Holy Spirit Geist-Blue",
           "wins": 0,
           "losses": 2,
@@ -1755,7 +1755,7 @@
           "division": "1N",
           "team": "Little Flower-Blue",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2395,6 +2395,13 @@
         },
         {
           "division": "2N",
+          "team": "St. Mark-Gold",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "Card. Ritter Jr. H-White",
           "wins": 1,
           "losses": 0,
@@ -2425,7 +2432,7 @@
           "division": "2N",
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2452,13 +2459,6 @@
         {
           "division": "2N",
           "team": "St. Susanna-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Mark-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
