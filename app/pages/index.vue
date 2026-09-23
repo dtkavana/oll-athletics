@@ -1,5 +1,8 @@
 <script setup lang="ts">
-import { data, TODAY, formatDate, sportEvents, teamRecord } from '~/composables/useSnapshot'
+import {
+  data, TODAY, formatDate, formatTime, parishEvents, sportEvents, teamRecord
+} from '~/composables/useSnapshot'
+import type { SliderAnnouncement } from '~/components/NextUpSlider.vue'
 
 useHead({ title: 'Home' })
 
@@ -8,6 +11,37 @@ const upcoming = computed(() =>
 
 /** The next few fixtures rotate through the banner. */
 const featured = computed(() => upcoming.value.slice(0, 5))
+
+/** Parish dates still ahead, led as the first carousel slide. */
+const announcement = computed((): SliderAnnouncement | null => {
+  const events = parishEvents.filter(e => e.date >= TODAY)
+  if (!events.length) return null
+  const byDate = new Map<string, typeof events>()
+  for (const event of events) {
+    const list = byDate.get(event.date) ?? []
+    list.push(event)
+    byDate.set(event.date, list)
+  }
+  const sport = events[0]!.sport
+  const evaluations = events.every(e => /evaluation/i.test(e.title))
+  return {
+    sport,
+    title: evaluations ? 'Evaluations' : sport,
+    note: events.find(e => e.note)?.note ?? null,
+    dates: [...byDate.entries()].map(([date, items]) => ({
+      date,
+      venue: items.find(item => item.venue)?.venue ?? null,
+      items: items.map(item => ({
+        label: item.title
+          .replace(/^Boys Basketball\s+/i, '')
+          .replace(/\s+Evaluations$/i, ''),
+        time: item.startTime
+          ? `${formatTime(item.startTime)}${item.endTime ? `–${formatTime(item.endTime)}` : ''}`
+          : ''
+      }))
+    }))
+  }
+})
 
 const byDate = computed(() => {
   const m = new Map<string, typeof upcoming.value>()
@@ -35,7 +69,7 @@ const tally = computed(() => {
 
 <template>
   <div>
-    <NextUpSlider :games="featured" />
+    <NextUpSlider :games="featured" :announcement="announcement" />
 
     <!-- ── Scoreboard strip ── -->
     <section class="strip">

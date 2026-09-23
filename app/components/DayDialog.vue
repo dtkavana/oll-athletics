@@ -3,10 +3,15 @@ import {
   type Game, type CalendarEvent,
   formatDate, formatTime, isOurs, sides, resultClass,
   sportOf, sportVar, teamById, gameVideosOn, channel, matchup, displayTeam,
-  isCrossCountryEvent
+  isCrossCountryEvent, type ParishEvent
 } from '~/composables/useSnapshot'
 
-const props = defineProps<{ date: string | null; games: Game[]; events: CalendarEvent[] }>()
+const props = defineProps<{
+  date: string | null
+  games: Game[]
+  events: CalendarEvent[]
+  parish?: ParishEvent[]
+}>()
 const emit = defineEmits<{ close: [] }>()
 
 const dialog = ref<HTMLDialogElement | null>(null)
@@ -31,6 +36,7 @@ onBeforeUnmount(() => {
 })
 
 const streams = computed(() => props.date ? gameVideosOn(props.date) : [])
+const parishList = computed(() => props.parish ?? [])
 
 /** Which of our teams is in this fixture, so we can link to its page. */
 function ourTeamId (g: Game) {
@@ -47,7 +53,7 @@ function ourTeamId (g: Game) {
       </header>
 
       <div class="dlg__body">
-        <p v-if="!games.length && !events.length" class="muted">Nothing scheduled this day.</p>
+        <p v-if="!games.length && !events.length && !parishList.length" class="muted">Nothing scheduled this day.</p>
 
         <article
           v-for="g in games" :key="g.id"
@@ -103,6 +109,18 @@ function ourTeamId (g: Game) {
         >
           <span class="ev__tag">{{ e.category === 'blackout' ? 'NO PLAY' : isCrossCountryEvent(e) ? 'CC' : 'CYO' }}</span>
           <p>{{ e.title }}</p>
+        </article>
+
+        <article v-for="e in parishList" :key="e.title" class="ev ev--parish">
+          <span class="ev__tag">OLL</span>
+          <div>
+            <p>{{ e.title }}</p>
+            <p v-if="e.startTime" class="ev__meta">
+              {{ formatTime(e.startTime) }}<template v-if="e.endTime">&ndash;{{ formatTime(e.endTime) }}</template>
+            </p>
+            <p v-if="e.venue" class="ev__meta">{{ e.venue }}</p>
+            <p v-if="e.note" class="ev__note">{{ e.note }}</p>
+          </div>
         </article>
 
         <section v-if="streams.length" class="streams">
@@ -203,6 +221,13 @@ function ourTeamId (g: Game) {
   color: var(--muted);
 }
 .ev--blackout .ev__tag { background: var(--muted); }
+.ev--parish {
+  border-color: color-mix(in srgb, var(--gold-deep) 55%, var(--border));
+  background: color-mix(in srgb, var(--gold) 18%, var(--surface));
+}
+.ev--parish .ev__tag { background: var(--navy); color: var(--gold); }
+.ev__meta { margin: 2px 0 0; font-weight: 500; font-size: .9rem; }
+.ev__note { margin: 6px 0 0; font-weight: 450; font-size: .88rem; color: var(--muted); }
 
 .streams h3 { font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 8px; }
 .stream { display: flex; gap: 10px; align-items: center; text-decoration: none; font-size: .9rem; }

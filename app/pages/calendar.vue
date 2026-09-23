@@ -2,7 +2,7 @@
 import {
   data, TODAY, formatDate, formatTime,
   sides, resultClass, sportOf, sportVar, sportsForCalendar, videosOn, matchup, displayTeam, teamLabel,
-  sportEvents, isCrossCountryEvent, type CalendarEvent
+  sportEvents, parishEvents, isCrossCountryEvent, type CalendarEvent, type ParishEvent
 } from '~/composables/useSnapshot'
 
 useHead({ title: 'Calendar' })
@@ -14,6 +14,7 @@ const shown = ref<Record<string, boolean>>(
   Object.fromEntries(SPORTS.map(s => [s, true]))
 )
 const showEvents = ref(true)
+const showParish = ref(true)
 const teamFilter = ref('')
 
 const teamOptions = computed(() =>
@@ -25,6 +26,7 @@ const months = computed(() => {
   const set = new Set<string>()
   for (const g of data.games) set.add(g.date.slice(0, 7))
   for (const e of sportEvents) set.add(e.date.slice(0, 7))
+  for (const e of parishEvents) set.add(e.date.slice(0, 7))
   return [...set].sort()
 })
 const current = ref(months.value.find(m => m >= TODAY.slice(0, 7)) ?? months.value.at(-1) ?? TODAY.slice(0, 7))
@@ -59,6 +61,13 @@ const weeks = computed(() => {
   for (const e of sportEvents) {
     if (isCrossCountryEvent(e) ? shown.value['Cross Country'] : showEvents.value) push(e)
   }
+  const parishByDate = new Map<string, ParishEvent[]>()
+  if (showParish.value) {
+    for (const e of parishEvents) {
+      if (!parishByDate.has(e.date)) parishByDate.set(e.date, [])
+      parishByDate.get(e.date)!.push(e)
+    }
+  }
 
   const out = []
   for (let w = 0; w < 6; w++) {
@@ -74,6 +83,7 @@ const weeks = computed(() => {
         isToday: iso === TODAY,
         games: gamesByDate.get(iso) ?? [],
         events: eventsByDate.get(iso) ?? [],
+        parish: parishByDate.get(iso) ?? [],
         videos: videosOn(iso)
       })
     }
@@ -95,11 +105,12 @@ const openDate = ref<string | null>(null)
 const openDay = computed(() => weeks.value.flat().find(d => d.iso === openDate.value))
 function openDay_ (iso: string) { openDate.value = iso }
 
-function dayDots (day: { games: typeof data.games; events: CalendarEvent[] }) {
+function dayDots (day: { games: typeof data.games; events: CalendarEvent[]; parish: ParishEvent[] }) {
   const marks = day.games.map(g => `var(${sportVar(sportOf(g.season))})`)
   for (const e of day.events) {
     marks.push(isCrossCountryEvent(e) ? `var(${sportVar('Cross Country')})` : 'var(--event)')
   }
+  if (day.parish.length) marks.push('var(--gold-deep)')
   return marks.slice(0, 4)
 }
 
@@ -120,11 +131,12 @@ onBeforeRouteLeave(() => {
 })
 
 const DOW = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
-const allOn = computed(() => SPORTS.every(s => shown.value[s]) && showEvents.value)
+const allOn = computed(() => SPORTS.every(s => shown.value[s]) && showEvents.value && showParish.value)
 function toggleAll () {
   const next = !allOn.value
   for (const s of SPORTS) shown.value[s] = next
   showEvents.value = next
+  showParish.value = next
 }
 </script>
 
@@ -176,6 +188,14 @@ function toggleAll () {
           @click="showEvents = !showEvents"
         >
           <span class="key__dot" />CYO sport dates
+        </button>
+
+        <button
+          class="key key--parish" :class="{ 'key--off': !showParish }"
+          :aria-pressed="showParish"
+          @click="showParish = !showParish"
+        >
+          <span class="key__dot" />Parish dates
         </button>
 
         <button class="key key--all" @click="toggleAll">
@@ -244,6 +264,15 @@ function toggleAll () {
             <span class="chip__tag">{{ eventTag(e) }}</span>
             <span class="chip__label">{{ e.title }}</span>
           </span>
+
+          <span
+            v-for="e in day.parish" :key="e.title"
+            class="chip chip--parish"
+            :title="e.title"
+          >
+            <span class="chip__tag">OLL</span>
+            <span class="chip__label">{{ e.title }}</span>
+          </span>
         </button>
       </div>
     </div>
@@ -252,6 +281,7 @@ function toggleAll () {
       :date="openDate"
       :games="openDay?.games ?? []"
       :events="openDay?.events ?? []"
+      :parish="openDay?.parish ?? []"
       @close="openDate = null"
     />
   </div>
@@ -302,6 +332,7 @@ function toggleAll () {
   background: var(--accent, var(--muted));
 }
 .key--event { --accent: var(--event); }
+.key--parish { --accent: var(--gold-deep); }
 .key--off { background: var(--surface); border-color: var(--border); color: var(--muted); }
 .key--off .key__dot { background: var(--border); }
 .key--all { --accent: var(--muted); font-weight: 550; }
@@ -405,6 +436,15 @@ function toggleAll () {
   color: var(--muted); font-weight: 600; align-items: center;
 }
 .chip--blackout .chip__tag { background: var(--muted); }
+.chip--parish {
+  --accent: var(--gold-deep);
+  background: color-mix(in srgb, var(--gold) 28%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--gold-deep) 55%, transparent);
+  border-left: 3px solid var(--gold-deep);
+  font-weight: 650;
+  align-items: center;
+}
+.chip--parish .chip__tag { background: var(--navy); color: var(--gold); }
 
 @media (max-width: 759px) {
   .cal__head span {

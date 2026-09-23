@@ -10,6 +10,9 @@ import cyoCalendar from '~~/data/cyo-calendar.json'
 // the 15 most recent uploads, so the list is built up rather than replaced.
 import videoArchive from '~~/data/videos.json'
 import overrides from '~~/data/overrides.json'
+// Hand-entered parish dates (evaluations, meetings). Kept out of the CYO PDF
+// extract so a calendar refresh does not wipe them.
+import parishCalendar from '~~/data/parish-events.json'
 
 export interface Side { name: string; score: number | null }
 export interface TournamentRef { name: string; round: number | null; host: string | null; notes: string | null }
@@ -30,6 +33,16 @@ export interface Team {
 export interface StandingRow { division: string | null; team: string; wins: number; losses: number; draws: number }
 export interface StandingsTable { season: string; league: string; rows: StandingRow[] }
 export interface CalendarEvent { date: string; title: string; category?: 'sport' | 'blackout' | 'other' }
+export interface ParishEvent {
+  date: string
+  title: string
+  startTime: string | null
+  endTime: string | null
+  venue: string | null
+  /** Matches a Parents-page sport label when one exists. */
+  sport: string
+  note: string | null
+}
 
 export interface Snapshot {
   scrapedAt: string; source: string; seasons: string[]
@@ -67,6 +80,9 @@ export const archivedSeasons = [...new Set(data.teams.map(t => t.season))]
 /** True for a season CYO has stopped publishing — we are the only copy. */
 export const isRetired = (season: string) => (data.retiredSeasons ?? []).includes(season)
 export const calendarEvents = (cyoCalendar as { events: CalendarEvent[] }).events
+export const parishEvents = (parishCalendar as { events: ParishEvent[] }).events
+  .slice()
+  .sort((a, b) => a.date.localeCompare(b.date) || (a.startTime ?? '').localeCompare(b.startTime ?? ''))
 
 /** Names of every team belonging to our parishes, for highlighting in fixtures. */
 const ourTeamNames = new Set(data.teams.map(t => t.name))

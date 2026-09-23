@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "date": "2026-09-30",
+      "title": "Boys Basketball 5/6 Evaluations",
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "venue": null,
+      "sport": "Boys grade school basketball",
+      "note": "A player must be present at one of the two dates to be considered for the A team."
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Boys Basketball Cadet Evaluations",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "venue": null,
+      "sport": "Boys grade school basketball",
+      "note": "A player must be present at one of the two dates to be considered for the A team."
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Boys Basketball 5/6 & Cadet Evaluations",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "venue": "Scecina High School",
+      "sport": "Boys grade school basketball",
+      "note": "A player must be present at one of the two dates to be considered for the A team."
+    }
+  ]
+}

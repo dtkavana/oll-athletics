@@ -1,13 +1,30 @@
 <script setup lang="ts">
 import { type Game, data, TODAY, formatDate, formatTime, isOurs, sportOf, sportVar, matchup, displayTeam, teamLabel } from '~/composables/useSnapshot'
 
-const props = withDefaults(defineProps<{ games: Game[]; interval?: number }>(), { interval: 6000 })
+export interface SliderAnnouncement {
+  sport: string
+  title: string
+  note: string | null
+  dates: {
+    date: string
+    venue: string | null
+    items: { label: string; time: string }[]
+  }[]
+}
+
+const props = withDefaults(defineProps<{
+  games: Game[]
+  announcement?: SliderAnnouncement | null
+  interval?: number
+}>(), { interval: 6000, announcement: null })
 
 const i = ref(0)
 const paused = ref(false)
 let timer: ReturnType<typeof setInterval> | undefined
 
-const count = computed(() => props.games.length)
+const count = computed(() => props.games.length + (props.announcement ? 1 : 0))
+/** Games sit after the announcement, so their carousel index is offset by one. */
+const slideOfGame = (n: number) => (props.announcement ? n + 1 : n)
 const go = (n: number) => { i.value = (n + count.value) % count.value }
 const next = () => go(i.value + 1)
 const prev = () => go(i.value - 1)
@@ -43,18 +60,45 @@ const daysAway = (iso: string) => {
     v-if="count"
     class="slider"
     aria-roledescription="carousel"
-    aria-label="Upcoming games"
+    :aria-label="announcement ? 'Announcements and upcoming games' : 'Upcoming games'"
     @mouseenter="paused = true"
     @mouseleave="paused = false"
     @focusin="paused = true"
     @focusout="paused = false"
   >
+    <div class="slider__stage">
+    <article
+      v-if="announcement"
+      class="slide slide--announce" :class="{ 'is-on': i === 0 }"
+      style="--accent: var(--gold)"
+      :title="announcement.note || undefined"
+      :aria-hidden="i !== 0"
+      :inert="i !== 0 ? true : undefined"
+    >
+      <div class="slide__tag">
+        <span class="slide__when">Announcement</span>
+        <span class="slide__sport">{{ announcement.sport }}</span>
+      </div>
+
+      <p class="slide__match">{{ announcement.title }}</p>
+
+      <dl class="slide__facts">
+        <div v-for="day in announcement.dates" :key="day.date">
+          <dt>
+            {{ formatDate(day.date, { weekday: 'short', month: 'short', day: 'numeric' }) }}
+            <template v-if="day.venue"> · {{ day.venue }}</template>
+          </dt>
+          <dd>{{ day.items.map(item => `${item.label} ${item.time}`).join(', ') }}</dd>
+        </div>
+      </dl>
+    </article>
+
     <article
       v-for="(g, n) in games" :key="g.id"
-      class="slide" :class="{ 'is-on': n === i }"
+      class="slide slide--game" :class="{ 'is-on': slideOfGame(n) === i }"
       :style="{ '--accent': `var(${sportVar(sportOf(g.season))})` }"
-      :aria-hidden="n !== i"
-      :inert="n !== i ? true : undefined"
+      :aria-hidden="slideOfGame(n) !== i"
+      :inert="slideOfGame(n) !== i ? true : undefined"
     >
       <div class="slide__tag">
         <span class="slide__when">{{ daysAway(g.date) }}</span>
@@ -77,19 +121,27 @@ const daysAway = (iso: string) => {
         {{ teamLabel(teamFor(g)!) }} team page
       </NuxtLink>
     </article>
+    </div>
 
     <div v-if="count > 1" class="slider__ui">
-      <button class="arrow" aria-label="Previous game" @click="pick(prev)">&#8249;</button>
+      <button class="arrow" aria-label="Previous slide" @click="pick(prev)">&#8249;</button>
       <div class="dots" role="tablist">
         <button
+          v-if="announcement"
+          class="dot" :class="{ 'is-on': i === 0 }"
+          role="tab" :aria-selected="i === 0"
+          aria-label="Announcement"
+          @click="pick(() => go(0))"
+        />
+        <button
           v-for="(g, n) in games" :key="g.id"
-          class="dot" :class="{ 'is-on': n === i }"
-          role="tab" :aria-selected="n === i"
-          :aria-label="`Game ${n + 1} of ${count}`"
-          @click="pick(() => go(n))"
+          class="dot" :class="{ 'is-on': slideOfGame(n) === i }"
+          role="tab" :aria-selected="slideOfGame(n) === i"
+          :aria-label="`Game ${n + 1} of ${games.length}`"
+          @click="pick(() => go(slideOfGame(n)))"
         />
       </div>
-      <button class="arrow" aria-label="Next game" @click="pick(next)">&#8250;</button>
+      <button class="arrow" aria-label="Next slide" @click="pick(next)">&#8250;</button>
     </div>
   </section>
 </template>
@@ -109,14 +161,20 @@ const daysAway = (iso: string) => {
   opacity: .12; pointer-events: none;
 }
 
-/* Slides stack; only the active one takes part in layout. */
+/* Game slides share one cell, so the stage is as tall as the tallest game
+   and never changes between slides. The announcement fills that box. */
+.slider__stage { display: grid; position: relative; z-index: 1; }
 .slide {
-  display: none;
+  grid-area: 1 / 1;
+  display: flex; flex-direction: column;
   padding: 20px 22px 22px;
   border-left: 8px solid var(--accent);
-  position: relative; z-index: 1;
+  visibility: hidden;
 }
-.slide.is-on { display: block; }
+.slide.is-on { visibility: visible; }
+.slide--announce { position: absolute; inset: 0; overflow: hidden; }
+.slider__stage:not(:has(.slide--game)) .slide--announce { position: static; }
+.slide .btn { margin-top: auto; align-self: flex-start; }
 @media (prefers-reduced-motion: no-preference) {
   .slide.is-on { animation: fade .45s ease both; }
 }
