@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-23T14:59:34.700Z",
+  "scrapedAt": "2026-09-23T20:15:59.447Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -26,7 +26,12 @@
     "2026 Spring CO-ED Soccer",
     "2026 Spring Girls Kickball"
   ],
-  "retiredSeasons": [],
+  "retiredSeasons": [
+    "2026 Fall Girls Kickball",
+    "2026 Spring Boys Volleyball",
+    "2026 Spring CO-ED Soccer",
+    "2026 Spring Girls Kickball"
+  ],
   "videos": [
     {
       "id": "xSa6e0l_7ss",
@@ -2117,6 +2122,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Joan of Arc-Black",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Maria Gor.-Navy",
           "wins": 1,
           "losses": 0,
@@ -2131,8 +2143,8 @@
         },
         {
           "division": "1N",
-          "team": "St. Joan of Arc-Black",
-          "wins": 1,
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 0,
           "losses": 1,
           "draws": 0
         },
@@ -2159,16 +2171,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Thomas Aquin.-Blue",
+          "team": "Little Flower-Gold",
           "wins": 0,
           "losses": 1,
           "draws": 0
         },
         {
-          "division": "1N",
-          "team": "Little Flower-Gold",
-          "wins": 0,
-          "losses": 1,
+          "division": "2A",
+          "team": "OL Of Grace-Gold",
+          "wins": 2,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2180,13 +2192,6 @@
         },
         {
           "division": "2A",
-          "team": "St. Pius X-Purple",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Matthew-Red",
           "wins": 1,
           "losses": 0,
@@ -2194,22 +2199,8 @@
         },
         {
           "division": "2A",
-          "team": "St. Roch-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "OL Of Grace-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Immac. Heart-Blue",
-          "wins": 0,
+          "team": "St. Pius X-Purple",
+          "wins": 1,
           "losses": 1,
           "draws": 0
         },
@@ -2224,7 +2215,21 @@
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Roch-Blue",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "Immac. Heart-Blue",
+          "wins": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2438,9 +2443,23 @@
         },
         {
           "division": "2A",
+          "team": "St. Luke-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Louis de Mont.-Black",
           "wins": 1,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "Christ the King-Gold",
+          "wins": 1,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2466,21 +2485,7 @@
         },
         {
           "division": "2A",
-          "team": "Christ the King-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Simon-White",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Gold",
           "wins": 0,
           "losses": 1,
           "draws": 0
@@ -2496,7 +2501,7 @@
           "division": "2A",
           "team": "St. Maria Gor.-Red",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
