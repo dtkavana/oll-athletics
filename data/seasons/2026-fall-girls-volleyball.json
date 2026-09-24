@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-09-24T15:01:42.979Z",
+  "scrapedAt": "2026-09-24T20:25:32.096Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1655,6 +1655,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Simon-Royal",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Charles-Red",
           "wins": 1,
           "losses": 0,
@@ -1664,7 +1671,7 @@
           "division": "1A",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1684,13 +1691,6 @@
         {
           "division": "1A",
           "team": "Mount Carmel-Gold",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Simon-Royal",
           "wins": 0,
           "losses": 1,
           "draws": 0
@@ -1990,14 +1990,14 @@
         },
         {
           "division": "1N",
-          "team": "OL Of Grace-Navy",
+          "team": "Christ the King-Gold",
           "wins": 1,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Christ the King-Gold",
+          "team": "OL Of Grace-Navy",
           "wins": 1,
           "losses": 1,
           "draws": 0
@@ -2007,13 +2007,6 @@
           "team": "OL Greenwood-Green",
           "wins": 1,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Luke-Blue",
-          "wins": 0,
-          "losses": 2,
           "draws": 0
         },
         {
@@ -2031,9 +2024,23 @@
           "draws": 0
         },
         {
+          "division": "1N",
+          "team": "St. Luke-Blue",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
           "division": "2A",
           "team": "St. Jude-Red",
           "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Mark-Black",
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
@@ -2067,13 +2074,6 @@
         },
         {
           "division": "2A",
-          "team": "St. Mark-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Pius X-Gold",
           "wins": 0,
           "losses": 1,
@@ -2090,7 +2090,7 @@
           "division": "2A",
           "team": "Mount Carmel-Navy",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2402,6 +2402,13 @@
         },
         {
           "division": "2N",
+          "team": "OL Greenwood-Green",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Mark-Gold",
           "wins": 1,
           "losses": 0,
@@ -2437,13 +2444,6 @@
         },
         {
           "division": "2N",
-          "team": "OL Greenwood-Green",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "Little Flower-Gold",
           "wins": 0,
           "losses": 1,
@@ -2460,7 +2460,7 @@
           "division": "2N",
           "team": "St. Susanna-Gold",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         }
       ]
