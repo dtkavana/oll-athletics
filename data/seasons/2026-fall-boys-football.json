@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-09-22T19:39:24.108Z",
+  "scrapedAt": "2026-09-24T07:33:38.612Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -502,6 +502,13 @@
         },
         {
           "division": "A",
+          "team": "Mount Carmel-Gold",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "A",
           "team": "St. Maria Gor.-Navy",
           "wins": 1,
           "losses": 1,
@@ -523,16 +530,9 @@
         },
         {
           "division": "A",
-          "team": "Mount Carmel-Gold",
-          "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "A",
           "team": "St. Barnabas-Gold",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
