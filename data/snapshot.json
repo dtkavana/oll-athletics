@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-24T07:33:38.612Z",
+  "scrapedAt": "2026-09-24T15:01:42.979Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1395,7 +1395,14 @@
           "division": "AAA",
           "team": "South Central-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Luke-Royal",
+          "wins": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1408,13 +1415,6 @@
         {
           "division": "AAA",
           "team": "St. Jude-Red",
-          "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
-          "team": "St. Luke-Royal",
           "wins": 0,
           "losses": 2,
           "draws": 0
@@ -2129,6 +2129,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Joan of Arc-Black",
           "wins": 1,
           "losses": 2,
@@ -2150,16 +2157,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2513,29 +2513,15 @@
         },
         {
           "division": "2N",
-          "team": "St. Monica-Black",
+          "team": "St. Malachy-Green",
           "wins": 2,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "Little Flower-Gold",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Malachy-Green",
-          "wins": 1,
+          "team": "St. Monica-Black",
+          "wins": 2,
           "losses": 0,
           "draws": 0
         },
@@ -2556,6 +2542,20 @@
         {
           "division": "2N",
           "team": "St. Jude-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Little Flower-Gold",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Mark-Gold",
           "wins": 1,
           "losses": 1,
           "draws": 0
@@ -3301,6 +3301,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Maria Gor.-Red",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "Holy Name-Gold",
           "wins": 1,
           "losses": 0,
@@ -3309,13 +3316,6 @@
         {
           "division": "2A",
           "team": "St. Malachy-Green",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 1,
           "draws": 0
@@ -3338,7 +3338,7 @@
           "division": "2A",
           "team": "St. Roch-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {

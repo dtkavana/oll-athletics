@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-09-24T07:33:38.612Z",
+  "scrapedAt": "2026-09-24T15:01:42.979Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1181,6 +1181,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Joan of Arc-Black",
           "wins": 1,
           "losses": 2,
@@ -1202,16 +1209,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1565,29 +1565,15 @@
         },
         {
           "division": "2N",
-          "team": "St. Monica-Black",
+          "team": "St. Malachy-Green",
           "wins": 2,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "Little Flower-Gold",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Malachy-Green",
-          "wins": 1,
+          "team": "St. Monica-Black",
+          "wins": 2,
           "losses": 0,
           "draws": 0
         },
@@ -1608,6 +1594,20 @@
         {
           "division": "2N",
           "team": "St. Jude-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Little Flower-Gold",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Mark-Gold",
           "wins": 1,
           "losses": 1,
           "draws": 0
@@ -2353,6 +2353,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Maria Gor.-Red",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "Holy Name-Gold",
           "wins": 1,
           "losses": 0,
@@ -2361,13 +2368,6 @@
         {
           "division": "2A",
           "team": "St. Malachy-Green",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 1,
           "draws": 0
@@ -2390,7 +2390,7 @@
           "division": "2A",
           "team": "St. Roch-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {

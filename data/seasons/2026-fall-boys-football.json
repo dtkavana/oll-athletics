@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-09-24T07:33:38.612Z",
+  "scrapedAt": "2026-09-24T15:01:42.979Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -824,7 +824,14 @@
           "division": "AAA",
           "team": "South Central-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Luke-Royal",
+          "wins": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -837,13 +844,6 @@
         {
           "division": "AAA",
           "team": "St. Jude-Red",
-          "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
-          "team": "St. Luke-Royal",
           "wins": 0,
           "losses": 2,
           "draws": 0
