@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-09-25T15:13:07.830Z",
+  "scrapedAt": "2026-09-25T20:25:37.013Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -2262,6 +2262,13 @@
         },
         {
           "division": "1N",
+          "team": "Christ the King-Gold",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Malachy-White",
           "wins": 2,
           "losses": 0,
@@ -2272,13 +2279,6 @@
           "team": "OL Of Grace-Navy",
           "wins": 1,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Christ the King-Gold",
-          "wins": 1,
-          "losses": 0,
           "draws": 0
         },
         {
@@ -2320,7 +2320,7 @@
           "division": "1N",
           "team": "St. Simon-Silver",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
