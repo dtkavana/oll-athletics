@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-09-26T14:26:46.336Z",
+  "scrapedAt": "2026-09-26T19:46:51.736Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -649,8 +649,15 @@
         {
           "division": "AA",
           "team": "South Central-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Maria Gor.-Red",
+          "wins": 2,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -663,13 +670,6 @@
         {
           "division": "AA",
           "team": "St. Barnabas-Gold",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "St. Maria Gor.-Red",
           "wins": 1,
           "losses": 1,
           "draws": 0
@@ -692,14 +692,14 @@
           "division": "AA",
           "team": "St. Louis de Mont.-Red",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "AA",
           "team": "South Central-Gold",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {

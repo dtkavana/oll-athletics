@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-09-25T20:25:37.013Z",
+  "scrapedAt": "2026-09-26T19:46:51.736Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1446,6 +1446,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Charles-Red",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Jude-Red",
           "wins": 1,
           "losses": 1,
@@ -1474,16 +1481,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Charles-Red",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "Holy Name-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
