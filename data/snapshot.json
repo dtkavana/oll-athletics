@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-27T15:09:32.664Z",
+  "scrapedAt": "2026-09-27T20:06:05.270Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1115,6 +1115,13 @@
         },
         {
           "division": "AA",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Barnabas-Maroon",
           "wins": 2,
           "losses": 0,
@@ -1130,13 +1137,6 @@
         {
           "division": "AA",
           "team": "St. Pius X-Gold",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "St. Louis de Mont.-Red",
           "wins": 1,
           "losses": 1,
           "draws": 0
@@ -1159,7 +1159,7 @@
           "division": "AA",
           "team": "St. Luke-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1172,7 +1172,7 @@
         {
           "division": "AAA",
           "team": "Johnson Co. Catholic-White",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -1208,7 +1208,7 @@
           "division": "AAA",
           "team": "South Central-Gold",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         }
       ]
@@ -3343,15 +3343,15 @@
         },
         {
           "division": "2N",
-          "team": "St. Monica-Blue",
+          "team": "St. Mark-Gold",
           "wins": 2,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 1,
+          "team": "St. Monica-Blue",
+          "wins": 2,
           "losses": 0,
           "draws": 0
         },
@@ -3408,7 +3408,7 @@
           "division": "2N",
           "team": "St. Susanna-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         }
       ]
