@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-27T20:06:05.270Z",
+  "scrapedAt": "2026-09-28T08:38:39.284Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1060,13 +1060,13 @@
         {
           "division": "A",
           "team": "St. Matthew-White",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "A",
-          "team": "East Side Crusaders-Red",
+          "team": "Nativity-Red",
           "wins": 2,
           "losses": 0,
           "draws": 0
@@ -1074,29 +1074,29 @@
         {
           "division": "A",
           "team": "Mount Carmel-Gold",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "East Side Crusaders-Red",
+          "wins": 2,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "A",
           "team": "St. Maria Gor.-Navy",
           "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "A",
-          "team": "Nativity-Red",
-          "wins": 1,
-          "losses": 0,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "A",
           "team": "Immac. Heart-White",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1115,6 +1115,20 @@
         },
         {
           "division": "AA",
+          "team": "St. Barnabas-Maroon",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Pius X-Purple",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Louis de Mont.-Red",
           "wins": 2,
           "losses": 1,
@@ -1122,30 +1136,9 @@
         },
         {
           "division": "AA",
-          "team": "St. Barnabas-Maroon",
-          "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "St. Pius X-Purple",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "St. Pius X-Gold",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AA",
           "team": "OL Of Grace-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1164,9 +1157,16 @@
         },
         {
           "division": "AA",
+          "team": "St. Pius X-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Malachy-Green",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -1178,15 +1178,8 @@
         },
         {
           "division": "AAA",
-          "team": "Immac. Heart-Blue",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
-          "team": "St. Jude-Red",
-          "wins": 1,
+          "team": "Mount Carmel-Navy",
+          "wins": 2,
           "losses": 1,
           "draws": 0
         },
@@ -1199,7 +1192,14 @@
         },
         {
           "division": "AAA",
-          "team": "Mount Carmel-Navy",
+          "team": "St. Jude-Red",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Immac. Heart-Blue",
           "wins": 1,
           "losses": 1,
           "draws": 0
@@ -1296,14 +1296,14 @@
         },
         {
           "division": "AAA",
-          "team": "Johnson Co. Catholic-White",
-          "wins": 0,
+          "team": "South Central-Black",
+          "wins": 1,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "AAA",
-          "team": "South Central-Black",
+          "team": "Johnson Co. Catholic-White",
           "wins": 0,
           "losses": 2,
           "draws": 0
@@ -1312,7 +1312,7 @@
           "division": "AAA",
           "team": "OL Of Grace-Gold",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         }
       ]
@@ -1324,7 +1324,7 @@
         {
           "division": "AA",
           "team": "St. Simon-Royal",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -1346,7 +1346,7 @@
           "division": "AA",
           "team": "Immac. Heart-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1379,6 +1379,13 @@
         },
         {
           "division": "AAA",
+          "team": "Mount Carmel-Gold",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
           "team": "East Side Crusaders-Red",
           "wins": 2,
           "losses": 0,
@@ -1386,16 +1393,9 @@
         },
         {
           "division": "AAA",
-          "team": "Mount Carmel-Gold",
+          "team": "St. Pius X-Purple",
           "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
-          "team": "South Central-Blue",
-          "wins": 1,
-          "losses": 2,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1407,16 +1407,16 @@
         },
         {
           "division": "AAA",
-          "team": "St. Pius X-Purple",
+          "team": "South Central-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         }
       ]
@@ -2108,16 +2108,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 1,
+          "team": "St. Monica-Black",
+          "wins": 2,
           "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Little Flower-Gold",
-          "wins": 1,
-          "losses": 1,
           "draws": 0
         },
         {
@@ -2150,8 +2143,29 @@
         },
         {
           "division": "1N",
-          "team": "St. Monica-Black",
+          "team": "St. Mark-Black",
           "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Little Flower-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Nativity-Black",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "CYO-BYE",
+          "wins": 0,
           "losses": 0,
           "draws": 0
         },
@@ -2160,20 +2174,6 @@
           "team": "OL Greenwood-Gold",
           "wins": 0,
           "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Nativity-Black",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "CYO-BYE",
-          "wins": 0,
-          "losses": 0,
           "draws": 0
         },
         {
@@ -6499,16 +6499,16 @@
       "startTime": "14:15",
       "endTime": "15:30",
       "venue": "OL Mount Carmel FB",
-      "status": "Paired",
+      "status": "Played",
       "league": "56",
       "division": "A",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 12
       },
       "team2": {
         "name": "Mount Carmel-Gold",
-        "score": null
+        "score": 13
       },
       "id": "5a617f8c4f09",
       "season": "2026 Fall Boys Football",

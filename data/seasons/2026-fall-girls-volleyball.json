@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-09-27T20:06:05.270Z",
+  "scrapedAt": "2026-09-28T08:38:39.284Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1160,16 +1160,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 1,
+          "team": "St. Monica-Black",
+          "wins": 2,
           "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Little Flower-Gold",
-          "wins": 1,
-          "losses": 1,
           "draws": 0
         },
         {
@@ -1202,8 +1195,29 @@
         },
         {
           "division": "1N",
-          "team": "St. Monica-Black",
+          "team": "St. Mark-Black",
           "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Little Flower-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Nativity-Black",
+          "wins": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "CYO-BYE",
+          "wins": 0,
           "losses": 0,
           "draws": 0
         },
@@ -1212,20 +1226,6 @@
           "team": "OL Greenwood-Gold",
           "wins": 0,
           "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Nativity-Black",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "CYO-BYE",
-          "wins": 0,
-          "losses": 0,
           "draws": 0
         },
         {
