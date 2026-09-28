@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-09-28T08:38:39.284Z",
+  "scrapedAt": "2026-09-28T18:09:15.719Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -61,7 +61,7 @@
         "e6434a9d3e0a",
         "811269e4678f",
         "7e0772f25a4a",
-        "d28ee3eb0b88"
+        "58bf348b7361"
       ]
     }
   ],
@@ -255,16 +255,16 @@
       "startTime": "14:15",
       "endTime": "15:45",
       "venue": "St. Matthew Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet",
       "division": "AAA",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 8
       },
       "team2": {
         "name": "St. Luke-Royal",
-        "score": null
+        "score": 13
       },
       "id": "e6434a9d3e0a",
       "season": "2026 Fall Boys Football",
@@ -459,8 +459,8 @@
     },
     {
       "date": "2026-10-18",
-      "startTime": "14:15",
-      "endTime": "15:45",
+      "startTime": "13:00",
+      "endTime": "14:15",
       "venue": "Bishop Chatard HS Fb",
       "status": "Paired",
       "league": "Cadet",
@@ -473,7 +473,7 @@
         "name": "St. Pius X-Purple",
         "score": null
       },
-      "id": "d28ee3eb0b88",
+      "id": "58bf348b7361",
       "season": "2026 Fall Boys Football",
       "teamIds": [
         "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
@@ -558,6 +558,13 @@
         },
         {
           "division": "AA",
+          "team": "St. Pius X-Gold",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Louis de Mont.-Red",
           "wins": 2,
           "losses": 1,
@@ -574,7 +581,7 @@
           "division": "AA",
           "team": "Christ the King-Black",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -582,13 +589,6 @@
           "team": "St. Luke-Gold",
           "wins": 1,
           "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "St. Pius X-Gold",
-          "wins": 1,
-          "losses": 1,
           "draws": 0
         },
         {
@@ -607,15 +607,15 @@
         },
         {
           "division": "AAA",
-          "team": "Mount Carmel-Navy",
+          "team": "St. Simon-Royal",
           "wins": 2,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "AAA",
-          "team": "St. Simon-Royal",
-          "wins": 1,
+          "team": "Mount Carmel-Navy",
+          "wins": 2,
           "losses": 1,
           "draws": 0
         },
@@ -630,7 +630,7 @@
           "division": "AAA",
           "team": "Immac. Heart-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -759,16 +759,23 @@
         },
         {
           "division": "AA",
-          "team": "Christ the King-Black",
-          "wins": 2,
+          "team": "St. Barnabas-Maroon",
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Barnabas-Maroon",
+          "team": "Christ the King-Black",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 2,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -780,15 +787,8 @@
         },
         {
           "division": "AA",
-          "team": "St. Louis de Mont.-Red",
+          "team": "Johnson Co. Catholic-Navy",
           "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "OL Of Grace-Gold",
-          "wins": 0,
           "losses": 2,
           "draws": 0
         },
@@ -796,14 +796,14 @@
           "division": "AA",
           "team": "Mount Carmel-Navy",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "Johnson Co. Catholic-Navy",
+          "team": "OL Of Grace-Gold",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -817,7 +817,14 @@
           "division": "AAA",
           "team": "East Side Crusaders-Red",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "St. Luke-Royal",
+          "wins": 2,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -825,13 +832,6 @@
           "team": "St. Pius X-Purple",
           "wins": 2,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
-          "team": "St. Luke-Royal",
-          "wins": 1,
-          "losses": 2,
           "draws": 0
         },
         {
