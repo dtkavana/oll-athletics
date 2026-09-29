@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-29T08:22:02.036Z",
+  "scrapedAt": "2026-09-29T16:30:05.112Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2506,6 +2506,13 @@
         },
         {
           "division": "2N",
+          "team": "St. Monica-Black",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Michael, Grnfld.-Gold",
           "wins": 3,
           "losses": 0,
@@ -2521,13 +2528,6 @@
         {
           "division": "2N",
           "team": "St. Malachy-Green",
-          "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Monica-Black",
           "wins": 2,
           "losses": 0,
           "draws": 0
@@ -2550,7 +2550,7 @@
           "division": "2N",
           "team": "St. Jude-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2603,16 +2603,16 @@
         },
         {
           "division": "1A",
-          "team": "St. Charles-Red",
+          "team": "St. Simon-Royal",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Simon-Royal",
-          "wins": 1,
-          "losses": 1,
+          "team": "St. Charles-Red",
+          "wins": 2,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2638,16 +2638,16 @@
         },
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
+          "team": "Mount Carmel-Gold",
           "wins": 0,
           "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "Mount Carmel-Gold",
+          "team": "St. Louis de Mont.-Red",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2778,6 +2778,13 @@
         },
         {
           "division": "2N",
+          "team": "St. Philip-Green",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Michael, Indy-Red",
           "wins": 2,
           "losses": 0,
@@ -2787,34 +2794,13 @@
           "division": "2N",
           "team": "St. Michael, Grnfld.-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Anthony-Red",
           "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Philip-Green",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "OL Lourdes-Blue",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Holy Spirit, Indy-Green",
-          "wins": 0,
           "losses": 1,
           "draws": 0
         },
@@ -2828,6 +2814,20 @@
         {
           "division": "2N",
           "team": "St. Susanna-Blue",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Holy Spirit, Indy-Green",
           "wins": 0,
           "losses": 1,
           "draws": 0
@@ -2849,7 +2849,14 @@
           "division": "1A",
           "team": "Mount Carmel-Yellow",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Immac. Heart-Blue",
+          "wins": 2,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2862,13 +2869,6 @@
         {
           "division": "1A",
           "team": "Ss. Fran. & Clare-Gray",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "Immac. Heart-Blue",
           "wins": 1,
           "losses": 2,
           "draws": 0
