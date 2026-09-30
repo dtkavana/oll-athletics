@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-30T16:24:14.948Z",
+  "scrapedAt": "2026-09-30T21:24:42.974Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2659,7 +2659,14 @@
         },
         {
           "division": "1N",
-          "team": "St. Monica-Black",
+          "team": "St. Mark-Black",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Christopher-Blue",
           "wins": 2,
           "losses": 0,
           "draws": 0
@@ -2673,23 +2680,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Christopher-Blue",
+          "team": "St. Monica-Black",
           "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Matthew-Red",
-          "wins": 0,
-          "losses": 2,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2718,6 +2711,13 @@
           "team": "OL Greenwood-Gold",
           "wins": 0,
           "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Matthew-Red",
+          "wins": 0,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2778,14 +2778,14 @@
         },
         {
           "division": "2N",
-          "team": "St. Philip-Green",
+          "team": "St. Michael, Indy-Red",
           "wins": 2,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Michael, Indy-Red",
+          "team": "St. Philip-Green",
           "wins": 2,
           "losses": 0,
           "draws": 0
@@ -3001,6 +3001,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Malachy-Green",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Simon-White",
           "wins": 1,
           "losses": 2,
@@ -3022,13 +3029,6 @@
         },
         {
           "division": "2A",
-          "team": "St. Malachy-Green",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Roch-Gold",
           "wins": 0,
           "losses": 2,
@@ -3045,12 +3045,19 @@
           "division": "2A",
           "team": "Mount Carmel-Navy",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Matthew-Red",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Roch-White",
           "wins": 2,
           "losses": 0,
           "draws": 0
@@ -3078,23 +3085,9 @@
         },
         {
           "division": "2N",
-          "team": "St. Roch-White",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "St. Michael, Indy-White",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3102,6 +3095,13 @@
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
           "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Mark-Gold",
+          "wins": 0,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -3350,6 +3350,13 @@
         },
         {
           "division": "2N",
+          "team": "OL Greenwood-Green",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Monica-Blue",
           "wins": 3,
           "losses": 0,
@@ -3359,13 +3366,6 @@
           "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "OL Greenwood-Green",
-          "wins": 1,
           "losses": 0,
           "draws": 0
         },
@@ -3401,14 +3401,14 @@
           "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "Little Flower-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         }
       ]
@@ -6660,16 +6660,16 @@
       "startTime": "20:00",
       "endTime": "21:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet B Girls",
       "division": "2N",
       "team1": {
         "name": "OL Greenwood-Green",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "id": "37c52c3c3eb3",
       "season": "2026 Fall Girls Volleyball",
