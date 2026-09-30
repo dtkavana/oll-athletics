@@ -6,7 +6,23 @@ import {
 
 useHead({ title: 'Parents' })
 
-const seasons = computed(() => parentSportSeasons())
+const { sortKey, sortDir, toggle, sortBy } = useColumnSort()
+const seasonRows = computed(() => parentSportSeasons())
+const seasons = computed(() => sortBy(seasonRows.value, row => {
+  switch (sortKey.value) {
+    case 'sport': return row.sport
+    case 'cost': return costValue(row.costEstimate)
+    case 'start': return row.start
+    case 'end': return row.end
+    case 'status': return parentSeasonActive(row) ? 2 : parentSeasonFinished(row) ? 0 : 1
+    default: return row.start
+  }
+}))
+
+function costValue (cost: string) {
+  const n = Number(cost.replace(/[^0-9.]/g, ''))
+  return cost.trim() && Number.isFinite(n) ? n : null
+}
 
 const parishGroups = computed(() => {
   const groups: { sport: string; note: string; events: ParishEvent[] }[] = []
@@ -31,7 +47,7 @@ function parishAnchor (sport: string) {
 }
 
 const yearLabel = computed(() => {
-  const first = seasons.value[0]?.start
+  const first = seasonRows.value[0]?.start
   if (!first) return 'CYO sport calendar'
   const y = Number(first.slice(0, 4))
   return `${y}–${y + 1} school year`
@@ -59,11 +75,11 @@ const yearLabel = computed(() => {
       <table class="seasons">
         <thead>
           <tr>
-            <th>Sport</th>
-            <th>Est. cost</th>
-            <th>Games start</th>
-            <th>Finishes</th>
-            <th />
+            <SortTh label="Sport" column="sport" :current="sortKey" :dir="sortDir" @sort="toggle('sport', 'asc')" />
+            <SortTh label="Est. cost" column="cost" :current="sortKey" :dir="sortDir" @sort="toggle('cost', 'asc')" />
+            <SortTh label="Games start" column="start" :current="sortKey" :dir="sortDir" @sort="toggle('start', 'asc')" />
+            <SortTh label="Finishes" column="end" :current="sortKey" :dir="sortDir" @sort="toggle('end', 'asc')" />
+            <SortTh label="Status" column="status" :current="sortKey" :dir="sortDir" @sort="toggle('status', 'desc')" />
           </tr>
         </thead>
         <tbody>

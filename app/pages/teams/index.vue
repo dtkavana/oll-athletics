@@ -4,6 +4,7 @@ import { data, teamRecord, activeSeasons, byLeague, isRetired, sportOf, sportVar
 useHead({ title: 'Teams' })
 
 const order = activeSeasons()
+const { sortKey, sortDir, toggle, sortBy } = useColumnSort()
 const grouped = computed(() =>
   order.map(({ season, active, window }) => ({
     season,
@@ -14,6 +15,19 @@ const grouped = computed(() =>
 
 const range = (w: { start: string; end: string } | null) =>
   w ? `${formatDate(w.start)} – ${formatDate(w.end)}` : null
+
+function sortedTeams (teams: typeof data.teams) {
+  return sortBy(teams, team => {
+    const rec = teamRecord(team)
+    switch (sortKey.value) {
+      case 'name': return teamLabel(team)
+      case 'league': return team.league
+      case 'record': return rec.w + rec.l + rec.t ? rec.w * 10000 - rec.l * 100 - rec.t : null
+      case 'coach': return team.coaches.join(', ') || null
+      default: return teamLabel(team)
+    }
+  })
+}
 </script>
 
 <template>
@@ -37,12 +51,14 @@ const range = (w: { start: string; end: string } | null) =>
         <table>
           <thead>
             <tr>
-              <th>Team</th><th>League</th>
-              <th class="num">League</th><th>Coach</th>
+              <SortTh label="Team" column="name" :current="sortKey" :dir="sortDir" @sort="toggle('name', 'asc')" />
+              <SortTh label="League" column="league" :current="sortKey" :dir="sortDir" @sort="toggle('league', 'asc')" />
+              <SortTh label="Record" column="record" numeric :current="sortKey" :dir="sortDir" @sort="toggle('record', 'desc')" />
+              <SortTh label="Coach" column="coach" :current="sortKey" :dir="sortDir" @sort="toggle('coach', 'asc')" />
             </tr>
           </thead>
           <tbody>
-            <tr v-for="t in g.teams" :key="t.id">
+            <tr v-for="t in sortedTeams(g.teams)" :key="t.id">
               <td><NuxtLink class="teamlink" :to="`/teams/${t.id}`">{{ teamLabel(t) }}</NuxtLink></td>
               <td>{{ t.league }}</td>
               <td class="num">

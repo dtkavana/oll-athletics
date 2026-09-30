@@ -1,0 +1,1138 @@
+[
+  {
+    "Type": "Cathedral Jam",
+    "Date": "11/1/2025",
+    "Team 1": "St. Matthew",
+    "Team 2": "St. Joan of Arc",
+    "T1 Score": 45,
+    "T2 Score": 20
+  },
+  {
+    "Type": "Cathedral Jam",
+    "Date": "11/1/2025",
+    "Team 1": "St. Matthew",
+    "Team 2": "St. Francis & Clare",
+    "T1 Score": 40,
+    "T2 Score": 30
+  },
+  {
+    "Type": "OLL Jam",
+    "Date": "11/9/2025",
+    "Team 1": "St. Pius",
+    "Team 2": "IHM",
+    "T1 Score": 48,
+    "T2 Score": 40
+  },
+  {
+    "Type": "OLL Jam",
+    "Date": "11/9/2025",
+    "Team 1": "IHM",
+    "Team 2": "St. Matthew",
+    "T1 Score": 38,
+    "T2 Score": 32
+  },
+  {
+    "Type": "Season",
+    "Date": "11/15/2025",
+    "Team 1": "IHM",
+    "Team 2": "St. LDM",
+    "T1 Score": 24,
+    "T2 Score": 22
+  },
+  {
+    "Type": "Season",
+    "Date": "11/15/2025",
+    "Team 1": "Holy Name",
+    "Team 2": "St. Joan of Arc",
+    "T1 Score": 14,
+    "T2 Score": 52
+  },
+  {
+    "Type": "Season",
+    "Date": "11/15/2025",
+    "Team 1": "St. Christopher",
+    "Team 2": "St. Roch",
+    "T1 Score": 16,
+    "T2 Score": 19
+  },
+  {
+    "Type": "Season",
+    "Date": "11/15/2025",
+    "Team 1": "Nativity",
+    "Team 2": "St. Maria Goretti",
+    "T1 Score": 25,
+    "T2 Score": 29
+  },
+  {
+    "Type": "Season",
+    "Date": "11/15/2025",
+    "Team 1": "St. Philip",
+    "Team 2": "St. Susanna",
+    "T1 Score": 8,
+    "T2 Score": 40
+  },
+  {
+    "Type": "Season",
+    "Date": "11/16/2025",
+    "Team 1": "Mount Carmel",
+    "Team 2": "St. Luke",
+    "T1 Score": 49,
+    "T2 Score": 29
+  },
+  {
+    "Type": "Season",
+    "Date": "11/16/2025",
+    "Team 1": "St. Charles",
+    "Team 2": "St. Simon",
+    "T1 Score": 7,
+    "T2 Score": 49
+  },
+  {
+    "Type": "Season",
+    "Date": "11/16/2025",
+    "Team 1": "OLL",
+    "Team 2": "St. Mark",
+    "T1 Score": 47,
+    "T2 Score": 7
+  },
+  {
+    "Type": "Season",
+    "Date": "11/16/2025",
+    "Team 1": "Christ the King",
+    "Team 2": "St. Jude",
+    "T1 Score": 43,
+    "T2 Score": 35
+  },
+  {
+    "Type": "Season",
+    "Date": "11/16/2025",
+    "Team 1": "St. Francis & Clare",
+    "Team 2": "St. Thomas",
+    "T1 Score": 13,
+    "T2 Score": 35
+  },
+  {
+    "Type": "Season",
+    "Date": "11/16/2025",
+    "Team 1": "OL Grace",
+    "Team 2": "St. Matthew",
+    "T1 Score": 47,
+    "T2 Score": 23
+  },
+  {
+    "Type": "Season",
+    "Date": "11/16/2025",
+    "Team 1": "Little Flower",
+    "Team 2": "St. Michael Greenfield",
+    "T1 Score": 30,
+    "T2 Score": 9
+  },
+  {
+    "Type": "Season",
+    "Date": "11/17/2025",
+    "Team 1": "OL Greenwood",
+    "Team 2": "St. Anthony",
+    "T1 Score": 38,
+    "T2 Score": 6
+  },
+  {
+    "Type": "Season",
+    "Date": "11/19/2025",
+    "Team 1": "St. Barnabas",
+    "Team 2": "St. Pius",
+    "T1 Score": 44,
+    "T2 Score": 47
+  },
+  {
+    "Type": "Season",
+    "Date": "11/20/2025",
+    "Team 1": "Holy Spirit Geist",
+    "Team 2": "St. Roch",
+    "T1 Score": 29,
+    "T2 Score": 22
+  },
+  {
+    "Type": "Season",
+    "Date": "11/20/2025",
+    "Team 1": "St. Rose",
+    "Team 2": "St. Anthony",
+    "T1 Score": 10,
+    "T2 Score": 18
+  },
+  {
+    "Type": "Season",
+    "Date": "11/20/2025",
+    "Team 1": "IHM",
+    "Team 2": "St. Luke",
+    "T1 Score": 43,
+    "T2 Score": 42
+  },
+  {
+    "Type": "Season",
+    "Date": "11/22/2025",
+    "Team 1": "Mount Carmel",
+    "Team 2": "St. Simon",
+    "T1 Score": 55,
+    "T2 Score": 42
+  },
+  {
+    "Type": "Season",
+    "Date": "11/22/2025",
+    "Team 1": "St. Barnabas",
+    "Team 2": "St. Charles",
+    "T1 Score": 45,
+    "T2 Score": 14
+  },
+  {
+    "Type": "Season",
+    "Date": "11/22/2025",
+    "Team 1": "OLL",
+    "Team 2": "St. Christopher",
+    "T1 Score": 31,
+    "T2 Score": 30
+  },
+  {
+    "Type": "Season",
+    "Date": "11/22/2025",
+    "Team 1": "Christ the King",
+    "Team 2": "St. Maria Goretti",
+    "T1 Score": 28,
+    "T2 Score": 40
+  },
+  {
+    "Type": "Season",
+    "Date": "11/22/2025",
+    "Team 1": "OL Grace",
+    "Team 2": "St. Francis & Clare",
+    "T1 Score": 47,
+    "T2 Score": 19
+  },
+  {
+    "Type": "Season",
+    "Date": "11/22/2025",
+    "Team 1": "St. Jude",
+    "Team 2": "St. Matthew",
+    "T1 Score": 22,
+    "T2 Score": 41
+  },
+  {
+    "Type": "Season",
+    "Date": "11/22/2025",
+    "Team 1": "St. Philip",
+    "Team 2": "OL Greenwood",
+    "T1 Score": 8,
+    "T2 Score": 40
+  },
+  {
+    "Type": "Season",
+    "Date": "11/22/2025",
+    "Team 1": "St. Susanna",
+    "Team 2": "St. Michael Greenfield",
+    "T1 Score": 27,
+    "T2 Score": 6
+  },
+  {
+    "Type": "Season",
+    "Date": "11/23/2025",
+    "Team 1": "St. LDM",
+    "Team 2": "St. Pius",
+    "T1 Score": 38,
+    "T2 Score": 43
+  },
+  {
+    "Type": "Season",
+    "Date": "11/23/2025",
+    "Team 1": "Holy Name",
+    "Team 2": "St. Malachy",
+    "T1 Score": 23,
+    "T2 Score": 47
+  },
+  {
+    "Type": "Season",
+    "Date": "11/23/2025",
+    "Team 1": "St. Joan of Arc",
+    "Team 2": "St. Mark",
+    "T1 Score": 52,
+    "T2 Score": 10
+  },
+  {
+    "Type": "Season",
+    "Date": "12/3/2025",
+    "Team 1": "OL Greenwood",
+    "Team 2": "St. Rose",
+    "T1 Score": 41,
+    "T2 Score": 16
+  },
+  {
+    "Type": "Season",
+    "Date": "12/4/2025",
+    "Team 1": "IHM",
+    "Team 2": "St. Pius",
+    "T1 Score": 31,
+    "T2 Score": 22
+  },
+  {
+    "Type": "Season",
+    "Date": "12/6/2025",
+    "Team 1": "St. Luke",
+    "Team 2": "St. Simon",
+    "T1 Score": 22,
+    "T2 Score": 30
+  },
+  {
+    "Type": "Season",
+    "Date": "12/6/2025",
+    "Team 1": "St. Malachy",
+    "Team 2": "St. Roch",
+    "T1 Score": 34,
+    "T2 Score": 31
+  },
+  {
+    "Type": "Season",
+    "Date": "12/6/2025",
+    "Team 1": "St. Joan of Arc",
+    "Team 2": "St. Christopher",
+    "T1 Score": 34,
+    "T2 Score": 21
+  },
+  {
+    "Type": "Season",
+    "Date": "12/6/2025",
+    "Team 1": "St. Matthew",
+    "Team 2": "St. Francis & Clare",
+    "T1 Score": 33,
+    "T2 Score": 13
+  },
+  {
+    "Type": "Season",
+    "Date": "12/6/2025",
+    "Team 1": "St. Maria Goretti",
+    "Team 2": "OL Grace",
+    "T1 Score": 20,
+    "T2 Score": 33
+  },
+  {
+    "Type": "Season",
+    "Date": "12/7/2025",
+    "Team 1": "Mount Carmel",
+    "Team 2": "St. Barnabas",
+    "T1 Score": 41,
+    "T2 Score": 28
+  },
+  {
+    "Type": "Season",
+    "Date": "12/7/2025",
+    "Team 1": "Holy Spirit Geist",
+    "Team 2": "OLL",
+    "T1 Score": 47,
+    "T2 Score": 19
+  },
+  {
+    "Type": "Season",
+    "Date": "12/7/2025",
+    "Team 1": "St. Jude",
+    "Team 2": "Nativity",
+    "T1 Score": 24,
+    "T2 Score": 28
+  },
+  {
+    "Type": "Season",
+    "Date": "12/7/2025",
+    "Team 1": "St. Anthony",
+    "Team 2": "St. Susanna",
+    "T1 Score": 4,
+    "T2 Score": 36
+  },
+  {
+    "Type": "Season",
+    "Date": "12/10/2025",
+    "Team 1": "St. Joan of Arc",
+    "Team 2": "Holy Spirit Geist",
+    "T1 Score": 27,
+    "T2 Score": 40
+  },
+  {
+    "Type": "Season",
+    "Date": "12/13/2025",
+    "Team 1": "IHM",
+    "Team 2": "St. Simon",
+    "T1 Score": 33,
+    "T2 Score": 46
+  },
+  {
+    "Type": "Season",
+    "Date": "12/13/2025",
+    "Team 1": "St. LDM",
+    "Team 2": "Mount Carmel",
+    "T1 Score": 26,
+    "T2 Score": 48
+  },
+  {
+    "Type": "Season",
+    "Date": "12/13/2025",
+    "Team 1": "St. Mark",
+    "Team 2": "St. Christopher",
+    "T1 Score": 10,
+    "T2 Score": 28
+  },
+  {
+    "Type": "Season",
+    "Date": "12/13/2025",
+    "Team 1": "Christ the King",
+    "Team 2": "St. Matthew",
+    "T1 Score": 36,
+    "T2 Score": 32
+  },
+  {
+    "Type": "Season",
+    "Date": "12/13/2025",
+    "Team 1": "Nativity",
+    "Team 2": "OL Grace",
+    "T1 Score": 21,
+    "T2 Score": 57
+  },
+  {
+    "Type": "Season",
+    "Date": "12/13/2025",
+    "Team 1": "Little Flower",
+    "Team 2": "St. Susanna",
+    "T1 Score": 23,
+    "T2 Score": 27
+  },
+  {
+    "Type": "Season",
+    "Date": "12/16/2025",
+    "Team 1": "St. Luke",
+    "Team 2": "St. LDM",
+    "T1 Score": 38,
+    "T2 Score": 36
+  },
+  {
+    "Type": "Season",
+    "Date": "12/16/2025",
+    "Team 1": "St. Thomas",
+    "Team 2": "OL Grace",
+    "T1 Score": 27,
+    "T2 Score": 28
+  },
+  {
+    "Type": "Season",
+    "Date": "12/16/2025",
+    "Team 1": "St. Monica",
+    "Team 2": "St. Anthony",
+    "T1 Score": 36,
+    "T2 Score": 5
+  },
+  {
+    "Type": "Season",
+    "Date": "12/17/2025",
+    "Team 1": "St. Mark",
+    "Team 2": "Holy Spirit Geist",
+    "T1 Score": 11,
+    "T2 Score": 39
+  },
+  {
+    "Type": "Season",
+    "Date": "12/17/2025",
+    "Team 1": "Holy Spirit Indy",
+    "Team 2": "OL Greenwood",
+    "T1 Score": 8,
+    "T2 Score": 56
+  },
+  {
+    "Type": "Season",
+    "Date": "12/18/2025",
+    "Team 1": "Holy Spirit Indy",
+    "Team 2": "St. Susanna",
+    "T1 Score": 9,
+    "T2 Score": 31
+  },
+  {
+    "Type": "Season",
+    "Date": "12/18/2025",
+    "Team 1": "Little Flower",
+    "Team 2": "OL Greenwood",
+    "T1 Score": 26,
+    "T2 Score": 38
+  },
+  {
+    "Type": "Season",
+    "Date": "12/18/2025",
+    "Team 1": "St. Malachy",
+    "Team 2": "St. Christopher",
+    "T1 Score": 39,
+    "T2 Score": 22
+  },
+  {
+    "Type": "Season",
+    "Date": "12/20/2025",
+    "Team 1": "OLL",
+    "Team 2": "St. Roch",
+    "T1 Score": 19,
+    "T2 Score": 22
+  },
+  {
+    "Type": "Season",
+    "Date": "12/20/2025",
+    "Team 1": "IHM",
+    "Team 2": "St. Charles",
+    "T1 Score": 60,
+    "T2 Score": 10
+  },
+  {
+    "Type": "Season",
+    "Date": "12/20/2025",
+    "Team 1": "St. Maria Goretti",
+    "Team 2": "St. Jude",
+    "T1 Score": 44,
+    "T2 Score": 21
+  },
+  {
+    "Type": "Season",
+    "Date": "12/20/2025",
+    "Team 1": "Christ the King",
+    "Team 2": "St. Francis & Clare",
+    "T1 Score": 18,
+    "T2 Score": 23
+  },
+  {
+    "Type": "Season",
+    "Date": "12/20/2025",
+    "Team 1": "St. Matthew",
+    "Team 2": "Nativity",
+    "T1 Score": 33,
+    "T2 Score": 45
+  },
+  {
+    "Type": "Season",
+    "Date": "12/20/2025",
+    "Team 1": "St. Philip",
+    "Team 2": "St. Michael Greenfield",
+    "T1 Score": 14,
+    "T2 Score": 21
+  },
+  {
+    "Type": "Season",
+    "Date": "12/21/2025",
+    "Team 1": "Mount Carmel",
+    "Team 2": "St. Pius",
+    "T1 Score": 42,
+    "T2 Score": 17
+  },
+  {
+    "Type": "Season",
+    "Date": "12/21/2025",
+    "Team 1": "St. Malachy",
+    "Team 2": "St. Joan of Arc",
+    "T1 Score": 42,
+    "T2 Score": 35
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/22/2025",
+    "Team 1": "Holy Spirit Indy",
+    "Team 2": "St. Luke",
+    "T1 Score": 9,
+    "T2 Score": 49
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/22/2025",
+    "Team 1": "St. Joan of Arc",
+    "Team 2": "St. Barnabas",
+    "T1 Score": 15,
+    "T2 Score": 45
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/23/2025",
+    "Team 1": "OLL",
+    "Team 2": "St. Luke",
+    "T1 Score": 23,
+    "T2 Score": 34
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/23/2025",
+    "Team 1": "St. Matthew",
+    "Team 2": "St. Barnabas",
+    "T1 Score": 20,
+    "T2 Score": 36
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/23/2025",
+    "Team 1": "St. LDM",
+    "Team 2": "Christ the King",
+    "T1 Score": 35,
+    "T2 Score": 25
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/23/2025",
+    "Team 1": "St. Rose",
+    "Team 2": "St. Pius",
+    "T1 Score": 3,
+    "T2 Score": 48
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/26/2025",
+    "Team 1": "IHM",
+    "Team 2": "St. Pius",
+    "T1 Score": 45,
+    "T2 Score": 20
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/26/2025",
+    "Team 1": "OL Grace",
+    "Team 2": "St. LDM",
+    "T1 Score": 35,
+    "T2 Score": 23
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/26/2025",
+    "Team 1": "St. Matthew",
+    "Team 2": "Christ the King",
+    "T1 Score": 51,
+    "T2 Score": 25
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/26/2025",
+    "Team 1": "OLL",
+    "Team 2": "St. Rose",
+    "T1 Score": 33,
+    "T2 Score": 7
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/27/2025",
+    "Team 1": "St. Joan of Arc",
+    "Team 2": "St. LDM",
+    "T1 Score": 7,
+    "T2 Score": 40
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/27/2025",
+    "Team 1": "Holy Spirit Indy",
+    "Team 2": "St. Pius",
+    "T1 Score": 9,
+    "T2 Score": 40
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/27/2025",
+    "Team 1": "OLL",
+    "Team 2": "St. Matthew",
+    "T1 Score": 17,
+    "T2 Score": 36
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/27/2025",
+    "Team 1": "St. Pius",
+    "Team 2": "St. LDM",
+    "T1 Score": 45,
+    "T2 Score": 30
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/27/2025",
+    "Team 1": "St. Luke",
+    "Team 2": "St. Barnabas",
+    "T1 Score": 17,
+    "T2 Score": 24
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/27/2025",
+    "Team 1": "OL Grace",
+    "Team 2": "IHM",
+    "T1 Score": 40,
+    "T2 Score": 30
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/28/2025",
+    "Team 1": "St. Pius",
+    "Team 2": "St. Luke",
+    "T1 Score": 39,
+    "T2 Score": 30
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/28/2025",
+    "Team 1": "IHM",
+    "Team 2": "St. Matthew",
+    "T1 Score": 44,
+    "T2 Score": 30
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/28/2025",
+    "Team 1": "St. Pius",
+    "Team 2": "IHM",
+    "T1 Score": 34,
+    "T2 Score": 32
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/29/2025",
+    "Team 1": "St. Barnabas",
+    "Team 2": "OL Grace",
+    "T1 Score": 37,
+    "T2 Score": 38
+  },
+  {
+    "Type": "Holiday",
+    "Date": "12/29/2025",
+    "Team 1": "St. Pius",
+    "Team 2": "St. Barnabas",
+    "T1 Score": 24,
+    "T2 Score": 26
+  },
+  {
+    "Type": "Season",
+    "Date": "12/30/2025",
+    "Team 1": "OLL",
+    "Team 2": "St. Malachy",
+    "T1 Score": 22,
+    "T2 Score": 45
+  },
+  {
+    "Type": "Season",
+    "Date": "1/3/2026",
+    "Team 1": "St. Simon",
+    "Team 2": "St. LDM",
+    "T1 Score": 33,
+    "T2 Score": 31
+  },
+  {
+    "Type": "Season",
+    "Date": "1/3/2026",
+    "Team 1": "St. Pius",
+    "Team 2": "St. Luke",
+    "T1 Score": 43,
+    "T2 Score": 28
+  },
+  {
+    "Type": "Season",
+    "Date": "1/3/2026",
+    "Team 1": "IHM",
+    "Team 2": "St. Barnabas",
+    "T1 Score": 33,
+    "T2 Score": 21
+  },
+  {
+    "Type": "Season",
+    "Date": "1/4/2026",
+    "Team 1": "St. Charles",
+    "Team 2": "Mount Carmel",
+    "T1 Score": 25,
+    "T2 Score": 55
+  },
+  {
+    "Type": "Season",
+    "Date": "1/3/2026",
+    "Team 1": "St. Mark",
+    "Team 2": "St. Malachy",
+    "T1 Score": 4,
+    "T2 Score": 38
+  },
+  {
+    "Type": "Season",
+    "Date": "1/3/2026",
+    "Team 1": "Holy Spirit Geist",
+    "Team 2": "St. Malachy",
+    "T1 Score": 43,
+    "T2 Score": 46
+  },
+  {
+    "Type": "Season",
+    "Date": "1/4/2026",
+    "Team 1": "Holy Name",
+    "Team 2": "OLL",
+    "T1 Score": 34,
+    "T2 Score": 27
+  },
+  {
+    "Type": "Season",
+    "Date": "1/7/2026",
+    "Team 1": "St. Roch",
+    "Team 2": "St. Joan of Arc",
+    "T1 Score": 20,
+    "T2 Score": 30
+  },
+  {
+    "Type": "Season",
+    "Date": "1/3/2026",
+    "Team 1": "St. Jude",
+    "Team 2": "St. Francis & Clare",
+    "T1 Score": 24,
+    "T2 Score": 38
+  },
+  {
+    "Type": "Season",
+    "Date": "1/4/2026",
+    "Team 1": "St. Matthew",
+    "Team 2": "St. Maria Goretti",
+    "T1 Score": 36,
+    "T2 Score": 38
+  },
+  {
+    "Type": "Season",
+    "Date": "1/5/2026",
+    "Team 1": "St. Francis & Clare",
+    "Team 2": "Nativity",
+    "T1 Score": 32,
+    "T2 Score": 34
+  },
+  {
+    "Type": "Season",
+    "Date": "1/6/2026",
+    "Team 1": "Christ the King",
+    "Team 2": "OL Grace",
+    "T1 Score": 40,
+    "T2 Score": 61
+  },
+  {
+    "Type": "Season",
+    "Date": "1/3/2026",
+    "Team 1": "Holy Spirit Indy",
+    "Team 2": "St. Michael Greenfield",
+    "T1 Score": 15,
+    "T2 Score": 16
+  },
+  {
+    "Type": "Season",
+    "Date": "1/5/2026",
+    "Team 1": "St. Rose",
+    "Team 2": "Little Flower",
+    "T1 Score": 17,
+    "T2 Score": 31
+  },
+  {
+    "Type": "Season",
+    "Date": "1/5/2026",
+    "Team 1": "St. Susanna",
+    "Team 2": "OL Greenwood",
+    "T1 Score": 24,
+    "T2 Score": 22
+  },
+  {
+    "Type": "Season",
+    "Date": "1/6/2026",
+    "Team 1": "St. Anthony",
+    "Team 2": "Little Flower",
+    "T1 Score": 4,
+    "T2 Score": 55
+  },
+  {
+    "Type": "Season",
+    "Date": "1/7/2026",
+    "Team 1": "St. Susanna",
+    "Team 2": "St. Monica",
+    "T1 Score": 20,
+    "T2 Score": 18
+  },
+  {
+    "Type": "Season",
+    "Date": "1/8/2026",
+    "Team 1": "Holy Spirit Indy",
+    "Team 2": "St. Anthony",
+    "T1 Score": 31,
+    "T2 Score": 6
+  },
+  {
+    "Type": "Season",
+    "Date": "1/11/2026",
+    "Team 1": "OLL",
+    "Team 2": "St. Joan of Arc",
+    "T1 Score": 34,
+    "T2 Score": 32
+  },
+  {
+    "Type": "Season",
+    "Date": "1/11/2026",
+    "Team 1": "IHM",
+    "Team 2": "Mount Carmel",
+    "T1 Score": 22,
+    "T2 Score": 18
+  },
+  {
+    "Type": "Season",
+    "Date": "1/11/2026",
+    "Team 1": "St. Simon",
+    "Team 2": "St. Pius",
+    "T1 Score": 44,
+    "T2 Score": 40
+  },
+  {
+    "Type": "Season",
+    "Date": "1/10/2026",
+    "Team 1": "St. Francis & Clare",
+    "Team 2": "St. Maria Goretti",
+    "T1 Score": 25,
+    "T2 Score": 28
+  },
+  {
+    "Type": "Season",
+    "Date": "1/11/2026",
+    "Team 1": "Christ the King",
+    "Team 2": "Nativity",
+    "T1 Score": 18,
+    "T2 Score": 48
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Mark",
+    "Team 2": "St. Anthony",
+    "T1 Score": 21,
+    "T2 Score": 10
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Malachy",
+    "Team 2": "St. Mark",
+    "T1 Score": 51,
+    "T2 Score": 7
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "OLL",
+    "Team 2": "Holy Name",
+    "T1 Score": 33,
+    "T2 Score": 37
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Philip",
+    "Team 2": "St. Monica",
+    "T1 Score": 4,
+    "T2 Score": 44
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Rose",
+    "Team 2": "St. Susanna",
+    "T1 Score": 6,
+    "T2 Score": 40
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "Holy Spirit Geist",
+    "Team 2": "St. Michael Greenfield",
+    "T1 Score": 43,
+    "T2 Score": 12
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Joan of Arc",
+    "Team 2": "OL Greenwood",
+    "T1 Score": 52,
+    "T2 Score": 33
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "Holy Spirit Indy",
+    "Team 2": "St. Christopher",
+    "T1 Score": 19,
+    "T2 Score": 48
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "Little Flower",
+    "Team 2": "St. Roch",
+    "T1 Score": 15,
+    "T2 Score": 51
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Malachy",
+    "Team 2": "Holy Name",
+    "T1 Score": 37,
+    "T2 Score": 20
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Monica",
+    "Team 2": "St. Susanna",
+    "T1 Score": 36,
+    "T2 Score": 29
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "Holy Spirit Geist",
+    "Team 2": "St. Joan of Arc",
+    "T1 Score": 51,
+    "T2 Score": 42
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Christopher",
+    "Team 2": "St. Roch",
+    "T1 Score": 44,
+    "T2 Score": 36
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Malachy",
+    "Team 2": "St. Monica",
+    "T1 Score": 55,
+    "T2 Score": 23
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "Holy Spirit Geist",
+    "Team 2": "St. Christopher",
+    "T1 Score": 46,
+    "T2 Score": 34
+  },
+  {
+    "Type": "Postseason",
+    "Date": "Final National",
+    "Team 1": "St. Malachy",
+    "Team 2": "Holy Spirit Geist",
+    "T1 Score": 36,
+    "T2 Score": 48
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Charles",
+    "Team 2": "St. Pius",
+    "T1 Score": 19,
+    "T2 Score": 48
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Thomas",
+    "Team 2": "St. Matthew",
+    "T1 Score": 38,
+    "T2 Score": 37
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Francis & Clare",
+    "Team 2": "IHM",
+    "T1 Score": 8,
+    "T2 Score": 48
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "Christ the King",
+    "Team 2": "St. Jude",
+    "T1 Score": 38,
+    "T2 Score": 31
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Maria Goretti",
+    "Team 2": "Nativity",
+    "T1 Score": 22,
+    "T2 Score": 31
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. LDM",
+    "Team 2": "Mount Carmel",
+    "T1 Score": 30,
+    "T2 Score": 53
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "OL Grace",
+    "Team 2": "St. Simon",
+    "T1 Score": 32,
+    "T2 Score": 39
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Barnabas",
+    "Team 2": "St. Luke",
+    "T1 Score": 34,
+    "T2 Score": 24
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Pius",
+    "Team 2": "St. Thomas",
+    "T1 Score": 34,
+    "T2 Score": 32
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "IHM",
+    "Team 2": "Christ the King",
+    "T1 Score": 46,
+    "T2 Score": 25
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "Nativity",
+    "Team 2": "Mount Carmel",
+    "T1 Score": 24,
+    "T2 Score": 36
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Simon",
+    "Team 2": "St. Barnabas",
+    "T1 Score": 36,
+    "T2 Score": 30
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Pius",
+    "Team 2": "IHM",
+    "T1 Score": 26,
+    "T2 Score": 34
+  },
+  {
+    "Type": "Postseason",
+    "Date": "",
+    "Team 1": "St. Simon",
+    "Team 2": "Mount Carmel",
+    "T1 Score": 22,
+    "T2 Score": 36
+  },
+  {
+    "Type": "Postseason",
+    "Date": "Final American",
+    "Team 1": "IHM",
+    "Team 2": "Mount Carmel",
+    "T1 Score": 31,
+    "T2 Score": 37
+  }
+]

@@ -6,6 +6,7 @@ useHead({ title: 'Standings' })
 const seasons = activeSeasons().map(s => s.season)
 const season = ref(seasons[0] ?? '')
 const showAllDivisions = ref(false)
+const { sortKey, sortDir, toggle, sortBy } = useColumnSort()
 
 watch(season, () => { showAllDivisions.value = false })
 
@@ -31,6 +32,20 @@ function visibleDivisions (rows: typeof data.standings[number]['rows']) {
   if (showAllDivisions.value) return divisions(rows)
   const ours = oursDivisions(rows)
   return ours.length ? ours : divisions(rows)
+}
+
+function sortedDivision (rows: typeof data.standings[number]['rows']) {
+  const placed = rows.map((row, i) => ({ ...row, place: i + 1 }))
+  return sortBy(placed, row => {
+    switch (sortKey.value) {
+      case 'place': return row.place
+      case 'team': return row.team
+      case 'wins': return row.wins
+      case 'losses': return row.losses
+      case 'draws': return row.draws
+      default: return row.place
+    }
+  })
 }
 
 const extraDivisionCount = computed(() =>
@@ -65,13 +80,19 @@ const extraDivisionCount = computed(() =>
       <div class="card table-wrap">
         <table>
           <thead>
-            <tr><th class="rank">#</th><th>Team</th><th class="num">W</th><th class="num">L</th><th class="num">T</th></tr>
+            <tr>
+              <SortTh class="rank" label="#" column="place" :current="sortKey" :dir="sortDir" @sort="toggle('place', 'asc')" />
+              <SortTh label="Team" column="team" :current="sortKey" :dir="sortDir" @sort="toggle('team', 'asc')" />
+              <SortTh label="W" column="wins" numeric :current="sortKey" :dir="sortDir" @sort="toggle('wins', 'desc')" />
+              <SortTh label="L" column="losses" numeric :current="sortKey" :dir="sortDir" @sort="toggle('losses', 'desc')" />
+              <SortTh label="T" column="draws" numeric :current="sortKey" :dir="sortDir" @sort="toggle('draws', 'desc')" />
+            </tr>
           </thead>
           <tbody>
             <template v-for="[div, rows] in visibleDivisions(t.rows)" :key="div">
               <tr v-if="div" class="divider"><td colspan="5">Division {{ div }}</td></tr>
-              <tr v-for="(r, i) in rows" :key="div + r.team" :class="{ 'is-ours': isOurs(r.team) }">
-                <td class="rank">{{ i + 1 }}</td>
+              <tr v-for="r in sortedDivision(rows)" :key="div + r.team" :class="{ 'is-ours': isOurs(r.team) }">
+                <td class="rank">{{ r.place }}</td>
                 <td>{{ displayTeam(r.team, t.season, t.league) }}</td>
                 <td class="num">{{ r.wins }}</td>
                 <td class="num">{{ r.losses }}</td>

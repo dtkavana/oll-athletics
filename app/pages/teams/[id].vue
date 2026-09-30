@@ -19,11 +19,22 @@ const playedTournament = computed(() => {
 })
 
 /** Standings for this team's league, narrowed to its own division. */
+const { sortKey, sortDir, toggle, sortBy } = useColumnSort()
+
 const standings = computed(() => {
   const table = data.standings.find(s => s.season === team.value!.season && s.league === team.value!.league)
   if (!table) return []
   const mine = table.rows.filter(r => r.division === team.value!.division)
-  return mine.length ? mine : table.rows
+  const rows = mine.length ? mine : table.rows
+  return sortBy(rows, row => {
+    switch (sortKey.value) {
+      case 'team': return row.team
+      case 'wins': return row.wins
+      case 'losses': return row.losses
+      case 'draws': return row.draws
+      default: return 0
+    }
+  })
 })
 
 const icsUrl = computed(() => publicUrl(`ics/${team.value!.id}.ics`))
@@ -75,7 +86,12 @@ const icsUrl = computed(() => publicUrl(`ics/${team.value!.id}.ics`))
       <div class="card table-wrap">
         <table>
           <thead>
-            <tr><th>Team</th><th class="num">W</th><th class="num">L</th><th class="num">T</th></tr>
+            <tr>
+              <SortTh label="Team" column="team" :current="sortKey" :dir="sortDir" @sort="toggle('team', 'asc')" />
+              <SortTh label="W" column="wins" numeric :current="sortKey" :dir="sortDir" @sort="toggle('wins', 'desc')" />
+              <SortTh label="L" column="losses" numeric :current="sortKey" :dir="sortDir" @sort="toggle('losses', 'desc')" />
+              <SortTh label="T" column="draws" numeric :current="sortKey" :dir="sortDir" @sort="toggle('draws', 'desc')" />
+            </tr>
           </thead>
           <tbody>
             <tr v-for="r in standings" :key="r.team" :class="{ 'is-ours': isOurs(r.team) }">

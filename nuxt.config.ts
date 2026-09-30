@@ -21,6 +21,12 @@ export default defineNuxtConfig({
     '~/assets/css/main.css'
   ],
 
+  routeRules: {
+    '/football-ratings': { redirect: '/2026/football' },
+    '/volleyball-ratings': { redirect: '/2026/volleyball' },
+    '/basketball-ratings': { redirect: '/2025-26/basketball' }
+  },
+
   nitro: {
     prerender: {
       crawlLinks: true,
@@ -28,6 +34,7 @@ export default defineNuxtConfig({
       // Dynamic team pages and calendar feeds are not reachable by crawling alone.
       routes: [
         '/', '/calendar', '/scores', '/standings', '/teams', '/watch',
+        '/2026/volleyball', '/2026/football', '/2025-26/basketball',
         '/ics/all-games.ics',
         ...teamIds.map(id => `/teams/${id}`),
         ...teamIds.map(id => `/ics/${id}.ics`)
