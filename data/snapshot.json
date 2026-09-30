@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-30T15:25:27.567Z",
+  "scrapedAt": "2026-09-30T16:24:14.948Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2729,16 +2729,16 @@
         },
         {
           "division": "2A",
-          "team": "St. Malachy-Green",
+          "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "Immac. Heart-Blue",
-          "wins": 1,
-          "losses": 1,
+          "team": "St. Malachy-Green",
+          "wins": 2,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2759,6 +2759,13 @@
           "division": "2A",
           "team": "St. Roch-Blue",
           "wins": 0,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "Holy Name-Gold",
+          "wins": 0,
           "losses": 2,
           "draws": 0
         },
@@ -2767,13 +2774,6 @@
           "team": "St. Pius X-Purple",
           "wins": 0,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Holy Name-Gold",
-          "wins": 0,
-          "losses": 2,
           "draws": 0
         },
         {
