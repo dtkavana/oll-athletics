@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-30T08:24:20.482Z",
+  "scrapedAt": "2026-09-30T15:25:27.567Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2296,16 +2296,16 @@
       "rows": [
         {
           "division": "1A",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 2,
-          "losses": 1,
+          "team": "Immac. Heart-Blue",
+          "wins": 3,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "Immac. Heart-Blue",
+          "team": "St. Maria Gor.-Navy",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2345,21 +2345,21 @@
         },
         {
           "division": "1A",
-          "team": "St. Luke-Royal",
+          "team": "St. Pius X-Purple",
           "wins": 0,
           "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Luke-Royal",
+          "wins": 0,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Pius X-White",
-          "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-Purple",
           "wins": 0,
           "losses": 2,
           "draws": 0
@@ -2535,7 +2535,7 @@
         {
           "division": "2N",
           "team": "St. Malachy-White",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "draws": 0
         },
@@ -2571,7 +2571,7 @@
           "division": "2N",
           "team": "OL Greenwood-Green",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2911,7 +2911,7 @@
         {
           "division": "1N",
           "team": "St. Jude-Gold",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -2975,21 +2975,21 @@
           "division": "1N",
           "team": "St. Luke-Blue",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Charles-Red",
+          "wins": 3,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Jude-Red",
           "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Charles-Red",
-          "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2997,6 +2997,13 @@
           "team": "St. Luke-Gold",
           "wins": 2,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Simon-White",
+          "wins": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3022,13 +3029,6 @@
         },
         {
           "division": "2A",
-          "team": "St. Simon-White",
-          "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Roch-Gold",
           "wins": 0,
           "losses": 2,
@@ -3036,16 +3036,16 @@
         },
         {
           "division": "2A",
-          "team": "Mount Carmel-Navy",
+          "team": "St. Pius X-Gold",
           "wins": 0,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Pius X-Gold",
+          "team": "Mount Carmel-Navy",
           "wins": 0,
-          "losses": 2,
+          "losses": 1,
           "draws": 0
         },
         {
