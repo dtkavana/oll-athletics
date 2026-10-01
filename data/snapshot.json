@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-01T17:00:55.903Z",
+  "scrapedAt": "2026-10-01T21:47:33.422Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1059,15 +1059,15 @@
       "rows": [
         {
           "division": "A",
-          "team": "St. Matthew-White",
+          "team": "Nativity-Red",
           "wins": 3,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "A",
-          "team": "Nativity-Red",
-          "wins": 2,
+          "team": "St. Matthew-White",
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -1089,7 +1089,7 @@
           "division": "A",
           "team": "St. Maria Gor.-Navy",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2116,7 +2116,7 @@
         {
           "division": "1N",
           "team": "St. Monica-Black",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -2131,7 +2131,7 @@
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {

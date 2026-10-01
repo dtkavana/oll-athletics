@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-01T15:04:03.553Z",
+  "scrapedAt": "2026-10-01T21:47:33.422Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -488,15 +488,15 @@
       "rows": [
         {
           "division": "A",
-          "team": "St. Matthew-White",
+          "team": "Nativity-Red",
           "wins": 3,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "A",
-          "team": "Nativity-Red",
-          "wins": 2,
+          "team": "St. Matthew-White",
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -518,7 +518,7 @@
           "division": "A",
           "team": "St. Maria Gor.-Navy",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {

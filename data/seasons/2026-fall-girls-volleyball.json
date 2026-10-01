@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-01T17:00:55.903Z",
+  "scrapedAt": "2026-10-01T21:47:33.422Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1168,7 +1168,7 @@
         {
           "division": "1N",
           "team": "St. Monica-Black",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -1183,7 +1183,7 @@
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
