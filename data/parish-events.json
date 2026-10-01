@@ -10,20 +10,29 @@
       "note": "A player must be present at one of the two dates to be considered for the A team."
     },
     {
-      "date": "2026-09-30",
-      "title": "Boys Basketball Cadet Evaluations",
-      "startTime": "18:00",
-      "endTime": "19:30",
-      "venue": null,
+      "date": "2026-10-03",
+      "title": "Boys Basketball 5/6 Evaluations",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "venue": "Scecina High School",
       "sport": "Boys grade school basketball",
       "note": "A player must be present at one of the two dates to be considered for the A team."
     },
     {
       "date": "2026-10-03",
-      "title": "Boys Basketball 5/6 & Cadet Evaluations",
-      "startTime": "12:00",
+      "title": "Boys Basketball Cadet Evaluations",
+      "startTime": "13:00",
       "endTime": "14:00",
       "venue": "Scecina High School",
+      "sport": "Boys grade school basketball",
+      "note": "A player must be present at one of the two dates to be considered for the A team."
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Boys Basketball Cadet Evaluations",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "venue": null,
       "sport": "Boys grade school basketball",
       "note": "A player must be present at one of the two dates to be considered for the A team."
     }

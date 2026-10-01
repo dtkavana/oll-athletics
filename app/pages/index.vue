@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import {
-  data, TODAY, formatDate, formatTime, parishEvents, sportEvents, teamRecord
+  data, TODAY, formatDate, formatTime, parishEvents, sportEvents, sportOf
 } from '~/composables/useSnapshot'
 import type { SliderAnnouncement } from '~/components/NextUpSlider.vue'
 
@@ -55,15 +55,18 @@ const byDate = computed(() => {
 const recent = computed(() => data.games.filter(g => g.status === 'Played').slice(-6).reverse())
 const events = computed(() => sportEvents.filter(e => e.date >= TODAY).slice(0, 5))
 
-/** Season-wide tally across every team currently playing. */
-const tally = computed(() => {
+/** Teams that still have a game on the schedule. */
+const teamsInSeason = computed(() => {
   const live = new Set(data.games.filter(g => g.date >= TODAY).flatMap(g => g.teamIds))
-  let w = 0, l = 0, t = 0, teams = 0
-  for (const team of data.teams.filter(x => live.has(x.id))) {
-    const r = teamRecord(team)
-    w += r.w; l += r.l; t += r.t; teams++
-  }
-  return { w, l, t, teams }
+  return data.teams.filter(team => live.has(team.id)).length
+})
+
+/** Sports that still have a game on the schedule. */
+const activeSports = computed(() => {
+  const live = new Set(upcoming.value.flatMap(g => g.teamIds))
+  return new Set(
+    data.teams.filter(team => live.has(team.id)).map(team => sportOf(team.season))
+  ).size
 })
 </script>
 
@@ -74,12 +77,12 @@ const tally = computed(() => {
     <!-- ── Scoreboard strip ── -->
     <section class="strip">
       <div class="strip__cell">
-        <span class="strip__n">{{ tally.teams }}</span>
+        <span class="strip__n">{{ teamsInSeason }}</span>
         <span class="strip__l">Teams in season</span>
       </div>
       <div class="strip__cell">
-        <span class="strip__n">{{ tally.w }}<i>&ndash;</i>{{ tally.l }}<template v-if="tally.t"><i>&ndash;</i>{{ tally.t }}</template></span>
-        <span class="strip__l">Combined record</span>
+        <span class="strip__n">{{ activeSports }}</span>
+        <span class="strip__l">Active sports</span>
       </div>
       <div class="strip__cell">
         <span class="strip__n">{{ upcoming.length }}</span>
