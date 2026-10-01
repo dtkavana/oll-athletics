@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-09-28T18:09:15.719Z",
+  "scrapedAt": "2026-10-01T08:47:10.551Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -209,16 +209,16 @@
       "startTime": "10:15",
       "endTime": "11:30",
       "venue": "Central Catholic Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "34",
       "division": "AAA",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 22
       },
       "team2": {
         "name": "Johnson Co. Catholic-White",
-        "score": null
+        "score": 29
       },
       "id": "aaf1daeb1c29",
       "season": "2026 Fall Boys Football",
@@ -720,21 +720,21 @@
           "division": "AAA",
           "team": "East Side Crusaders-Red",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Johnson Co. Catholic-White",
+          "wins": 2,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "AAA",
           "team": "South Central-Black",
           "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
-          "team": "Johnson Co. Catholic-White",
-          "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
