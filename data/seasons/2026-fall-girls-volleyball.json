@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-01T15:04:03.553Z",
+  "scrapedAt": "2026-10-01T17:00:55.903Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -2109,6 +2109,13 @@
         },
         {
           "division": "2N",
+          "team": "St. Mark-Gold",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Roch-White",
           "wins": 2,
           "losses": 1,
@@ -2132,28 +2139,21 @@
           "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Michael, Indy-White",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 0,
-          "losses": 0,
+          "losses": 3,
           "draws": 0
         },
         {
