@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-01T08:47:10.551Z",
+  "scrapedAt": "2026-10-01T15:04:03.553Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -649,7 +649,7 @@
         {
           "division": "AA",
           "team": "South Central-Blue",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -692,7 +692,7 @@
           "division": "AA",
           "team": "South Central-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -752,14 +752,14 @@
       "rows": [
         {
           "division": "AA",
-          "team": "St. Simon-Royal",
-          "wins": 3,
+          "team": "St. Barnabas-Maroon",
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Barnabas-Maroon",
+          "team": "St. Simon-Royal",
           "wins": 3,
           "losses": 0,
           "draws": 0
@@ -789,7 +789,7 @@
           "division": "AA",
           "team": "Johnson Co. Catholic-Navy",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {

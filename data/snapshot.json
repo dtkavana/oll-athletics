@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-01T08:47:10.551Z",
+  "scrapedAt": "2026-10-01T15:04:03.553Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1220,7 +1220,7 @@
         {
           "division": "AA",
           "team": "South Central-Blue",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -1263,7 +1263,7 @@
           "division": "AA",
           "team": "South Central-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1323,14 +1323,14 @@
       "rows": [
         {
           "division": "AA",
-          "team": "St. Simon-Royal",
-          "wins": 3,
+          "team": "St. Barnabas-Maroon",
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Barnabas-Maroon",
+          "team": "St. Simon-Royal",
           "wins": 3,
           "losses": 0,
           "draws": 0
@@ -1360,7 +1360,7 @@
           "division": "AA",
           "team": "Johnson Co. Catholic-Navy",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2067,7 +2067,7 @@
         {
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "draws": 0
         },
@@ -2075,7 +2075,7 @@
           "division": "1A",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2743,6 +2743,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Pius X-Purple",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Barnabas-Black",
           "wins": 1,
           "losses": 1,
@@ -2766,14 +2773,7 @@
           "division": "2A",
           "team": "Holy Name-Gold",
           "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Pius X-Purple",
-          "wins": 0,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -3140,6 +3140,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Jude-Red",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Louis de Mont.-Red",
           "wins": 2,
           "losses": 0,
@@ -3150,13 +3157,6 @@
           "team": "St. Barnabas-Black",
           "wins": 1,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Jude-Red",
-          "wins": 1,
-          "losses": 0,
           "draws": 0
         },
         {
@@ -3198,7 +3198,7 @@
           "division": "1A",
           "team": "St. Simon-Blue",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3231,6 +3231,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Jude-Gold",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "Immac. Heart-White",
           "wins": 1,
           "losses": 2,
@@ -3240,7 +3247,7 @@
           "division": "1N",
           "team": "OL Of Grace-Navy",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3262,13 +3269,6 @@
           "team": "St. Luke-White",
           "wins": 0,
           "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Jude-Gold",
-          "wins": 0,
-          "losses": 1,
           "draws": 0
         },
         {
