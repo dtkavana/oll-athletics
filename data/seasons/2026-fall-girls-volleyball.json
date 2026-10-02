@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-01T21:47:33.422Z",
+  "scrapedAt": "2026-10-02T08:25:12.926Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1355,15 +1355,8 @@
         },
         {
           "division": "1A",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 2,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -1383,9 +1376,16 @@
         },
         {
           "division": "1A",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Mount Carmel-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1711,6 +1711,13 @@
         },
         {
           "division": "1N",
+          "team": "OL Of Grace-Gold",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Mark-Black",
           "wins": 3,
           "losses": 0,
@@ -1719,13 +1726,6 @@
         {
           "division": "1N",
           "team": "St. Christopher-Blue",
-          "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "OL Of Grace-Gold",
           "wins": 2,
           "losses": 0,
           "draws": 0
@@ -1755,7 +1755,7 @@
           "division": "1N",
           "team": "Little Flower-Blue",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -1983,6 +1983,13 @@
         },
         {
           "division": "1N",
+          "team": "Christ the King-Gold",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "Nativity-White",
           "wins": 2,
           "losses": 0,
@@ -1997,13 +2004,6 @@
         },
         {
           "division": "1N",
-          "team": "Christ the King-Gold",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "OL Of Grace-Navy",
           "wins": 1,
           "losses": 1,
@@ -2013,7 +2013,7 @@
           "division": "1N",
           "team": "St. Louis de Mont.-White",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2290,6 +2290,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Luke-White",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "Immac. Heart-White",
           "wins": 1,
           "losses": 2,
@@ -2313,14 +2320,7 @@
           "division": "1N",
           "team": "St. Simon-Silver",
           "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Luke-White",
-          "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2395,14 +2395,14 @@
         },
         {
           "division": "2N",
-          "team": "OL Greenwood-Green",
+          "team": "St. Mark-Gold",
           "wins": 3,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Mark-Gold",
+          "team": "OL Greenwood-Green",
           "wins": 3,
           "losses": 0,
           "draws": 0
@@ -2451,14 +2451,14 @@
         },
         {
           "division": "2N",
-          "team": "OL Lourdes-Blue",
+          "team": "Little Flower-Gold",
           "wins": 0,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "Little Flower-Gold",
+          "team": "OL Lourdes-Blue",
           "wins": 0,
           "losses": 2,
           "draws": 0

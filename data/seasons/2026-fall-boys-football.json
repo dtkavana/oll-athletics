@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-01T21:47:33.422Z",
+  "scrapedAt": "2026-10-02T08:25:12.926Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -601,7 +601,7 @@
         {
           "division": "AAA",
           "team": "Johnson Co. Catholic-White",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -623,7 +623,7 @@
           "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -655,16 +655,16 @@
         },
         {
           "division": "AA",
-          "team": "St. Matthew-White",
+          "team": "St. Maria Gor.-Red",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Maria Gor.-Red",
-          "wins": 2,
-          "losses": 1,
+          "team": "St. Matthew-White",
+          "wins": 3,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -685,7 +685,7 @@
           "division": "AA",
           "team": "St. Barnabas-Gold",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
