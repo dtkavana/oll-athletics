@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-02T08:25:12.926Z",
+  "scrapedAt": "2026-10-02T16:15:29.298Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1495,6 +1495,13 @@
         },
         {
           "division": "2A",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 2,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "Mount Carmel-Navy",
           "wins": 2,
           "losses": 0,
@@ -1504,7 +1511,7 @@
           "division": "2A",
           "team": "St. Louis de Mont.-Black",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1526,13 +1533,6 @@
           "team": "Immac. Heart-White",
           "wins": 1,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 1,
-          "losses": 0,
           "draws": 0
         },
         {
@@ -1892,6 +1892,13 @@
       "rows": [
         {
           "division": "1A",
+          "team": "St. Simon-Blue",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Barnabas-Maroon",
           "wins": 2,
           "losses": 0,
@@ -1927,16 +1934,9 @@
         },
         {
           "division": "1A",
-          "team": "St. Simon-Blue",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "Christ the King-Black",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2039,16 +2039,16 @@
         },
         {
           "division": "2A",
-          "team": "St. Jude-Red",
-          "wins": 2,
-          "losses": 1,
+          "team": "St. Luke-Gold",
+          "wins": 3,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Luke-Gold",
+          "team": "St. Jude-Red",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2076,7 +2076,7 @@
           "division": "2A",
           "team": "St. Mark-Black",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
