@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-02T16:15:29.298Z",
+  "scrapedAt": "2026-10-03T08:00:02.145Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1496,7 +1496,7 @@
         {
           "division": "2A",
           "team": "Holy Spirit Geist-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -1523,6 +1523,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Simon-White",
+          "wins": 1,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "division": "2A",
           "team": "St. Luke-Gold",
           "wins": 1,
           "losses": 1,
@@ -1533,7 +1540,7 @@
           "team": "Immac. Heart-White",
           "wins": 1,
           "losses": 1,
-          "draws": 0
+          "draws": 1
         },
         {
           "division": "2A",
@@ -1546,14 +1553,7 @@
           "division": "2A",
           "team": "St. Maria Gor.-Red",
           "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Simon-White",
-          "wins": 0,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2285,7 +2285,7 @@
           "division": "1N",
           "team": "St. Jude-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2312,7 +2312,7 @@
         {
           "division": "1N",
           "team": "St. Matthew-Red",
-          "wins": 0,
+          "wins": 1,
           "losses": 1,
           "draws": 0
         },
