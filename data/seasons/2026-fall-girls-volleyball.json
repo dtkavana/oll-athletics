@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-03T08:00:02.145Z",
+  "scrapedAt": "2026-10-03T19:49:06.807Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1293,6 +1293,13 @@
         },
         {
           "division": "2N",
+          "team": "Central Cath.-Blue",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "Card. Ritter Jr. H-Red",
           "wins": 1,
           "losses": 0,
@@ -1309,7 +1316,7 @@
           "division": "2N",
           "team": "St. Philip-Green",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1329,13 +1336,6 @@
         {
           "division": "2N",
           "team": "St. Michael, Indy-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Central Cath.-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0

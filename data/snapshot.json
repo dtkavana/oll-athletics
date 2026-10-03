@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-03T14:43:24.168Z",
+  "scrapedAt": "2026-10-03T19:49:06.807Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1116,7 +1116,7 @@
         {
           "division": "AA",
           "team": "St. Barnabas-Maroon",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -1166,7 +1166,7 @@
           "division": "AA",
           "team": "St. Malachy-Green",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1199,15 +1199,15 @@
         },
         {
           "division": "AAA",
-          "team": "Immac. Heart-Blue",
+          "team": "South Central-Gold",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "AAA",
-          "team": "South Central-Gold",
-          "wins": 0,
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
           "losses": 3,
           "draws": 0
         }
@@ -1226,6 +1226,13 @@
         },
         {
           "division": "AA",
+          "team": "Christ the King-Gold",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Maria Gor.-Red",
           "wins": 3,
           "losses": 1,
@@ -1235,20 +1242,13 @@
           "division": "AA",
           "team": "St. Matthew-White",
           "wins": 3,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "Christ the King-Gold",
-          "wins": 2,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "AA",
           "team": "Christ the King-Black",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "draws": 0
         },
@@ -1270,7 +1270,7 @@
           "division": "AA",
           "team": "St. Louis de Mont.-Red",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1283,7 +1283,7 @@
         {
           "division": "AAA",
           "team": "Immac. Heart-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -1312,7 +1312,7 @@
           "division": "AAA",
           "team": "OL Of Grace-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         }
       ]
@@ -1400,6 +1400,13 @@
         },
         {
           "division": "AAA",
+          "team": "South Central-Blue",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
           "team": "St. Pius X-Purple",
           "wins": 2,
           "losses": 1,
@@ -1407,16 +1414,9 @@
         },
         {
           "division": "AAA",
-          "team": "South Central-Blue",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         }
       ]
@@ -2241,6 +2241,13 @@
         },
         {
           "division": "2N",
+          "team": "Central Cath.-Blue",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "Card. Ritter Jr. H-Red",
           "wins": 1,
           "losses": 0,
@@ -2257,7 +2264,7 @@
           "division": "2N",
           "team": "St. Philip-Green",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2277,13 +2284,6 @@
         {
           "division": "2N",
           "team": "St. Michael, Indy-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Central Cath.-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0

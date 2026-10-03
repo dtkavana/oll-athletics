@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-03T14:43:24.168Z",
+  "scrapedAt": "2026-10-03T19:49:06.807Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -545,7 +545,7 @@
         {
           "division": "AA",
           "team": "St. Barnabas-Maroon",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -595,7 +595,7 @@
           "division": "AA",
           "team": "St. Malachy-Green",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -628,15 +628,15 @@
         },
         {
           "division": "AAA",
-          "team": "Immac. Heart-Blue",
+          "team": "South Central-Gold",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "AAA",
-          "team": "South Central-Gold",
-          "wins": 0,
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
           "losses": 3,
           "draws": 0
         }
@@ -655,6 +655,13 @@
         },
         {
           "division": "AA",
+          "team": "Christ the King-Gold",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Maria Gor.-Red",
           "wins": 3,
           "losses": 1,
@@ -664,20 +671,13 @@
           "division": "AA",
           "team": "St. Matthew-White",
           "wins": 3,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "Christ the King-Gold",
-          "wins": 2,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "AA",
           "team": "Christ the King-Black",
-          "wins": 1,
+          "wins": 2,
           "losses": 2,
           "draws": 0
         },
@@ -699,7 +699,7 @@
           "division": "AA",
           "team": "St. Louis de Mont.-Red",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -712,7 +712,7 @@
         {
           "division": "AAA",
           "team": "Immac. Heart-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -741,7 +741,7 @@
           "division": "AAA",
           "team": "OL Of Grace-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         }
       ]
@@ -829,6 +829,13 @@
         },
         {
           "division": "AAA",
+          "team": "South Central-Blue",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
           "team": "St. Pius X-Purple",
           "wins": 2,
           "losses": 1,
@@ -836,16 +843,9 @@
         },
         {
           "division": "AAA",
-          "team": "South Central-Blue",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         }
       ]
