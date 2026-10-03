@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-02T08:25:12.926Z",
+  "scrapedAt": "2026-10-03T14:43:24.168Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -278,16 +278,16 @@
       "startTime": "09:00",
       "endTime": "10:15",
       "venue": "St. Maria Goretti Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "34",
       "division": "AAA",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 6
       },
       "team2": {
         "name": "St. Maria Gor.-Navy",
-        "score": null
+        "score": 29
       },
       "id": "998fea24ff06",
       "season": "2026 Fall Boys Football",
@@ -705,7 +705,7 @@
         {
           "division": "AAA",
           "team": "St. Maria Gor.-Navy",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -720,7 +720,7 @@
           "division": "AAA",
           "team": "East Side Crusaders-Red",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
