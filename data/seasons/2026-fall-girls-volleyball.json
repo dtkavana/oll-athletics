@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-05T08:53:10.683Z",
+  "scrapedAt": "2026-10-05T23:08:38.597Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -2325,6 +2325,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Luke-Blue",
+          "wins": 4,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "Christ the King-Black",
           "wins": 3,
           "losses": 0,
@@ -2333,13 +2340,6 @@
         {
           "division": "2A",
           "team": "Mount Carmel-Navy",
-          "wins": 3,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Blue",
           "wins": 3,
           "losses": 0,
           "draws": 0
@@ -2383,7 +2383,7 @@
           "division": "2A",
           "team": "St. Simon-White",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {

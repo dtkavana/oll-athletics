@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-05T19:17:22.551Z",
+  "scrapedAt": "2026-10-05T23:08:38.597Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3273,6 +3273,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Luke-Blue",
+          "wins": 4,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "Christ the King-Black",
           "wins": 3,
           "losses": 0,
@@ -3281,13 +3288,6 @@
         {
           "division": "2A",
           "team": "Mount Carmel-Navy",
-          "wins": 3,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Blue",
           "wins": 3,
           "losses": 0,
           "draws": 0
@@ -3331,7 +3331,7 @@
           "division": "2A",
           "team": "St. Simon-White",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
