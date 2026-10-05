@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-05T08:53:10.683Z",
+  "scrapedAt": "2026-10-05T19:17:22.551Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -301,16 +301,16 @@
       "startTime": "13:00",
       "endTime": "14:15",
       "venue": "Scecina HS Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "56",
       "division": "A",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 6
       },
       "team2": {
         "name": "St. Matthew-White",
-        "score": null
+        "score": 14
       },
       "id": "3aa4c1e3b6e4",
       "season": "2026 Fall Boys Football",
@@ -324,16 +324,16 @@
       "startTime": "14:15",
       "endTime": "15:45",
       "venue": "Scecina HS Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet",
       "division": "AAA",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "Mount Carmel-Gold",
-        "score": null
+        "score": 22
       },
       "id": "811269e4678f",
       "season": "2026 Fall Boys Football",
@@ -488,6 +488,13 @@
       "rows": [
         {
           "division": "A",
+          "team": "St. Matthew-White",
+          "wins": 4,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "A",
           "team": "Nativity-Red",
           "wins": 3,
           "losses": 0,
@@ -502,16 +509,9 @@
         },
         {
           "division": "A",
-          "team": "St. Matthew-White",
-          "wins": 3,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "A",
           "team": "East Side Crusaders-Red",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -766,9 +766,9 @@
         },
         {
           "division": "AA",
-          "team": "Christ the King-Black",
-          "wins": 2,
-          "losses": 2,
+          "team": "St. Louis de Mont.-Red",
+          "wins": 3,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -780,9 +780,9 @@
         },
         {
           "division": "AA",
-          "team": "St. Louis de Mont.-Red",
+          "team": "Christ the King-Black",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -796,7 +796,7 @@
           "division": "AA",
           "team": "Mount Carmel-Navy",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -808,16 +808,16 @@
         },
         {
           "division": "AAA",
-          "team": "St. Pius X-Purple",
-          "wins": 3,
-          "losses": 1,
+          "team": "Mount Carmel-Gold",
+          "wins": 4,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "AAA",
-          "team": "Mount Carmel-Gold",
+          "team": "St. Pius X-Purple",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -829,16 +829,16 @@
         },
         {
           "division": "AAA",
-          "team": "East Side Crusaders-Red",
+          "team": "St. Luke-Royal",
           "wins": 2,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "AAA",
-          "team": "St. Luke-Royal",
+          "team": "East Side Crusaders-Red",
           "wins": 2,
-          "losses": 3,
+          "losses": 2,
           "draws": 0
         },
         {
