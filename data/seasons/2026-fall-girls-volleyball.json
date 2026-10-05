@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-03T19:49:06.807Z",
+  "scrapedAt": "2026-10-05T08:53:10.683Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1348,6 +1348,13 @@
       "rows": [
         {
           "division": "1A",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 4,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 3,
           "losses": 0,
@@ -1355,9 +1362,9 @@
         },
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
-          "wins": 3,
-          "losses": 0,
+          "team": "St. Maria Gor.-Navy",
+          "wins": 2,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1372,13 +1379,6 @@
           "team": "Christ the King-Black",
           "wins": 2,
           "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 2,
-          "losses": 1,
           "draws": 0
         },
         {
@@ -1573,7 +1573,7 @@
         {
           "division": "2N",
           "team": "St. Roch-Gold",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -1616,7 +1616,7 @@
           "division": "2N",
           "team": "Holy Spirit, Indy-Green",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
