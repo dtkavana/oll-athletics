@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-06T16:45:25.386Z",
+  "scrapedAt": "2026-10-06T21:36:33.649Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2451,7 +2451,7 @@
         {
           "division": "2A",
           "team": "Mount Carmel-Navy",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -2487,7 +2487,7 @@
           "division": "2A",
           "team": "Immac. Heart-White",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 1
         },
         {
