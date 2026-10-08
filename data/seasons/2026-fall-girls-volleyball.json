@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-08T17:23:25.664Z",
+  "scrapedAt": "2026-10-08T22:02:01.589Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1781,6 +1781,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Luke-Royal",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Pius X-Purple",
           "wins": 2,
           "losses": 1,
@@ -1797,19 +1804,12 @@
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Barnabas-Black",
-          "wins": 1,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Luke-Royal",
+          "team": "St. Barnabas-Black",
           "wins": 1,
           "losses": 1,
           "draws": 0
@@ -2423,6 +2423,13 @@
         },
         {
           "division": "2N",
+          "team": "St. Joan of Arc-Gold",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "Card. Ritter Jr. H-White",
           "wins": 1,
           "losses": 2,
@@ -2432,7 +2439,7 @@
           "division": "2N",
           "team": "St. Susanna-Gold",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2440,13 +2447,6 @@
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Joan of Arc-Gold",
-          "wins": 0,
-          "losses": 3,
           "draws": 0
         },
         {
