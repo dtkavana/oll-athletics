@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-07T21:57:29.937Z",
+  "scrapedAt": "2026-10-08T08:51:05.790Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2687,16 +2687,16 @@
         },
         {
           "division": "1N",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 1,
-          "losses": 3,
+          "team": "St. Matthew-Red",
+          "wins": 2,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Matthew-Red",
+          "team": "Holy Spirit Geist-Blue",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2717,7 +2717,7 @@
           "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -2841,7 +2841,7 @@
         {
           "division": "1A",
           "team": "St. Simon-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -2870,7 +2870,7 @@
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2910,6 +2910,13 @@
         },
         {
           "division": "1N",
+          "team": "Immac. Heart-White",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Jude-Gold",
           "wins": 3,
           "losses": 0,
@@ -2925,13 +2932,6 @@
         {
           "division": "1N",
           "team": "Holy Name-Gold",
-          "wins": 2,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Immac. Heart-White",
           "wins": 2,
           "losses": 1,
           "draws": 0
@@ -2968,7 +2968,7 @@
           "division": "1N",
           "team": "St. Christopher-Red",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3051,7 +3051,7 @@
         {
           "division": "2N",
           "team": "St. Matthew-Red",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -3064,8 +3064,8 @@
         },
         {
           "division": "2N",
-          "team": "St. Roch-White",
-          "wins": 2,
+          "team": "St. Joan of Arc-Blue",
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -3078,7 +3078,7 @@
         },
         {
           "division": "2N",
-          "team": "St. Joan of Arc-Blue",
+          "team": "St. Roch-White",
           "wins": 2,
           "losses": 1,
           "draws": 0
@@ -3094,14 +3094,14 @@
           "division": "2N",
           "team": "St. Michael, Indy-White",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
