@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-06T08:53:54.782Z",
+  "scrapedAt": "2026-10-08T17:23:25.664Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -566,7 +566,7 @@
         {
           "division": "AA",
           "team": "St. Luke-Gold",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -595,7 +595,7 @@
           "division": "AA",
           "team": "St. Malachy-Green",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
