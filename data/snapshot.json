@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-09T08:55:02.327Z",
+  "scrapedAt": "2026-10-09T16:58:55.328Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2123,15 +2123,15 @@
         {
           "division": "1N",
           "team": "OL Lourdes-Blue",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
-          "draws": 0
+          "draws": 1
         },
         {
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2139,7 +2139,7 @@
           "team": "St. Joan of Arc-Black",
           "wins": 1,
           "losses": 2,
-          "draws": 0
+          "draws": 1
         },
         {
           "division": "1N",
@@ -2241,9 +2241,16 @@
         },
         {
           "division": "2N",
-          "team": "Central Cath.-Blue",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Anthony-Red",
           "wins": 1,
-          "losses": 0,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2264,21 +2271,14 @@
           "division": "2N",
           "team": "St. Philip-Green",
           "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Holy Spirit, Indy-Green",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Anthony-Red",
-          "wins": 1,
           "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Central Cath.-Blue",
+          "wins": 1,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2331,6 +2331,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Mount Carmel-Gold",
           "wins": 1,
           "losses": 2,
@@ -2345,23 +2352,16 @@
         },
         {
           "division": "1A",
+          "team": "St. Luke-Royal",
+          "wins": 0,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Pius X-Purple",
           "wins": 0,
           "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Luke-Royal",
-          "wins": 0,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 0,
-          "losses": 2,
           "draws": 0
         },
         {
@@ -6867,16 +6867,16 @@
       "startTime": "20:00",
       "endTime": "21:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": "1N",
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "St. Thomas Aquin.-Blue",
-        "score": null
+        "score": 0
       },
       "id": "d861ba00c659",
       "season": "2026 Fall Girls Volleyball",
@@ -7143,16 +7143,16 @@
       "startTime": "18:30",
       "endTime": "19:30",
       "venue": "St. Joan of Arc Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": "1N",
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "St. Joan of Arc-Black",
-        "score": null
+        "score": 0
       },
       "id": "cf04a3f7f4e3",
       "season": "2026 Fall Girls Volleyball",
