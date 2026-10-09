@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-08T22:02:01.589Z",
+  "scrapedAt": "2026-10-09T08:55:02.327Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -595,16 +595,16 @@
       "startTime": "19:00",
       "endTime": "20:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "St. Malachy-White",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Gold",
-        "score": null
+        "score": 0
       },
       "id": "f30470d51d86",
       "season": "2026 Fall Girls Volleyball",
@@ -1565,6 +1565,13 @@
         },
         {
           "division": "2N",
+          "team": "St. Malachy-White",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Michael, Grnfld.-Gold",
           "wins": 3,
           "losses": 0,
@@ -1582,13 +1589,6 @@
           "team": "St. Malachy-Green",
           "wins": 2,
           "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Malachy-White",
-          "wins": 2,
-          "losses": 1,
           "draws": 0
         },
         {
@@ -1637,7 +1637,7 @@
           "division": "2N",
           "team": "OL Lourdes-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         }
       ]
@@ -1656,7 +1656,7 @@
         {
           "division": "1A",
           "team": "St. Simon-Royal",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -1692,7 +1692,7 @@
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -1775,7 +1775,7 @@
         {
           "division": "2A",
           "team": "Christ the King-Black",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -1783,7 +1783,7 @@
           "division": "2A",
           "team": "St. Luke-Royal",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1899,22 +1899,8 @@
         },
         {
           "division": "1A",
-          "team": "Christ the King-Black",
-          "wins": 2,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Barnabas-Maroon",
-          "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "Mount Carmel-Yellow",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -1941,9 +1927,16 @@
         },
         {
           "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 0,
-          "losses": 3,
+          "team": "Christ the King-Black",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Barnabas-Maroon",
+          "wins": 2,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -1951,6 +1944,13 @@
           "team": "St. Louis de Mont.-Black",
           "wins": 0,
           "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 0,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2039,6 +2039,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Charles-Red",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Louis de Mont.-Red",
           "wins": 3,
           "losses": 1,
@@ -2047,13 +2054,6 @@
         {
           "division": "2A",
           "team": "St. Luke-Gold",
-          "wins": 3,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Charles-Red",
           "wins": 3,
           "losses": 0,
           "draws": 0
@@ -2262,6 +2262,20 @@
         },
         {
           "division": "1N",
+          "team": "St. Malachy-White",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Of Grace-Navy",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Matthew-Red",
           "wins": 2,
           "losses": 2,
@@ -2271,7 +2285,7 @@
           "division": "1N",
           "team": "Christ the King-Gold",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2297,21 +2311,7 @@
         },
         {
           "division": "1N",
-          "team": "St. Malachy-White",
-          "wins": 2,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Jude-Gold",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "OL Of Grace-Navy",
           "wins": 1,
           "losses": 2,
           "draws": 0
@@ -2320,7 +2320,7 @@
           "division": "1N",
           "team": "St. Simon-Silver",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -2333,7 +2333,7 @@
         {
           "division": "2A",
           "team": "Christ the King-Black",
-          "wins": 3,
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -2369,7 +2369,7 @@
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {

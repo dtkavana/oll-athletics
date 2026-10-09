@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-08T17:23:25.664Z",
+  "scrapedAt": "2026-10-09T08:55:02.327Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -766,6 +766,13 @@
         },
         {
           "division": "AA",
+          "team": "Christ the King-Black",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Louis de Mont.-Red",
           "wins": 3,
           "losses": 1,
@@ -775,14 +782,7 @@
           "division": "AA",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "Christ the King-Black",
-          "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
