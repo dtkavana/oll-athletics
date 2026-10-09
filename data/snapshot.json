@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-09T16:58:55.328Z",
+  "scrapedAt": "2026-10-09T21:38:06.151Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2954,13 +2954,13 @@
           "division": "1N",
           "team": "OL Greenwood-Green",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Louis de Mont.-White",
-          "wins": 0,
+          "wins": 1,
           "losses": 3,
           "draws": 0
         },
