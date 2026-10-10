@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-09T08:55:02.327Z",
+  "scrapedAt": "2026-10-10T15:51:38.694Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -705,7 +705,7 @@
         {
           "division": "AAA",
           "team": "St. Maria Gor.-Navy",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -734,7 +734,7 @@
           "division": "AAA",
           "team": "South Central-Black",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {

@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-10T08:25:07.019Z",
+  "scrapedAt": "2026-10-10T15:51:38.694Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1276,7 +1276,7 @@
         {
           "division": "AAA",
           "team": "St. Maria Gor.-Navy",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -1305,7 +1305,7 @@
           "division": "AAA",
           "team": "South Central-Black",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
