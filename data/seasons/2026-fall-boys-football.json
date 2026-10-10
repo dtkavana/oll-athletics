@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-10T15:51:38.694Z",
+  "scrapedAt": "2026-10-10T20:33:20.518Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -650,13 +650,13 @@
           "division": "AA",
           "team": "South Central-Blue",
           "wins": 4,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "Christ the King-Gold",
-          "wins": 3,
+          "team": "St. Matthew-White",
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -669,7 +669,7 @@
         },
         {
           "division": "AA",
-          "team": "St. Matthew-White",
+          "team": "Christ the King-Gold",
           "wins": 3,
           "losses": 1,
           "draws": 0
@@ -727,7 +727,7 @@
           "division": "AAA",
           "team": "Johnson Co. Catholic-White",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -740,7 +740,7 @@
         {
           "division": "AAA",
           "team": "OL Of Grace-Gold",
-          "wins": 0,
+          "wins": 1,
           "losses": 4,
           "draws": 0
         }
