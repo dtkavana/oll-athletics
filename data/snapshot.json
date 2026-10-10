@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-09T21:38:06.151Z",
+  "scrapedAt": "2026-10-10T08:25:07.019Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2443,16 +2443,16 @@
         },
         {
           "division": "2A",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 3,
-          "losses": 0,
+          "team": "Mount Carmel-Navy",
+          "wins": 4,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "Mount Carmel-Navy",
+          "team": "Holy Spirit Geist-Blue",
           "wins": 3,
-          "losses": 1,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2466,7 +2466,7 @@
           "division": "2A",
           "team": "St. Luke-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2506,8 +2506,8 @@
         },
         {
           "division": "2N",
-          "team": "St. Monica-Black",
-          "wins": 3,
+          "team": "St. Malachy-Green",
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
@@ -2516,6 +2516,13 @@
           "team": "St. Malachy-White",
           "wins": 3,
           "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Monica-Black",
+          "wins": 3,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2529,13 +2536,6 @@
           "division": "2N",
           "team": "St. Roch-Gold",
           "wins": 3,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Malachy-Green",
-          "wins": 2,
           "losses": 0,
           "draws": 0
         },
@@ -2557,7 +2557,7 @@
           "division": "2N",
           "team": "Little Flower-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2578,7 +2578,7 @@
           "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -6798,16 +6798,16 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "venue": "St. Malachy Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "St. Malachy-Green",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "id": "10b21819b2c9",
       "season": "2026 Fall Girls Volleyball",
