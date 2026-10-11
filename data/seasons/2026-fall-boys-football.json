@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-11T08:42:32.240Z",
+  "scrapedAt": "2026-10-11T16:18:52.918Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -370,16 +370,16 @@
       "startTime": "10:15",
       "endTime": "11:30",
       "venue": "St. Matthew Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "34",
       "division": "AAA",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 22
       },
       "team2": {
         "name": "Immac. Heart-Blue",
-        "score": null
+        "score": 25
       },
       "id": "8ceca7227305",
       "season": "2026 Fall Boys Football",
@@ -712,7 +712,7 @@
         {
           "division": "AAA",
           "team": "Immac. Heart-Blue",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -720,7 +720,7 @@
           "division": "AAA",
           "team": "East Side Crusaders-Red",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
