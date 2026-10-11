@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-10T20:33:20.518Z",
+  "scrapedAt": "2026-10-11T08:42:32.240Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -648,6 +648,13 @@
       "rows": [
         {
           "division": "AA",
+          "team": "Christ the King-Gold",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "South Central-Blue",
           "wins": 4,
           "losses": 1,
@@ -664,20 +671,13 @@
           "division": "AA",
           "team": "St. Maria Gor.-Red",
           "wins": 3,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "Christ the King-Gold",
-          "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "AA",
           "team": "Christ the King-Black",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -692,7 +692,7 @@
           "division": "AA",
           "team": "South Central-Gold",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {

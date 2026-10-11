@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-10T08:25:07.019Z",
+  "scrapedAt": "2026-10-11T08:42:32.240Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1488,6 +1488,13 @@
         },
         {
           "division": "2A",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Pius X-Gold",
           "wins": 4,
           "losses": 0,
@@ -1502,15 +1509,8 @@
         },
         {
           "division": "2A",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 3,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "Immac. Heart-White",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 1
         },
@@ -1518,7 +1518,7 @@
           "division": "2A",
           "team": "St. Luke-Gold",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
