@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-11T16:18:52.918Z",
+  "scrapedAt": "2026-10-11T20:56:46.265Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -24,7 +24,8 @@
     "2026 Fall Girls Volleyball",
     "2026 Spring Boys Volleyball",
     "2026 Spring CO-ED Soccer",
-    "2026 Spring Girls Kickball"
+    "2026 Spring Girls Kickball",
+    "2026-2027 Boys Basketball"
   ],
   "retiredSeasons": [
     "2026 Fall Girls Kickball",
@@ -1050,6 +1051,62 @@
         "c2cfca1ea2e3",
         "0ab4dd5589c5"
       ]
+    },
+    {
+      "id": "2026-2027-boys-basketball--56-a-boys--0--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026-2027 Boys Basketball",
+      "seasonId": "1898",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "56 A Boys",
+      "division": "0",
+      "coaches": [
+        "Tony Bewsey"
+      ],
+      "gameIds": []
+    },
+    {
+      "id": "2026-2027-boys-basketball--56-c-boys--0--ol-lourdes-gold",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026-2027 Boys Basketball",
+      "seasonId": "1898",
+      "name": "OL Lourdes-Gold",
+      "parish": "OL Lourdes",
+      "league": "56 C Boys",
+      "division": "0",
+      "coaches": [],
+      "gameIds": []
+    },
+    {
+      "id": "2026-2027-boys-basketball--cadet-a-boys--0--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026-2027 Boys Basketball",
+      "seasonId": "1898",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "Cadet A Boys",
+      "division": "0",
+      "coaches": [
+        "Nick Asher"
+      ],
+      "gameIds": []
+    },
+    {
+      "id": "2026-2027-boys-basketball--cadet-b-boys--0--ol-lourdes-gold",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026-2027 Boys Basketball",
+      "seasonId": "1898",
+      "name": "OL Lourdes-Gold",
+      "parish": "OL Lourdes",
+      "league": "Cadet B Boys",
+      "division": "0",
+      "coaches": [],
+      "gameIds": []
     }
   ],
   "standings": [
@@ -1115,6 +1172,13 @@
         },
         {
           "division": "AA",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Barnabas-Maroon",
           "wins": 4,
           "losses": 0,
@@ -1129,9 +1193,9 @@
         },
         {
           "division": "AA",
-          "team": "St. Louis de Mont.-Red",
+          "team": "St. Pius X-Gold",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1143,23 +1207,16 @@
         },
         {
           "division": "AA",
-          "team": "St. Pius X-Gold",
-          "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AA",
           "team": "OL Of Grace-Gold",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "AA",
           "team": "Christ the King-Black",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1171,6 +1228,13 @@
         },
         {
           "division": "AAA",
+          "team": "Mount Carmel-Navy",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
           "team": "Johnson Co. Catholic-White",
           "wins": 4,
           "losses": 0,
@@ -1178,15 +1242,8 @@
         },
         {
           "division": "AAA",
-          "team": "Mount Carmel-Navy",
-          "wins": 3,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
           "team": "St. Simon-Royal",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -1194,14 +1251,14 @@
           "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "AAA",
           "team": "South Central-Gold",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -4452,6 +4509,345 @@
           "team": "St. Christopher-Red",
           "wins": 1,
           "losses": 5,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026-2027 Boys Basketball",
+      "league": "56 A Boys",
+      "rows": [
+        {
+          "division": "",
+          "team": "Nativity-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Simon-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Roch-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Greenwood-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Of Grace-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Susanna-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Anthony-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Christopher-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026-2027 Boys Basketball",
+      "league": "56 C Boys",
+      "rows": [
+        {
+          "division": "",
+          "team": "Nativity-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Simon-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Simon-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Ss. Fran. & Clare-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Lourdes-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026-2027 Boys Basketball",
+      "league": "Cadet A Boys",
+      "rows": [
+        {
+          "division": "",
+          "team": "St. Simon-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Nativity-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Michael, Grnfld.-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Roch-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Greenwood-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Of Grace-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Card. Ritter Jr. H-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Susanna-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026-2027 Boys Basketball",
+      "league": "Cadet B Boys",
+      "rows": [
+        {
+          "division": "",
+          "team": "St. Simon-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Nativity-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Simon-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Roch-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Of Grace-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Card. Ritter Jr. H-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Malachy-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Ss. Fran. & Clare-Gray",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Susanna-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Lourdes-Gold",
+          "wins": 0,
+          "losses": 0,
           "draws": 0
         }
       ]

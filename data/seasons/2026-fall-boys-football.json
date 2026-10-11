@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-11T16:18:52.918Z",
+  "scrapedAt": "2026-10-11T20:56:46.265Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -544,6 +544,13 @@
         },
         {
           "division": "AA",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Barnabas-Maroon",
           "wins": 4,
           "losses": 0,
@@ -558,9 +565,9 @@
         },
         {
           "division": "AA",
-          "team": "St. Louis de Mont.-Red",
+          "team": "St. Pius X-Gold",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -572,23 +579,16 @@
         },
         {
           "division": "AA",
-          "team": "St. Pius X-Gold",
-          "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AA",
           "team": "OL Of Grace-Gold",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "AA",
           "team": "Christ the King-Black",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -600,6 +600,13 @@
         },
         {
           "division": "AAA",
+          "team": "Mount Carmel-Navy",
+          "wins": 4,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
           "team": "Johnson Co. Catholic-White",
           "wins": 4,
           "losses": 0,
@@ -607,15 +614,8 @@
         },
         {
           "division": "AAA",
-          "team": "Mount Carmel-Navy",
-          "wins": 3,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
           "team": "St. Simon-Royal",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -623,14 +623,14 @@
           "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "AAA",
           "team": "South Central-Gold",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
