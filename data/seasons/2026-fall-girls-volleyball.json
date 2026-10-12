@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-12T19:47:44.951Z",
+  "scrapedAt": "2026-10-12T23:36:33.025Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1139,21 +1139,21 @@
         },
         {
           "division": "1A",
-          "team": "St. Charles-Red",
-          "wins": 0,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "Mount Carmel-Gold",
-          "wins": 0,
-          "losses": 2,
+          "wins": 1,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Luke-Royal",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Charles-Red",
           "wins": 0,
           "losses": 2,
           "draws": 0
@@ -1195,16 +1195,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Mark-Black",
+          "team": "Little Flower-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Little Flower-Gold",
+          "team": "St. Mark-Black",
           "wins": 1,
-          "losses": 2,
+          "losses": 1,
           "draws": 0
         },
         {
