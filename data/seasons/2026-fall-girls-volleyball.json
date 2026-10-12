@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-12T09:04:56.801Z",
+  "scrapedAt": "2026-10-12T19:47:44.951Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1509,6 +1509,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Louis de Mont.-Black",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "Immac. Heart-White",
           "wins": 3,
           "losses": 2,
@@ -1530,13 +1537,6 @@
         },
         {
           "division": "2A",
-          "team": "St. Louis de Mont.-Black",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "Christ the King-Gold",
           "wins": 1,
           "losses": 3,
@@ -1546,14 +1546,14 @@
           "division": "2A",
           "team": "St. Simon-White",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 1
         },
         {
           "division": "2A",
           "team": "St. Maria Gor.-Red",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
