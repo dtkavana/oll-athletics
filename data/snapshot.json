@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-13T17:34:36.404Z",
+  "scrapedAt": "2026-10-13T21:49:15.687Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1487,7 +1487,7 @@
         },
         {
           "division": "",
-          "team": "Card. Ritter Jr. H-Red",
+          "team": "Card. Ritter Jr. H-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1682,7 +1682,7 @@
         },
         {
           "division": "",
-          "team": "Card. Ritter Jr. H-White",
+          "team": "Card. Ritter Jr. H-Gray",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -3347,7 +3347,7 @@
           "division": "2N",
           "team": "St. Mark-Gold",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3366,15 +3366,8 @@
         },
         {
           "division": "2N",
-          "team": "Holy Spirit, Indy-Green",
-          "wins": 0,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "OL Lourdes-Blue",
-          "wins": 0,
+          "wins": 1,
           "losses": 3,
           "draws": 0
         },
@@ -3383,6 +3376,13 @@
           "team": "OL Lourdes-Gold",
           "wins": 0,
           "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 0,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -7395,16 +7395,16 @@
       "startTime": "18:00",
       "endTime": "19:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "St. Mark-Gold",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "id": "8d6ec3d59932",
       "season": "2026 Fall Girls Volleyball",
