@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-13T09:19:29.796Z",
+  "scrapedAt": "2026-10-13T17:34:36.404Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1711,14 +1711,14 @@
         },
         {
           "division": "1N",
-          "team": "St. Christopher-Blue",
-          "wins": 3,
+          "team": "St. Mark-Black",
+          "wins": 4,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Mark-Black",
+          "team": "St. Christopher-Blue",
           "wins": 3,
           "losses": 0,
           "draws": 0
@@ -1727,7 +1727,7 @@
           "division": "1N",
           "team": "Nativity-Red",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1901,7 +1901,7 @@
           "division": "1A",
           "team": "Mount Carmel-Yellow",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1942,7 +1942,7 @@
         {
           "division": "1A",
           "team": "St. Louis de Mont.-Black",
-          "wins": 0,
+          "wins": 1,
           "losses": 2,
           "draws": 0
         },
@@ -2347,7 +2347,7 @@
         {
           "division": "2A",
           "team": "St. Mark-Black",
-          "wins": 1,
+          "wins": 2,
           "losses": 1,
           "draws": 0
         },
@@ -2383,7 +2383,7 @@
           "division": "2A",
           "team": "St. Simon-White",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {

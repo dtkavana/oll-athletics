@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-10-12T19:47:44.951Z",
+  "scrapedAt": "2026-10-13T17:34:36.404Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--56-a-boys--0--ol-lourdes-blue",
@@ -225,6 +225,27 @@
           "wins": 0,
           "losses": 0,
           "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Barnabas-Maroon",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Holy Name-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Mark-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
         }
       ]
     },
@@ -333,6 +354,20 @@
         {
           "division": "",
           "team": "Immac. Heart-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Barnabas-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Barnabas-Maroon",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -514,6 +549,27 @@
         {
           "division": "",
           "team": "St. Monica-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Barnabas-Maroon",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Holy Name-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Mark-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -730,6 +786,20 @@
         {
           "division": "",
           "team": "St. Charles-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Barnabas-Maroon",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Holy Name-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
