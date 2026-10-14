@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-14T15:05:02.919Z",
+  "scrapedAt": "2026-10-14T20:38:48.154Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1906,15 +1906,8 @@
         },
         {
           "division": "1A",
-          "team": "Immac. Heart-Blue",
-          "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "Ss. Fran. & Clare-Gray",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -1922,7 +1915,14 @@
           "division": "1A",
           "team": "St. Maria Gor.-Red",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Immac. Heart-Blue",
+          "wins": 2,
+          "losses": 3,
           "draws": 0
         },
         {

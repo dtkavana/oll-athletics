@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-10-14T15:05:02.919Z",
+  "scrapedAt": "2026-10-14T20:38:48.154Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--56-a-boys--0--ol-lourdes-blue",
@@ -260,6 +260,13 @@
           "wins": 0,
           "losses": 0,
           "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Matthew-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
         }
       ]
     },
@@ -389,6 +396,13 @@
         {
           "division": "",
           "team": "St. Maria Gor.-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Matthew-White",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -598,6 +612,13 @@
         {
           "division": "",
           "team": "St. Maria Gor.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Matthew-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -835,6 +856,13 @@
         {
           "division": "",
           "team": "St. Maria Gor.-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Matthew-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0

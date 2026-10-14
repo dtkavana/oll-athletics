@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-14T15:05:02.919Z",
+  "scrapedAt": "2026-10-14T20:38:48.154Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1311,6 +1311,13 @@
           "wins": 0,
           "losses": 0,
           "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Matthew-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
         }
       ]
     },
@@ -1440,6 +1447,13 @@
         {
           "division": "",
           "team": "St. Maria Gor.-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Matthew-White",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1649,6 +1663,13 @@
         {
           "division": "",
           "team": "St. Maria Gor.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Matthew-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1886,6 +1907,13 @@
         {
           "division": "",
           "team": "St. Maria Gor.-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Matthew-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -3693,15 +3721,8 @@
         },
         {
           "division": "1A",
-          "team": "Immac. Heart-Blue",
-          "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "Ss. Fran. & Clare-Gray",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -3709,7 +3730,14 @@
           "division": "1A",
           "team": "St. Maria Gor.-Red",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Immac. Heart-Blue",
+          "wins": 2,
+          "losses": 3,
           "draws": 0
         },
         {
