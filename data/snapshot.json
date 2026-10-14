@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-14T07:30:17.596Z",
+  "scrapedAt": "2026-10-14T15:05:02.919Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1230,6 +1230,13 @@
         },
         {
           "division": "",
+          "team": "St. Joan of Arc-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
           "team": "St. Pius X-Purple",
           "wins": 0,
           "losses": 0,
@@ -1294,6 +1301,13 @@
         {
           "division": "",
           "team": "St. Mark-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1419,6 +1433,13 @@
         {
           "division": "",
           "team": "St. Barnabas-Maroon",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Maria Gor.-White",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1621,6 +1642,13 @@
         {
           "division": "",
           "team": "St. Mark-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1851,6 +1879,13 @@
         {
           "division": "",
           "team": "Holy Name-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Maria Gor.-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -3944,6 +3979,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Jude-Red",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Ss. Fran. & Clare-Gray",
           "wins": 3,
           "losses": 0,
@@ -3951,16 +3993,9 @@
         },
         {
           "division": "1A",
-          "team": "St. Jude-Red",
+          "team": "St. Luke-Gold",
           "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 1,
-          "losses": 2,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3972,16 +4007,16 @@
         },
         {
           "division": "1A",
-          "team": "St. Luke-Gold",
+          "team": "St. Pius X-White",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Barnabas-Black",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
