@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-15T14:58:11.322Z",
+  "scrapedAt": "2026-10-15T20:18:41.121Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1132,6 +1132,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Luke-Royal",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Barnabas-Maroon",
           "wins": 1,
           "losses": 3,
@@ -1146,16 +1153,9 @@
         },
         {
           "division": "1A",
-          "team": "St. Luke-Royal",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Charles-Red",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1425,6 +1425,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Barnabas-Maroon",
+          "wins": 3,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Barnabas-Gold",
           "wins": 3,
           "losses": 1,
@@ -1439,23 +1446,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Barnabas-Maroon",
-          "wins": 2,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "Nativity-Black",
           "wins": 2,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Ss. Fran. & Clare-Navy",
-          "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1467,7 +1460,21 @@
         },
         {
           "division": "1N",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "OL Greenwood-Gold",
+          "wins": 0,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Mark-Black",
           "wins": 0,
           "losses": 3,
           "draws": 0
@@ -1480,10 +1487,10 @@
           "draws": 0
         },
         {
-          "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 0,
-          "losses": 3,
+          "division": "2A",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 4,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1502,9 +1509,9 @@
         },
         {
           "division": "2A",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 4,
-          "losses": 1,
+          "team": "St. Louis de Mont.-Black",
+          "wins": 3,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1516,8 +1523,15 @@
         },
         {
           "division": "2A",
-          "team": "St. Louis de Mont.-Black",
-          "wins": 3,
+          "team": "St. Luke-Gold",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 1,
           "losses": 2,
           "draws": 0
         },
@@ -1534,20 +1548,6 @@
           "wins": 1,
           "losses": 3,
           "draws": 1
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Gold",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
         },
         {
           "division": "2A",
@@ -1600,6 +1600,13 @@
         },
         {
           "division": "2N",
+          "team": "Little Flower-Gold",
+          "wins": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 1,
           "losses": 3,
@@ -1614,21 +1621,7 @@
         },
         {
           "division": "2N",
-          "team": "Little Flower-Gold",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "OL Lourdes-Gold",
-          "wins": 0,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Holy Spirit, Indy-Green",
           "wins": 0,
           "losses": 4,
           "draws": 0
@@ -1638,6 +1631,13 @@
           "team": "OL Greenwood-Green",
           "wins": 0,
           "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 0,
+          "losses": 4,
           "draws": 0
         }
       ]
