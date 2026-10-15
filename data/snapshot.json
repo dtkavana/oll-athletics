@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-15T07:20:42.714Z",
+  "scrapedAt": "2026-10-15T14:58:11.322Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -4156,13 +4156,13 @@
           "division": "2A",
           "team": "Mount Carmel-Navy",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Mark-Black",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },

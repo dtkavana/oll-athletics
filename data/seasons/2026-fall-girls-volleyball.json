@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-15T07:20:42.714Z",
+  "scrapedAt": "2026-10-15T14:58:11.322Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -2341,13 +2341,13 @@
           "division": "2A",
           "team": "Mount Carmel-Navy",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Mark-Black",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
