@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-16T07:04:18.716Z",
+  "scrapedAt": "2026-10-16T19:55:28.439Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1781,6 +1781,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Barnabas-Black",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Luke-Royal",
           "wins": 2,
           "losses": 2,
@@ -1809,23 +1816,16 @@
         },
         {
           "division": "2A",
-          "team": "St. Barnabas-Black",
-          "wins": 1,
-          "losses": 1,
+          "team": "Holy Name-Gold",
+          "wins": 0,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Roch-Blue",
           "wins": 0,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Holy Name-Gold",
-          "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {

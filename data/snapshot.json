@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-16T14:48:55.108Z",
+  "scrapedAt": "2026-10-16T19:55:28.439Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3596,6 +3596,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Barnabas-Black",
+          "wins": 2,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Luke-Royal",
           "wins": 2,
           "losses": 2,
@@ -3624,23 +3631,16 @@
         },
         {
           "division": "2A",
-          "team": "St. Barnabas-Black",
-          "wins": 1,
-          "losses": 1,
+          "team": "Holy Name-Gold",
+          "wins": 0,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Roch-Blue",
           "wins": 0,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Holy Name-Gold",
-          "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
