@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-15T07:20:42.714Z",
+  "scrapedAt": "2026-10-16T07:04:18.716Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -563,7 +563,7 @@
         {
           "division": "A",
           "team": "Mount Carmel-Gold",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
@@ -578,7 +578,7 @@
           "division": "A",
           "team": "St. Maria Gor.-Navy",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -604,23 +604,16 @@
         },
         {
           "division": "AA",
-          "team": "St. Barnabas-Maroon",
-          "wins": 5,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "AA",
           "team": "St. Louis de Mont.-Red",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Luke-Gold",
-          "wins": 3,
-          "losses": 2,
+          "team": "St. Barnabas-Maroon",
+          "wins": 5,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -639,9 +632,16 @@
         },
         {
           "division": "AA",
+          "team": "St. Luke-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "OL Of Grace-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -812,14 +812,14 @@
       "rows": [
         {
           "division": "AA",
-          "team": "St. Simon-Royal",
-          "wins": 5,
+          "team": "St. Barnabas-Maroon",
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Barnabas-Maroon",
+          "team": "St. Simon-Royal",
           "wins": 5,
           "losses": 0,
           "draws": 0
@@ -863,7 +863,7 @@
           "division": "AA",
           "team": "OL Of Grace-Gold",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
