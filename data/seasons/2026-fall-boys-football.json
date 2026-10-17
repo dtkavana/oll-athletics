@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-17T13:42:23.909Z",
+  "scrapedAt": "2026-10-17T19:17:55.422Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -715,6 +715,13 @@
         },
         {
           "division": "AA",
+          "team": "St. Maria Gor.-Red",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "South Central-Blue",
           "wins": 4,
           "losses": 1,
@@ -736,23 +743,9 @@
         },
         {
           "division": "AA",
-          "team": "St. Maria Gor.-Red",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AA",
           "team": "St. Barnabas-Gold",
           "wins": 1,
           "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "St. Louis de Mont.-Red",
-          "wins": 0,
-          "losses": 4,
           "draws": 0
         },
         {
@@ -763,9 +756,16 @@
           "draws": 0
         },
         {
+          "division": "AA",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 5,
+          "draws": 0
+        },
+        {
           "division": "AAA",
           "team": "St. Maria Gor.-Navy",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -801,7 +801,7 @@
           "division": "AAA",
           "team": "OL Of Grace-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         }
       ]
