@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-16T07:04:18.716Z",
+  "scrapedAt": "2026-10-17T13:42:23.909Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -569,13 +569,6 @@
         },
         {
           "division": "A",
-          "team": "East Side Crusaders-Red",
-          "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "A",
           "team": "St. Maria Gor.-Navy",
           "wins": 2,
           "losses": 4,
@@ -583,9 +576,16 @@
         },
         {
           "division": "A",
-          "team": "Immac. Heart-White",
+          "team": "East Side Crusaders-Red",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "A",
+          "team": "CYO-BYE",
           "wins": 0,
-          "losses": 4,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -597,9 +597,9 @@
         },
         {
           "division": "A",
-          "team": "CYO-BYE",
+          "team": "Immac. Heart-White",
           "wins": 0,
-          "losses": 0,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -618,6 +618,13 @@
         },
         {
           "division": "AA",
+          "team": "St. Luke-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Pius X-Purple",
           "wins": 3,
           "losses": 2,
@@ -626,13 +633,6 @@
         {
           "division": "AA",
           "team": "St. Pius X-Gold",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "St. Luke-Gold",
           "wins": 3,
           "losses": 2,
           "draws": 0
@@ -681,6 +681,13 @@
         },
         {
           "division": "AAA",
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 1,
           "losses": 4,
@@ -691,13 +698,6 @@
           "team": "South Central-Gold",
           "wins": 1,
           "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
-          "team": "Immac. Heart-Blue",
-          "wins": 1,
-          "losses": 3,
           "draws": 0
         }
       ]
@@ -729,14 +729,14 @@
         },
         {
           "division": "AA",
-          "team": "St. Maria Gor.-Red",
+          "team": "Christ the King-Black",
           "wins": 3,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "Christ the King-Black",
+          "team": "St. Maria Gor.-Red",
           "wins": 3,
           "losses": 2,
           "draws": 0
@@ -750,16 +750,16 @@
         },
         {
           "division": "AA",
-          "team": "South Central-Gold",
+          "team": "St. Louis de Mont.-Red",
           "wins": 0,
-          "losses": 5,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Louis de Mont.-Red",
+          "team": "South Central-Gold",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -840,13 +840,6 @@
         },
         {
           "division": "AA",
-          "team": "Immac. Heart-Blue",
-          "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "AA",
           "team": "Johnson Co. Catholic-Navy",
           "wins": 2,
           "losses": 3,
@@ -854,9 +847,9 @@
         },
         {
           "division": "AA",
-          "team": "Mount Carmel-Navy",
-          "wins": 0,
-          "losses": 5,
+          "team": "Immac. Heart-Blue",
+          "wins": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -864,6 +857,13 @@
           "team": "OL Of Grace-Gold",
           "wins": 0,
           "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Mount Carmel-Navy",
+          "wins": 0,
+          "losses": 5,
           "draws": 0
         },
         {

@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-10-14T20:38:48.154Z",
+  "scrapedAt": "2026-10-17T13:42:23.909Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--56-a-boys--0--ol-lourdes-blue",
@@ -109,84 +109,35 @@
         },
         {
           "division": "",
-          "team": "St. Louis de Mont.-Red",
+          "team": "St. Barnabas-Maroon",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "Ss. Fran. & Clare-Navy",
+          "team": "Holy Name-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Susanna-Gold",
+          "team": "St. Mark-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Anthony-Red",
+          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "OL Lourdes-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Christopher-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Jude-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Luke-Royal",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Holy Spirit, Indy-Yellow",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Christ the King-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Joan of Arc-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Pius X-Purple",
+          "team": "St. Matthew-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -235,35 +186,84 @@
         },
         {
           "division": "",
-          "team": "St. Barnabas-Maroon",
+          "team": "St. Jude-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "Holy Name-Blue",
+          "team": "St. Luke-Royal",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Mark-Black",
+          "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Maria Gor.-Red",
+          "team": "Christ the King-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Matthew-Red",
+          "team": "St. Joan of Arc-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Pius X-Purple",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Susanna-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Anthony-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Christopher-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -318,42 +318,7 @@
         },
         {
           "division": "",
-          "team": "OL Lourdes-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Jude-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Luke-Yellow",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Christ the King-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Pius X-Purple",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Mount Carmel-Blue",
+          "team": "St. Matthew-White",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -402,7 +367,42 @@
         },
         {
           "division": "",
-          "team": "St. Matthew-White",
+          "team": "OL Lourdes-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Jude-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Luke-Yellow",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Pius X-Purple",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Mount Carmel-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -457,84 +457,42 @@
         },
         {
           "division": "",
-          "team": "OL Of Grace-Gold",
+          "team": "St. Monica-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Louis de Mont.-Red",
+          "team": "St. Barnabas-Maroon",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "Card. Ritter Jr. H-Black",
+          "team": "Holy Name-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "Holy Spirit Geist-Blue",
+          "team": "St. Mark-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "Ss. Fran. & Clare-Navy",
+          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Susanna-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "OL Lourdes-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Jude-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Luke-Royal",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Joan of Arc-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Holy Spirit, Indy-Green",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Christ the King-Black",
+          "team": "St. Matthew-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -583,42 +541,84 @@
         },
         {
           "division": "",
-          "team": "St. Monica-Red",
+          "team": "OL Lourdes-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Barnabas-Maroon",
+          "team": "St. Jude-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "Holy Name-Blue",
+          "team": "St. Luke-Royal",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Mark-Black",
+          "team": "St. Joan of Arc-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Maria Gor.-Red",
+          "team": "Holy Spirit, Indy-Green",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Matthew-Red",
+          "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Of Grace-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Card. Ritter Jr. H-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Susanna-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -673,126 +673,28 @@
         },
         {
           "division": "",
-          "team": "St. Louis de Mont.-Black",
+          "team": "St. Barnabas-Maroon",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "Card. Ritter Jr. H-Gray",
+          "team": "Holy Name-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Malachy-Green",
+          "team": "St. Maria Gor.-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Malachy-White",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Ss. Fran. & Clare-Gray",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Susanna-Royal",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "OL Lourdes-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Jude-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Jude-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Luke-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Luke-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Luke-Yellow",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Christ the King-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Pius X-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Pius X-Purple",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Little Flower-Yellow",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Mount Carmel-Blue",
+          "team": "St. Matthew-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -841,28 +743,126 @@
         },
         {
           "division": "",
-          "team": "St. Barnabas-Maroon",
+          "team": "Christ the King-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "Holy Name-Gold",
+          "team": "St. Pius X-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Maria Gor.-Blue",
+          "team": "St. Pius X-Purple",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "",
-          "team": "St. Matthew-Black",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Little Flower-Yellow",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Mount Carmel-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "OL Lourdes-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Jude-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Jude-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Luke-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Luke-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Luke-Yellow",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Louis de Mont.-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Card. Ritter Jr. H-Gray",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Malachy-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Ss. Fran. & Clare-Gray",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Susanna-Royal",
           "wins": 0,
           "losses": 0,
           "draws": 0
