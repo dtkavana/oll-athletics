@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-18T07:11:28.902Z",
+  "scrapedAt": "2026-10-18T19:24:19.189Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -812,23 +812,16 @@
       "rows": [
         {
           "division": "AA",
-          "team": "St. Barnabas-Maroon",
+          "team": "St. Simon-Royal",
           "wins": 6,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Simon-Royal",
-          "wins": 5,
+          "team": "St. Barnabas-Maroon",
+          "wins": 6,
           "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "Christ the King-Black",
-          "wins": 3,
-          "losses": 2,
           "draws": 0
         },
         {
@@ -840,9 +833,9 @@
         },
         {
           "division": "AA",
-          "team": "Johnson Co. Catholic-Navy",
-          "wins": 2,
-          "losses": 3,
+          "team": "Christ the King-Black",
+          "wins": 3,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -854,9 +847,9 @@
         },
         {
           "division": "AA",
-          "team": "OL Of Grace-Gold",
-          "wins": 0,
-          "losses": 6,
+          "team": "Johnson Co. Catholic-Navy",
+          "wins": 2,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -864,6 +857,13 @@
           "team": "Mount Carmel-Navy",
           "wins": 0,
           "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "OL Of Grace-Gold",
+          "wins": 0,
+          "losses": 6,
           "draws": 0
         },
         {
