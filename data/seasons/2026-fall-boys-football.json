@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-17T19:17:55.422Z",
+  "scrapedAt": "2026-10-18T07:11:28.902Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -709,7 +709,7 @@
         {
           "division": "AA",
           "team": "Christ the King-Gold",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
@@ -724,7 +724,14 @@
           "division": "AA",
           "team": "South Central-Blue",
           "wins": 4,
-          "losses": 1,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
+          "team": "Christ the King-Black",
+          "wins": 4,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -732,13 +739,6 @@
           "team": "St. Matthew-White",
           "wins": 4,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "Christ the King-Black",
-          "wins": 3,
-          "losses": 2,
           "draws": 0
         },
         {
@@ -752,7 +752,7 @@
           "division": "AA",
           "team": "South Central-Gold",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -772,7 +772,7 @@
         {
           "division": "AAA",
           "team": "Immac. Heart-Blue",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
@@ -787,7 +787,7 @@
           "division": "AAA",
           "team": "Johnson Co. Catholic-White",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
