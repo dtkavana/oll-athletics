@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-17T13:42:23.909Z",
+  "scrapedAt": "2026-10-19T07:41:09.722Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1962,6 +1962,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Jude-Gold",
+          "wins": 4,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "Christ the King-Gold",
           "wins": 3,
           "losses": 1,
@@ -1976,9 +1983,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Jude-Gold",
-          "wins": 3,
-          "losses": 0,
+          "team": "OL Of Grace-Navy",
+          "wins": 2,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1999,14 +2006,7 @@
           "division": "1N",
           "team": "Nativity-White",
           "wins": 2,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "OL Of Grace-Navy",
-          "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2192,16 +2192,16 @@
         },
         {
           "division": "1A",
-          "team": "St. Jude-Red",
-          "wins": 3,
-          "losses": 1,
+          "team": "Ss. Fran. & Clare-Gray",
+          "wins": 4,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "Ss. Fran. & Clare-Gray",
+          "team": "St. Jude-Red",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2243,7 +2243,7 @@
           "division": "1A",
           "team": "Mount Carmel-Blue",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {

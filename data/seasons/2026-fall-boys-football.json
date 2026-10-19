@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-18T19:24:19.189Z",
+  "scrapedAt": "2026-10-19T07:41:09.722Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -548,16 +548,16 @@
       "rows": [
         {
           "division": "A",
-          "team": "Nativity-Red",
-          "wins": 5,
+          "team": "St. Matthew-White",
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "A",
-          "team": "St. Matthew-White",
+          "team": "Nativity-Red",
           "wins": 5,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -583,6 +583,13 @@
         },
         {
           "division": "A",
+          "team": "St. Barnabas-Gold",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "A",
           "team": "CYO-BYE",
           "wins": 0,
           "losses": 0,
@@ -590,16 +597,9 @@
         },
         {
           "division": "A",
-          "team": "St. Barnabas-Gold",
-          "wins": 0,
-          "losses": 5,
-          "draws": 0
-        },
-        {
-          "division": "A",
           "team": "Immac. Heart-White",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -661,14 +661,14 @@
         {
           "division": "AAA",
           "team": "Mount Carmel-Navy",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "AAA",
           "team": "Johnson Co. Catholic-White",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -676,14 +676,14 @@
           "division": "AAA",
           "team": "St. Simon-Royal",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "AAA",
           "team": "Immac. Heart-Blue",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -869,7 +869,7 @@
         {
           "division": "AAA",
           "team": "Mount Carmel-Gold",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -905,7 +905,7 @@
           "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         }
       ]
