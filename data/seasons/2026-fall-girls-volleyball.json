@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-19T07:41:09.722Z",
+  "scrapedAt": "2026-10-19T16:58:58.259Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1182,7 +1182,7 @@
         {
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
-          "wins": 1,
+          "wins": 2,
           "losses": 3,
           "draws": 0
         },
@@ -1204,7 +1204,7 @@
           "division": "1N",
           "team": "Little Flower-Gold",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -1439,6 +1439,13 @@
         },
         {
           "division": "1N",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Charles-Red",
           "wins": 2,
           "losses": 1,
@@ -1455,14 +1462,7 @@
           "division": "1N",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Ss. Fran. & Clare-Navy",
-          "wins": 1,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -1476,7 +1476,7 @@
           "division": "1N",
           "team": "Holy Name-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1727,7 +1727,7 @@
           "division": "1N",
           "team": "OL Of Grace-Gold",
           "wins": 4,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1739,16 +1739,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Matthew-Red",
+          "team": "Holy Spirit Geist-Blue",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 1,
-          "losses": 3,
+          "team": "St. Matthew-Red",
+          "wins": 2,
+          "losses": 2,
           "draws": 0
         },
         {

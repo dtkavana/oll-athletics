@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-19T07:41:09.722Z",
+  "scrapedAt": "2026-10-19T16:58:58.259Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -464,16 +464,16 @@
       "startTime": "13:00",
       "endTime": "14:15",
       "venue": "Bishop Chatard HS Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet",
       "division": "AAA",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "St. Pius X-Purple",
-        "score": null
+        "score": 8
       },
       "id": "58bf348b7361",
       "season": "2026 Fall Boys Football",
@@ -618,6 +618,13 @@
         },
         {
           "division": "AA",
+          "team": "St. Pius X-Gold",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Luke-Gold",
           "wins": 3,
           "losses": 2,
@@ -626,13 +633,6 @@
         {
           "division": "AA",
           "team": "St. Pius X-Purple",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "St. Pius X-Gold",
           "wins": 3,
           "losses": 2,
           "draws": 0
@@ -655,7 +655,7 @@
           "division": "AA",
           "team": "St. Malachy-Green",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -826,15 +826,15 @@
         },
         {
           "division": "AA",
-          "team": "St. Louis de Mont.-Red",
-          "wins": 3,
+          "team": "Christ the King-Black",
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "Christ the King-Black",
-          "wins": 3,
+          "team": "St. Louis de Mont.-Red",
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
@@ -842,7 +842,7 @@
           "division": "AA",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -856,7 +856,7 @@
           "division": "AA",
           "team": "Mount Carmel-Navy",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -875,8 +875,8 @@
         },
         {
           "division": "AAA",
-          "team": "East Side Crusaders-Red",
-          "wins": 3,
+          "team": "St. Pius X-Purple",
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
@@ -889,9 +889,9 @@
         },
         {
           "division": "AAA",
-          "team": "St. Pius X-Purple",
+          "team": "East Side Crusaders-Red",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
