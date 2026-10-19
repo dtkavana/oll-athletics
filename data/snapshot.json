@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-19T16:58:58.259Z",
+  "scrapedAt": "2026-10-19T21:28:09.954Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3472,7 +3472,7 @@
           "division": "1A",
           "team": "Ss. Fran. & Clare-Navy",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3485,7 +3485,7 @@
         {
           "division": "1A",
           "team": "Nativity-Black",
-          "wins": 2,
+          "wins": 3,
           "losses": 0,
           "draws": 0
         },
@@ -3645,6 +3645,13 @@
         },
         {
           "division": "2N",
+          "team": "St. Michael, Indy-Red",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Philip-Green",
           "wins": 2,
           "losses": 0,
@@ -3652,8 +3659,8 @@
         },
         {
           "division": "2N",
-          "team": "St. Michael, Indy-Red",
-          "wins": 2,
+          "team": "Central Cath.-Blue",
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
@@ -3680,13 +3687,6 @@
         },
         {
           "division": "2N",
-          "team": "Central Cath.-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 0,
           "losses": 1,
@@ -3696,7 +3696,7 @@
           "division": "2N",
           "team": "Holy Spirit, Indy-Green",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         }
       ]
