@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-19T16:58:58.259Z",
+  "scrapedAt": "2026-10-20T15:01:28.816Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -569,16 +569,16 @@
         },
         {
           "division": "A",
-          "team": "St. Maria Gor.-Navy",
+          "team": "East Side Crusaders-Red",
           "wins": 2,
-          "losses": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "A",
-          "team": "East Side Crusaders-Red",
+          "team": "St. Maria Gor.-Navy",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -625,14 +625,14 @@
         },
         {
           "division": "AA",
-          "team": "St. Luke-Gold",
+          "team": "St. Pius X-Purple",
           "wins": 3,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "AA",
-          "team": "St. Pius X-Purple",
+          "team": "St. Luke-Gold",
           "wins": 3,
           "losses": 2,
           "draws": 0
@@ -681,13 +681,6 @@
         },
         {
           "division": "AAA",
-          "team": "Immac. Heart-Blue",
-          "wins": 1,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "AAA",
           "team": "St. Jude-Red",
           "wins": 1,
           "losses": 4,
@@ -696,6 +689,13 @@
         {
           "division": "AAA",
           "team": "South Central-Gold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "AAA",
+          "team": "Immac. Heart-Blue",
           "wins": 1,
           "losses": 4,
           "draws": 0
@@ -715,6 +715,13 @@
         },
         {
           "division": "AA",
+          "team": "Christ the King-Black",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "AA",
           "team": "St. Maria Gor.-Red",
           "wins": 4,
           "losses": 2,
@@ -723,13 +730,6 @@
         {
           "division": "AA",
           "team": "South Central-Blue",
-          "wins": 4,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "AA",
-          "team": "Christ the King-Black",
           "wins": 4,
           "losses": 2,
           "draws": 0

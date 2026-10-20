@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall CO-ED Cross Country",
-  "scrapedAt": "2026-10-17T13:42:23.909Z",
+  "scrapedAt": "2026-10-20T15:01:28.816Z",
   "teams": [
     {
       "id": "2026-fall-co-ed-cross-country--cadet-56-34--0--ol-lourdes-blue",
@@ -68,7 +68,42 @@
         },
         {
           "division": "",
-          "team": "Mount Carmel-Gold",
+          "team": "St. Luke-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Susanna-Royal",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "St. Pius X-Purple",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Card. Ritter Jr. H-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Immac. Heart-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "",
+          "team": "Christ the King-Black",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -117,42 +152,7 @@
         },
         {
           "division": "",
-          "team": "St. Luke-Royal",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Susanna-Royal",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "St. Pius X-Purple",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Card. Ritter Jr. H-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Immac. Heart-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "",
-          "team": "Christ the King-Black",
+          "team": "Mount Carmel-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
