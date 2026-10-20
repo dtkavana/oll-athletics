@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-19T21:28:09.954Z",
+  "scrapedAt": "2026-10-20T07:27:02.391Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1174,6 +1174,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Mark-Black",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "OL Lourdes-Blue",
           "wins": 2,
           "losses": 1,
@@ -1190,15 +1197,8 @@
           "division": "1N",
           "team": "St. Joan of Arc-Black",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 1
-        },
-        {
-          "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 1,
-          "losses": 1,
-          "draws": 0
         },
         {
           "division": "1N",
@@ -1218,7 +1218,7 @@
           "division": "1N",
           "team": "Nativity-Black",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -1238,7 +1238,7 @@
         {
           "division": "2A",
           "team": "Christ the King-Black",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -1260,7 +1260,7 @@
           "division": "2A",
           "team": "Immac. Heart-Blue",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1425,16 +1425,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Barnabas-Maroon",
-          "wins": 3,
-          "losses": 0,
+          "team": "St. Barnabas-Gold",
+          "wins": 4,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Barnabas-Gold",
+          "team": "St. Barnabas-Maroon",
           "wins": 3,
-          "losses": 1,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -1448,7 +1448,7 @@
           "division": "1N",
           "team": "St. Charles-Red",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1467,6 +1467,13 @@
         },
         {
           "division": "1N",
+          "team": "Holy Name-Gold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
           "losses": 3,
@@ -1474,16 +1481,9 @@
         },
         {
           "division": "1N",
-          "team": "Holy Name-Gold",
-          "wins": 0,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Mark-Black",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1523,6 +1523,13 @@
         },
         {
           "division": "2A",
+          "team": "Christ the King-Gold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Luke-Gold",
           "wins": 1,
           "losses": 3,
@@ -1539,15 +1546,8 @@
           "division": "2A",
           "team": "St. Simon-White",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 1
-        },
-        {
-          "division": "2A",
-          "team": "Christ the King-Gold",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
         },
         {
           "division": "2A",
@@ -1558,15 +1558,15 @@
         },
         {
           "division": "2N",
-          "team": "St. Monica-Black",
+          "team": "St. Michael, Grnfld.-Gold",
           "wins": 5,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Michael, Grnfld.-Gold",
-          "wins": 4,
+          "team": "St. Monica-Black",
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -1630,7 +1630,7 @@
           "division": "2N",
           "team": "Holy Spirit, Indy-Green",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -1732,6 +1732,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Matthew-Red",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Monica-Black",
           "wins": 2,
           "losses": 3,
@@ -1746,16 +1753,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Matthew-Red",
-          "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "Little Flower-Blue",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
