@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-10-21T15:11:56.385Z",
+  "scrapedAt": "2026-10-21T20:35:27.306Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue",
@@ -115,6 +115,13 @@
           "draws": 0
         },
         {
+          "division": "1A",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
           "division": "1N",
           "team": "St. Roch-Blue",
           "wins": 0,
@@ -166,6 +173,13 @@
         {
           "division": "1N",
           "team": "Holy Name-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "CYO-BYE",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -473,6 +487,13 @@
         {
           "division": "2N",
           "team": "St. Mark-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "CYO-BYE",
           "wins": 0,
           "losses": 0,
           "draws": 0
