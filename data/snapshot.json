@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-20T20:31:45.403Z",
+  "scrapedAt": "2026-10-21T07:29:46.477Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2996,6 +2996,13 @@
         },
         {
           "division": "1N",
+          "team": "Little Flower-Gold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "OL Lourdes-Blue",
           "wins": 2,
           "losses": 1,
@@ -3017,16 +3024,9 @@
         },
         {
           "division": "1N",
-          "team": "Little Flower-Gold",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3177,15 +3177,15 @@
         },
         {
           "division": "1A",
-          "team": "Christ the King-Black",
+          "team": "St. Simon-Blue",
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Simon-Blue",
-          "wins": 2,
+          "team": "Christ the King-Black",
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -3464,6 +3464,13 @@
         {
           "division": "1A",
           "team": "St. Charles-Red",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Nativity-Black",
           "wins": 4,
           "losses": 0,
           "draws": 0
@@ -3472,21 +3479,21 @@
           "division": "1A",
           "team": "Ss. Fran. & Clare-Navy",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Simon-Royal",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "Nativity-Black",
-          "wins": 3,
-          "losses": 0,
+          "team": "St. Louis de Mont.-Red",
+          "wins": 1,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3501,13 +3508,6 @@
           "team": "St. Maria Gor.-Navy",
           "wins": 1,
           "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Louis de Mont.-Red",
-          "wins": 1,
-          "losses": 5,
           "draws": 0
         },
         {
@@ -3597,7 +3597,7 @@
         {
           "division": "2A",
           "team": "St. Barnabas-Black",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -3619,7 +3619,7 @@
           "division": "2A",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -3721,6 +3721,13 @@
         },
         {
           "division": "1A",
+          "team": "Christ the King-Black",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Mount Carmel-Yellow",
           "wins": 3,
           "losses": 2,
@@ -3744,14 +3751,7 @@
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "Christ the King-Black",
-          "wins": 2,
-          "losses": 2,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3777,16 +3777,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Jude-Gold",
+          "team": "Immac. Heart-White",
           "wins": 4,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Immac. Heart-White",
-          "wins": 3,
-          "losses": 1,
+          "team": "St. Jude-Gold",
+          "wins": 4,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -3800,7 +3800,7 @@
           "division": "1N",
           "team": "OL Of Grace-Navy",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3814,7 +3814,7 @@
           "division": "1N",
           "team": "Nativity-White",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -3833,14 +3833,14 @@
         },
         {
           "division": "1N",
-          "team": "St. Christopher-Red",
-          "wins": 0,
+          "team": "St. Luke-Blue",
+          "wins": 1,
           "losses": 4,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Luke-Blue",
+          "team": "St. Christopher-Red",
           "wins": 0,
           "losses": 4,
           "draws": 0
@@ -3917,6 +3917,13 @@
         },
         {
           "division": "2N",
+          "team": "St. Mark-Gold",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Matthew-Red",
           "wins": 4,
           "losses": 0,
@@ -3926,14 +3933,7 @@
           "division": "2N",
           "team": "St. Roch-White",
           "wins": 3,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 3,
-          "losses": 0,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3961,7 +3961,7 @@
           "division": "2N",
           "team": "Immac. Heart-Gray",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -4008,7 +4008,7 @@
         {
           "division": "1A",
           "team": "Ss. Fran. & Clare-Gray",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -4023,7 +4023,7 @@
           "division": "1A",
           "team": "St. Luke-Gold",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -4084,29 +4084,15 @@
         },
         {
           "division": "1N",
-          "team": "St. Malachy-White",
+          "team": "St. Luke-White",
           "wins": 3,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "OL Of Grace-Navy",
-          "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Christ the King-Gold",
-          "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Luke-White",
-          "wins": 2,
+          "team": "St. Malachy-White",
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -4120,6 +4106,20 @@
         {
           "division": "1N",
           "team": "St. Pius X-Gold",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Of Grace-Navy",
+          "wins": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Christ the King-Gold",
           "wins": 2,
           "losses": 2,
           "draws": 0
@@ -4141,7 +4141,7 @@
         {
           "division": "2A",
           "team": "St. Luke-Blue",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -4162,7 +4162,7 @@
         {
           "division": "2A",
           "team": "St. Mark-Black",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -4191,7 +4191,7 @@
           "division": "2A",
           "team": "Nativity-Red",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -4205,7 +4205,7 @@
           "division": "2A",
           "team": "St. Roch-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
