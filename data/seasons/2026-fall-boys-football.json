@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-20T15:01:28.816Z",
+  "scrapedAt": "2026-10-22T20:31:50.788Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -682,7 +682,7 @@
         {
           "division": "AAA",
           "team": "St. Jude-Red",
-          "wins": 1,
+          "wins": 2,
           "losses": 4,
           "draws": 0
         },
@@ -690,7 +690,7 @@
           "division": "AAA",
           "team": "South Central-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {

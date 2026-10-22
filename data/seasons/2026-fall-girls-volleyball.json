@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-22T15:12:44.032Z",
+  "scrapedAt": "2026-10-22T20:31:50.788Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1968,6 +1968,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Luke-Royal",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 3,
           "losses": 1,
@@ -1977,14 +1984,7 @@
           "division": "2A",
           "team": "St. Pius X-Purple",
           "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Royal",
-          "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {

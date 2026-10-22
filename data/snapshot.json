@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T15:12:44.032Z",
+  "scrapedAt": "2026-10-22T20:31:50.788Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -31,7 +31,8 @@
     "2026 Fall Girls Kickball",
     "2026 Spring Boys Volleyball",
     "2026 Spring CO-ED Soccer",
-    "2026 Spring Girls Kickball"
+    "2026 Spring Girls Kickball",
+    "2026-2027 Boys Basketball"
   ],
   "videos": [
     {
@@ -2260,7 +2261,7 @@
         {
           "division": "AAA",
           "team": "St. Jude-Red",
-          "wins": 1,
+          "wins": 2,
           "losses": 4,
           "draws": 0
         },
@@ -2268,7 +2269,7 @@
           "division": "AAA",
           "team": "South Central-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3803,6 +3804,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Luke-Royal",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 3,
           "losses": 1,
@@ -3812,14 +3820,7 @@
           "division": "2A",
           "team": "St. Pius X-Purple",
           "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Royal",
-          "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
