@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-21T20:35:27.306Z",
+  "scrapedAt": "2026-10-22T07:34:23.206Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -35,8 +35,40 @@
   ],
   "videos": [
     {
+      "id": "sRhykJ2vubE",
+      "title": "Playground and School Blessing Fall 2026",
+      "published": "2026-10-22T01:22:50+00:00",
+      "date": "2026-10-22",
+      "url": "https://www.youtube.com/watch?v=sRhykJ2vubE",
+      "thumb": "https://i.ytimg.com/vi/sRhykJ2vubE/mqdefault.jpg"
+    },
+    {
+      "id": "cMat-inT-Qs",
+      "title": "Volleyball, Cadet B vs. St. Susanna, 10/21/2026",
+      "published": "2026-10-22T01:21:57+00:00",
+      "date": "2026-10-22",
+      "url": "https://www.youtube.com/watch?v=cMat-inT-Qs",
+      "thumb": "https://i.ytimg.com/vi/cMat-inT-Qs/mqdefault.jpg"
+    },
+    {
+      "id": "Znr871oeEkk",
+      "title": "Volleyball, Cadet B vs. St. Susanna, 10/21/2026",
+      "published": "2026-10-21T23:34:21+00:00",
+      "date": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=Znr871oeEkk",
+      "thumb": "https://i.ytimg.com/vi/Znr871oeEkk/mqdefault.jpg"
+    },
+    {
+      "id": "c63iUaxmnWQ",
+      "title": "56B Volleyball vs. St. Matthew, 10/21/2026",
+      "published": "2026-10-21T21:59:57+00:00",
+      "date": "2026-10-21",
+      "url": "https://www.youtube.com/watch?v=c63iUaxmnWQ",
+      "thumb": "https://i.ytimg.com/vi/c63iUaxmnWQ/mqdefault.jpg"
+    },
+    {
       "id": "iNyIE2lzxGo",
-      "title": "Playground Open Ceremony",
+      "title": "Volleyball, 56A vs. St. Susanna, 10/21/2026",
       "published": "2026-10-21T12:41:12+00:00",
       "date": "2026-10-21",
       "url": "https://www.youtube.com/watch?v=iNyIE2lzxGo",
@@ -3102,7 +3134,7 @@
         {
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
           "draws": 0
         },
@@ -3131,7 +3163,7 @@
           "division": "1A",
           "team": "Mount Carmel-Gold",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3557,7 +3589,7 @@
           "division": "2N",
           "team": "St. Malachy-Green",
           "wins": 4,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3577,7 +3609,7 @@
         {
           "division": "2N",
           "team": "St. Jude-Gold",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -3771,6 +3803,20 @@
         },
         {
           "division": "2A",
+          "team": "St. Malachy-Green",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Pius X-Purple",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Luke-Royal",
           "wins": 2,
           "losses": 2,
@@ -3785,28 +3831,14 @@
         },
         {
           "division": "2A",
-          "team": "St. Pius X-Purple",
-          "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Malachy-Green",
-          "wins": 2,
-          "losses": 1,
+          "team": "St. Roch-Blue",
+          "wins": 0,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Holy Name-Gold",
-          "wins": 0,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Roch-Blue",
           "wins": 0,
           "losses": 4,
           "draws": 0
@@ -3876,7 +3908,7 @@
         {
           "division": "1A",
           "team": "St. Barnabas-Maroon",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -3933,13 +3965,20 @@
           "division": "1A",
           "team": "St. Pius X-White",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "CYO-BYE",
           "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Jude-Gold",
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -3952,16 +3991,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Jude-Gold",
-          "wins": 4,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "Christ the King-Gold",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -4093,7 +4125,7 @@
         {
           "division": "2N",
           "team": "St. Matthew-Red",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -4115,7 +4147,7 @@
           "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4308,6 +4340,13 @@
         },
         {
           "division": "2A",
+          "team": "Christ the King-Black",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Luke-Blue",
           "wins": 5,
           "losses": 0,
@@ -4329,13 +4368,6 @@
         },
         {
           "division": "2A",
-          "team": "Christ the King-Black",
-          "wins": 4,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Maria Gor.-Red",
           "wins": 2,
           "losses": 3,
@@ -4343,16 +4375,16 @@
         },
         {
           "division": "2A",
-          "team": "Holy Name-Gold",
-          "wins": 1,
-          "losses": 3,
+          "team": "St. Malachy-Green",
+          "wins": 2,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Malachy-Green",
+          "team": "Holy Name-Gold",
           "wins": 1,
-          "losses": 2,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -4366,7 +4398,7 @@
           "division": "2A",
           "team": "St. Simon-White",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -8086,16 +8118,16 @@
       "startTime": "18:00",
       "endTime": "19:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 B Girls",
       "division": "2N",
       "team1": {
         "name": "St. Matthew-Red",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "id": "d04449cc47c9",
       "season": "2026 Fall Girls Volleyball",
