@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-10-21T20:35:27.306Z",
+  "scrapedAt": "2026-10-22T15:12:44.032Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue",
@@ -848,13 +848,6 @@
         },
         {
           "division": "1N",
-          "team": "St. Malachy-White",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Jude-Gold",
           "wins": 0,
           "losses": 0,
@@ -884,6 +877,13 @@
         {
           "division": "1N",
           "team": "Immac. Heart-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "CYO-BYE",
           "wins": 0,
           "losses": 0,
           "draws": 0
