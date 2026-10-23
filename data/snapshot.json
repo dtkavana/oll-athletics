@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-23T07:23:24.920Z",
+  "scrapedAt": "2026-10-23T15:01:23.642Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3142,7 +3142,7 @@
         {
           "division": "1A",
           "team": "St. Jude-Red",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -3150,7 +3150,7 @@
           "division": "1A",
           "team": "St. Luke-Royal",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -3267,14 +3267,14 @@
         },
         {
           "division": "2A",
-          "team": "St. Roch-Blue",
-          "wins": 1,
-          "losses": 2,
+          "team": "St. Malachy-Green",
+          "wins": 2,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "Immac. Heart-Blue",
+          "team": "Holy Name-Gold",
           "wins": 1,
           "losses": 4,
           "draws": 0
@@ -3288,16 +3288,16 @@
         },
         {
           "division": "2A",
-          "team": "St. Malachy-Green",
+          "team": "St. Roch-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "Holy Name-Gold",
-          "wins": 0,
-          "losses": 3,
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3364,14 +3364,14 @@
       "rows": [
         {
           "division": "1A",
-          "team": "Immac. Heart-Blue",
-          "wins": 4,
+          "team": "St. Louis de Mont.-Red",
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
+          "team": "Immac. Heart-Blue",
           "wins": 4,
           "losses": 0,
           "draws": 0
@@ -3392,6 +3392,20 @@
         },
         {
           "division": "1A",
+          "team": "Mount Carmel-Gold",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 2,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Maria Gor.-Navy",
           "wins": 2,
           "losses": 3,
@@ -3399,29 +3413,8 @@
         },
         {
           "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "Mount Carmel-Gold",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Matthew-Red",
-          "wins": 0,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Luke-Royal",
-          "wins": 0,
+          "wins": 1,
           "losses": 4,
           "draws": 0
         },
@@ -3429,7 +3422,14 @@
           "division": "1A",
           "team": "St. Pius X-Purple",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Luke-Royal",
+          "wins": 0,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3504,16 +3504,16 @@
         },
         {
           "division": "2A",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 4,
-          "losses": 1,
+          "team": "St. Pius X-Gold",
+          "wins": 5,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Pius X-Gold",
+          "team": "Holy Spirit Geist-Blue",
           "wins": 4,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3562,7 +3562,7 @@
           "division": "2A",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4049,7 +4049,7 @@
         {
           "division": "2A",
           "team": "St. Charles-Red",
-          "wins": 4,
+          "wins": 5,
           "losses": 0,
           "draws": 0
         },
@@ -4092,7 +4092,7 @@
           "division": "2A",
           "team": "St. Simon-White",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -4391,7 +4391,7 @@
         {
           "division": "2A",
           "team": "Nativity-Red",
-          "wins": 0,
+          "wins": 1,
           "losses": 4,
           "draws": 0
         },
@@ -4406,7 +4406,7 @@
           "division": "2A",
           "team": "St. Roch-Gold",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -4440,7 +4440,7 @@
         {
           "division": "2N",
           "team": "St. Joan of Arc-Gold",
-          "wins": 1,
+          "wins": 2,
           "losses": 3,
           "draws": 0
         },
@@ -4462,7 +4462,7 @@
           "division": "2N",
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
