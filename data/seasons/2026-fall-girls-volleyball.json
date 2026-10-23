@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-23T15:01:23.642Z",
+  "scrapedAt": "2026-10-23T20:22:43.096Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1467,7 +1467,7 @@
         {
           "division": "2N",
           "team": "St. Rose-Blue",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -1510,7 +1510,7 @@
           "division": "2N",
           "team": "Central Cath.-Blue",
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1759,21 +1759,21 @@
         },
         {
           "division": "2N",
-          "team": "St. Malachy-White",
-          "wins": 3,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "St. Roch-Gold",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Jude-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Malachy-White",
           "wins": 3,
           "losses": 2,
           "draws": 0
@@ -1933,6 +1933,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "Little Flower-Blue",
           "wins": 0,
           "losses": 5,
@@ -1940,16 +1947,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 0,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -2019,7 +2019,7 @@
           "division": "2N",
           "team": "St. Philip-Green",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2027,6 +2027,13 @@
           "team": "OL Lourdes-Blue",
           "wins": 1,
           "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2055,13 +2062,6 @@
           "team": "St. Susanna-Blue",
           "wins": 0,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Holy Spirit, Indy-Green",
-          "wins": 0,
-          "losses": 2,
           "draws": 0
         }
       ]
@@ -2380,7 +2380,7 @@
         {
           "division": "1A",
           "team": "St. Jude-Red",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -2402,7 +2402,7 @@
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
