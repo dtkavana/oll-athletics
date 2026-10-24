@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-24T07:13:20.419Z",
+  "scrapedAt": "2026-10-24T14:00:24.409Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3197,17 +3197,10 @@
         },
         {
           "division": "1N",
-          "team": "Little Flower-Gold",
-          "wins": 2,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "OL Lourdes-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 1,
-          "draws": 1
+          "draws": 0
         },
         {
           "division": "1N",
@@ -3218,10 +3211,17 @@
         },
         {
           "division": "1N",
+          "team": "Little Flower-Gold",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Joan of Arc-Black",
           "wins": 1,
-          "losses": 3,
-          "draws": 1
+          "losses": 4,
+          "draws": 0
         },
         {
           "division": "1N",
@@ -8216,7 +8216,7 @@
       "division": "1N",
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": 0
+        "score": 2
       },
       "team2": {
         "name": "St. Joan of Arc-Black",
