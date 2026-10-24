@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-24T14:00:24.409Z",
+  "scrapedAt": "2026-10-24T19:27:14.658Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3199,14 +3199,21 @@
           "division": "1N",
           "team": "OL Lourdes-Blue",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Nativity-Black",
+          "wins": 2,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3227,14 +3234,7 @@
           "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Nativity-Black",
-          "wins": 0,
-          "losses": 3,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3434,15 +3434,8 @@
         },
         {
           "division": "1N",
-          "team": "St. Roch-Blue",
-          "wins": 4,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Barnabas-Maroon",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
@@ -3451,6 +3444,13 @@
           "team": "St. Barnabas-Gold",
           "wins": 4,
           "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Roch-Blue",
+          "wins": 4,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -3464,7 +3464,7 @@
           "division": "1N",
           "team": "St. Charles-Red",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -3575,7 +3575,7 @@
         {
           "division": "2N",
           "team": "St. Michael, Grnfld.-Gold",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -3632,7 +3632,7 @@
           "division": "2N",
           "team": "St. Mark-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -4308,7 +4308,7 @@
           "division": "1N",
           "team": "Immac. Heart-White",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4327,15 +4327,15 @@
         },
         {
           "division": "1N",
-          "team": "St. Jude-Gold",
+          "team": "St. Simon-Silver",
           "wins": 1,
           "losses": 4,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Simon-Silver",
-          "wins": 0,
+          "team": "St. Jude-Gold",
+          "wins": 1,
           "losses": 4,
           "draws": 0
         },
@@ -8234,16 +8234,16 @@
       "startTime": "09:00",
       "endTime": null,
       "venue": "Scecina HS Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "34",
       "division": null,
       "team1": {
         "name": "Immac. Heart-Blue",
-        "score": null
+        "score": 7
       },
       "team2": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 18
       },
       "season": "2026 Fall Boys Football",
       "tournament": {
@@ -8263,16 +8263,16 @@
       "startTime": "12:00",
       "endTime": "13:00",
       "venue": "Nativity Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": "1N",
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "Nativity-Black",
-        "score": null
+        "score": 2
       },
       "id": "8075e3ca87b9",
       "season": "2026 Fall Girls Volleyball",

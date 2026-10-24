@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-22T20:31:50.788Z",
+  "scrapedAt": "2026-10-24T19:27:14.658Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -487,16 +487,16 @@
       "startTime": "09:00",
       "endTime": null,
       "venue": "Scecina HS Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "34",
       "division": null,
       "team1": {
         "name": "Immac. Heart-Blue",
-        "score": null
+        "score": 7
       },
       "team2": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 18
       },
       "season": "2026 Fall Boys Football",
       "tournament": {
