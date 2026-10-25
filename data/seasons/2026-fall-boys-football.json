@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-24T19:27:14.658Z",
+  "scrapedAt": "2026-10-25T07:32:49.475Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -40,7 +40,8 @@
         "998fea24ff06",
         "8ceca7227305",
         "5954d45fac03",
-        "7e9d425a30ad"
+        "7e9d425a30ad",
+        "3130e6cfeb65"
       ]
     },
     {
@@ -537,6 +538,35 @@
       "id": "f5300deeffa8",
       "teamIds": [
         "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-10-31",
+      "startTime": "09:00",
+      "endTime": null,
+      "venue": "Scecina HS Fb",
+      "status": "Paired",
+      "league": "34",
+      "division": null,
+      "team1": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Of Grace-Gold",
+        "score": null
+      },
+      "season": "2026 Fall Boys Football",
+      "tournament": {
+        "name": "2026 34 AAA Football Tournament",
+        "round": 2,
+        "host": "CYO",
+        "notes": null
+      },
+      "id": "3130e6cfeb65",
+      "teamIds": [
+        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
       ],
       "homeSide": null
     }
