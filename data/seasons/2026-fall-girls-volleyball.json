@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-25T07:32:49.475Z",
+  "scrapedAt": "2026-10-25T19:33:34.435Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1626,23 +1626,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Charles-Red",
-          "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "Nativity-Black",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Holy Name-Gold",
-          "wins": 1,
-          "losses": 4,
+          "team": "St. Charles-Red",
+          "wins": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -1654,9 +1647,16 @@
         },
         {
           "division": "1N",
+          "team": "Holy Name-Gold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -2164,7 +2164,7 @@
         {
           "division": "1N",
           "team": "OL Of Grace-Navy",
-          "wins": 2,
+          "wins": 3,
           "losses": 2,
           "draws": 1
         },
@@ -2179,7 +2179,7 @@
           "division": "1N",
           "team": "Holy Name-Gold",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
