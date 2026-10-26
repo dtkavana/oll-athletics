@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-26T07:43:48.350Z",
+  "scrapedAt": "2026-10-26T16:47:08.916Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -2213,7 +2213,7 @@
         {
           "division": "2A",
           "team": "St. Charles-Red",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -2242,7 +2242,7 @@
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2372,16 +2372,16 @@
         },
         {
           "division": "1A",
-          "team": "Ss. Fran. & Clare-Gray",
+          "team": "St. Jude-Red",
           "wins": 5,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Jude-Red",
-          "wins": 4,
-          "losses": 1,
+          "team": "Ss. Fran. & Clare-Gray",
+          "wins": 5,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2430,7 +2430,7 @@
           "division": "1A",
           "team": "St. Charles-Red",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
