@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-25T19:33:34.435Z",
+  "scrapedAt": "2026-10-26T07:43:48.350Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3379,6 +3379,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Simon-Blue",
           "wins": 3,
           "losses": 1,
@@ -3388,19 +3395,12 @@
           "division": "1A",
           "team": "Christ the King-Black",
           "wins": 3,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "Mount Carmel-Gold",
-          "wins": 2,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Pius X-White",
+          "team": "Mount Carmel-Gold",
           "wins": 2,
           "losses": 2,
           "draws": 0
@@ -3435,6 +3435,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Roch-Blue",
+          "wins": 5,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Barnabas-Maroon",
           "wins": 5,
           "losses": 1,
@@ -3445,13 +3452,6 @@
           "team": "St. Barnabas-Gold",
           "wins": 4,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Roch-Blue",
-          "wins": 4,
-          "losses": 0,
           "draws": 0
         },
         {
@@ -3479,7 +3479,7 @@
           "division": "1N",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3834,7 +3834,7 @@
         {
           "division": "2A",
           "team": "Holy Name-Gold",
-          "wins": 0,
+          "wins": 1,
           "losses": 4,
           "draws": 0
         },
@@ -3842,7 +3842,7 @@
           "division": "2A",
           "team": "St. Roch-Blue",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3993,6 +3993,13 @@
         },
         {
           "division": "1N",
+          "team": "Holy Name-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "Christ the King-Gold",
           "wins": 3,
           "losses": 2,
@@ -4014,13 +4021,6 @@
         },
         {
           "division": "1N",
-          "team": "Holy Name-Gold",
-          "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "Nativity-White",
           "wins": 2,
           "losses": 3,
@@ -4030,7 +4030,7 @@
           "division": "1N",
           "team": "OL Greenwood-Green",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4223,6 +4223,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Luke-Gold",
           "wins": 3,
           "losses": 2,
@@ -4239,14 +4246,7 @@
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 1,
-          "losses": 2,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -4260,7 +4260,7 @@
           "division": "1A",
           "team": "St. Barnabas-Black",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -8287,16 +8287,16 @@
       "startTime": "14:15",
       "endTime": null,
       "venue": "Scecina HS Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet",
       "division": null,
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 6
       },
       "team2": {
         "name": "St. Luke-Royal",
-        "score": null
+        "score": 14
       },
       "season": "2026 Fall Boys Football",
       "tournament": {

@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-10-25T07:32:49.475Z",
+  "scrapedAt": "2026-10-26T07:43:48.350Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -517,16 +517,16 @@
       "startTime": "14:15",
       "endTime": null,
       "venue": "Scecina HS Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet",
       "division": null,
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 6
       },
       "team2": {
         "name": "St. Luke-Royal",
-        "score": null
+        "score": 14
       },
       "season": "2026 Fall Boys Football",
       "tournament": {
