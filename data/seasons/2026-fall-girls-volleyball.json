@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-27T15:52:05.323Z",
+  "scrapedAt": "2026-10-27T21:15:58.193Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -43,7 +43,7 @@
         "e9a66144f909",
         "426dedb60fae",
         "f32c5774f1a7",
-        "7014b871c50d"
+        "bc883de92a18"
       ]
     },
     {
@@ -1161,6 +1161,35 @@
       "homeSide": null
     },
     {
+      "date": "2026-11-04",
+      "startTime": "19:30",
+      "endTime": null,
+      "venue": "OL Lourdes Gym",
+      "status": "Played",
+      "league": "4th Girls",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "team2": {
+        "name": "St. Roch-Gold",
+        "score": 0
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - 4th Grade National",
+        "round": 1,
+        "host": "OL Lourdes",
+        "notes": null
+      },
+      "id": "bc883de92a18",
+      "teamIds": [
+        "2026-fall-girls-volleyball--4th-girls--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
       "date": "2026-11-05",
       "startTime": "17:30",
       "endTime": null,
@@ -1188,35 +1217,6 @@
         "2026-fall-girls-volleyball--56-b-girls--2n--ol-lourdes-blue"
       ],
       "homeSide": null
-    },
-    {
-      "date": "2026-11-05",
-      "startTime": "19:30",
-      "endTime": null,
-      "venue": "OL Lourdes Gym",
-      "status": "Paired",
-      "league": "4th Girls",
-      "division": null,
-      "team1": {
-        "name": "OL Lourdes-Blue",
-        "score": null
-      },
-      "team2": {
-        "name": "St. Roch-Gold",
-        "score": null
-      },
-      "season": "2026 Fall Girls Volleyball",
-      "tournament": {
-        "name": "2026 Girls' Volleyball Tourney - 4th Grade National",
-        "round": 1,
-        "host": "OL Lourdes",
-        "notes": null
-      },
-      "id": "7014b871c50d",
-      "teamIds": [
-        "2026-fall-girls-volleyball--4th-girls--2n--ol-lourdes-blue"
-      ],
-      "homeSide": 1
     },
     {
       "date": "2026-11-07",
@@ -1285,7 +1285,7 @@
         {
           "division": "1A",
           "team": "Ss. Fran. & Clare-Navy",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -1335,7 +1335,7 @@
           "division": "1A",
           "team": "St. Charles-Red",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -2233,14 +2233,14 @@
         },
         {
           "division": "2A",
-          "team": "St. Mark-Black",
-          "wins": 3,
+          "team": "St. Malachy-Green",
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Malachy-Green",
+          "team": "St. Mark-Black",
           "wins": 3,
           "losses": 2,
           "draws": 0
@@ -2270,7 +2270,7 @@
           "division": "2A",
           "team": "St. Roch-Gold",
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
