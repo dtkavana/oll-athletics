@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-26T16:47:08.916Z",
+  "scrapedAt": "2026-10-27T07:42:53.708Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -831,16 +831,16 @@
       "startTime": "17:30",
       "endTime": "18:30",
       "venue": "Holy Spirit, Indy Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "Holy Spirit, Indy-Green",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Gold",
-        "score": null
+        "score": 0
       },
       "id": "6081e49aab93",
       "season": "2026 Fall Girls Volleyball",
@@ -1418,7 +1418,7 @@
         {
           "division": "2A",
           "team": "Christ the King-Black",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
@@ -1440,7 +1440,7 @@
           "division": "2A",
           "team": "Holy Name-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -1544,6 +1544,20 @@
           "division": "1A",
           "team": "St. Pius X-White",
           "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Mount Carmel-Gold",
+          "wins": 3,
           "losses": 2,
           "draws": 0
         },
@@ -1563,23 +1577,9 @@
         },
         {
           "division": "1A",
-          "team": "Mount Carmel-Gold",
-          "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Matthew-Red",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -1739,7 +1739,7 @@
         {
           "division": "2N",
           "team": "St. Michael, Grnfld.-Gold",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
@@ -1754,7 +1754,7 @@
           "division": "2N",
           "team": "St. Malachy-Green",
           "wins": 4,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -1776,6 +1776,13 @@
           "team": "St. Malachy-White",
           "wins": 3,
           "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 1,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -1803,7 +1810,7 @@
           "division": "2N",
           "team": "OL Lourdes-Gold",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -1811,13 +1818,6 @@
           "team": "OL Greenwood-Green",
           "wins": 0,
           "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Holy Spirit, Indy-Green",
-          "wins": 0,
-          "losses": 5,
           "draws": 0
         }
       ]
@@ -1836,7 +1836,7 @@
         {
           "division": "1A",
           "team": "Nativity-Black",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
@@ -1879,7 +1879,7 @@
           "division": "1A",
           "team": "Mount Carmel-Gold",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -1891,6 +1891,13 @@
         },
         {
           "division": "1N",
+          "team": "Nativity-Red",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Mark-Black",
           "wins": 4,
           "losses": 1,
@@ -1898,23 +1905,16 @@
         },
         {
           "division": "1N",
+          "team": "St. Matthew-Red",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "OL Of Grace-Gold",
           "wins": 4,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Nativity-Red",
-          "wins": 4,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Matthew-Red",
-          "wins": 3,
-          "losses": 2,
           "draws": 0
         },
         {
@@ -1935,14 +1935,14 @@
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "Little Flower-Blue",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -2079,6 +2079,20 @@
         },
         {
           "division": "1A",
+          "team": "Mount Carmel-Yellow",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Ss. Fran. & Clare-Gray",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Simon-Blue",
           "wins": 3,
           "losses": 2,
@@ -2093,23 +2107,9 @@
         },
         {
           "division": "1A",
-          "team": "Mount Carmel-Yellow",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "Ss. Fran. & Clare-Gray",
-          "wins": 3,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Maria Gor.-Red",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2576,7 +2576,7 @@
         {
           "division": "2N",
           "team": "St. Monica-Blue",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -2598,7 +2598,7 @@
           "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 2,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
