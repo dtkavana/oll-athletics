@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-27T21:15:58.193Z",
+  "scrapedAt": "2026-10-28T08:19:46.862Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -36,6 +36,62 @@
   ],
   "videos": [
     {
+      "id": "RXgd3FvZ850",
+      "title": "Cadet A vs. St. Monica, October 27, 2026, 8:00pm",
+      "published": "2026-10-27T23:29:01+00:00",
+      "date": "2026-10-27",
+      "url": "https://www.youtube.com/watch?v=RXgd3FvZ850",
+      "thumb": "https://i.ytimg.com/vi/RXgd3FvZ850/mqdefault.jpg"
+    },
+    {
+      "id": "La1wdpbCPt8",
+      "title": "56B vs. Immaculate Heart, October 27, 2026, 7pm",
+      "published": "2026-10-27T22:42:17+00:00",
+      "date": "2026-10-27",
+      "url": "https://www.youtube.com/watch?v=La1wdpbCPt8",
+      "thumb": "https://i.ytimg.com/vi/La1wdpbCPt8/mqdefault.jpg"
+    },
+    {
+      "id": "EAdHNsiHHJY",
+      "title": "4th Grade vs. St. Jude, October 27, 2026, 5:00pm",
+      "published": "2026-10-27T22:06:54+00:00",
+      "date": "2026-10-27",
+      "url": "https://www.youtube.com/watch?v=EAdHNsiHHJY",
+      "thumb": "https://i.ytimg.com/vi/EAdHNsiHHJY/mqdefault.jpg"
+    },
+    {
+      "id": "1milrGITj_I",
+      "title": "4th Grade vs. St. Jude, October 27, 2026, 5:00pm",
+      "published": "2026-10-27T22:06:14+00:00",
+      "date": "2026-10-27",
+      "url": "https://www.youtube.com/watch?v=1milrGITj_I",
+      "thumb": "https://i.ytimg.com/vi/1milrGITj_I/mqdefault.jpg"
+    },
+    {
+      "id": "LqoR55NInaQ",
+      "title": "4th Grade vs. St. Jude, October 27, 2026, 5:00pm",
+      "published": "2026-10-27T22:00:22+00:00",
+      "date": "2026-10-27",
+      "url": "https://www.youtube.com/watch?v=LqoR55NInaQ",
+      "thumb": "https://i.ytimg.com/vi/LqoR55NInaQ/mqdefault.jpg"
+    },
+    {
+      "id": "QloSeGMWBG8",
+      "title": "56A vs. Central Catholic, October 27, 2026, 6:00pm",
+      "published": "2026-10-27T21:47:09+00:00",
+      "date": "2026-10-27",
+      "url": "https://www.youtube.com/watch?v=QloSeGMWBG8",
+      "thumb": "https://i.ytimg.com/vi/QloSeGMWBG8/mqdefault.jpg"
+    },
+    {
+      "id": "cMat-inT-Qs",
+      "title": "4th Grade vs. St. Jude, October 27, 2026, 5:00pm",
+      "published": "2026-10-27T21:31:33+00:00",
+      "date": "2026-10-27",
+      "url": "https://www.youtube.com/watch?v=cMat-inT-Qs",
+      "thumb": "https://i.ytimg.com/vi/cMat-inT-Qs/mqdefault.jpg"
+    },
+    {
       "id": "Znr871oeEkk",
       "title": "Volleyball, Cadet B vs. St. Susanna, 10/21/2026",
       "published": "2026-10-22T12:57:09+00:00",
@@ -66,14 +122,6 @@
       "date": "2026-10-22",
       "url": "https://www.youtube.com/watch?v=sRhykJ2vubE",
       "thumb": "https://i.ytimg.com/vi/sRhykJ2vubE/mqdefault.jpg"
-    },
-    {
-      "id": "cMat-inT-Qs",
-      "title": "4th Grade vs. St. Jude, October 27, 2026, 5:00pm",
-      "published": "2026-10-22T01:21:57+00:00",
-      "date": "2026-10-22",
-      "url": "https://www.youtube.com/watch?v=cMat-inT-Qs",
-      "thumb": "https://i.ytimg.com/vi/cMat-inT-Qs/mqdefault.jpg"
     },
     {
       "id": "xSa6e0l_7ss",
@@ -3177,6 +3225,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Mark-Black",
+          "wins": 5,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Monica-Black",
           "wins": 5,
           "losses": 0,
@@ -3185,13 +3240,6 @@
         {
           "division": "1N",
           "team": "St. Maria Gor.-Navy",
-          "wins": 4,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Mark-Black",
           "wins": 4,
           "losses": 1,
           "draws": 0
@@ -3207,7 +3255,14 @@
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Joan of Arc-Black",
+          "wins": 2,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3226,23 +3281,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Joan of Arc-Black",
-          "wins": 1,
-          "losses": 4,
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 5,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "CYO-BYE",
-          "wins": 0,
-          "losses": 0,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -3365,30 +3413,16 @@
       "rows": [
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
+          "team": "Immac. Heart-Blue",
           "wins": 5,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "Immac. Heart-Blue",
-          "wins": 4,
+          "team": "St. Louis de Mont.-Red",
+          "wins": 5,
           "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 3,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 3,
-          "losses": 3,
           "draws": 0
         },
         {
@@ -3414,6 +3448,20 @@
         },
         {
           "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Matthew-Red",
           "wins": 1,
           "losses": 5,
@@ -3423,7 +3471,7 @@
           "division": "1A",
           "team": "St. Pius X-Purple",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3437,7 +3485,7 @@
           "division": "1N",
           "team": "St. Roch-Blue",
           "wins": 5,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -3449,14 +3497,14 @@
         },
         {
           "division": "1N",
-          "team": "St. Barnabas-Gold",
-          "wins": 4,
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Ss. Fran. & Clare-Navy",
+          "team": "St. Barnabas-Gold",
           "wins": 4,
           "losses": 1,
           "draws": 0
@@ -3506,14 +3554,14 @@
         {
           "division": "2A",
           "team": "St. Pius X-Gold",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Holy Spirit Geist-Blue",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
           "draws": 0
         },
@@ -3556,7 +3604,7 @@
           "division": "2A",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3570,7 +3618,7 @@
           "division": "2A",
           "team": "St. Maria Gor.-Red",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -3612,7 +3660,14 @@
           "division": "2N",
           "team": "St. Malachy-White",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Mark-Gold",
+          "wins": 2,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3634,13 +3689,6 @@
           "team": "OL Lourdes-Blue",
           "wins": 1,
           "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 1,
-          "losses": 5,
           "draws": 0
         },
         {
@@ -3792,7 +3840,7 @@
         {
           "division": "2A",
           "team": "Christ the King-Black",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -3828,7 +3876,7 @@
           "division": "2A",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3924,7 +3972,7 @@
         {
           "division": "1A",
           "team": "Ss. Fran. & Clare-Gray",
-          "wins": 3,
+          "wins": 4,
           "losses": 3,
           "draws": 0
         },
@@ -3967,7 +4015,7 @@
           "division": "1A",
           "team": "St. Pius X-White",
           "wins": 0,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3993,15 +4041,8 @@
         },
         {
           "division": "1N",
-          "team": "Holy Name-Gold",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "Christ the King-Gold",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
@@ -4011,6 +4052,13 @@
           "wins": 3,
           "losses": 2,
           "draws": 1
+        },
+        {
+          "division": "1N",
+          "team": "Holy Name-Gold",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
         },
         {
           "division": "1N",
@@ -4030,7 +4078,7 @@
           "division": "1N",
           "team": "OL Greenwood-Green",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -4120,7 +4168,7 @@
         {
           "division": "2N",
           "team": "St. Mark-Gold",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -4142,7 +4190,7 @@
           "division": "2N",
           "team": "St. Joan of Arc-Blue",
           "wins": 3,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -4370,16 +4418,16 @@
         },
         {
           "division": "2A",
-          "team": "St. Maria Gor.-Red",
-          "wins": 2,
-          "losses": 3,
+          "team": "St. Malachy-Green",
+          "wins": 3,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Malachy-Green",
+          "team": "St. Maria Gor.-Red",
           "wins": 2,
-          "losses": 2,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -4419,15 +4467,15 @@
         },
         {
           "division": "2N",
-          "team": "St. Mark-Gold",
+          "team": "OL Greenwood-Green",
           "wins": 4,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "OL Greenwood-Green",
-          "wins": 3,
+          "team": "St. Mark-Gold",
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -4442,7 +4490,7 @@
           "division": "2N",
           "team": "St. Joan of Arc-Gold",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
