@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-28T16:36:22.865Z",
+  "scrapedAt": "2026-10-28T21:38:32.511Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1291,15 +1291,8 @@
         },
         {
           "division": "1A",
-          "team": "St. Simon-Royal",
-          "wins": 3,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -1312,9 +1305,16 @@
         },
         {
           "division": "1A",
+          "team": "St. Simon-Royal",
+          "wins": 3,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Luke-Royal",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1480,8 +1480,8 @@
         },
         {
           "division": "2N",
-          "team": "St. Philip-Green",
-          "wins": 2,
+          "team": "St. Anthony-Red",
+          "wins": 3,
           "losses": 3,
           "draws": 0
         },
@@ -1494,7 +1494,7 @@
         },
         {
           "division": "2N",
-          "team": "St. Anthony-Red",
+          "team": "St. Philip-Green",
           "wins": 2,
           "losses": 3,
           "draws": 0
@@ -1517,7 +1517,7 @@
           "division": "2N",
           "team": "St. Michael, Indy-Red",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         }
       ]
@@ -1542,21 +1542,21 @@
         },
         {
           "division": "1A",
-          "team": "Mount Carmel-Gold",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Simon-Blue",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "Christ the King-Black",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Mount Carmel-Gold",
           "wins": 3,
           "losses": 2,
           "draws": 0
@@ -1586,7 +1586,7 @@
           "division": "1A",
           "team": "St. Pius X-Purple",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -2164,7 +2164,7 @@
         {
           "division": "1N",
           "team": "OL Of Grace-Navy",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 1
         },
@@ -2207,7 +2207,7 @@
           "division": "1N",
           "team": "St. Christopher-Red",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
