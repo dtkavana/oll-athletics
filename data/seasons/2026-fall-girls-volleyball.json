@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-28T14:08:42.928Z",
+  "scrapedAt": "2026-10-28T16:36:22.865Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1347,16 +1347,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Monica-Black",
+          "team": "St. Maria Gor.-Navy",
           "wins": 5,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 4,
-          "losses": 1,
+          "team": "St. Monica-Black",
+          "wins": 5,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -1384,7 +1384,7 @@
           "division": "1N",
           "team": "Nativity-Black",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -1842,6 +1842,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 3,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Ss. Fran. & Clare-Navy",
           "wins": 3,
           "losses": 2,
@@ -1865,21 +1872,14 @@
           "division": "1A",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 1,
-          "losses": 2,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "Mount Carmel-Gold",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
