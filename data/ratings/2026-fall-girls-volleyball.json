@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T13:43:42.959Z",
+  "generatedAt": "2026-10-28T14:12:14.277Z",
   "season": "2026 Fall Girls Volleyball",
   "model": {
     "rosterSize": 8,
@@ -15,7 +15,7 @@
   },
   "summary": {
     "teams": 221,
-    "games": 540,
+    "games": 541,
     "skippedGames": 0,
     "standingsMismatches": 0,
     "scheduleErrors": 0
@@ -28,7 +28,7 @@
         "4th Girls"
       ],
       "teams": 42,
-      "games": 111,
+      "games": 112,
       "rankings": [
         {
           "id": "4th-girls--st-michael-grnfld-gold",
@@ -45,7 +45,7 @@
           "wins": 7,
           "losses": 0,
           "record": "7-0",
-          "sos": 1470.2,
+          "sos": 1466,
           "rank": 1
         },
         {
@@ -117,7 +117,7 @@
           "wins": 5,
           "losses": 0,
           "record": "5-0",
-          "sos": 1432,
+          "sos": 1437.9,
           "rank": 5
         },
         {
@@ -247,6 +247,24 @@
           "rank": 12
         },
         {
+          "id": "4th-girls--st-jude-gold",
+          "band": "4th",
+          "school": "St. Jude",
+          "name": "St. Jude-Gold",
+          "league": "4th Girls",
+          "tier": null,
+          "division": "2N",
+          "pool": 16,
+          "baseline": 1500,
+          "rating": 1561.9,
+          "delta": 61.9,
+          "wins": 4,
+          "losses": 2,
+          "record": "4-2",
+          "sos": 1498.9,
+          "rank": 13
+        },
+        {
           "id": "4th-girls--mount-carmel-navy",
           "band": "4th",
           "school": "Mount Carmel",
@@ -262,7 +280,7 @@
           "losses": 2,
           "record": "4-2",
           "sos": 1512.6,
-          "rank": 13
+          "rank": 14
         },
         {
           "id": "4th-girls--st-louis-de-mont-black",
@@ -280,7 +298,7 @@
           "losses": 2,
           "record": "3-2",
           "sos": 1465.3,
-          "rank": 14
+          "rank": 15
         },
         {
           "id": "4th-girls--st-malachy-green",
@@ -298,7 +316,7 @@
           "losses": 2,
           "record": "4-2",
           "sos": 1504,
-          "rank": 15
+          "rank": 16
         },
         {
           "id": "4th-girls--immac-heart-white",
@@ -316,24 +334,6 @@
           "losses": 2,
           "record": "3-2-1",
           "sos": 1497.4,
-          "rank": 16
-        },
-        {
-          "id": "4th-girls--st-jude-gold",
-          "band": "4th",
-          "school": "St. Jude",
-          "name": "St. Jude-Gold",
-          "league": "4th Girls",
-          "tier": null,
-          "division": "2N",
-          "pool": 16,
-          "baseline": 1500,
-          "rating": 1532.5,
-          "delta": 32.5,
-          "wins": 3,
-          "losses": 2,
-          "record": "3-2",
-          "sos": 1510.9,
           "rank": 17
         },
         {
@@ -499,24 +499,6 @@
           "rank": 26
         },
         {
-          "id": "4th-girls--ol-lourdes-blue",
-          "band": "4th",
-          "school": "OL Lourdes",
-          "name": "OL Lourdes-Blue",
-          "league": "4th Girls",
-          "tier": null,
-          "division": "2N",
-          "pool": 16,
-          "baseline": 1500,
-          "rating": 1468.4,
-          "delta": -31.6,
-          "wins": 1,
-          "losses": 3,
-          "record": "1-3",
-          "sos": 1561.9,
-          "rank": 27
-        },
-        {
           "id": "4th-girls--st-mark-gold",
           "band": "4th",
           "school": "St. Mark",
@@ -532,7 +514,7 @@
           "losses": 5,
           "record": "2-5",
           "sos": 1530.9,
-          "rank": 28
+          "rank": 27
         },
         {
           "id": "4th-girls--st-luke-gold",
@@ -550,7 +532,7 @@
           "losses": 3,
           "record": "1-3",
           "sos": 1573.6,
-          "rank": 29
+          "rank": 28
         },
         {
           "id": "4th-girls--st-jude-red",
@@ -568,6 +550,24 @@
           "losses": 4,
           "record": "1-4",
           "sos": 1533.6,
+          "rank": 29
+        },
+        {
+          "id": "4th-girls--ol-lourdes-blue",
+          "band": "4th",
+          "school": "OL Lourdes",
+          "name": "OL Lourdes-Blue",
+          "league": "4th Girls",
+          "tier": null,
+          "division": "2N",
+          "pool": 16,
+          "baseline": 1500,
+          "rating": 1439,
+          "delta": -61,
+          "wins": 1,
+          "losses": 4,
+          "record": "1-4",
+          "sos": 1561.9,
           "rank": 30
         },
         {
@@ -765,7 +765,7 @@
           "wins": 0,
           "losses": 5,
           "record": "0-5",
-          "sos": 1544.5,
+          "sos": 1550.4,
           "rank": 41
         },
         {

@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-28T08:19:46.862Z",
+  "scrapedAt": "2026-10-28T14:08:42.928Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -854,16 +854,16 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "St. Jude-Gold",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "id": "426dedb60fae",
       "season": "2026 Fall Girls Volleyball",
@@ -900,16 +900,16 @@
       "startTime": "19:00",
       "endTime": "20:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 B Girls",
       "division": "2N",
       "team1": {
         "name": "Immac. Heart-Gray",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "id": "9a25adc81e6a",
       "season": "2026 Fall Girls Volleyball",
@@ -1767,7 +1767,7 @@
         {
           "division": "2N",
           "team": "St. Jude-Gold",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
@@ -1803,7 +1803,7 @@
           "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -2184,22 +2184,22 @@
         },
         {
           "division": "1N",
-          "team": "Nativity-White",
-          "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "OL Greenwood-Green",
+          "team": "St. Luke-Blue",
           "wins": 2,
           "losses": 4,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Luke-Blue",
-          "wins": 1,
+          "team": "Nativity-White",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Greenwood-Green",
+          "wins": 2,
           "losses": 4,
           "draws": 0
         },
@@ -2311,7 +2311,7 @@
         {
           "division": "2N",
           "team": "OL Lourdes-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 3,
           "draws": 0
         },
@@ -2326,7 +2326,7 @@
           "division": "2N",
           "team": "Immac. Heart-Gray",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -2365,8 +2365,8 @@
       "rows": [
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
-          "wins": 5,
+          "team": "Ss. Fran. & Clare-Gray",
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -2379,7 +2379,7 @@
         },
         {
           "division": "1A",
-          "team": "Ss. Fran. & Clare-Gray",
+          "team": "St. Louis de Mont.-Red",
           "wins": 5,
           "losses": 0,
           "draws": 0
@@ -2409,7 +2409,7 @@
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
