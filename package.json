@@ -9,6 +9,7 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "scrape": "node --env-file-if-exists=.env scripts/scrape.mjs",
+    "ratings": "node scripts/ratings-volleyball.mjs && node scripts/ratings-football.mjs",
     "rebuild": "node --env-file-if-exists=.env scripts/scrape.mjs --rebuild"
   },
   "dependencies": {

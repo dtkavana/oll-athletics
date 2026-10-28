@@ -12,9 +12,9 @@
  * as volleyball: the top squad from a four-team grade starts 100 points above
  * a one-team school. A close game counts less than a blowout.
  */
-import { writeFile, mkdir } from 'node:fs/promises'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { writeRatings } from './lib/write-ratings.mjs'
 import {
   CyoClient, SCHEDULES_URL, STANDINGS_URL,
   formState, comboOptions, selection, imageButton, gridRows
@@ -517,8 +517,7 @@ async function main () {
     throw new Error(`only ${file.summary.games} played games — refusing to write`)
   }
 
-  await mkdir(dirname(OUT), { recursive: true })
-  await writeFile(OUT, JSON.stringify(file, null, 2) + '\n')
+  const wrote = await writeRatings(OUT, file)
   log(`\n${file.summary.teams} teams, ${file.summary.games} games`)
   log(`standings mismatches: ${file.summary.standingsMismatches}, skipped: ${file.summary.skippedGames}, errors: ${file.summary.scheduleErrors}`)
   if (file.checks.standingsMismatches.length) {
@@ -527,7 +526,7 @@ async function main () {
   if (skipped.length) {
     for (const row of skipped.slice(0, 8)) log('   skip', JSON.stringify(row))
   }
-  log(`wrote ${OUT}`)
+  log(wrote ? `wrote ${OUT}` : `unchanged ${OUT}`)
   log(`${client.requests} requests, ${((Date.now() - started) / 1000).toFixed(0)}s`)
   for (const band of file.bands) {
     log(`  ${band.label}: ${band.teams} teams, ${band.games} games, divisions ${band.divisions.join(', ')}`)

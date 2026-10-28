@@ -66,6 +66,7 @@ function ours (name: string) {
   <div>
     <div class="section__head">
       <h1>Basketball ratings</h1>
+      <NuxtLink to="/ratings">All ratings</NuxtLink>
     </div>
     <p class="muted small lead">
       {{ file.season }}. {{ file.model.scale }} {{ file.model.update }}

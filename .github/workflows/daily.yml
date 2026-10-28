@@ -45,6 +45,17 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node scripts/scrape.mjs
 
+      # City-wide Elo. These hit every parish, so a failure here must not
+      # block the Lourdes scrape or the deploy. Basketball is last season's
+      # finished file and is not re-run.
+      - name: Update volleyball ratings
+        continue-on-error: true
+        run: node scripts/ratings-volleyball.mjs
+
+      - name: Update football ratings
+        continue-on-error: true
+        run: node scripts/ratings-football.mjs
+
       - name: Commit changed data
         run: |
           if git diff --quiet -- data/; then
@@ -54,7 +65,7 @@ jobs:
           git config user.name  "oll-sports-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
-          git commit -m "data: CYO sync $(date -u +%Y-%m-%d)" -m "$(git diff --cached --stat -- data/seasons/ | tail -1)"
+          git commit -m "data: CYO sync $(date -u +%Y-%m-%d)" -m "$(git diff --cached --stat -- data/seasons/ data/ratings/ | tail -1)"
           git push
 
       - name: Build
