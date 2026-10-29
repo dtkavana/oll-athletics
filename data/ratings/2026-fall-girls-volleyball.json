@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:56:49.487Z",
+  "generatedAt": "2026-10-29T21:48:48.663Z",
   "season": "2026 Fall Girls Volleyball",
   "model": {
     "rosterSize": 8,
@@ -15,7 +15,7 @@
   },
   "summary": {
     "teams": 221,
-    "games": 574,
+    "games": 577,
     "skippedGames": 0,
     "standingsMismatches": 0,
     "scheduleErrors": 0
@@ -797,7 +797,7 @@
         "56 C Girls"
       ],
       "teams": 89,
-      "games": 227,
+      "games": 230,
       "rankings": [
         {
           "id": "56-a-girls--st-charles-red",
@@ -1354,8 +1354,26 @@
           "wins": 5,
           "losses": 1,
           "record": "5-1",
-          "sos": 1390.4,
+          "sos": 1385.5,
           "rank": 31
+        },
+        {
+          "id": "56-c-girls--christ-the-king-black",
+          "band": "56",
+          "school": "Christ the King",
+          "name": "Christ the King-Black",
+          "league": "56 C Girls",
+          "tier": "C",
+          "division": "2",
+          "pool": 32,
+          "baseline": 1400,
+          "rating": 1533.4,
+          "delta": 133.4,
+          "wins": 5,
+          "losses": 0,
+          "record": "5-0",
+          "sos": 1386.9,
+          "rank": 32
         },
         {
           "id": "56-a-girls--central-cath-blue",
@@ -1373,7 +1391,7 @@
           "losses": 0,
           "record": "1-0",
           "sos": 1663.2,
-          "rank": 32
+          "rank": 33
         },
         {
           "id": "56-b-girls--ss-fran-clare-gray",
@@ -1391,7 +1409,7 @@
           "losses": 3,
           "record": "4-3",
           "sos": 1488.1,
-          "rank": 33
+          "rank": 34
         },
         {
           "id": "56-a-girls--holy-spirit-indy-green",
@@ -1409,24 +1427,6 @@
           "losses": 2,
           "record": "1-2",
           "sos": 1542,
-          "rank": 34
-        },
-        {
-          "id": "56-c-girls--christ-the-king-black",
-          "band": "56",
-          "school": "Christ the King",
-          "name": "Christ the King-Black",
-          "league": "56 C Girls",
-          "tier": "C",
-          "division": "2",
-          "pool": 32,
-          "baseline": 1400,
-          "rating": 1530.3,
-          "delta": 130.3,
-          "wins": 5,
-          "losses": 0,
-          "record": "5-0",
-          "sos": 1379.5,
           "rank": 35
         },
         {
@@ -1876,7 +1876,7 @@
           "wins": 3,
           "losses": 1,
           "record": "3-1",
-          "sos": 1371.7,
+          "sos": 1363.4,
           "rank": 60
         },
         {
@@ -2056,7 +2056,7 @@
           "wins": 2,
           "losses": 2,
           "record": "2-2",
-          "sos": 1429,
+          "sos": 1428.6,
           "rank": 70
         },
         {
@@ -2078,6 +2078,24 @@
           "rank": 71
         },
         {
+          "id": "56-c-girls--st-luke-black",
+          "band": "56",
+          "school": "St. Luke",
+          "name": "St. Luke-Black",
+          "league": "56 C Girls",
+          "tier": "C",
+          "division": "2",
+          "pool": 32,
+          "baseline": 1400,
+          "rating": 1383.5,
+          "delta": -16.5,
+          "wins": 1,
+          "losses": 2,
+          "record": "1-2",
+          "sos": 1429,
+          "rank": 72
+        },
+        {
           "id": "56-b-girls--st-pius-x-white",
           "band": "56",
           "school": "St. Pius X",
@@ -2093,7 +2111,7 @@
           "losses": 5,
           "record": "0-5",
           "sos": 1551.3,
-          "rank": 72
+          "rank": 73
         },
         {
           "id": "56-c-girls--st-jude-white",
@@ -2111,7 +2129,7 @@
           "losses": 3,
           "record": "2-3",
           "sos": 1409.1,
-          "rank": 73
+          "rank": 74
         },
         {
           "id": "56-a-girls--little-flower-blue",
@@ -2129,7 +2147,7 @@
           "losses": 6,
           "record": "0-6",
           "sos": 1619.3,
-          "rank": 74
+          "rank": 75
         },
         {
           "id": "56-c-girls--st-simon-royal",
@@ -2147,7 +2165,7 @@
           "losses": 3,
           "record": "2-3",
           "sos": 1390,
-          "rank": 75
+          "rank": 76
         },
         {
           "id": "56-b-girls--mount-carmel-navy",
@@ -2165,7 +2183,7 @@
           "losses": 4,
           "record": "0-4",
           "sos": 1519.8,
-          "rank": 76
+          "rank": 77
         },
         {
           "id": "56-b-girls--ol-greenwood-green",
@@ -2183,7 +2201,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1442,
-          "rank": 77
+          "rank": 78
         },
         {
           "id": "56-c-girls--st-barnabas-gold",
@@ -2201,7 +2219,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1422.5,
-          "rank": 78
+          "rank": 79
         },
         {
           "id": "56-b-girls--immac-heart-gray",
@@ -2219,24 +2237,6 @@
           "losses": 5,
           "record": "1-5",
           "sos": 1522,
-          "rank": 79
-        },
-        {
-          "id": "56-c-girls--st-luke-black",
-          "band": "56",
-          "school": "St. Luke",
-          "name": "St. Luke-Black",
-          "league": "56 C Girls",
-          "tier": "C",
-          "division": "2",
-          "pool": 32,
-          "baseline": 1400,
-          "rating": 1353.7,
-          "delta": -46.3,
-          "wins": 0,
-          "losses": 2,
-          "record": "0-2",
-          "sos": 1467.8,
           "rank": 80
         },
         {
@@ -2258,21 +2258,21 @@
           "rank": 81
         },
         {
-          "id": "56-c-girls--ol-of-grace-white",
+          "id": "56-c-girls--st-pius-x-black",
           "band": "56",
-          "school": "OL Of Grace",
-          "name": "OL Of Grace-White",
+          "school": "St. Pius X",
+          "name": "St. Pius X-Black",
           "league": "56 C Girls",
           "tier": "C",
           "division": "2",
-          "pool": 24,
-          "baseline": 1414.9,
+          "pool": 32,
+          "baseline": 1400,
           "rating": 1348.2,
-          "delta": -66.8,
-          "wins": 0,
-          "losses": 2,
-          "record": "0-2",
-          "sos": 1493.9,
+          "delta": -51.8,
+          "wins": 2,
+          "losses": 4,
+          "record": "2-4",
+          "sos": 1412.7,
           "rank": 82
         },
         {
@@ -2330,40 +2330,22 @@
           "rank": 85
         },
         {
-          "id": "56-c-girls--st-pius-x-black",
+          "id": "56-c-girls--ol-of-grace-white",
           "band": "56",
-          "school": "St. Pius X",
-          "name": "St. Pius X-Black",
+          "school": "OL Of Grace",
+          "name": "OL Of Grace-White",
           "league": "56 C Girls",
           "tier": "C",
           "division": "2",
-          "pool": 32,
-          "baseline": 1400,
-          "rating": 1306.4,
-          "delta": -93.6,
+          "pool": 24,
+          "baseline": 1414.9,
+          "rating": 1307.9,
+          "delta": -107.1,
           "wins": 0,
           "losses": 3,
           "record": "0-3",
-          "sos": 1506,
+          "sos": 1445.3,
           "rank": 86
-        },
-        {
-          "id": "56-c-girls--st-malachy-green",
-          "band": "56",
-          "school": "St. Malachy",
-          "name": "St. Malachy-Green",
-          "league": "56 C Girls",
-          "tier": "C",
-          "division": "2",
-          "pool": 32,
-          "baseline": 1400,
-          "rating": 1298.3,
-          "delta": -101.7,
-          "wins": 0,
-          "losses": 4,
-          "record": "0-4",
-          "sos": 1480.8,
-          "rank": 87
         },
         {
           "id": "56-b-girls--st-christopher-red",
@@ -2381,7 +2363,7 @@
           "losses": 6,
           "record": "0-6",
           "sos": 1487.8,
-          "rank": 88
+          "rank": 87
         },
         {
           "id": "56-c-girls--st-maria-gor-white",
@@ -2399,6 +2381,24 @@
           "losses": 5,
           "record": "0-5",
           "sos": 1425.1,
+          "rank": 88
+        },
+        {
+          "id": "56-c-girls--st-malachy-green",
+          "band": "56",
+          "school": "St. Malachy",
+          "name": "St. Malachy-Green",
+          "league": "56 C Girls",
+          "tier": "C",
+          "division": "2",
+          "pool": 32,
+          "baseline": 1400,
+          "rating": 1263.9,
+          "delta": -136.1,
+          "wins": 0,
+          "losses": 5,
+          "record": "0-5",
+          "sos": 1454.9,
           "rank": 89
         }
       ]
