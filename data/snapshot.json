@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-30T08:31:45.222Z",
+  "scrapedAt": "2026-10-30T16:41:33.058Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3247,7 +3247,7 @@
         {
           "division": "1N",
           "team": "OL Lourdes-Blue",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
@@ -3267,16 +3267,16 @@
         },
         {
           "division": "1N",
-          "team": "Nativity-Black",
+          "team": "Little Flower-Gold",
           "wins": 2,
           "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Little Flower-Gold",
+          "team": "Nativity-Black",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3295,14 +3295,14 @@
         },
         {
           "division": "2A",
-          "team": "OL Of Grace-Gold",
-          "wins": 5,
-          "losses": 0,
+          "team": "Christ the King-Black",
+          "wins": 6,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "Christ the King-Black",
+          "team": "OL Of Grace-Gold",
           "wins": 5,
           "losses": 1,
           "draws": 0
@@ -3660,7 +3660,7 @@
           "division": "2N",
           "team": "Little Flower-Gold",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3686,6 +3686,13 @@
         },
         {
           "division": "2N",
+          "team": "OL Greenwood-Green",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 1,
           "losses": 4,
@@ -3696,13 +3703,6 @@
           "team": "OL Lourdes-Gold",
           "wins": 0,
           "losses": 6,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "OL Greenwood-Green",
-          "wins": 0,
-          "losses": 3,
           "draws": 0
         }
       ]
@@ -4251,7 +4251,7 @@
         {
           "division": "1A",
           "team": "Ss. Fran. & Clare-Gray",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
@@ -4266,7 +4266,7 @@
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
           "wins": 5,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -4468,7 +4468,7 @@
         {
           "division": "2N",
           "team": "St. Mark-Gold",
-          "wins": 4,
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
@@ -4490,7 +4490,7 @@
           "division": "2N",
           "team": "St. Joan of Arc-Gold",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -4525,7 +4525,7 @@
           "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         }
       ]
@@ -8479,16 +8479,16 @@
       "startTime": "19:00",
       "endTime": "20:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": "1N",
       "team1": {
         "name": "Little Flower-Gold",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "id": "1cf2ce06d633",
       "season": "2026 Fall Girls Volleyball",
@@ -8502,16 +8502,16 @@
       "startTime": "20:00",
       "endTime": "21:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet B Girls",
       "division": "2N",
       "team1": {
         "name": "St. Mark-Gold",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "id": "6adb75719e68",
       "season": "2026 Fall Girls Volleyball",
