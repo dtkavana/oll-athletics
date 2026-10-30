@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-30T16:41:33.058Z",
+  "scrapedAt": "2026-10-30T21:27:40.267Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1682,6 +1682,13 @@
         },
         {
           "division": "2A",
+          "team": "Immac. Heart-White",
+          "wins": 4,
+          "losses": 2,
+          "draws": 1
+        },
+        {
+          "division": "2A",
           "team": "Mount Carmel-Navy",
           "wins": 4,
           "losses": 2,
@@ -1691,7 +1698,7 @@
           "division": "2A",
           "team": "St. Louis de Mont.-Black",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -1703,9 +1710,9 @@
         },
         {
           "division": "2A",
-          "team": "Immac. Heart-White",
-          "wins": 3,
-          "losses": 2,
+          "team": "St. Simon-White",
+          "wins": 1,
+          "losses": 4,
           "draws": 1
         },
         {
@@ -1724,13 +1731,6 @@
         },
         {
           "division": "2A",
-          "team": "St. Simon-White",
-          "wins": 1,
-          "losses": 4,
-          "draws": 1
-        },
-        {
-          "division": "2A",
           "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 6,
@@ -1746,7 +1746,7 @@
         {
           "division": "2N",
           "team": "St. Monica-Black",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
@@ -1782,7 +1782,7 @@
           "division": "2N",
           "team": "St. Malachy-White",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1850,14 +1850,14 @@
         {
           "division": "1A",
           "team": "Ss. Fran. & Clare-Navy",
-          "wins": 3,
-          "losses": 2,
+          "wins": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Simon-Royal",
-          "wins": 3,
+          "wins": 4,
           "losses": 3,
           "draws": 0
         },
@@ -1872,7 +1872,7 @@
           "division": "1A",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -2018,7 +2018,7 @@
         {
           "division": "2N",
           "team": "St. Michael, Grnfld.-Blue",
-          "wins": 2,
+          "wins": 3,
           "losses": 3,
           "draws": 0
         },
@@ -2054,7 +2054,7 @@
           "division": "2N",
           "team": "Central Cath.-Blue",
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2456,9 +2456,16 @@
         },
         {
           "division": "1N",
+          "team": "Immac. Heart-White",
+          "wins": 4,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Matthew-Red",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2472,14 +2479,7 @@
           "division": "1N",
           "team": "OL Of Grace-Navy",
           "wins": 2,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Immac. Heart-White",
-          "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
