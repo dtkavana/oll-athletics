@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-29T21:45:29.243Z",
+  "scrapedAt": "2026-10-30T08:31:45.222Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3170,7 +3170,7 @@
         {
           "division": "1A",
           "team": "Ss. Fran. & Clare-Navy",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
@@ -3213,7 +3213,7 @@
           "division": "1A",
           "team": "Mount Carmel-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3318,21 +3318,21 @@
           "division": "2A",
           "team": "St. Pius X-Purple",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Matthew-Red",
-          "wins": 2,
-          "losses": 4,
+          "wins": 3,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Roch-Blue",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3359,7 +3359,7 @@
         {
           "division": "2N",
           "team": "St. Susanna-Blue",
-          "wins": 3,
+          "wins": 4,
           "losses": 1,
           "draws": 0
         },
@@ -3367,7 +3367,7 @@
           "division": "2N",
           "team": "St. Philip-Green",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3511,6 +3511,13 @@
         },
         {
           "division": "1N",
+          "team": "St. Charles-Red",
+          "wins": 3,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "Nativity-Black",
           "wins": 3,
           "losses": 2,
@@ -3518,9 +3525,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Charles-Red",
-          "wins": 2,
-          "losses": 3,
+          "team": "Holy Name-Gold",
+          "wins": 1,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3528,13 +3535,6 @@
           "team": "St. Jude-Red",
           "wins": 1,
           "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Holy Name-Gold",
-          "wins": 1,
-          "losses": 5,
           "draws": 0
         },
         {
@@ -3548,7 +3548,7 @@
           "division": "1N",
           "team": "St. Mark-Black",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -3638,7 +3638,7 @@
         {
           "division": "2N",
           "team": "St. Malachy-Green",
-          "wins": 4,
+          "wins": 5,
           "losses": 2,
           "draws": 0
         },
@@ -3646,14 +3646,21 @@
           "division": "2N",
           "team": "St. Roch-Gold",
           "wins": 4,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Jude-Gold",
           "wins": 4,
-          "losses": 2,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Little Flower-Gold",
+          "wins": 3,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -3679,13 +3686,6 @@
         },
         {
           "division": "2N",
-          "team": "Little Flower-Gold",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 1,
           "losses": 4,
@@ -3695,7 +3695,7 @@
           "division": "2N",
           "team": "OL Lourdes-Gold",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -4321,7 +4321,7 @@
         {
           "division": "1N",
           "team": "St. Louis de Mont.-Black",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
@@ -4350,7 +4350,7 @@
           "division": "1N",
           "team": "St. Malachy-White",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4392,20 +4392,20 @@
           "division": "2A",
           "team": "Christ the King-Black",
           "wins": 6,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Luke-Blue",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Mount Carmel-Navy",
-          "wins": 4,
+          "wins": 5,
           "losses": 2,
           "draws": 0
         },
@@ -4420,7 +4420,7 @@
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4461,7 +4461,7 @@
         {
           "division": "2N",
           "team": "St. Monica-Blue",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
@@ -4511,7 +4511,7 @@
           "division": "2N",
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -8145,16 +8145,16 @@
       "startTime": "18:30",
       "endTime": "19:30",
       "venue": "Little Flower Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "Little Flower-Gold",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Gold",
-        "score": null
+        "score": 0
       },
       "id": "7056562f32df",
       "season": "2026 Fall Girls Volleyball",
