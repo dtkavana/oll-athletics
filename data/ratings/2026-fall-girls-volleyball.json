@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:31:34.034Z",
+  "generatedAt": "2026-10-31T15:47:12.584Z",
   "season": "2026 Fall Girls Volleyball",
   "model": {
     "rosterSize": 8,
@@ -15,7 +15,7 @@
   },
   "summary": {
     "teams": 221,
-    "games": 606,
+    "games": 612,
     "skippedGames": 0,
     "standingsMismatches": 0,
     "scheduleErrors": 0
@@ -797,7 +797,7 @@
         "56 C Girls"
       ],
       "teams": 89,
-      "games": 235,
+      "games": 238,
       "rankings": [
         {
           "id": "56-a-girls--st-charles-red",
@@ -922,7 +922,7 @@
           "wins": 6,
           "losses": 0,
           "record": "6-0",
-          "sos": 1484.9,
+          "sos": 1490,
           "rank": 7
         },
         {
@@ -1048,7 +1048,7 @@
           "wins": 6,
           "losses": 0,
           "record": "6-0",
-          "sos": 1495,
+          "sos": 1490.6,
           "rank": 14
         },
         {
@@ -1138,7 +1138,7 @@
           "wins": 4,
           "losses": 1,
           "record": "4-1",
-          "sos": 1534.5,
+          "sos": 1540.6,
           "rank": 19
         },
         {
@@ -1192,7 +1192,7 @@
           "wins": 4,
           "losses": 1,
           "record": "4-1",
-          "sos": 1467.5,
+          "sos": 1461.4,
           "rank": 22
         },
         {
@@ -1214,24 +1214,6 @@
           "rank": 23
         },
         {
-          "id": "56-b-girls--immac-heart-white",
-          "band": "56",
-          "school": "Immac. Heart",
-          "name": "Immac. Heart-White",
-          "league": "56 B Girls",
-          "tier": "B",
-          "division": "1N",
-          "pool": 32,
-          "baseline": 1466.7,
-          "rating": 1553.6,
-          "delta": 86.9,
-          "wins": 4,
-          "losses": 1,
-          "record": "4-1",
-          "sos": 1457.7,
-          "rank": 24
-        },
-        {
           "id": "56-a-girls--ol-lourdes-blue",
           "band": "56",
           "school": "OL Lourdes",
@@ -1247,7 +1229,7 @@
           "losses": 1,
           "record": "1-1",
           "sos": 1566.5,
-          "rank": 25
+          "rank": 24
         },
         {
           "id": "56-a-girls--st-pius-x-purple",
@@ -1265,7 +1247,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1624.4,
-          "rank": 26
+          "rank": 25
         },
         {
           "id": "56-a-girls--immac-heart-blue",
@@ -1283,7 +1265,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1588.1,
-          "rank": 27
+          "rank": 26
         },
         {
           "id": "56-b-girls--st-malachy-green",
@@ -1301,6 +1283,24 @@
           "losses": 2,
           "record": "4-2",
           "sos": 1469.7,
+          "rank": 27
+        },
+        {
+          "id": "56-b-girls--ol-of-grace-navy",
+          "band": "56",
+          "school": "OL Of Grace",
+          "name": "OL Of Grace-Navy",
+          "league": "56 B Girls",
+          "tier": "B",
+          "division": "1N",
+          "pool": 24,
+          "baseline": 1500,
+          "rating": 1537.2,
+          "delta": 37.2,
+          "wins": 4,
+          "losses": 2,
+          "record": "4-2-1",
+          "sos": 1477.5,
           "rank": 28
         },
         {
@@ -1318,26 +1318,8 @@
           "wins": 4,
           "losses": 2,
           "record": "4-2",
-          "sos": 1465.1,
+          "sos": 1470,
           "rank": 29
-        },
-        {
-          "id": "56-b-girls--ol-of-grace-navy",
-          "band": "56",
-          "school": "OL Of Grace",
-          "name": "OL Of Grace-Navy",
-          "league": "56 B Girls",
-          "tier": "B",
-          "division": "1N",
-          "pool": 24,
-          "baseline": 1500,
-          "rating": 1534.2,
-          "delta": 34.2,
-          "wins": 4,
-          "losses": 2,
-          "record": "4-2-1",
-          "sos": 1471.6,
-          "rank": 30
         },
         {
           "id": "56-c-girls--st-mark-black",
@@ -1355,7 +1337,7 @@
           "losses": 1,
           "record": "5-1",
           "sos": 1385.5,
-          "rank": 31
+          "rank": 30
         },
         {
           "id": "56-c-girls--christ-the-king-black",
@@ -1373,7 +1355,7 @@
           "losses": 0,
           "record": "5-0",
           "sos": 1386.9,
-          "rank": 32
+          "rank": 31
         },
         {
           "id": "56-a-girls--st-michael-grnfld-blue",
@@ -1391,7 +1373,7 @@
           "losses": 3,
           "record": "3-3",
           "sos": 1516.6,
-          "rank": 33
+          "rank": 32
         },
         {
           "id": "56-b-girls--ss-fran-clare-gray",
@@ -1409,7 +1391,7 @@
           "losses": 3,
           "record": "4-3",
           "sos": 1488.1,
-          "rank": 34
+          "rank": 33
         },
         {
           "id": "56-a-girls--holy-spirit-indy-green",
@@ -1427,7 +1409,7 @@
           "losses": 2,
           "record": "1-2",
           "sos": 1555.3,
-          "rank": 35
+          "rank": 34
         },
         {
           "id": "56-b-girls--mount-carmel-yellow",
@@ -1445,6 +1427,24 @@
           "losses": 2,
           "record": "4-2",
           "sos": 1460,
+          "rank": 35
+        },
+        {
+          "id": "56-b-girls--immac-heart-white",
+          "band": "56",
+          "school": "Immac. Heart",
+          "name": "Immac. Heart-White",
+          "league": "56 B Girls",
+          "tier": "B",
+          "division": "1N",
+          "pool": 32,
+          "baseline": 1466.7,
+          "rating": 1524.1,
+          "delta": 57.5,
+          "wins": 5,
+          "losses": 2,
+          "record": "5-2",
+          "sos": 1451.5,
           "rank": 36
         },
         {
@@ -1462,7 +1462,7 @@
           "wins": 3,
           "losses": 2,
           "record": "3-2",
-          "sos": 1481.3,
+          "sos": 1475.2,
           "rank": 37
         },
         {
@@ -1484,6 +1484,24 @@
           "rank": 38
         },
         {
+          "id": "56-b-girls--st-louis-de-mont-white",
+          "band": "56",
+          "school": "St. Louis de Mont.",
+          "name": "St. Louis de Mont.-White",
+          "league": "56 B Girls",
+          "tier": "B",
+          "division": "1N",
+          "pool": 40,
+          "baseline": 1500,
+          "rating": 1519.3,
+          "delta": 19.3,
+          "wins": 3,
+          "losses": 3,
+          "record": "3-3-1",
+          "sos": 1445.3,
+          "rank": 39
+        },
+        {
           "id": "56-b-girls--christ-the-king-black",
           "band": "56",
           "school": "Christ the King",
@@ -1499,7 +1517,7 @@
           "losses": 3,
           "record": "3-3",
           "sos": 1491.8,
-          "rank": 39
+          "rank": 40
         },
         {
           "id": "56-b-girls--st-joan-of-arc-blue",
@@ -1517,7 +1535,7 @@
           "losses": 2,
           "record": "3-2",
           "sos": 1460.4,
-          "rank": 40
+          "rank": 41
         },
         {
           "id": "56-c-girls--st-charles-red",
@@ -1535,7 +1553,7 @@
           "losses": 1,
           "record": "4-1",
           "sos": 1425.1,
-          "rank": 41
+          "rank": 42
         },
         {
           "id": "56-a-girls--st-anthony-red",
@@ -1553,7 +1571,7 @@
           "losses": 1,
           "record": "1-1",
           "sos": 1501.3,
-          "rank": 42
+          "rank": 43
         },
         {
           "id": "56-b-girls--st-simon-blue",
@@ -1571,7 +1589,7 @@
           "losses": 3,
           "record": "3-3",
           "sos": 1498.6,
-          "rank": 43
+          "rank": 44
         },
         {
           "id": "56-a-girls--st-louis-de-mont-red",
@@ -1589,7 +1607,7 @@
           "losses": 5,
           "record": "1-5",
           "sos": 1625.4,
-          "rank": 44
+          "rank": 45
         },
         {
           "id": "56-b-girls--st-malachy-white",
@@ -1607,7 +1625,7 @@
           "losses": 0,
           "record": "0-0",
           "sos": null,
-          "rank": 45
+          "rank": 46
         },
         {
           "id": "56-a-girls--st-monica-black",
@@ -1625,7 +1643,7 @@
           "losses": 3,
           "record": "2-3",
           "sos": 1548.5,
-          "rank": 46
+          "rank": 47
         },
         {
           "id": "56-a-girls--central-cath-blue",
@@ -1643,7 +1661,7 @@
           "losses": 1,
           "record": "1-1",
           "sos": 1598.1,
-          "rank": 47
+          "rank": 48
         },
         {
           "id": "56-b-girls--st-roch-white",
@@ -1661,7 +1679,7 @@
           "losses": 2,
           "record": "3-2",
           "sos": 1499.7,
-          "rank": 48
+          "rank": 49
         },
         {
           "id": "56-b-girls--st-jude-red",
@@ -1678,25 +1696,7 @@
           "wins": 2,
           "losses": 3,
           "record": "2-3",
-          "sos": 1538.5,
-          "rank": 49
-        },
-        {
-          "id": "56-b-girls--st-louis-de-mont-white",
-          "band": "56",
-          "school": "St. Louis de Mont.",
-          "name": "St. Louis de Mont.-White",
-          "league": "56 B Girls",
-          "tier": "B",
-          "division": "1N",
-          "pool": 40,
-          "baseline": 1500,
-          "rating": 1478.1,
-          "delta": -21.9,
-          "wins": 2,
-          "losses": 3,
-          "record": "2-3-1",
-          "sos": 1434.2,
+          "sos": 1544.7,
           "rank": 50
         },
         {
@@ -1750,7 +1750,7 @@
           "wins": 2,
           "losses": 4,
           "record": "2-4",
-          "sos": 1509.5,
+          "sos": 1502.6,
           "rank": 53
         },
         {
@@ -1898,6 +1898,24 @@
           "rank": 61
         },
         {
+          "id": "56-b-girls--st-simon-white",
+          "band": "56",
+          "school": "St. Simon",
+          "name": "St. Simon-White",
+          "league": "56 B Girls",
+          "tier": "B",
+          "division": "2A",
+          "pool": 32,
+          "baseline": 1500,
+          "rating": 1450,
+          "delta": -50,
+          "wins": 2,
+          "losses": 4,
+          "record": "2-4",
+          "sos": 1508.4,
+          "rank": 62
+        },
+        {
           "id": "56-b-girls--st-louis-de-mont-black",
           "band": "56",
           "school": "St. Louis de Mont.",
@@ -1913,7 +1931,7 @@
           "losses": 3,
           "record": "1-3",
           "sos": 1562.5,
-          "rank": 62
+          "rank": 63
         },
         {
           "id": "56-a-girls--st-susanna-blue",
@@ -1931,7 +1949,7 @@
           "losses": 2,
           "record": "0-2",
           "sos": 1598.1,
-          "rank": 63
+          "rank": 64
         },
         {
           "id": "56-a-girls--st-roch-blue",
@@ -1949,7 +1967,7 @@
           "losses": 6,
           "record": "0-6",
           "sos": 1624.4,
-          "rank": 64
+          "rank": 65
         },
         {
           "id": "56-b-girls--immac-heart-blue",
@@ -1967,7 +1985,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1537.1,
-          "rank": 65
+          "rank": 66
         },
         {
           "id": "56-a-girls--mount-carmel-gold",
@@ -1985,7 +2003,7 @@
           "losses": 6,
           "record": "0-6",
           "sos": 1590.2,
-          "rank": 66
+          "rank": 67
         },
         {
           "id": "56-b-girls--st-pius-x-gold",
@@ -2003,24 +2021,6 @@
           "losses": 4,
           "record": "1-4",
           "sos": 1466.6,
-          "rank": 67
-        },
-        {
-          "id": "56-b-girls--st-simon-white",
-          "band": "56",
-          "school": "St. Simon",
-          "name": "St. Simon-White",
-          "league": "56 B Girls",
-          "tier": "B",
-          "division": "2A",
-          "pool": 32,
-          "baseline": 1500,
-          "rating": 1419.2,
-          "delta": -80.8,
-          "wins": 1,
-          "losses": 4,
-          "record": "1-4",
-          "sos": 1542.6,
           "rank": 68
         },
         {
@@ -2150,42 +2150,6 @@
           "rank": 75
         },
         {
-          "id": "56-b-girls--mount-carmel-navy",
-          "band": "56",
-          "school": "Mount Carmel",
-          "name": "Mount Carmel-Navy",
-          "league": "56 B Girls",
-          "tier": "B",
-          "division": "2A",
-          "pool": 32,
-          "baseline": 1500,
-          "rating": 1368.1,
-          "delta": -131.9,
-          "wins": 0,
-          "losses": 4,
-          "record": "0-4",
-          "sos": 1519.8,
-          "rank": 76
-        },
-        {
-          "id": "56-b-girls--ol-greenwood-green",
-          "band": "56",
-          "school": "OL Greenwood",
-          "name": "OL Greenwood-Green",
-          "league": "56 B Girls",
-          "tier": "B",
-          "division": "1N",
-          "pool": 16,
-          "baseline": 1438.6,
-          "rating": 1367.1,
-          "delta": -71.5,
-          "wins": 2,
-          "losses": 4,
-          "record": "2-4",
-          "sos": 1442,
-          "rank": 77
-        },
-        {
           "id": "56-c-girls--st-barnabas-gold",
           "band": "56",
           "school": "St. Barnabas",
@@ -2201,7 +2165,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1422.5,
-          "rank": 78
+          "rank": 76
         },
         {
           "id": "56-b-girls--immac-heart-gray",
@@ -2219,7 +2183,25 @@
           "losses": 5,
           "record": "1-5",
           "sos": 1522,
-          "rank": 79
+          "rank": 77
+        },
+        {
+          "id": "56-b-girls--ol-greenwood-green",
+          "band": "56",
+          "school": "OL Greenwood",
+          "name": "OL Greenwood-Green",
+          "league": "56 B Girls",
+          "tier": "B",
+          "division": "1N",
+          "pool": 16,
+          "baseline": 1438.6,
+          "rating": 1352.4,
+          "delta": -86.1,
+          "wins": 2,
+          "losses": 5,
+          "record": "2-5",
+          "sos": 1459.6,
+          "rank": 78
         },
         {
           "id": "56-b-girls--st-roch-gold",
@@ -2237,7 +2219,7 @@
           "losses": 4,
           "record": "0-4",
           "sos": 1580,
-          "rank": 80
+          "rank": 79
         },
         {
           "id": "56-c-girls--st-pius-x-black",
@@ -2255,7 +2237,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1412.7,
-          "rank": 81
+          "rank": 80
         },
         {
           "id": "56-c-girls--st-louis-de-mont-red",
@@ -2273,7 +2255,7 @@
           "losses": 3,
           "record": "1-3",
           "sos": 1439.7,
-          "rank": 82
+          "rank": 81
         },
         {
           "id": "56-b-girls--holy-spirit-indy-yellow",
@@ -2291,7 +2273,7 @@
           "losses": 4,
           "record": "0-4",
           "sos": 1563.2,
-          "rank": 83
+          "rank": 82
         },
         {
           "id": "56-b-girls--st-michael-indy-white",
@@ -2309,6 +2291,24 @@
           "losses": 4,
           "record": "0-4",
           "sos": 1557.4,
+          "rank": 83
+        },
+        {
+          "id": "56-b-girls--mount-carmel-navy",
+          "band": "56",
+          "school": "Mount Carmel",
+          "name": "Mount Carmel-Navy",
+          "league": "56 B Girls",
+          "tier": "B",
+          "division": "2A",
+          "pool": 32,
+          "baseline": 1500,
+          "rating": 1337.3,
+          "delta": -162.7,
+          "wins": 0,
+          "losses": 5,
+          "record": "0-5",
+          "sos": 1505.8,
           "rank": 84
         },
         {
@@ -2412,7 +2412,7 @@
         "Cadet C Girls"
       ],
       "teams": 90,
-      "games": 246,
+      "games": 249,
       "rankings": [
         {
           "id": "cadet-a-girls--ss-fran-clare-navy",
@@ -2433,6 +2433,24 @@
           "rank": 1
         },
         {
+          "id": "cadet-a-girls--st-monica-black",
+          "band": "Cadet",
+          "school": "St. Monica",
+          "name": "St. Monica-Black",
+          "league": "Cadet A Girls",
+          "tier": "A",
+          "division": "1N",
+          "pool": 16,
+          "baseline": 1561.4,
+          "rating": 1738.8,
+          "delta": 177.4,
+          "wins": 6,
+          "losses": 0,
+          "record": "6-0",
+          "sos": 1548.6,
+          "rank": 2
+        },
+        {
           "id": "cadet-a-girls--christ-the-king-black",
           "band": "Cadet",
           "school": "Christ the King",
@@ -2448,7 +2466,7 @@
           "losses": 1,
           "record": "6-1",
           "sos": 1566.5,
-          "rank": 2
+          "rank": 3
         },
         {
           "id": "cadet-a-girls--st-malachy-green",
@@ -2466,42 +2484,24 @@
           "losses": 1,
           "record": "5-1",
           "sos": 1575.9,
-          "rank": 3
-        },
-        {
-          "id": "cadet-a-girls--st-monica-black",
-          "band": "Cadet",
-          "school": "St. Monica",
-          "name": "St. Monica-Black",
-          "league": "Cadet A Girls",
-          "tier": "A",
-          "division": "1N",
-          "pool": 16,
-          "baseline": 1561.4,
-          "rating": 1716.9,
-          "delta": 155.4,
-          "wins": 5,
-          "losses": 0,
-          "record": "5-0",
-          "sos": 1525.2,
           "rank": 4
         },
         {
-          "id": "cadet-a-girls--st-mark-black",
+          "id": "cadet-a-girls--st-jude-red",
           "band": "Cadet",
-          "school": "St. Mark",
-          "name": "St. Mark-Black",
+          "school": "St. Jude",
+          "name": "St. Jude-Red",
           "league": "Cadet A Girls",
           "tier": "A",
-          "division": "1N",
+          "division": "1A",
           "pool": 32,
           "baseline": 1600,
-          "rating": 1687.2,
-          "delta": 87.2,
+          "rating": 1686.9,
+          "delta": 86.9,
           "wins": 5,
-          "losses": 1,
-          "record": "5-1",
-          "sos": 1519.9,
+          "losses": 2,
+          "record": "5-2",
+          "sos": 1581.9,
           "rank": 5
         },
         {
@@ -2559,6 +2559,24 @@
           "rank": 8
         },
         {
+          "id": "cadet-a-girls--st-mark-black",
+          "band": "Cadet",
+          "school": "St. Mark",
+          "name": "St. Mark-Black",
+          "league": "Cadet A Girls",
+          "tier": "A",
+          "division": "1N",
+          "pool": 32,
+          "baseline": 1600,
+          "rating": 1665.3,
+          "delta": 65.3,
+          "wins": 5,
+          "losses": 2,
+          "record": "5-2",
+          "sos": 1551.2,
+          "rank": 9
+        },
+        {
           "id": "cadet-b-girls--st-luke-blue",
           "band": "Cadet",
           "school": "St. Luke",
@@ -2574,24 +2592,6 @@
           "losses": 0,
           "record": "6-0",
           "sos": 1431.7,
-          "rank": 9
-        },
-        {
-          "id": "cadet-a-girls--st-jude-red",
-          "band": "Cadet",
-          "school": "St. Jude",
-          "name": "St. Jude-Red",
-          "league": "Cadet A Girls",
-          "tier": "A",
-          "division": "1A",
-          "pool": 32,
-          "baseline": 1600,
-          "rating": 1661.4,
-          "delta": 61.4,
-          "wins": 4,
-          "losses": 2,
-          "record": "4-2",
-          "sos": 1590.4,
           "rank": 10
         },
         {
@@ -2627,7 +2627,7 @@
           "wins": 6,
           "losses": 0,
           "record": "6-0",
-          "sos": 1450,
+          "sos": 1454.8,
           "rank": 12
         },
         {
@@ -2847,24 +2847,6 @@
           "rank": 24
         },
         {
-          "id": "cadet-b-girls--st-luke-white",
-          "band": "Cadet",
-          "school": "St. Luke",
-          "name": "St. Luke-White",
-          "league": "Cadet B Girls",
-          "tier": "B",
-          "division": "1N",
-          "pool": 48,
-          "baseline": 1518.3,
-          "rating": 1573.8,
-          "delta": 55.5,
-          "wins": 4,
-          "losses": 2,
-          "record": "4-2",
-          "sos": 1468.8,
-          "rank": 25
-        },
-        {
           "id": "cadet-b-girls--ol-greenwood-green",
           "band": "Cadet",
           "school": "OL Greenwood",
@@ -2880,7 +2862,7 @@
           "losses": 1,
           "record": "4-1",
           "sos": 1416.6,
-          "rank": 26
+          "rank": 25
         },
         {
           "id": "cadet-c-girls--ss-fran-clare-white",
@@ -2898,7 +2880,7 @@
           "losses": 0,
           "record": "5-0",
           "sos": 1377,
-          "rank": 27
+          "rank": 26
         },
         {
           "id": "cadet-a-girls--st-matthew-red",
@@ -2916,25 +2898,25 @@
           "losses": 3,
           "record": "3-3",
           "sos": 1579.8,
-          "rank": 28
+          "rank": 27
         },
         {
-          "id": "cadet-a-girls--st-barnabas-maroon",
+          "id": "cadet-b-girls--st-luke-white",
           "band": "Cadet",
-          "school": "St. Barnabas",
-          "name": "St. Barnabas-Maroon",
-          "league": "Cadet A Girls",
-          "tier": "A",
-          "division": "1A",
-          "pool": 24,
-          "baseline": 1585.1,
-          "rating": 1556.5,
-          "delta": -28.5,
-          "wins": 1,
+          "school": "St. Luke",
+          "name": "St. Luke-White",
+          "league": "Cadet B Girls",
+          "tier": "B",
+          "division": "1N",
+          "pool": 48,
+          "baseline": 1518.3,
+          "rating": 1545.3,
+          "delta": 27.1,
+          "wins": 4,
           "losses": 3,
-          "record": "1-3",
-          "sos": 1651.6,
-          "rank": 29
+          "record": "4-3",
+          "sos": 1478.5,
+          "rank": 28
         },
         {
           "id": "cadet-b-girls--mount-carmel-navy",
@@ -2952,7 +2934,7 @@
           "losses": 2,
           "record": "5-2",
           "sos": 1438.8,
-          "rank": 30
+          "rank": 29
         },
         {
           "id": "cadet-a-girls--st-luke-royal",
@@ -2970,7 +2952,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1599,
-          "rank": 31
+          "rank": 30
         },
         {
           "id": "cadet-a-girls--st-rose-blue",
@@ -2988,6 +2970,24 @@
           "losses": 2,
           "record": "4-2",
           "sos": 1521.7,
+          "rank": 31
+        },
+        {
+          "id": "cadet-b-girls--st-malachy-white",
+          "band": "Cadet",
+          "school": "St. Malachy",
+          "name": "St. Malachy-White",
+          "league": "Cadet B Girls",
+          "tier": "B",
+          "division": "1N",
+          "pool": 32,
+          "baseline": 1500,
+          "rating": 1536.7,
+          "delta": 36.7,
+          "wins": 4,
+          "losses": 3,
+          "record": "4-3",
+          "sos": 1517.7,
           "rank": 32
         },
         {
@@ -3045,6 +3045,24 @@
           "rank": 35
         },
         {
+          "id": "cadet-a-girls--st-barnabas-maroon",
+          "band": "Cadet",
+          "school": "St. Barnabas",
+          "name": "St. Barnabas-Maroon",
+          "league": "Cadet A Girls",
+          "tier": "A",
+          "division": "1A",
+          "pool": 24,
+          "baseline": 1585.1,
+          "rating": 1531.1,
+          "delta": -54,
+          "wins": 1,
+          "losses": 4,
+          "record": "1-4",
+          "sos": 1658.7,
+          "rank": 36
+        },
+        {
           "id": "cadet-a-girls--st-thomas-aquin-blue",
           "band": "Cadet",
           "school": "St. Thomas Aquin.",
@@ -3060,7 +3078,7 @@
           "losses": 4,
           "record": "3-4",
           "sos": 1561.7,
-          "rank": 36
+          "rank": 37
         },
         {
           "id": "cadet-b-girls--immac-heart-white",
@@ -3078,7 +3096,7 @@
           "losses": 3,
           "record": "4-3",
           "sos": 1500.4,
-          "rank": 37
+          "rank": 38
         },
         {
           "id": "cadet-a-girls--st-anthony-red",
@@ -3096,7 +3114,7 @@
           "losses": 3,
           "record": "3-3",
           "sos": 1531.4,
-          "rank": 38
+          "rank": 39
         },
         {
           "id": "cadet-a-girls--immac-heart-blue",
@@ -3114,7 +3132,7 @@
           "losses": 4,
           "record": "1-4",
           "sos": 1598,
-          "rank": 39
+          "rank": 40
         },
         {
           "id": "cadet-a-girls--card-ritter-jr-h-red",
@@ -3132,7 +3150,7 @@
           "losses": 2,
           "record": "1-2",
           "sos": 1560.9,
-          "rank": 40
+          "rank": 41
         },
         {
           "id": "cadet-a-girls--nativity-black",
@@ -3150,7 +3168,7 @@
           "losses": 5,
           "record": "2-5",
           "sos": 1590.7,
-          "rank": 41
+          "rank": 42
         },
         {
           "id": "cadet-c-girls--st-maria-gor-white",
@@ -3168,24 +3186,6 @@
           "losses": 1,
           "record": "6-1",
           "sos": 1380.2,
-          "rank": 42
-        },
-        {
-          "id": "cadet-b-girls--st-malachy-white",
-          "band": "Cadet",
-          "school": "St. Malachy",
-          "name": "St. Malachy-White",
-          "league": "Cadet B Girls",
-          "tier": "B",
-          "division": "1N",
-          "pool": 32,
-          "baseline": 1500,
-          "rating": 1508.2,
-          "delta": 8.2,
-          "wins": 3,
-          "losses": 3,
-          "record": "3-3",
-          "sos": 1513.1,
           "rank": 43
         },
         {
@@ -3239,7 +3239,7 @@
           "wins": 1,
           "losses": 5,
           "record": "1-5",
-          "sos": 1617.8,
+          "sos": 1622,
           "rank": 46
         },
         {
@@ -3257,7 +3257,7 @@
           "wins": 2,
           "losses": 4,
           "record": "2-4",
-          "sos": 1585.5,
+          "sos": 1581.8,
           "rank": 47
         },
         {
@@ -3491,7 +3491,7 @@
           "wins": 0,
           "losses": 5,
           "record": "0-5",
-          "sos": 1618.9,
+          "sos": 1624,
           "rank": 60
         },
         {
@@ -3635,7 +3635,7 @@
           "wins": 2,
           "losses": 4,
           "record": "2-4",
-          "sos": 1496.6,
+          "sos": 1501.4,
           "rank": 68
         },
         {
@@ -3653,7 +3653,7 @@
           "wins": 1,
           "losses": 4,
           "record": "1-4",
-          "sos": 1539.1,
+          "sos": 1533.4,
           "rank": 69
         },
         {
@@ -3707,7 +3707,7 @@
           "wins": 1,
           "losses": 5,
           "record": "1-5",
-          "sos": 1521.1,
+          "sos": 1516.3,
           "rank": 72
         },
         {

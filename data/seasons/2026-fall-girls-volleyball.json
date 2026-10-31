@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-30T21:27:40.267Z",
+  "scrapedAt": "2026-10-31T15:43:15.117Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1291,16 +1291,16 @@
         },
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
-          "wins": 4,
-          "losses": 1,
+          "team": "St. Jude-Red",
+          "wins": 5,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Jude-Red",
+          "team": "St. Louis de Mont.-Red",
           "wins": 4,
-          "losses": 2,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1321,7 +1321,7 @@
           "division": "1A",
           "team": "St. Barnabas-Maroon",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1340,9 +1340,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 5,
-          "losses": 1,
+          "team": "St. Monica-Black",
+          "wins": 6,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -1354,9 +1354,9 @@
         },
         {
           "division": "1N",
-          "team": "St. Monica-Black",
+          "team": "St. Mark-Black",
           "wins": 5,
-          "losses": 0,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2150,8 +2150,8 @@
         {
           "division": "1N",
           "team": "Immac. Heart-White",
-          "wins": 4,
-          "losses": 1,
+          "wins": 5,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -2170,17 +2170,17 @@
         },
         {
           "division": "1N",
+          "team": "St. Louis de Mont.-White",
+          "wins": 3,
+          "losses": 3,
+          "draws": 1
+        },
+        {
+          "division": "1N",
           "team": "Holy Name-Gold",
           "wins": 3,
           "losses": 3,
           "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Louis de Mont.-White",
-          "wins": 2,
-          "losses": 3,
-          "draws": 1
         },
         {
           "division": "1N",
@@ -2200,7 +2200,7 @@
           "division": "1N",
           "team": "OL Greenwood-Green",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -2247,6 +2247,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Simon-White",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Jude-Red",
           "wins": 2,
           "losses": 3,
@@ -2261,21 +2268,14 @@
         },
         {
           "division": "2A",
-          "team": "St. Simon-White",
-          "wins": 1,
-          "losses": 4,
+          "team": "Mount Carmel-Navy",
+          "wins": 0,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Roch-Gold",
-          "wins": 0,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Mount Carmel-Navy",
           "wins": 0,
           "losses": 4,
           "draws": 0
@@ -2451,7 +2451,7 @@
           "division": "1N",
           "team": "St. Luke-White",
           "wins": 4,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -2463,14 +2463,14 @@
         },
         {
           "division": "1N",
-          "team": "St. Matthew-Red",
-          "wins": 3,
+          "team": "St. Malachy-White",
+          "wins": 4,
           "losses": 3,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Malachy-White",
+          "team": "St. Matthew-Red",
           "wins": 3,
           "losses": 3,
           "draws": 0
