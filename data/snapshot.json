@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-31T15:43:15.117Z",
+  "scrapedAt": "2026-10-31T20:27:04.026Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -772,7 +772,8 @@
         "8ceca7227305",
         "5954d45fac03",
         "7e9d425a30ad",
-        "3130e6cfeb65"
+        "3130e6cfeb65",
+        "f1d5a338bba6"
       ]
     },
     {
@@ -3434,14 +3435,14 @@
         },
         {
           "division": "1A",
-          "team": "Christ the King-Black",
-          "wins": 3,
+          "team": "Mount Carmel-Gold",
+          "wins": 4,
           "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "Mount Carmel-Gold",
+          "team": "Christ the King-Black",
           "wins": 3,
           "losses": 3,
           "draws": 0
@@ -3462,22 +3463,22 @@
         },
         {
           "division": "1A",
+          "team": "St. Pius X-Purple",
+          "wins": 1,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Luke-Royal",
           "wins": 1,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Matthew-Red",
           "wins": 1,
-          "losses": 5,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-Purple",
-          "wins": 0,
           "losses": 6,
           "draws": 0
         },
@@ -3511,6 +3512,13 @@
         },
         {
           "division": "1N",
+          "team": "Nativity-Black",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Charles-Red",
           "wins": 3,
           "losses": 3,
@@ -3518,23 +3526,16 @@
         },
         {
           "division": "1N",
-          "team": "Nativity-Black",
-          "wins": 3,
-          "losses": 2,
+          "team": "St. Jude-Red",
+          "wins": 2,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "Holy Name-Gold",
           "wins": 1,
-          "losses": 5,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Jude-Red",
-          "wins": 1,
-          "losses": 4,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -3554,7 +3555,7 @@
         {
           "division": "2A",
           "team": "St. Pius X-Gold",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
@@ -3562,7 +3563,7 @@
           "division": "2A",
           "team": "Holy Spirit Geist-Blue",
           "wins": 5,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3769,6 +3770,20 @@
         },
         {
           "division": "1N",
+          "team": "St. Mark-Black",
+          "wins": 6,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Nativity-Red",
+          "wins": 6,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Christopher-Blue",
           "wins": 5,
           "losses": 0,
@@ -3776,30 +3791,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 5,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Nativity-Red",
-          "wins": 5,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Matthew-Red",
           "wins": 4,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "OL Of Grace-Gold",
           "wins": 4,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4028,7 +4029,7 @@
         {
           "division": "1N",
           "team": "St. Jude-Gold",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
@@ -4092,7 +4093,7 @@
           "division": "1N",
           "team": "St. Christopher-Red",
           "wins": 0,
-          "losses": 6,
+          "losses": 7,
           "draws": 0
         },
         {
@@ -4111,6 +4112,13 @@
         },
         {
           "division": "2A",
+          "team": "St. Mark-Black",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Luke-Gold",
           "wins": 4,
           "losses": 1,
@@ -4120,14 +4128,7 @@
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 4,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Mark-Black",
-          "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4355,6 +4356,13 @@
         },
         {
           "division": "1N",
+          "team": "OL Of Grace-Navy",
+          "wins": 3,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Matthew-Red",
           "wins": 3,
           "losses": 3,
@@ -4362,16 +4370,9 @@
         },
         {
           "division": "1N",
-          "team": "OL Of Grace-Navy",
-          "wins": 2,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Pius X-Gold",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -8548,16 +8549,16 @@
       "startTime": "09:00",
       "endTime": null,
       "venue": "Scecina HS Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "34",
       "division": null,
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 22
       },
       "team2": {
         "name": "OL Of Grace-Gold",
-        "score": null
+        "score": 6
       },
       "season": "2026 Fall Boys Football",
       "tournament": {
@@ -8808,6 +8809,35 @@
         "2026-fall-girls-volleyball--4th-girls--2n--ol-lourdes-gold"
       ],
       "homeSide": 2
+    },
+    {
+      "date": "2026-11-07",
+      "startTime": "14:30",
+      "endTime": null,
+      "venue": "Roncalli HS-FB",
+      "status": "Paired",
+      "league": "34",
+      "division": null,
+      "team1": {
+        "name": "St. Maria Gor.-Navy",
+        "score": null
+      },
+      "team2": {
+        "name": "East Side Crusaders-Red",
+        "score": null
+      },
+      "season": "2026 Fall Boys Football",
+      "tournament": {
+        "name": "2026 34 AAA Football Tournament",
+        "round": 3,
+        "host": "CYO",
+        "notes": null
+      },
+      "id": "f1d5a338bba6",
+      "teamIds": [
+        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
+      ],
+      "homeSide": null
     },
     {
       "date": "2026-11-08",
