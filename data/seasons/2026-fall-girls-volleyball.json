@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-10-31T20:27:04.026Z",
+  "scrapedAt": "2026-11-01T09:07:00.913Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1536,7 +1536,7 @@
         {
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 5,
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
@@ -1558,7 +1558,7 @@
           "division": "1A",
           "team": "Christ the King-Black",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -1697,7 +1697,7 @@
         {
           "division": "2A",
           "team": "St. Louis de Mont.-Black",
-          "wins": 3,
+          "wins": 4,
           "losses": 3,
           "draws": 0
         },
@@ -1705,7 +1705,7 @@
           "division": "2A",
           "team": "Christ the King-Gold",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
