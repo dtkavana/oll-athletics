@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-01T09:07:00.913Z",
+  "scrapedAt": "2026-11-01T16:47:57.029Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3415,7 +3415,7 @@
         {
           "division": "1A",
           "team": "Immac. Heart-Blue",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
@@ -3430,7 +3430,7 @@
           "division": "1A",
           "team": "St. Simon-Blue",
           "wins": 5,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {

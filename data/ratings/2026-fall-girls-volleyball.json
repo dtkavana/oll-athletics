@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T09:10:31.059Z",
+  "generatedAt": "2026-11-01T16:51:17.746Z",
   "season": "2026 Fall Girls Volleyball",
   "model": {
     "rosterSize": 8,
@@ -15,7 +15,7 @@
   },
   "summary": {
     "teams": 221,
-    "games": 625,
+    "games": 626,
     "skippedGames": 0,
     "standingsMismatches": 0,
     "scheduleErrors": 0
@@ -28,8 +28,26 @@
         "4th Girls"
       ],
       "teams": 42,
-      "games": 132,
+      "games": 133,
       "rankings": [
+        {
+          "id": "4th-girls--immac-heart-blue",
+          "band": "4th",
+          "school": "Immac. Heart",
+          "name": "Immac. Heart-Blue",
+          "league": "4th Girls",
+          "tier": null,
+          "division": "1A",
+          "pool": 16,
+          "baseline": 1500,
+          "rating": 1690.6,
+          "delta": 190.6,
+          "wins": 7,
+          "losses": 0,
+          "record": "7-0",
+          "sos": 1465.2,
+          "rank": 1
+        },
         {
           "id": "4th-girls--st-pius-x-gold",
           "band": "4th",
@@ -46,7 +64,7 @@
           "losses": 0,
           "record": "7-0",
           "sos": 1483,
-          "rank": 1
+          "rank": 2
         },
         {
           "id": "4th-girls--st-monica-black",
@@ -64,7 +82,7 @@
           "losses": 0,
           "record": "7-0",
           "sos": 1442.6,
-          "rank": 2
+          "rank": 3
         },
         {
           "id": "4th-girls--st-michael-grnfld-gold",
@@ -82,43 +100,7 @@
           "losses": 0,
           "record": "7-0",
           "sos": 1463.2,
-          "rank": 3
-        },
-        {
-          "id": "4th-girls--immac-heart-blue",
-          "band": "4th",
-          "school": "Immac. Heart",
-          "name": "Immac. Heart-Blue",
-          "league": "4th Girls",
-          "tier": null,
-          "division": "1A",
-          "pool": 16,
-          "baseline": 1500,
-          "rating": 1656.2,
-          "delta": 156.2,
-          "wins": 6,
-          "losses": 0,
-          "record": "6-0",
-          "sos": 1441.8,
           "rank": 4
-        },
-        {
-          "id": "4th-girls--st-simon-blue",
-          "band": "4th",
-          "school": "St. Simon",
-          "name": "St. Simon-Blue",
-          "league": "4th Girls",
-          "tier": null,
-          "division": "1A",
-          "pool": 16,
-          "baseline": 1500,
-          "rating": 1640.2,
-          "delta": 140.2,
-          "wins": 5,
-          "losses": 1,
-          "record": "5-1",
-          "sos": 1477.8,
-          "rank": 5
         },
         {
           "id": "4th-girls--st-louis-de-mont-red",
@@ -135,8 +117,8 @@
           "wins": 6,
           "losses": 1,
           "record": "6-1",
-          "sos": 1482.9,
-          "rank": 6
+          "sos": 1478,
+          "rank": 5
         },
         {
           "id": "4th-girls--st-barnabas-gold",
@@ -154,7 +136,7 @@
           "losses": 1,
           "record": "5-1",
           "sos": 1463.9,
-          "rank": 7
+          "rank": 6
         },
         {
           "id": "4th-girls--st-barnabas-maroon",
@@ -172,6 +154,24 @@
           "losses": 1,
           "record": "5-1",
           "sos": 1467.1,
+          "rank": 7
+        },
+        {
+          "id": "4th-girls--st-simon-blue",
+          "band": "4th",
+          "school": "St. Simon",
+          "name": "St. Simon-Blue",
+          "league": "4th Girls",
+          "tier": null,
+          "division": "1A",
+          "pool": 16,
+          "baseline": 1500,
+          "rating": 1605.9,
+          "delta": 105.9,
+          "wins": 5,
+          "losses": 2,
+          "record": "5-2",
+          "sos": 1508.2,
           "rank": 8
         },
         {
@@ -441,7 +441,7 @@
           "wins": 3,
           "losses": 3,
           "record": "3-3",
-          "sos": 1493.3,
+          "sos": 1499,
           "rank": 23
         },
         {
@@ -549,7 +549,7 @@
           "wins": 3,
           "losses": 4,
           "record": "3-4",
-          "sos": 1482.4,
+          "sos": 1477.4,
           "rank": 29
         },
         {
@@ -729,7 +729,7 @@
           "wins": 1,
           "losses": 6,
           "record": "1-6",
-          "sos": 1485.2,
+          "sos": 1490.1,
           "rank": 39
         },
         {
