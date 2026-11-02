@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T20:23:28.841Z",
+  "generatedAt": "2026-11-02T23:55:19.034Z",
   "season": "2026 Fall Girls Volleyball",
   "model": {
     "rosterSize": 8,
@@ -15,10 +15,10 @@
   },
   "summary": {
     "teams": 221,
-    "games": 668,
+    "games": 672,
     "skippedGames": 0,
     "standingsMismatches": 0,
-    "scheduleErrors": 0
+    "scheduleErrors": 1
   },
   "bands": [
     {
@@ -2412,7 +2412,7 @@
         "Cadet C Girls"
       ],
       "teams": 90,
-      "games": 266,
+      "games": 270,
       "rankings": [
         {
           "id": "cadet-a-girls--ss-fran-clare-navy",
@@ -2568,12 +2568,12 @@
           "division": "1A",
           "pool": 24,
           "baseline": 1500,
-          "rating": 1679.5,
-          "delta": 179.5,
+          "rating": 1676,
+          "delta": 176,
           "wins": 7,
           "losses": 0,
           "record": "7-0",
-          "sos": 1445.4,
+          "sos": 1446.3,
           "rank": 9
         },
         {
@@ -2739,24 +2739,6 @@
           "rank": 18
         },
         {
-          "id": "cadet-b-girls--st-louis-de-mont-red",
-          "band": "Cadet",
-          "school": "St. Louis de Mont.",
-          "name": "St. Louis de Mont.-Red",
-          "league": "Cadet B Girls",
-          "tier": "B",
-          "division": "1A",
-          "pool": 32,
-          "baseline": 1500,
-          "rating": 1614.2,
-          "delta": 114.2,
-          "wins": 5,
-          "losses": 1,
-          "record": "5-1",
-          "sos": 1471.8,
-          "rank": 19
-        },
-        {
           "id": "cadet-b-girls--st-jude-red",
           "band": "Cadet",
           "school": "St. Jude",
@@ -2766,13 +2748,13 @@
           "division": "1A",
           "pool": 32,
           "baseline": 1500,
-          "rating": 1610.1,
-          "delta": 110.1,
+          "rating": 1608.6,
+          "delta": 108.6,
           "wins": 6,
           "losses": 1,
           "record": "6-1",
-          "sos": 1436.2,
-          "rank": 20
+          "sos": 1443.8,
+          "rank": 19
         },
         {
           "id": "cadet-c-girls--st-luke-yellow",
@@ -2790,7 +2772,7 @@
           "losses": 0,
           "record": "7-0",
           "sos": 1394.2,
-          "rank": 21
+          "rank": 20
         },
         {
           "id": "cadet-b-girls--st-mark-gold",
@@ -2808,7 +2790,7 @@
           "losses": 1,
           "record": "6-1",
           "sos": 1407.5,
-          "rank": 22
+          "rank": 21
         },
         {
           "id": "cadet-c-girls--ss-fran-clare-white",
@@ -2826,7 +2808,7 @@
           "losses": 0,
           "record": "6-0",
           "sos": 1373,
-          "rank": 23
+          "rank": 22
         },
         {
           "id": "cadet-a-girls--st-pius-x-purple",
@@ -2844,7 +2826,7 @@
           "losses": 4,
           "record": "3-4",
           "sos": 1588.3,
-          "rank": 24
+          "rank": 23
         },
         {
           "id": "cadet-a-girls--holy-spirit-indy-green",
@@ -2862,6 +2844,24 @@
           "losses": 1,
           "record": "2-1",
           "sos": 1520.5,
+          "rank": 24
+        },
+        {
+          "id": "cadet-b-girls--st-louis-de-mont-red",
+          "band": "Cadet",
+          "school": "St. Louis de Mont.",
+          "name": "St. Louis de Mont.-Red",
+          "league": "Cadet B Girls",
+          "tier": "B",
+          "division": "1A",
+          "pool": 32,
+          "baseline": 1500,
+          "rating": 1565.7,
+          "delta": 65.7,
+          "wins": 5,
+          "losses": 2,
+          "record": "5-2",
+          "sos": 1475.2,
           "rank": 25
         },
         {
@@ -2910,12 +2910,12 @@
           "division": "1A",
           "pool": 32,
           "baseline": 1500,
-          "rating": 1549.7,
-          "delta": 49.7,
+          "rating": 1548.1,
+          "delta": 48.1,
           "wins": 4,
           "losses": 2,
           "record": "4-2",
-          "sos": 1458.3,
+          "sos": 1443.7,
           "rank": 28
         },
         {
@@ -3009,6 +3009,24 @@
           "rank": 33
         },
         {
+          "id": "cadet-b-girls--st-simon-blue",
+          "band": "Cadet",
+          "school": "St. Simon",
+          "name": "St. Simon-Blue",
+          "league": "Cadet B Girls",
+          "tier": "B",
+          "division": "1A",
+          "pool": 40,
+          "baseline": 1500,
+          "rating": 1538.4,
+          "delta": 38.4,
+          "wins": 4,
+          "losses": 3,
+          "record": "4-3",
+          "sos": 1487.7,
+          "rank": 34
+        },
+        {
           "id": "cadet-b-girls--st-malachy-white",
           "band": "Cadet",
           "school": "St. Malachy",
@@ -3024,7 +3042,7 @@
           "losses": 3,
           "record": "4-3",
           "sos": 1517.7,
-          "rank": 34
+          "rank": 35
         },
         {
           "id": "cadet-b-girls--st-luke-gold",
@@ -3041,8 +3059,8 @@
           "wins": 3,
           "losses": 2,
           "record": "3-2",
-          "sos": 1549.2,
-          "rank": 35
+          "sos": 1553.9,
+          "rank": 36
         },
         {
           "id": "cadet-a-girls--st-barnabas-maroon",
@@ -3060,7 +3078,7 @@
           "losses": 4,
           "record": "1-4",
           "sos": 1658.7,
-          "rank": 36
+          "rank": 37
         },
         {
           "id": "cadet-b-girls--immac-heart-white",
@@ -3077,8 +3095,8 @@
           "wins": 4,
           "losses": 3,
           "record": "4-3",
-          "sos": 1503.7,
-          "rank": 37
+          "sos": 1498.5,
+          "rank": 38
         },
         {
           "id": "cadet-a-girls--st-anthony-red",
@@ -3096,7 +3114,7 @@
           "losses": 3,
           "record": "3-3",
           "sos": 1531.4,
-          "rank": 38
+          "rank": 39
         },
         {
           "id": "cadet-a-girls--immac-heart-blue",
@@ -3114,7 +3132,7 @@
           "losses": 4,
           "record": "1-4",
           "sos": 1598,
-          "rank": 39
+          "rank": 40
         },
         {
           "id": "cadet-a-girls--st-thomas-aquin-blue",
@@ -3132,7 +3150,7 @@
           "losses": 5,
           "record": "3-5",
           "sos": 1577.9,
-          "rank": 40
+          "rank": 41
         },
         {
           "id": "cadet-a-girls--card-ritter-jr-h-red",
@@ -3150,7 +3168,7 @@
           "losses": 2,
           "record": "1-2",
           "sos": 1560.9,
-          "rank": 41
+          "rank": 42
         },
         {
           "id": "cadet-a-girls--nativity-black",
@@ -3168,7 +3186,7 @@
           "losses": 5,
           "record": "2-5",
           "sos": 1590.7,
-          "rank": 42
+          "rank": 43
         },
         {
           "id": "cadet-b-girls--christ-the-king-gold",
@@ -3186,7 +3204,7 @@
           "losses": 3,
           "record": "4-3",
           "sos": 1496.5,
-          "rank": 43
+          "rank": 44
         },
         {
           "id": "cadet-b-girls--st-malachy-green",
@@ -3204,7 +3222,7 @@
           "losses": 3,
           "record": "3-3",
           "sos": 1485,
-          "rank": 44
+          "rank": 45
         },
         {
           "id": "cadet-a-girls--st-philip-green",
@@ -3222,7 +3240,7 @@
           "losses": 4,
           "record": "3-4",
           "sos": 1525.9,
-          "rank": 45
+          "rank": 46
         },
         {
           "id": "cadet-a-girls--mount-carmel-gold",
@@ -3240,7 +3258,7 @@
           "losses": 5,
           "record": "1-5",
           "sos": 1622,
-          "rank": 46
+          "rank": 47
         },
         {
           "id": "cadet-a-girls--little-flower-gold",
@@ -3258,7 +3276,7 @@
           "losses": 5,
           "record": "2-5",
           "sos": 1590.7,
-          "rank": 47
+          "rank": 48
         },
         {
           "id": "cadet-b-girls--st-matthew-red",
@@ -3275,8 +3293,8 @@
           "wins": 3,
           "losses": 3,
           "record": "3-3",
-          "sos": 1493,
-          "rank": 48
+          "sos": 1499.1,
+          "rank": 49
         },
         {
           "id": "cadet-a-girls--central-cath-blue",
@@ -3294,7 +3312,7 @@
           "losses": 2,
           "record": "1-2",
           "sos": 1567.7,
-          "rank": 49
+          "rank": 50
         },
         {
           "id": "cadet-a-girls--holy-name-gold",
@@ -3312,7 +3330,7 @@
           "losses": 6,
           "record": "1-6",
           "sos": 1602.8,
-          "rank": 50
+          "rank": 51
         },
         {
           "id": "cadet-a-girls--st-roch-blue",
@@ -3330,7 +3348,7 @@
           "losses": 5,
           "record": "1-5",
           "sos": 1618.1,
-          "rank": 51
+          "rank": 52
         },
         {
           "id": "cadet-a-girls--st-joan-of-arc-black",
@@ -3348,7 +3366,7 @@
           "losses": 5,
           "record": "2-5",
           "sos": 1562.3,
-          "rank": 52
+          "rank": 53
         },
         {
           "id": "cadet-c-girls--mount-carmel-yellow",
@@ -3366,7 +3384,7 @@
           "losses": 2,
           "record": "4-2",
           "sos": 1417.8,
-          "rank": 53
+          "rank": 54
         },
         {
           "id": "cadet-b-girls--st-barnabas-black",
@@ -3383,8 +3401,8 @@
           "wins": 2,
           "losses": 4,
           "record": "2-4",
-          "sos": 1484.7,
-          "rank": 54
+          "sos": 1477.3,
+          "rank": 55
         },
         {
           "id": "cadet-c-girls--holy-name-gold",
@@ -3402,7 +3420,7 @@
           "losses": 1,
           "record": "2-1",
           "sos": 1402.2,
-          "rank": 55
+          "rank": 56
         },
         {
           "id": "cadet-b-girls--st-thomas-aquin-blue",
@@ -3420,24 +3438,6 @@
           "losses": 2,
           "record": "2-2",
           "sos": 1497.6,
-          "rank": 56
-        },
-        {
-          "id": "cadet-b-girls--st-simon-blue",
-          "band": "Cadet",
-          "school": "St. Simon",
-          "name": "St. Simon-Blue",
-          "league": "Cadet B Girls",
-          "tier": "B",
-          "division": "1A",
-          "pool": 40,
-          "baseline": 1500,
-          "rating": 1445.5,
-          "delta": -54.5,
-          "wins": 1,
-          "losses": 3,
-          "record": "1-3",
-          "sos": 1546.6,
           "rank": 57
         },
         {
@@ -3513,6 +3513,24 @@
           "rank": 61
         },
         {
+          "id": "cadet-b-girls--st-jude-gold",
+          "band": "Cadet",
+          "school": "St. Jude",
+          "name": "St. Jude-Gold",
+          "league": "Cadet B Girls",
+          "tier": "B",
+          "division": "1N",
+          "pool": 32,
+          "baseline": 1500,
+          "rating": 1431.5,
+          "delta": -68.5,
+          "wins": 2,
+          "losses": 5,
+          "record": "2-5",
+          "sos": 1494.7,
+          "rank": 62
+        },
+        {
           "id": "cadet-c-girls--st-pius-x-black",
           "band": "Cadet",
           "school": "St. Pius X",
@@ -3528,7 +3546,7 @@
           "losses": 3,
           "record": "4-3",
           "sos": 1415.7,
-          "rank": 62
+          "rank": 63
         },
         {
           "id": "cadet-b-girls--st-maria-gor-red",
@@ -3546,7 +3564,7 @@
           "losses": 4,
           "record": "2-4",
           "sos": 1522.2,
-          "rank": 63
+          "rank": 64
         },
         {
           "id": "cadet-b-girls--st-pius-x-gold",
@@ -3563,8 +3581,8 @@
           "wins": 2,
           "losses": 5,
           "record": "2-5",
-          "sos": 1520.2,
-          "rank": 64
+          "sos": 1525.4,
+          "rank": 65
         },
         {
           "id": "cadet-c-girls--ol-greenwood-white",
@@ -3582,7 +3600,7 @@
           "losses": 3,
           "record": "3-3",
           "sos": 1401.6,
-          "rank": 65
+          "rank": 66
         },
         {
           "id": "cadet-b-girls--st-simon-white",
@@ -3600,43 +3618,7 @@
           "losses": 4,
           "record": "0-4",
           "sos": 1604,
-          "rank": 66
-        },
-        {
-          "id": "cadet-b-girls--st-simon-silver",
-          "band": "Cadet",
-          "school": "St. Simon",
-          "name": "St. Simon-Silver",
-          "league": "Cadet B Girls",
-          "tier": "B",
-          "division": "1N",
-          "pool": 40,
-          "baseline": 1500,
-          "rating": 1401.1,
-          "delta": -98.9,
-          "wins": 1,
-          "losses": 4,
-          "record": "1-4",
-          "sos": 1541.9,
           "rank": 67
-        },
-        {
-          "id": "cadet-b-girls--immac-heart-blue",
-          "band": "Cadet",
-          "school": "Immac. Heart",
-          "name": "Immac. Heart-Blue",
-          "league": "Cadet B Girls",
-          "tier": "B",
-          "division": "1A",
-          "pool": 32,
-          "baseline": 1500,
-          "rating": 1396.6,
-          "delta": -103.4,
-          "wins": 1,
-          "losses": 5,
-          "record": "1-5",
-          "sos": 1573.7,
-          "rank": 68
         },
         {
           "id": "cadet-a-girls--st-michael-indy-red",
@@ -3654,25 +3636,7 @@
           "losses": 3,
           "record": "0-3",
           "sos": 1520.5,
-          "rank": 69
-        },
-        {
-          "id": "cadet-b-girls--st-jude-gold",
-          "band": "Cadet",
-          "school": "St. Jude",
-          "name": "St. Jude-Gold",
-          "league": "Cadet B Girls",
-          "tier": "B",
-          "division": "1N",
-          "pool": 32,
-          "baseline": 1500,
-          "rating": 1394.8,
-          "delta": -105.2,
-          "wins": 1,
-          "losses": 5,
-          "record": "1-5",
-          "sos": 1516.3,
-          "rank": 70
+          "rank": 68
         },
         {
           "id": "cadet-b-girls--holy-name-gold",
@@ -3690,7 +3654,7 @@
           "losses": 5,
           "record": "1-5",
           "sos": 1528.3,
-          "rank": 71
+          "rank": 69
         },
         {
           "id": "cadet-b-girls--card-ritter-jr-h-white",
@@ -3708,7 +3672,7 @@
           "losses": 3,
           "record": "1-3",
           "sos": 1554.1,
-          "rank": 72
+          "rank": 70
         },
         {
           "id": "cadet-c-girls--st-matthew-red",
@@ -3726,7 +3690,7 @@
           "losses": 3,
           "record": "2-3",
           "sos": 1418.3,
-          "rank": 73
+          "rank": 71
         },
         {
           "id": "cadet-c-girls--christ-the-king-black",
@@ -3744,7 +3708,7 @@
           "losses": 4,
           "record": "3-4",
           "sos": 1397.9,
-          "rank": 74
+          "rank": 72
         },
         {
           "id": "cadet-b-girls--st-roch-gold",
@@ -3762,7 +3726,7 @@
           "losses": 5,
           "record": "1-5",
           "sos": 1506.4,
-          "rank": 75
+          "rank": 73
         },
         {
           "id": "cadet-b-girls--st-joan-of-arc-gold",
@@ -3780,7 +3744,25 @@
           "losses": 5,
           "record": "2-5",
           "sos": 1485.7,
-          "rank": 76
+          "rank": 74
+        },
+        {
+          "id": "cadet-b-girls--immac-heart-blue",
+          "band": "Cadet",
+          "school": "Immac. Heart",
+          "name": "Immac. Heart-Blue",
+          "league": "Cadet B Girls",
+          "tier": "B",
+          "division": "1A",
+          "pool": 32,
+          "baseline": 1500,
+          "rating": 1381,
+          "delta": -119,
+          "wins": 1,
+          "losses": 6,
+          "record": "1-6",
+          "sos": 1560.8,
+          "rank": 75
         },
         {
           "id": "cadet-b-girls--holy-spirit-indy-yellow",
@@ -3798,7 +3780,7 @@
           "losses": 3,
           "record": "0-3",
           "sos": 1533.3,
-          "rank": 77
+          "rank": 76
         },
         {
           "id": "cadet-c-girls--st-barnabas-gold",
@@ -3816,7 +3798,7 @@
           "losses": 4,
           "record": "3-4",
           "sos": 1414.1,
-          "rank": 78
+          "rank": 77
         },
         {
           "id": "cadet-b-girls--little-flower-gold",
@@ -3834,7 +3816,7 @@
           "losses": 3,
           "record": "0-3",
           "sos": 1611.4,
-          "rank": 79
+          "rank": 78
         },
         {
           "id": "cadet-b-girls--nativity-red",
@@ -3852,6 +3834,24 @@
           "losses": 4,
           "record": "1-4",
           "sos": 1537.6,
+          "rank": 79
+        },
+        {
+          "id": "cadet-b-girls--st-simon-silver",
+          "band": "Cadet",
+          "school": "St. Simon",
+          "name": "St. Simon-Silver",
+          "league": "Cadet B Girls",
+          "tier": "B",
+          "division": "1N",
+          "pool": 40,
+          "baseline": 1500,
+          "rating": 1364.5,
+          "delta": -135.5,
+          "wins": 1,
+          "losses": 5,
+          "record": "1-5",
+          "sos": 1523.5,
           "rank": 80
         },
         {
@@ -3864,12 +3864,12 @@
           "division": "1A",
           "pool": 32,
           "baseline": 1500,
-          "rating": 1364.3,
-          "delta": -135.7,
+          "rating": 1364.2,
+          "delta": -135.8,
           "wins": 1,
           "losses": 6,
           "record": "1-6",
-          "sos": 1523.4,
+          "sos": 1525.6,
           "rank": 81
         },
         {
@@ -3963,24 +3963,6 @@
           "rank": 86
         },
         {
-          "id": "cadet-b-girls--st-charles-red",
-          "band": "Cadet",
-          "school": "St. Charles",
-          "name": "St. Charles-Red",
-          "league": "Cadet B Girls",
-          "tier": "B",
-          "division": "1A",
-          "pool": 16,
-          "baseline": 1438.6,
-          "rating": 1308.2,
-          "delta": -130.4,
-          "wins": 0,
-          "losses": 6,
-          "record": "0-6",
-          "sos": 1545.7,
-          "rank": 87
-        },
-        {
           "id": "cadet-c-girls--st-simon-blue",
           "band": "Cadet",
           "school": "St. Simon",
@@ -3996,6 +3978,24 @@
           "losses": 6,
           "record": "1-6",
           "sos": 1415.7,
+          "rank": 87
+        },
+        {
+          "id": "cadet-b-girls--st-charles-red",
+          "band": "Cadet",
+          "school": "St. Charles",
+          "name": "St. Charles-Red",
+          "league": "Cadet B Girls",
+          "tier": "B",
+          "division": "1A",
+          "pool": 16,
+          "baseline": 1438.6,
+          "rating": 1286.1,
+          "delta": -152.5,
+          "wins": 0,
+          "losses": 7,
+          "record": "0-7",
+          "sos": 1536.8,
           "rank": 88
         },
         {
@@ -4040,6 +4040,8 @@
   "checks": {
     "standingsMismatches": [],
     "skippedGames": [],
-    "scheduleErrors": []
+    "scheduleErrors": [
+      "St. Luke-Yellow / Cadet C Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500"
+    ]
   }
 }
