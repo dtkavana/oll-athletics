@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T23:55:19.034Z",
+  "generatedAt": "2026-11-03T09:31:34.301Z",
   "season": "2026 Fall Girls Volleyball",
   "model": {
     "rosterSize": 8,
@@ -15,10 +15,10 @@
   },
   "summary": {
     "teams": 221,
-    "games": 672,
+    "games": 674,
     "skippedGames": 0,
     "standingsMismatches": 0,
-    "scheduleErrors": 1
+    "scheduleErrors": 0
   },
   "bands": [
     {
@@ -2412,7 +2412,7 @@
         "Cadet C Girls"
       ],
       "teams": 90,
-      "games": 270,
+      "games": 272,
       "rankings": [
         {
           "id": "cadet-a-girls--ss-fran-clare-navy",
@@ -2802,12 +2802,12 @@
           "division": "2",
           "pool": 24,
           "baseline": 1414.9,
-          "rating": 1582.1,
-          "delta": 167.2,
+          "rating": 1580.4,
+          "delta": 165.5,
           "wins": 6,
           "losses": 0,
           "record": "6-0",
-          "sos": 1373,
+          "sos": 1373.2,
           "rank": 22
         },
         {
@@ -3419,7 +3419,7 @@
           "wins": 2,
           "losses": 1,
           "record": "2-1",
-          "sos": 1402.2,
+          "sos": 1409.8,
           "rank": 56
         },
         {
@@ -3441,6 +3441,24 @@
           "rank": 57
         },
         {
+          "id": "cadet-c-girls--st-matthew-red",
+          "band": "Cadet",
+          "school": "St. Matthew",
+          "name": "St. Matthew-Red",
+          "league": "Cadet C Girls",
+          "tier": "C",
+          "division": "2",
+          "pool": 24,
+          "baseline": 1414.9,
+          "rating": 1449.6,
+          "delta": 34.6,
+          "wins": 4,
+          "losses": 3,
+          "record": "4-3",
+          "sos": 1403.6,
+          "rank": 58
+        },
+        {
           "id": "cadet-b-girls--ol-of-grace-navy",
           "band": "Cadet",
           "school": "OL Of Grace",
@@ -3456,7 +3474,7 @@
           "losses": 4,
           "record": "3-4",
           "sos": 1493.7,
-          "rank": 58
+          "rank": 59
         },
         {
           "id": "cadet-a-girls--ol-greenwood-gold",
@@ -3474,24 +3492,6 @@
           "losses": 6,
           "record": "1-6",
           "sos": 1571.7,
-          "rank": 59
-        },
-        {
-          "id": "cadet-c-girls--st-mark-black",
-          "band": "Cadet",
-          "school": "St. Mark",
-          "name": "St. Mark-Black",
-          "league": "Cadet C Girls",
-          "tier": "C",
-          "division": "2",
-          "pool": 32,
-          "baseline": 1400,
-          "rating": 1443.3,
-          "delta": 43.3,
-          "wins": 4,
-          "losses": 2,
-          "record": "4-2",
-          "sos": 1407.4,
           "rank": 60
         },
         {
@@ -3621,6 +3621,24 @@
           "rank": 67
         },
         {
+          "id": "cadet-c-girls--st-mark-black",
+          "band": "Cadet",
+          "school": "St. Mark",
+          "name": "St. Mark-Black",
+          "league": "Cadet C Girls",
+          "tier": "C",
+          "division": "2",
+          "pool": 32,
+          "baseline": 1400,
+          "rating": 1403.9,
+          "delta": 3.9,
+          "wins": 4,
+          "losses": 3,
+          "record": "4-3",
+          "sos": 1410.1,
+          "rank": 68
+        },
+        {
           "id": "cadet-a-girls--st-michael-indy-red",
           "band": "Cadet",
           "school": "St. Michael, Indy",
@@ -3636,7 +3654,7 @@
           "losses": 3,
           "record": "0-3",
           "sos": 1520.5,
-          "rank": 68
+          "rank": 69
         },
         {
           "id": "cadet-b-girls--holy-name-gold",
@@ -3654,7 +3672,7 @@
           "losses": 5,
           "record": "1-5",
           "sos": 1528.3,
-          "rank": 69
+          "rank": 70
         },
         {
           "id": "cadet-b-girls--card-ritter-jr-h-white",
@@ -3672,24 +3690,6 @@
           "losses": 3,
           "record": "1-3",
           "sos": 1554.1,
-          "rank": 70
-        },
-        {
-          "id": "cadet-c-girls--st-matthew-red",
-          "band": "Cadet",
-          "school": "St. Matthew",
-          "name": "St. Matthew-Red",
-          "league": "Cadet C Girls",
-          "tier": "C",
-          "division": "2",
-          "pool": 24,
-          "baseline": 1414.9,
-          "rating": 1387.3,
-          "delta": -27.7,
-          "wins": 2,
-          "losses": 3,
-          "record": "2-3",
-          "sos": 1418.3,
           "rank": 71
         },
         {
@@ -3891,24 +3891,6 @@
           "rank": 82
         },
         {
-          "id": "cadet-c-girls--st-jude-white",
-          "band": "Cadet",
-          "school": "St. Jude",
-          "name": "St. Jude-White",
-          "league": "Cadet C Girls",
-          "tier": "C",
-          "division": "2",
-          "pool": 32,
-          "baseline": 1400,
-          "rating": 1352.9,
-          "delta": -47.1,
-          "wins": 1,
-          "losses": 3,
-          "record": "1-3",
-          "sos": 1452.9,
-          "rank": 83
-        },
-        {
           "id": "cadet-b-girls--st-susanna-gold",
           "band": "Cadet",
           "school": "St. Susanna",
@@ -3924,6 +3906,24 @@
           "losses": 3,
           "record": "0-3",
           "sos": 1528.6,
+          "rank": 83
+        },
+        {
+          "id": "cadet-c-girls--st-jude-white",
+          "band": "Cadet",
+          "school": "St. Jude",
+          "name": "St. Jude-White",
+          "league": "Cadet C Girls",
+          "tier": "C",
+          "division": "2",
+          "pool": 32,
+          "baseline": 1400,
+          "rating": 1331.7,
+          "delta": -68.3,
+          "wins": 1,
+          "losses": 4,
+          "record": "1-4",
+          "sos": 1444,
           "rank": 84
         },
         {
@@ -4031,7 +4031,7 @@
           "wins": 0,
           "losses": 5,
           "record": "0-5",
-          "sos": 1439.8,
+          "sos": 1444,
           "rank": 90
         }
       ]
@@ -4040,8 +4040,6 @@
   "checks": {
     "standingsMismatches": [],
     "skippedGames": [],
-    "scheduleErrors": [
-      "St. Luke-Yellow / Cadet C Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500"
-    ]
+    "scheduleErrors": []
   }
 }
