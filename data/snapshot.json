@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-03T17:48:44.705Z",
+  "scrapedAt": "2026-11-03T22:16:48.801Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -3484,15 +3484,15 @@
         },
         {
           "division": "1N",
-          "team": "St. Barnabas-Gold",
+          "team": "St. Roch-Blue",
           "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Roch-Blue",
-          "wins": 5,
+          "team": "St. Barnabas-Gold",
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
@@ -3507,7 +3507,7 @@
           "division": "1N",
           "team": "St. Barnabas-Maroon",
           "wins": 5,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
