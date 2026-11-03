@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-11-02T23:51:59.645Z",
+  "scrapedAt": "2026-11-03T17:48:44.705Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1291,6 +1291,13 @@
         },
         {
           "division": "1A",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 6,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Jude-Red",
           "wins": 5,
           "losses": 2,
@@ -1298,16 +1305,9 @@
         },
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
-          "wins": 4,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Simon-Royal",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -1335,7 +1335,7 @@
           "division": "1A",
           "team": "St. Charles-Red",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -1864,7 +1864,7 @@
         {
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 1,
+          "wins": 2,
           "losses": 5,
           "draws": 0
         },
@@ -1872,7 +1872,7 @@
           "division": "1A",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
