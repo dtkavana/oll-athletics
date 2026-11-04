@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-04T09:01:07.427Z",
+  "scrapedAt": "2026-11-04T17:58:30.447Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1011,7 +1011,8 @@
         "137ebed45030",
         "5b2af8a65bda",
         "1ec06b861114",
-        "bb9bcd2fbf7a"
+        "bb9bcd2fbf7a",
+        "0b466823b7fd"
       ]
     },
     {
@@ -8670,16 +8671,16 @@
       "startTime": "18:30",
       "endTime": null,
       "venue": "Little Flower Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 A Girls",
       "division": null,
       "team1": {
         "name": "Little Flower-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -8865,6 +8866,35 @@
       "id": "d9d8cced7a36",
       "teamIds": [
         "2026-fall-girls-volleyball--cadet-b-girls--2n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-11",
+      "startTime": "17:30",
+      "endTime": null,
+      "venue": "Little Flower Gym",
+      "status": "Paired",
+      "league": "56 A Girls",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Michael, Indy-Red",
+        "score": null
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - 56A National",
+        "round": 3,
+        "host": "Little Flower",
+        "notes": null
+      },
+      "id": "0b466823b7fd",
+      "teamIds": [
+        "2026-fall-girls-volleyball--56-a-girls--2n--ol-lourdes-blue"
       ],
       "homeSide": null
     }
