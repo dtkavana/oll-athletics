@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-11-05T09:23:07.300Z",
+  "scrapedAt": "2026-11-05T22:39:33.882Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -44,7 +44,8 @@
         "e9a66144f909",
         "426dedb60fae",
         "f32c5774f1a7",
-        "bc883de92a18"
+        "bc883de92a18",
+        "98357807af6f"
       ]
     },
     {
@@ -1172,11 +1173,11 @@
       "division": null,
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": 0
+        "score": 2
       },
       "team2": {
         "name": "St. Roch-Gold",
-        "score": 0
+        "score": 1
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -1248,6 +1249,35 @@
         "2026-fall-girls-volleyball--4th-girls--2n--ol-lourdes-gold"
       ],
       "homeSide": 2
+    },
+    {
+      "date": "2026-11-07",
+      "startTime": "16:00",
+      "endTime": null,
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "4th Girls",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Monica-Black",
+        "score": null
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - 4th Grade National",
+        "round": 2,
+        "host": "OL Lourdes",
+        "notes": null
+      },
+      "id": "98357807af6f",
+      "teamIds": [
+        "2026-fall-girls-volleyball--4th-girls--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
     },
     {
       "date": "2026-11-08",
