@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-04T22:34:48.722Z",
+  "scrapedAt": "2026-11-05T09:23:07.300Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -35,6 +35,22 @@
     "2026-2027 Boys Basketball"
   ],
   "videos": [
+    {
+      "id": "pUtc3mzcFBk",
+      "title": "Our Lady of Lourdes Vs St. Roch 4th Grade Girls Volleyball Tournement",
+      "published": "2026-11-05T00:06:53+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=pUtc3mzcFBk",
+      "thumb": "https://i.ytimg.com/vi/pUtc3mzcFBk/mqdefault.jpg"
+    },
+    {
+      "id": "VWBfaPD3xfY",
+      "title": "St.Michael vs Holy Spirit",
+      "published": "2026-11-04T23:09:07+00:00",
+      "date": "2026-11-04",
+      "url": "https://www.youtube.com/watch?v=VWBfaPD3xfY",
+      "thumb": "https://i.ytimg.com/vi/VWBfaPD3xfY/mqdefault.jpg"
+    },
     {
       "id": "crhE79ohJZc",
       "title": "Holy Name vs Little Flower",
@@ -953,7 +969,8 @@
         "8075e3ca87b9",
         "10801b722e0d",
         "1cf2ce06d633",
-        "caa2e44719ff"
+        "caa2e44719ff",
+        "4adbd6ea8fb7"
       ]
     },
     {
@@ -4011,7 +4028,14 @@
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 1,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -4019,13 +4043,6 @@
           "team": "St. Louis de Mont.-Black",
           "wins": 1,
           "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 0,
-          "losses": 5,
           "draws": 0
         },
         {
@@ -4107,14 +4124,14 @@
         },
         {
           "division": "2A",
-          "team": "St. Charles-Red",
+          "team": "St. Luke-Gold",
           "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Luke-Gold",
+          "team": "St. Charles-Red",
           "wins": 6,
           "losses": 1,
           "draws": 0
@@ -8708,16 +8725,16 @@
       "startTime": "19:00",
       "endTime": null,
       "venue": "St. Monica Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": null,
       "team1": {
         "name": "St. Rose-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -8903,6 +8920,35 @@
       "id": "0b466823b7fd",
       "teamIds": [
         "2026-fall-girls-volleyball--56-a-girls--2n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-12",
+      "startTime": "19:00",
+      "endTime": null,
+      "venue": "St. Monica Gym",
+      "status": "Paired",
+      "league": "Cadet A Girls",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Thomas Aquin.-Blue",
+        "score": null
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - Cadet A National",
+        "round": 3,
+        "host": "St. Monica",
+        "notes": null
+      },
+      "id": "4adbd6ea8fb7",
+      "teamIds": [
+        "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
       ],
       "homeSide": null
     }

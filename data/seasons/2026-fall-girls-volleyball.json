@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-11-04T17:58:30.447Z",
+  "scrapedAt": "2026-11-05T09:23:07.300Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -21,7 +21,8 @@
         "8075e3ca87b9",
         "10801b722e0d",
         "1cf2ce06d633",
-        "caa2e44719ff"
+        "caa2e44719ff",
+        "4adbd6ea8fb7"
       ]
     },
     {
@@ -1137,16 +1138,16 @@
       "startTime": "19:00",
       "endTime": null,
       "venue": "St. Monica Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": null,
       "team1": {
         "name": "St. Rose-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -1303,6 +1304,35 @@
       "id": "0b466823b7fd",
       "teamIds": [
         "2026-fall-girls-volleyball--56-a-girls--2n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-12",
+      "startTime": "19:00",
+      "endTime": null,
+      "venue": "St. Monica Gym",
+      "status": "Paired",
+      "league": "Cadet A Girls",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Thomas Aquin.-Blue",
+        "score": null
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - Cadet A National",
+        "round": 3,
+        "host": "St. Monica",
+        "notes": null
+      },
+      "id": "4adbd6ea8fb7",
+      "teamIds": [
+        "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
       ],
       "homeSide": null
     }
@@ -2146,7 +2176,14 @@
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 1,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -2154,13 +2191,6 @@
           "team": "St. Louis de Mont.-Black",
           "wins": 1,
           "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 0,
-          "losses": 5,
           "draws": 0
         },
         {
@@ -2242,14 +2272,14 @@
         },
         {
           "division": "2A",
-          "team": "St. Charles-Red",
+          "team": "St. Luke-Gold",
           "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Luke-Gold",
+          "team": "St. Charles-Red",
           "wins": 6,
           "losses": 1,
           "draws": 0
