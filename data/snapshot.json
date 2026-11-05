@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-05T09:23:07.300Z",
+  "scrapedAt": "2026-11-05T17:59:02.692Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -36,28 +36,28 @@
   ],
   "videos": [
     {
+      "id": "crhE79ohJZc",
+      "title": "Holy Name vs Little Flower",
+      "published": "2026-11-05T12:48:55+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=crhE79ohJZc",
+      "thumb": "https://i.ytimg.com/vi/crhE79ohJZc/mqdefault.jpg"
+    },
+    {
+      "id": "VWBfaPD3xfY",
+      "title": "St.Michael vs Holy Spirit",
+      "published": "2026-11-05T12:27:35+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=VWBfaPD3xfY",
+      "thumb": "https://i.ytimg.com/vi/VWBfaPD3xfY/mqdefault.jpg"
+    },
+    {
       "id": "pUtc3mzcFBk",
       "title": "Our Lady of Lourdes Vs St. Roch 4th Grade Girls Volleyball Tournement",
       "published": "2026-11-05T00:06:53+00:00",
       "date": "2026-11-05",
       "url": "https://www.youtube.com/watch?v=pUtc3mzcFBk",
       "thumb": "https://i.ytimg.com/vi/pUtc3mzcFBk/mqdefault.jpg"
-    },
-    {
-      "id": "VWBfaPD3xfY",
-      "title": "St.Michael vs Holy Spirit",
-      "published": "2026-11-04T23:09:07+00:00",
-      "date": "2026-11-04",
-      "url": "https://www.youtube.com/watch?v=VWBfaPD3xfY",
-      "thumb": "https://i.ytimg.com/vi/VWBfaPD3xfY/mqdefault.jpg"
-    },
-    {
-      "id": "crhE79ohJZc",
-      "title": "Holy Name vs Little Flower",
-      "published": "2026-11-04T22:18:30+00:00",
-      "date": "2026-11-04",
-      "url": "https://www.youtube.com/watch?v=crhE79ohJZc",
-      "thumb": "https://i.ytimg.com/vi/crhE79ohJZc/mqdefault.jpg"
     },
     {
       "id": "RXgd3FvZ850",
