@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-06T09:17:52.462Z",
+  "scrapedAt": "2026-11-06T17:27:37.878Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -36,6 +36,22 @@
   ],
   "videos": [
     {
+      "id": "CGrvb4it0oM",
+      "title": "4th Grade Volleyball Tournament, St. Rock vs St. Malachy 11/05/2026",
+      "published": "2026-11-06T13:28:05+00:00",
+      "date": "2026-11-06",
+      "url": "https://www.youtube.com/watch?v=CGrvb4it0oM",
+      "thumb": "https://i.ytimg.com/vi/CGrvb4it0oM/mqdefault.jpg"
+    },
+    {
+      "id": "VP3vrC5MUIQ",
+      "title": "4th Grade Volleyball Tournament, St. Jude vs St.Barnabass 11/05/2026",
+      "published": "2026-11-06T12:53:22+00:00",
+      "date": "2026-11-06",
+      "url": "https://www.youtube.com/watch?v=VP3vrC5MUIQ",
+      "thumb": "https://i.ytimg.com/vi/VP3vrC5MUIQ/mqdefault.jpg"
+    },
+    {
       "id": "poqRfY3ranw",
       "title": "4th Grade Volleyball Tournament, St. Rock vs St. Malachy 11/05/2026",
       "published": "2026-11-06T01:12:55+00:00",
@@ -44,28 +60,12 @@
       "thumb": "https://i.ytimg.com/vi/poqRfY3ranw/mqdefault.jpg"
     },
     {
-      "id": "CGrvb4it0oM",
-      "title": "4th Grade Volleyball Tournament, St. Rock vs St. Malachy 11/05/2026",
-      "published": "2026-11-06T00:31:11+00:00",
-      "date": "2026-11-06",
-      "url": "https://www.youtube.com/watch?v=CGrvb4it0oM",
-      "thumb": "https://i.ytimg.com/vi/CGrvb4it0oM/mqdefault.jpg"
-    },
-    {
       "id": "HlmsZTPqZaU",
       "title": "4th Grade Volleyball Tournament, OL Greenwood vs. Nativity, 11/05/2026",
       "published": "2026-11-05T23:05:00+00:00",
       "date": "2026-11-05",
       "url": "https://www.youtube.com/watch?v=HlmsZTPqZaU",
       "thumb": "https://i.ytimg.com/vi/HlmsZTPqZaU/mqdefault.jpg"
-    },
-    {
-      "id": "VP3vrC5MUIQ",
-      "title": "4th Grade Volleyball Tournament, St. Jude vs St.Barnabass 11/05/2026",
-      "published": "2026-11-05T23:03:28+00:00",
-      "date": "2026-11-05",
-      "url": "https://www.youtube.com/watch?v=VP3vrC5MUIQ",
-      "thumb": "https://i.ytimg.com/vi/VP3vrC5MUIQ/mqdefault.jpg"
     },
     {
       "id": "vhiUpl0rbLs",
