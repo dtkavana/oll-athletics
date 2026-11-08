@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Boys Football",
-  "scrapedAt": "2026-11-02T09:21:08.098Z",
+  "scrapedAt": "2026-11-08T08:54:18.092Z",
   "teams": [
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -576,16 +576,16 @@
       "startTime": "14:30",
       "endTime": null,
       "venue": "Roncalli HS-FB",
-      "status": "Paired",
+      "status": "Played",
       "league": "34",
       "division": null,
       "team1": {
         "name": "St. Maria Gor.-Navy",
-        "score": null
+        "score": 34
       },
       "team2": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 6
       },
       "season": "2026 Fall Boys Football",
       "tournament": {
