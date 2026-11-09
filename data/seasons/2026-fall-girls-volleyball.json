@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-11-06T09:17:52.462Z",
+  "scrapedAt": "2026-11-09T20:41:34.911Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1197,16 +1197,16 @@
       "startTime": "17:30",
       "endTime": null,
       "venue": "Nativity Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 B Girls",
       "division": null,
       "team1": {
         "name": "St. Luke-Blue",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -1284,16 +1284,16 @@
       "startTime": "14:00",
       "endTime": null,
       "venue": "St. Malachy Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet B Girls",
       "division": null,
       "team1": {
         "name": "OL Of Grace-Navy",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 1
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
