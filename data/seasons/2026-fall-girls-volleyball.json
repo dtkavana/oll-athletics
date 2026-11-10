@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-11-09T20:41:34.911Z",
+  "scrapedAt": "2026-11-10T22:20:41.605Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1226,16 +1226,16 @@
       "startTime": "11:00",
       "endTime": null,
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": null,
       "team1": {
         "name": "Nativity-Black",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Gold",
-        "score": null
+        "score": 0
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -1255,16 +1255,16 @@
       "startTime": "16:00",
       "endTime": null,
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": null,
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "St. Monica-Black",
-        "score": null
+        "score": 2
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {

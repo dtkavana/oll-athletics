@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-10-22T15:12:44.032Z",
+  "scrapedAt": "2026-11-10T22:20:41.605Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue",
@@ -15,7 +15,14 @@
       "coaches": [
         "Nick Asher"
       ],
-      "gameIds": []
+      "gameIds": [
+        "eec52b6524e8",
+        "865323174c8d",
+        "9f7911e5bd83",
+        "d4207e87df26",
+        "ea19cfd3c6b9",
+        "7d46586d2817"
+      ]
     },
     {
       "id": "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue",
@@ -30,7 +37,14 @@
       "coaches": [
         "Tony Bewsey"
       ],
-      "gameIds": []
+      "gameIds": [
+        "0021159dd138",
+        "8d57c45f5994",
+        "01fadf0c0dca",
+        "c5b72040c8a8",
+        "e0fbdf255ee9",
+        "0ad2b672c5af"
+      ]
     },
     {
       "id": "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold",
@@ -43,7 +57,14 @@
       "league": "56 B Boys",
       "division": "2N",
       "coaches": [],
-      "gameIds": []
+      "gameIds": [
+        "051751da16fe",
+        "326700680535",
+        "01fc3f18b529",
+        "8dae5d3d71f9",
+        "2db1b51fbee2",
+        "2244a036988c"
+      ]
     },
     {
       "id": "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold",
@@ -56,10 +77,570 @@
       "league": "Cadet B Boys",
       "division": "2N",
       "coaches": [],
-      "gameIds": []
+      "gameIds": [
+        "38c0addddf2c",
+        "3a380b76dbe6",
+        "b22cd9db7332",
+        "8f0e89878c88",
+        "924decf2ea69",
+        "8d6ec9c0a888"
+      ]
     }
   ],
-  "games": [],
+  "games": [
+    {
+      "date": "2026-11-22",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Anthony-Red",
+        "score": null
+      },
+      "id": "0021159dd138",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-11-22",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "Card. Ritter Jr. H-Black",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "eec52b6524e8",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-11-22",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Card. Ritter Jr. H-Gray",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "38c0addddf2c",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-11-23",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "St. Thomas Aquinas #2",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Thomas Aquin.-Blue",
+        "score": null
+      },
+      "id": "051751da16fe",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-01",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "venue": "St. Roch Gym #1",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Roch-Gold",
+        "score": null
+      },
+      "id": "3a380b76dbe6",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-03",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "CYO Center",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Lumen Christi-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "326700680535",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-12-05",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "venue": "St. Susanna Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Susanna-Gold",
+        "score": null
+      },
+      "id": "8d57c45f5994",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-06",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "Roncalli HS Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Roch-Blue",
+        "score": null
+      },
+      "id": "865323174c8d",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-12-09",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "venue": "Holy Name Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "Holy Name-Blue",
+        "score": null
+      },
+      "id": "9f7911e5bd83",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-13",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Of Grace-Navy",
+        "score": null
+      },
+      "id": "01fc3f18b529",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-13",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "St. Philip-Green",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "01fadf0c0dca",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-13",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "Lumen Christi-White",
+        "score": null
+      },
+      "id": "b22cd9db7332",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-15",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "St. Joan of Arc Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "St. Joan of Arc-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "c5b72040c8a8",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-16",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Thomas Aquinas #2",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Thomas Aquin.-Blue",
+        "score": null
+      },
+      "id": "8f0e89878c88",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-20",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "Nativity-Black",
+        "score": null
+      },
+      "id": "d4207e87df26",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-20",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Holy Name-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "8dae5d3d71f9",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-03",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "St. Mark-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "2db1b51fbee2",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-03",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "Holy Name-Gold",
+        "score": null
+      },
+      "id": "924decf2ea69",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2027-01-04",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "Holy Spirit, Indy Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Holy Spirit, Indy-Yellow",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "e0fbdf255ee9",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2027-01-06",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "SS. Francis and Clare-Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "Ss. Fran. & Clare-Navy",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "ea19cfd3c6b9",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2027-01-10",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Ss. Fran. & Clare-Gray",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "8d6ec9c0a888",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-10",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "St. Susanna-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "7d46586d2817",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-10",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Greenwood-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "0ad2b672c5af",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-10",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "St. Susanna-Royal",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "2244a036988c",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    }
+  ],
   "standings": [
     {
       "season": "2026-2027 Boys Basketball",
@@ -186,7 +767,7 @@
         },
         {
           "division": "2A",
-          "team": "St. Maria Gor.-Red",
+          "team": "St. Maria Gor.-Navy",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -367,7 +948,7 @@
         },
         {
           "division": "1A",
-          "team": "St. Maria Gor.-Red",
+          "team": "St. Maria Gor.-Navy",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -688,7 +1269,7 @@
         },
         {
           "division": "2A",
-          "team": "St. Maria Gor.-Blue",
+          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -890,7 +1471,7 @@
         },
         {
           "division": "1N",
-          "team": "St. Maria Gor.-Blue",
+          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
