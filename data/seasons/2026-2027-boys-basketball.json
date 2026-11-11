@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-11-10T22:20:41.605Z",
+  "scrapedAt": "2026-11-11T17:52:39.401Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue",
@@ -56,7 +56,9 @@
       "parish": "OL Lourdes",
       "league": "56 B Boys",
       "division": "2N",
-      "coaches": [],
+      "coaches": [
+        "Sheldon Gee"
+      ],
       "gameIds": [
         "051751da16fe",
         "326700680535",
@@ -76,7 +78,9 @@
       "parish": "OL Lourdes",
       "league": "Cadet B Boys",
       "division": "2N",
-      "coaches": [],
+      "coaches": [
+        "Matthew Barada"
+      ],
       "gameIds": [
         "38c0addddf2c",
         "3a380b76dbe6",
@@ -816,13 +820,6 @@
         },
         {
           "division": "2N",
-          "team": "St. Mark-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 0,
           "losses": 0,
@@ -838,6 +835,13 @@
         {
           "division": "2N",
           "team": "St. Monica-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "CYO-BYE-1",
           "wins": 0,
           "losses": 0,
           "draws": 0
