@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T09:43:49.653Z",
+  "scrapedAt": "2026-11-12T18:14:02.540Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -36,17 +36,9 @@
   ],
   "videos": [
     {
-      "id": "DbuCBON5ihQ",
-      "title": "4th Grade Volleyball Tournament, SSFC vs. St. Monica 11/11/2026",
-      "published": "2026-11-12T01:35:00+00:00",
-      "date": "2026-11-12",
-      "url": "https://www.youtube.com/watch?v=DbuCBON5ihQ",
-      "thumb": "https://i.ytimg.com/vi/DbuCBON5ihQ/mqdefault.jpg"
-    },
-    {
       "id": "hCWOKH6NzRI",
       "title": "4th Grade Volleyball Tournament, SSFC vs. St. Monica 11/11/2026",
-      "published": "2026-11-12T00:36:32+00:00",
+      "published": "2026-11-12T15:43:22+00:00",
       "date": "2026-11-12",
       "url": "https://www.youtube.com/watch?v=hCWOKH6NzRI",
       "thumb": "https://i.ytimg.com/vi/hCWOKH6NzRI/mqdefault.jpg"
@@ -54,10 +46,26 @@
     {
       "id": "gasmIwIfrP0",
       "title": "4th Grade Volleyball Tournament, St. Barnabas vs. St. Monica 11/11/2026",
-      "published": "2026-11-11T23:42:01+00:00",
-      "date": "2026-11-11",
+      "published": "2026-11-12T12:44:54+00:00",
+      "date": "2026-11-12",
       "url": "https://www.youtube.com/watch?v=gasmIwIfrP0",
       "thumb": "https://i.ytimg.com/vi/gasmIwIfrP0/mqdefault.jpg"
+    },
+    {
+      "id": "7arH9jzGAAA",
+      "title": "4th Grade Volleyball Tournament, SSFC vs St. Charles 11/11/2026",
+      "published": "2026-11-12T12:04:26+00:00",
+      "date": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=7arH9jzGAAA",
+      "thumb": "https://i.ytimg.com/vi/7arH9jzGAAA/mqdefault.jpg"
+    },
+    {
+      "id": "DbuCBON5ihQ",
+      "title": "4th Grade Volleyball Tournament, SSFC vs. St. Monica 11/11/2026",
+      "published": "2026-11-12T01:35:00+00:00",
+      "date": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=DbuCBON5ihQ",
+      "thumb": "https://i.ytimg.com/vi/DbuCBON5ihQ/mqdefault.jpg"
     },
     {
       "id": "jEIp2QOfRCY",
@@ -74,14 +82,6 @@
       "date": "2026-11-11",
       "url": "https://www.youtube.com/watch?v=-clVPtQ0Z-w",
       "thumb": "https://i.ytimg.com/vi/-clVPtQ0Z-w/mqdefault.jpg"
-    },
-    {
-      "id": "7arH9jzGAAA",
-      "title": "4th Grade Volleyball Tournament, SSFC vs St. Charles 11/11/2026",
-      "published": "2026-11-11T01:19:34+00:00",
-      "date": "2026-11-11",
-      "url": "https://www.youtube.com/watch?v=7arH9jzGAAA",
-      "thumb": "https://i.ytimg.com/vi/7arH9jzGAAA/mqdefault.jpg"
     },
     {
       "id": "8yIK_vHaT1U",
@@ -9403,16 +9403,16 @@
       "startTime": "17:30",
       "endTime": null,
       "venue": "Little Flower Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 A Girls",
       "division": null,
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 1
       },
       "team2": {
         "name": "St. Michael, Indy-Red",
-        "score": null
+        "score": 2
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {

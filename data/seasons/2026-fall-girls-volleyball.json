@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-11-10T22:20:41.605Z",
+  "scrapedAt": "2026-11-12T18:14:02.540Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1313,16 +1313,16 @@
       "startTime": "17:30",
       "endTime": null,
       "venue": "Little Flower Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 A Girls",
       "division": null,
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 1
       },
       "team2": {
         "name": "St. Michael, Indy-Red",
-        "score": null
+        "score": 2
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
