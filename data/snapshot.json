@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-11T23:26:49.755Z",
+  "scrapedAt": "2026-11-12T09:43:49.653Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -35,6 +35,30 @@
     "2026 Spring Girls Kickball"
   ],
   "videos": [
+    {
+      "id": "DbuCBON5ihQ",
+      "title": "4th Grade Volleyball Tournament, SSFC vs. St. Monica 11/11/2026",
+      "published": "2026-11-12T01:35:00+00:00",
+      "date": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=DbuCBON5ihQ",
+      "thumb": "https://i.ytimg.com/vi/DbuCBON5ihQ/mqdefault.jpg"
+    },
+    {
+      "id": "hCWOKH6NzRI",
+      "title": "4th Grade Volleyball Tournament, SSFC vs. St. Monica 11/11/2026",
+      "published": "2026-11-12T00:36:32+00:00",
+      "date": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=hCWOKH6NzRI",
+      "thumb": "https://i.ytimg.com/vi/hCWOKH6NzRI/mqdefault.jpg"
+    },
+    {
+      "id": "gasmIwIfrP0",
+      "title": "4th Grade Volleyball Tournament, St. Barnabas vs. St. Monica 11/11/2026",
+      "published": "2026-11-11T23:42:01+00:00",
+      "date": "2026-11-11",
+      "url": "https://www.youtube.com/watch?v=gasmIwIfrP0",
+      "thumb": "https://i.ytimg.com/vi/gasmIwIfrP0/mqdefault.jpg"
+    },
     {
       "id": "jEIp2QOfRCY",
       "title": "4th Grade Volleyball Tournament, St. Roch vs St. Barnabas 11/10/2026",
