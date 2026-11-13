@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T22:42:49.438Z",
+  "scrapedAt": "2026-11-13T09:26:55.004Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1180,7 +1180,9 @@
         "10801b722e0d",
         "1cf2ce06d633",
         "caa2e44719ff",
-        "4adbd6ea8fb7"
+        "4adbd6ea8fb7",
+        "8665d235ec66",
+        "cb6f299bc499"
       ]
     },
     {
@@ -9432,16 +9434,16 @@
       "startTime": "19:00",
       "endTime": null,
       "venue": "St. Monica Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": null,
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "St. Thomas Aquin.-Blue",
-        "score": null
+        "score": 0
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -9451,6 +9453,64 @@
         "notes": null
       },
       "id": "4adbd6ea8fb7",
+      "teamIds": [
+        "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "venue": "St. Monica Gym",
+      "status": "Played",
+      "league": "Cadet A Girls",
+      "division": null,
+      "team1": {
+        "name": "Nativity-Black",
+        "score": 1
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 2
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - Cadet A National",
+        "round": 4,
+        "host": "St. Monica",
+        "notes": null
+      },
+      "id": "8665d235ec66",
+      "teamIds": [
+        "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-15",
+      "startTime": "15:30",
+      "endTime": null,
+      "venue": "Roncalli High School",
+      "status": "Paired",
+      "league": "Cadet A Girls",
+      "division": null,
+      "team1": {
+        "name": "St. Monica-Black",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - Cadet A National",
+        "round": 5,
+        "host": "St. Monica",
+        "notes": null
+      },
+      "id": "cb6f299bc499",
       "teamIds": [
         "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
       ],
