@@ -1,6 +1,6 @@
 {
   "season": "2026 Fall Girls Volleyball",
-  "scrapedAt": "2026-11-13T09:26:55.004Z",
+  "scrapedAt": "2026-11-16T09:29:45.510Z",
   "teams": [
     {
       "id": "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue",
@@ -1402,16 +1402,16 @@
       "startTime": "15:30",
       "endTime": null,
       "venue": "Roncalli High School",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": null,
       "team1": {
         "name": "St. Monica-Black",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 1
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
