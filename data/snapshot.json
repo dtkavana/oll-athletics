@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-28T08:19:46.862Z",
+  "scrapedAt": "2026-11-17T10:35:38.207Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -25,31 +25,199 @@
     "2026 Spring Boys Volleyball",
     "2026 Spring CO-ED Soccer",
     "2026 Spring Girls Kickball",
+    "2026-2027 Boys & Girls High School Basketball",
     "2026-2027 Boys Basketball"
   ],
   "retiredSeasons": [
     "2026 Fall Girls Kickball",
     "2026 Spring Boys Volleyball",
     "2026 Spring CO-ED Soccer",
-    "2026 Spring Girls Kickball",
-    "2026-2027 Boys Basketball"
+    "2026 Spring Girls Kickball"
   ],
   "videos": [
     {
+      "id": "hCWOKH6NzRI",
+      "title": "4th Grade Volleyball Tournament, SSFC vs. St. Monica 11/11/2026",
+      "published": "2026-11-12T15:43:22+00:00",
+      "date": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=hCWOKH6NzRI",
+      "thumb": "https://i.ytimg.com/vi/hCWOKH6NzRI/mqdefault.jpg"
+    },
+    {
+      "id": "gasmIwIfrP0",
+      "title": "4th Grade Volleyball Tournament, St. Barnabas vs. St. Monica 11/11/2026",
+      "published": "2026-11-12T12:44:54+00:00",
+      "date": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=gasmIwIfrP0",
+      "thumb": "https://i.ytimg.com/vi/gasmIwIfrP0/mqdefault.jpg"
+    },
+    {
+      "id": "7arH9jzGAAA",
+      "title": "4th Grade Volleyball Tournament, SSFC vs St. Charles 11/11/2026",
+      "published": "2026-11-12T12:04:26+00:00",
+      "date": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=7arH9jzGAAA",
+      "thumb": "https://i.ytimg.com/vi/7arH9jzGAAA/mqdefault.jpg"
+    },
+    {
+      "id": "DbuCBON5ihQ",
+      "title": "4th Grade Volleyball Tournament, SSFC vs. St. Monica 11/11/2026",
+      "published": "2026-11-12T01:35:00+00:00",
+      "date": "2026-11-12",
+      "url": "https://www.youtube.com/watch?v=DbuCBON5ihQ",
+      "thumb": "https://i.ytimg.com/vi/DbuCBON5ihQ/mqdefault.jpg"
+    },
+    {
+      "id": "jEIp2QOfRCY",
+      "title": "4th Grade Volleyball Tournament, St. Roch vs St. Barnabas 11/10/2026",
+      "published": "2026-11-11T13:55:43+00:00",
+      "date": "2026-11-11",
+      "url": "https://www.youtube.com/watch?v=jEIp2QOfRCY",
+      "thumb": "https://i.ytimg.com/vi/jEIp2QOfRCY/mqdefault.jpg"
+    },
+    {
+      "id": "-clVPtQ0Z-w",
+      "title": "4th Grade Volleyball Tournament, St. Jude vs St. Roch 11/10/2026",
+      "published": "2026-11-11T11:08:22+00:00",
+      "date": "2026-11-11",
+      "url": "https://www.youtube.com/watch?v=-clVPtQ0Z-w",
+      "thumb": "https://i.ytimg.com/vi/-clVPtQ0Z-w/mqdefault.jpg"
+    },
+    {
+      "id": "8yIK_vHaT1U",
+      "title": "4th Grade Volleyball Tournament, St. Barnabas vs Nativity 11/10/2026",
+      "published": "2026-11-10T23:22:50+00:00",
+      "date": "2026-11-10",
+      "url": "https://www.youtube.com/watch?v=8yIK_vHaT1U",
+      "thumb": "https://i.ytimg.com/vi/8yIK_vHaT1U/mqdefault.jpg"
+    },
+    {
+      "id": "ot-yyI6x5oo",
+      "title": "4th Grade Volleyball Tournament, St. Mark vs St. Barnabas 11/07/2026",
+      "published": "2026-11-08T09:38:55+00:00",
+      "date": "2026-11-08",
+      "url": "https://www.youtube.com/watch?v=ot-yyI6x5oo",
+      "thumb": "https://i.ytimg.com/vi/ot-yyI6x5oo/mqdefault.jpg"
+    },
+    {
+      "id": "JFlZPAOesYc",
+      "title": "4th Grade Volleyball Tournament, St. Mark vs St. Barnabas 11/07/2026",
+      "published": "2026-11-08T08:42:32+00:00",
+      "date": "2026-11-08",
+      "url": "https://www.youtube.com/watch?v=JFlZPAOesYc",
+      "thumb": "https://i.ytimg.com/vi/JFlZPAOesYc/mqdefault.jpg"
+    },
+    {
+      "id": "erGWFbHBlz4",
+      "title": "4th Grade Volleyball Tournament, St. Mark vs St. Barnabass 11/07/2026",
+      "published": "2026-11-08T07:44:44+00:00",
+      "date": "2026-11-08",
+      "url": "https://www.youtube.com/watch?v=erGWFbHBlz4",
+      "thumb": "https://i.ytimg.com/vi/erGWFbHBlz4/mqdefault.jpg"
+    },
+    {
+      "id": "PrnOC9D7C74",
+      "title": "4th Grade Volleyball Tournament, St. Charles vs OLG 11/07/2026",
+      "published": "2026-11-07T19:09:42+00:00",
+      "date": "2026-11-07",
+      "url": "https://www.youtube.com/watch?v=PrnOC9D7C74",
+      "thumb": "https://i.ytimg.com/vi/PrnOC9D7C74/mqdefault.jpg"
+    },
+    {
+      "id": "poqRfY3ranw",
+      "title": "4th Grade Volleyball Tournament, St. Charles vs OLG 11/07/2026",
+      "published": "2026-11-07T18:44:25+00:00",
+      "date": "2026-11-07",
+      "url": "https://www.youtube.com/watch?v=poqRfY3ranw",
+      "thumb": "https://i.ytimg.com/vi/poqRfY3ranw/mqdefault.jpg"
+    },
+    {
+      "id": "CGrvb4it0oM",
+      "title": "4th Grade Volleyball Tournament, St. Rock vs St. Malachy 11/05/2026",
+      "published": "2026-11-06T13:28:05+00:00",
+      "date": "2026-11-06",
+      "url": "https://www.youtube.com/watch?v=CGrvb4it0oM",
+      "thumb": "https://i.ytimg.com/vi/CGrvb4it0oM/mqdefault.jpg"
+    },
+    {
+      "id": "VP3vrC5MUIQ",
+      "title": "4th Grade Volleyball Tournament, St. Jude vs St.Barnabass 11/05/2026",
+      "published": "2026-11-06T12:53:22+00:00",
+      "date": "2026-11-06",
+      "url": "https://www.youtube.com/watch?v=VP3vrC5MUIQ",
+      "thumb": "https://i.ytimg.com/vi/VP3vrC5MUIQ/mqdefault.jpg"
+    },
+    {
+      "id": "HlmsZTPqZaU",
+      "title": "4th Grade Volleyball Tournament, OL Greenwood vs. Nativity, 11/05/2026",
+      "published": "2026-11-05T23:05:00+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=HlmsZTPqZaU",
+      "thumb": "https://i.ytimg.com/vi/HlmsZTPqZaU/mqdefault.jpg"
+    },
+    {
+      "id": "vhiUpl0rbLs",
+      "title": "4th Grade Volleyball Tournament, OL Greenwood vs. Nativity, 11/05/2026",
+      "published": "2026-11-05T22:57:13+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=vhiUpl0rbLs",
+      "thumb": "https://i.ytimg.com/vi/vhiUpl0rbLs/mqdefault.jpg"
+    },
+    {
+      "id": "s1j26HOZL1w",
+      "title": "4th Grade Volleyball Tournament, OL Greenwood vs. Nativity, 11/05/2026",
+      "published": "2026-11-05T22:43:23+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=s1j26HOZL1w",
+      "thumb": "https://i.ytimg.com/vi/s1j26HOZL1w/mqdefault.jpg"
+    },
+    {
+      "id": "pUtc3mzcFBk",
+      "title": "Our Lady of Lourdes Vs St. Roch 4th Grade Girls Volleyball Tournement",
+      "published": "2026-11-05T18:48:47+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=pUtc3mzcFBk",
+      "thumb": "https://i.ytimg.com/vi/pUtc3mzcFBk/mqdefault.jpg"
+    },
+    {
+      "id": "crhE79ohJZc",
+      "title": "Holy Name vs Little Flower",
+      "published": "2026-11-05T12:48:55+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=crhE79ohJZc",
+      "thumb": "https://i.ytimg.com/vi/crhE79ohJZc/mqdefault.jpg"
+    },
+    {
+      "id": "VWBfaPD3xfY",
+      "title": "St.Michael vs Holy Spirit",
+      "published": "2026-11-05T12:27:35+00:00",
+      "date": "2026-11-05",
+      "url": "https://www.youtube.com/watch?v=VWBfaPD3xfY",
+      "thumb": "https://i.ytimg.com/vi/VWBfaPD3xfY/mqdefault.jpg"
+    },
+    {
       "id": "RXgd3FvZ850",
       "title": "Cadet A vs. St. Monica, October 27, 2026, 8:00pm",
-      "published": "2026-10-27T23:29:01+00:00",
-      "date": "2026-10-27",
+      "published": "2026-10-28T12:48:27+00:00",
+      "date": "2026-10-28",
       "url": "https://www.youtube.com/watch?v=RXgd3FvZ850",
       "thumb": "https://i.ytimg.com/vi/RXgd3FvZ850/mqdefault.jpg"
     },
     {
       "id": "La1wdpbCPt8",
       "title": "56B vs. Immaculate Heart, October 27, 2026, 7pm",
-      "published": "2026-10-27T22:42:17+00:00",
-      "date": "2026-10-27",
+      "published": "2026-10-28T11:31:01+00:00",
+      "date": "2026-10-28",
       "url": "https://www.youtube.com/watch?v=La1wdpbCPt8",
       "thumb": "https://i.ytimg.com/vi/La1wdpbCPt8/mqdefault.jpg"
+    },
+    {
+      "id": "QloSeGMWBG8",
+      "title": "56A vs. Central Catholic, October 27, 2026, 6:00pm",
+      "published": "2026-10-28T10:53:54+00:00",
+      "date": "2026-10-28",
+      "url": "https://www.youtube.com/watch?v=QloSeGMWBG8",
+      "thumb": "https://i.ytimg.com/vi/QloSeGMWBG8/mqdefault.jpg"
     },
     {
       "id": "EAdHNsiHHJY",
@@ -74,14 +242,6 @@
       "date": "2026-10-27",
       "url": "https://www.youtube.com/watch?v=LqoR55NInaQ",
       "thumb": "https://i.ytimg.com/vi/LqoR55NInaQ/mqdefault.jpg"
-    },
-    {
-      "id": "QloSeGMWBG8",
-      "title": "56A vs. Central Catholic, October 27, 2026, 6:00pm",
-      "published": "2026-10-27T21:47:09+00:00",
-      "date": "2026-10-27",
-      "url": "https://www.youtube.com/watch?v=QloSeGMWBG8",
-      "thumb": "https://i.ytimg.com/vi/QloSeGMWBG8/mqdefault.jpg"
     },
     {
       "id": "cMat-inT-Qs",
@@ -690,7 +850,14 @@
       "coaches": [
         "Nick Asher"
       ],
-      "gameIds": []
+      "gameIds": [
+        "eec52b6524e8",
+        "865323174c8d",
+        "9f7911e5bd83",
+        "d4207e87df26",
+        "ea19cfd3c6b9",
+        "7d46586d2817"
+      ]
     },
     {
       "id": "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue",
@@ -705,7 +872,14 @@
       "coaches": [
         "Tony Bewsey"
       ],
-      "gameIds": []
+      "gameIds": [
+        "0021159dd138",
+        "8d57c45f5994",
+        "01fadf0c0dca",
+        "c5b72040c8a8",
+        "e0fbdf255ee9",
+        "0ad2b672c5af"
+      ]
     },
     {
       "id": "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold",
@@ -717,8 +891,17 @@
       "parish": "OL Lourdes",
       "league": "56 B Boys",
       "division": "2N",
-      "coaches": [],
-      "gameIds": []
+      "coaches": [
+        "Sheldon Gee"
+      ],
+      "gameIds": [
+        "051751da16fe",
+        "326700680535",
+        "01fc3f18b529",
+        "8dae5d3d71f9",
+        "2db1b51fbee2",
+        "2244a036988c"
+      ]
     },
     {
       "id": "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold",
@@ -730,8 +913,59 @@
       "parish": "OL Lourdes",
       "league": "Cadet B Boys",
       "division": "2N",
+      "coaches": [
+        "Matthew Barada"
+      ],
+      "gameIds": [
+        "38c0addddf2c",
+        "3a380b76dbe6",
+        "b22cd9db7332",
+        "8f0e89878c88",
+        "924decf2ea69",
+        "8d6ec9c0a888"
+      ]
+    },
+    {
+      "id": "2026-2027-boys-girls-high-school-basketball--fr-so-boys-mixed--2--ol-lourdes-blue",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "seasonId": "1899",
+      "name": "OL Lourdes-Blue",
+      "parish": "OL Lourdes",
+      "league": "Fr. So. Boys Mixed",
+      "division": "2",
       "coaches": [],
-      "gameIds": []
+      "gameIds": [
+        "cf76ef1a153c",
+        "1f16bd1bcc11",
+        "4085ed848ce3",
+        "8380f9a740a3",
+        "75c472b994a4",
+        "8cd7af62286b"
+      ]
+    },
+    {
+      "id": "2026-2027-boys-girls-high-school-basketball--jr-sr-boys-mixed--2--ol-lourdes-gold",
+      "org": "oll",
+      "orgName": "Our Lady of Lourdes",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "seasonId": "1899",
+      "name": "OL Lourdes-Gold",
+      "parish": "OL Lourdes",
+      "league": "Jr. Sr. Boys Mixed",
+      "division": "2",
+      "coaches": [
+        "Brad McDonald"
+      ],
+      "gameIds": [
+        "81ad14a35524",
+        "51bd23e4f59b",
+        "aa0cc410de99",
+        "f69dc37885ec",
+        "f44cd115396a",
+        "77d6fcb041df"
+      ]
     },
     {
       "id": "2026-fall-boys-football--56--a--east-side-crusaders-red",
@@ -770,9 +1004,7 @@
         "aaf1daeb1c29",
         "998fea24ff06",
         "8ceca7227305",
-        "5954d45fac03",
-        "7e9d425a30ad",
-        "3130e6cfeb65"
+        "5954d45fac03"
       ]
     },
     {
@@ -794,8 +1026,7 @@
         "e6434a9d3e0a",
         "811269e4678f",
         "7e0772f25a4a",
-        "58bf348b7361",
-        "f5300deeffa8"
+        "58bf348b7361"
       ]
     },
     {
@@ -944,7 +1175,10 @@
         "8075e3ca87b9",
         "10801b722e0d",
         "1cf2ce06d633",
-        "caa2e44719ff"
+        "caa2e44719ff",
+        "4adbd6ea8fb7",
+        "8665d235ec66",
+        "cb6f299bc499"
       ]
     },
     {
@@ -966,7 +1200,8 @@
         "e9a66144f909",
         "426dedb60fae",
         "f32c5774f1a7",
-        "bc883de92a18"
+        "bc883de92a18",
+        "98357807af6f"
       ]
     },
     {
@@ -988,7 +1223,7 @@
         "7056562f32df",
         "6081e49aab93",
         "2798ed2249d1",
-        "0403f966a480"
+        "09bd17cf6481"
       ]
     },
     {
@@ -1010,7 +1245,8 @@
         "137ebed45030",
         "5b2af8a65bda",
         "1ec06b861114",
-        "bb9bcd2fbf7a"
+        "bb9bcd2fbf7a",
+        "0b466823b7fd"
       ]
     },
     {
@@ -1333,7 +1569,7 @@
         },
         {
           "division": "2A",
-          "team": "St. Maria Gor.-Red",
+          "team": "St. Maria Gor.-Navy",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1382,13 +1618,6 @@
         },
         {
           "division": "2N",
-          "team": "St. Mark-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 0,
           "losses": 0,
@@ -1404,6 +1633,13 @@
         {
           "division": "2N",
           "team": "St. Monica-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "CYO-BYE-1",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1514,7 +1750,7 @@
         },
         {
           "division": "1A",
-          "team": "St. Maria Gor.-Red",
+          "team": "St. Maria Gor.-Navy",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1835,7 +2071,7 @@
         },
         {
           "division": "2A",
-          "team": "St. Maria Gor.-Blue",
+          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2037,7 +2273,7 @@
         },
         {
           "division": "1N",
-          "team": "St. Maria Gor.-Blue",
+          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2164,6 +2400,270 @@
         {
           "division": "2N",
           "team": "Nativity-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "league": "Fr. So. Boys Mixed",
+      "rows": [
+        {
+          "division": "1",
+          "team": "St. Simon-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Maria Gor.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Luke-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Pius X-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Matthew-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Mount Carmel-Yellow",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Immac. Heart-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Jude-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Nativity-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Ss. Fran. & Clare-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Good Shepherd-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Holy Spirit Geist-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Simon-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Lumen Christi-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Lourdes-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        }
+      ]
+    },
+    {
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "league": "Jr. Sr. Boys Mixed",
+      "rows": [
+        {
+          "division": "1",
+          "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Simon-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Louis de Mont.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Pius X-Purple",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Maria Gor.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Immac. Heart-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "St. Luke-Yellow",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "Mount Carmel-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Good Shepherd-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "Nativity-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Barnabas-Yellow",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Lourdes-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "OL Greenwood-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Susanna-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2",
+          "team": "St. Joseph-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2407,7 +2907,7 @@
         {
           "division": "AAA",
           "team": "East Side Crusaders-Red",
-          "wins": 2,
+          "wins": 3,
           "losses": 3,
           "draws": 0
         },
@@ -2422,7 +2922,7 @@
           "division": "AAA",
           "team": "South Central-Black",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3170,84 +3670,84 @@
         {
           "division": "1A",
           "team": "Ss. Fran. & Clare-Navy",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Simon-Royal",
-          "wins": 3,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 3,
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Jude-Red",
-          "wins": 3,
+          "wins": 5,
           "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Simon-Royal",
+          "wins": 3,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Luke-Royal",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Barnabas-Maroon",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "Mount Carmel-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Charles-Red",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 5,
+          "team": "St. Maria Gor.-Navy",
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Monica-Black",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 4,
-          "losses": 1,
+          "team": "St. Mark-Black",
+          "wins": 5,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "OL Lourdes-Blue",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
@@ -3255,28 +3755,35 @@
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 3,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Joan of Arc-Black",
           "wins": 2,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Nativity-Black",
-          "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "Little Flower-Gold",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Nativity-Black",
+          "wins": 2,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Greenwood-Gold",
+          "wins": 1,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -3287,59 +3794,45 @@
           "draws": 0
         },
         {
-          "division": "1N",
-          "team": "OL Greenwood-Gold",
-          "wins": 0,
-          "losses": 6,
+          "division": "2A",
+          "team": "Christ the King-Black",
+          "wins": 6,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "OL Of Grace-Gold",
           "wins": 5,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "Christ the King-Black",
+          "team": "St. Malachy-Green",
           "wins": 5,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Matthew-Red",
-          "wins": 2,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Malachy-Green",
-          "wins": 2,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Holy Name-Gold",
-          "wins": 1,
-          "losses": 5,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Pius X-Purple",
-          "wins": 1,
-          "losses": 2,
+          "wins": 3,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Matthew-Red",
+          "wins": 3,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Roch-Blue",
           "wins": 1,
-          "losses": 3,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -3350,23 +3843,37 @@
           "draws": 0
         },
         {
+          "division": "2A",
+          "team": "Holy Name-Gold",
+          "wins": 1,
+          "losses": 6,
+          "draws": 0
+        },
+        {
           "division": "2N",
           "team": "St. Rose-Blue",
+          "wins": 4,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Susanna-Blue",
           "wins": 4,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Susanna-Blue",
+          "team": "St. Philip-Green",
           "wins": 3,
-          "losses": 1,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Philip-Green",
-          "wins": 2,
+          "team": "St. Anthony-Red",
+          "wins": 3,
           "losses": 3,
           "draws": 0
         },
@@ -3375,13 +3882,6 @@
           "team": "Holy Spirit, Indy-Green",
           "wins": 2,
           "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Anthony-Red",
-          "wins": 2,
-          "losses": 3,
           "draws": 0
         },
         {
@@ -3402,7 +3902,7 @@
           "division": "2N",
           "team": "St. Michael, Indy-Red",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         }
       ]
@@ -3414,84 +3914,84 @@
         {
           "division": "1A",
           "team": "Immac. Heart-Blue",
-          "wins": 5,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 5,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "Mount Carmel-Gold",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Simon-Blue",
-          "wins": 3,
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "Christ the King-Black",
-          "wins": 3,
+          "team": "St. Simon-Blue",
+          "wins": 5,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 3,
+          "team": "Mount Carmel-Gold",
+          "wins": 4,
           "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Maria Gor.-Navy",
-          "wins": 3,
+          "wins": 4,
           "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 3,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Christ the King-Black",
+          "wins": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Matthew-Red",
           "wins": 1,
-          "losses": 5,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-Purple",
-          "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Luke-Royal",
-          "wins": 0,
-          "losses": 5,
+          "wins": 1,
+          "losses": 6,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Pius X-Purple",
+          "wins": 1,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Roch-Blue",
-          "wins": 5,
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Barnabas-Maroon",
-          "wins": 5,
+          "team": "St. Barnabas-Gold",
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
@@ -3504,37 +4004,37 @@
         },
         {
           "division": "1N",
-          "team": "St. Barnabas-Gold",
-          "wins": 4,
-          "losses": 1,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Nativity-Black",
-          "wins": 3,
+          "team": "St. Barnabas-Maroon",
+          "wins": 5,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "1N",
+          "team": "Nativity-Black",
+          "wins": 4,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Charles-Red",
-          "wins": 2,
+          "wins": 3,
           "losses": 3,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Jude-Red",
-          "wins": 1,
-          "losses": 4,
+          "wins": 2,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "Holy Name-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 6,
           "draws": 0
         },
         {
@@ -3548,62 +4048,48 @@
           "division": "1N",
           "team": "St. Mark-Black",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Pius X-Gold",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "Mount Carmel-Navy",
+          "wins": 5,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Holy Spirit Geist-Blue",
           "wins": 5,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "Mount Carmel-Navy",
+          "team": "Immac. Heart-White",
           "wins": 4,
           "losses": 2,
-          "draws": 0
+          "draws": 1
         },
         {
           "division": "2A",
           "team": "St. Louis de Mont.-Black",
-          "wins": 3,
-          "losses": 2,
+          "wins": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Christ the King-Gold",
           "wins": 3,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "Immac. Heart-White",
-          "wins": 3,
-          "losses": 2,
-          "draws": 1
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Gold",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 1,
           "losses": 4,
           "draws": 0
         },
@@ -3616,8 +4102,22 @@
         },
         {
           "division": "2A",
+          "team": "St. Luke-Gold",
+          "wins": 1,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 1,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Maria Gor.-Red",
-          "wins": 0,
+          "wins": 1,
           "losses": 6,
           "draws": 0
         },
@@ -3631,36 +4131,43 @@
         {
           "division": "2N",
           "team": "St. Monica-Black",
-          "wins": 5,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Malachy-Green",
-          "wins": 4,
+          "wins": 5,
           "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Jude-Gold",
+          "wins": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Roch-Gold",
           "wins": 4,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Jude-Gold",
+          "team": "Little Flower-Gold",
           "wins": 3,
-          "losses": 2,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Malachy-White",
           "wins": 3,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3672,6 +4179,13 @@
         },
         {
           "division": "2N",
+          "team": "OL Greenwood-Green",
+          "wins": 1,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "Holy Spirit, Indy-Green",
           "wins": 1,
           "losses": 5,
@@ -3679,30 +4193,16 @@
         },
         {
           "division": "2N",
-          "team": "Little Flower-Gold",
-          "wins": 1,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 1,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "OL Lourdes-Gold",
           "wins": 0,
-          "losses": 5,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "OL Greenwood-Green",
-          "wins": 0,
-          "losses": 3,
+          "losses": 6,
           "draws": 0
         }
       ]
@@ -3714,35 +4214,42 @@
         {
           "division": "1A",
           "team": "St. Charles-Red",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "Nativity-Black",
-          "wins": 5,
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1A",
+          "team": "St. Maria Gor.-Navy",
+          "wins": 4,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Ss. Fran. & Clare-Navy",
-          "wins": 3,
-          "losses": 2,
+          "wins": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Simon-Royal",
-          "wins": 3,
-          "losses": 2,
+          "wins": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
-          "wins": 1,
+          "wins": 2,
           "losses": 5,
           "draws": 0
         },
@@ -3750,41 +4257,34 @@
           "division": "1A",
           "team": "St. Jude-Red",
           "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Maria Gor.-Navy",
-          "wins": 1,
-          "losses": 2,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "Mount Carmel-Gold",
           "wins": 0,
-          "losses": 5,
+          "losses": 7,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Christopher-Blue",
-          "wins": 5,
+          "wins": 6,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Nativity-Red",
-          "wins": 5,
+          "team": "St. Mark-Black",
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "St. Mark-Black",
-          "wins": 4,
+          "team": "Nativity-Red",
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
@@ -3792,21 +4292,21 @@
           "division": "1N",
           "team": "St. Matthew-Red",
           "wins": 4,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "OL Of Grace-Gold",
           "wins": 4,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Monica-Black",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
@@ -3840,8 +4340,15 @@
         {
           "division": "2A",
           "team": "Christ the King-Black",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Luke-Royal",
+          "wins": 5,
+          "losses": 2,
           "draws": 0
         },
         {
@@ -3860,13 +4367,6 @@
         },
         {
           "division": "2A",
-          "team": "St. Luke-Royal",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Pius X-Purple",
           "wins": 2,
           "losses": 4,
@@ -3876,35 +4376,42 @@
           "division": "2A",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Holy Name-Gold",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Roch-Blue",
           "wins": 0,
-          "losses": 5,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Michael, Indy-Red",
-          "wins": 4,
+          "wins": 5,
           "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Michael, Grnfld.-Blue",
+          "wins": 3,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Philip-Green",
           "wins": 2,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -3923,21 +4430,14 @@
         },
         {
           "division": "2N",
-          "team": "Central Cath.-Blue",
-          "wins": 1,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Michael, Grnfld.-Blue",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "St. Anthony-Red",
+          "wins": 1,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Central Cath.-Blue",
           "wins": 1,
           "losses": 1,
           "draws": 0
@@ -3946,7 +4446,7 @@
           "division": "2N",
           "team": "St. Susanna-Blue",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         }
       ]
@@ -3958,15 +4458,22 @@
         {
           "division": "1A",
           "team": "St. Barnabas-Maroon",
-          "wins": 5,
+          "wins": 7,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Simon-Blue",
+          "wins": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "Mount Carmel-Yellow",
           "wins": 4,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -3978,16 +4485,9 @@
         },
         {
           "division": "1A",
-          "team": "St. Simon-Blue",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "Christ the King-Black",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4001,7 +4501,14 @@
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Pius X-White",
+          "wins": 1,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -4009,13 +4516,6 @@
           "team": "St. Louis de Mont.-Black",
           "wins": 1,
           "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Pius X-White",
-          "wins": 0,
-          "losses": 5,
           "draws": 0
         },
         {
@@ -4028,15 +4528,22 @@
         {
           "division": "1N",
           "team": "St. Jude-Gold",
-          "wins": 5,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "Immac. Heart-White",
+          "wins": 5,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Holy Name-Gold",
           "wins": 4,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4049,57 +4556,57 @@
         {
           "division": "1N",
           "team": "OL Of Grace-Navy",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 1
-        },
-        {
-          "division": "1N",
-          "team": "Holy Name-Gold",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Louis de Mont.-White",
-          "wins": 2,
+          "wins": 3,
           "losses": 3,
           "draws": 1
+        },
+        {
+          "division": "1N",
+          "team": "St. Luke-Blue",
+          "wins": 2,
+          "losses": 5,
+          "draws": 0
         },
         {
           "division": "1N",
           "team": "Nativity-White",
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "OL Greenwood-Green",
           "wins": 2,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Luke-Blue",
-          "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Christopher-Red",
           "wins": 0,
-          "losses": 5,
+          "losses": 7,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Luke-Gold",
+          "wins": 6,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Charles-Red",
           "wins": 6,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -4111,107 +4618,107 @@
         },
         {
           "division": "2A",
-          "team": "St. Luke-Gold",
+          "team": "St. Mark-Black",
           "wins": 4,
-          "losses": 1,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 4,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Mark-Black",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Jude-Red",
-          "wins": 2,
           "losses": 3,
           "draws": 0
         },
         {
           "division": "2A",
+          "team": "St. Jude-Red",
+          "wins": 3,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Pius X-Gold",
-          "wins": 1,
+          "wins": 2,
           "losses": 4,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Simon-White",
-          "wins": 1,
+          "wins": 2,
           "losses": 4,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Roch-Gold",
-          "wins": 0,
-          "losses": 4,
+          "wins": 1,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Mount Carmel-Navy",
           "wins": 0,
-          "losses": 4,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Mark-Gold",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Matthew-Red",
-          "wins": 5,
-          "losses": 0,
+          "wins": 6,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Roch-White",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Joan of Arc-Blue",
-          "wins": 3,
-          "losses": 2,
+          "wins": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "OL Lourdes-Blue",
-          "wins": 2,
-          "losses": 3,
+          "wins": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 1,
-          "losses": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Michael, Indy-White",
+          "wins": 1,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "Immac. Heart-Gray",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
@@ -4230,13 +4737,6 @@
         },
         {
           "division": "2N",
-          "team": "St. Michael, Indy-White",
-          "wins": 0,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
           "losses": 4,
@@ -4250,29 +4750,36 @@
       "rows": [
         {
           "division": "1A",
-          "team": "St. Louis de Mont.-Red",
-          "wins": 5,
+          "team": "Ss. Fran. & Clare-Gray",
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Jude-Red",
-          "wins": 5,
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "Ss. Fran. & Clare-Gray",
+          "team": "St. Louis de Mont.-Red",
           "wins": 5,
-          "losses": 0,
+          "losses": 2,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "St. Simon-Blue",
+          "wins": 4,
+          "losses": 3,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Pius X-White",
-          "wins": 3,
+          "wins": 4,
           "losses": 2,
           "draws": 0
         },
@@ -4285,78 +4792,78 @@
         },
         {
           "division": "1A",
+          "team": "St. Barnabas-Black",
+          "wins": 2,
+          "losses": 4,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "Mount Carmel-Blue",
           "wins": 1,
-          "losses": 4,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "Immac. Heart-Blue",
           "wins": 1,
-          "losses": 4,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Simon-Blue",
-          "wins": 1,
-          "losses": 3,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "St. Barnabas-Black",
-          "wins": 1,
-          "losses": 4,
+          "losses": 6,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Charles-Red",
           "wins": 0,
-          "losses": 5,
+          "losses": 7,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Louis de Mont.-Black",
-          "wins": 5,
+          "wins": 7,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Christ the King-Gold",
+          "wins": 4,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Luke-White",
+          "wins": 4,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Immac. Heart-White",
+          "wins": 4,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Malachy-White",
+          "wins": 4,
+          "losses": 3,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Of Grace-Navy",
+          "wins": 3,
+          "losses": 4,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Matthew-Red",
           "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Christ the King-Gold",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Luke-White",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Malachy-White",
-          "wins": 3,
-          "losses": 2,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Immac. Heart-White",
-          "wins": 2,
           "losses": 3,
           "draws": 0
         },
@@ -4364,48 +4871,41 @@
           "division": "1N",
           "team": "St. Pius X-Gold",
           "wins": 2,
-          "losses": 3,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "OL Of Grace-Navy",
+          "team": "St. Jude-Gold",
           "wins": 2,
-          "losses": 3,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "St. Simon-Silver",
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
-          "division": "1N",
-          "team": "St. Jude-Gold",
-          "wins": 1,
-          "losses": 4,
+          "division": "2A",
+          "team": "St. Luke-Blue",
+          "wins": 7,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Christ the King-Black",
           "wins": 6,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Blue",
-          "wins": 5,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "Mount Carmel-Navy",
-          "wins": 4,
+          "wins": 5,
           "losses": 2,
           "draws": 0
         },
@@ -4413,14 +4913,14 @@
           "division": "2A",
           "team": "St. Mark-Black",
           "wins": 4,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Malachy-Green",
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4461,21 +4961,21 @@
         {
           "division": "2N",
           "team": "St. Monica-Blue",
-          "wins": 6,
+          "wins": 7,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "OL Greenwood-Green",
-          "wins": 4,
+          "team": "St. Mark-Gold",
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Mark-Gold",
-          "wins": 4,
+          "team": "OL Greenwood-Green",
+          "wins": 6,
           "losses": 1,
           "draws": 0
         },
@@ -4483,21 +4983,21 @@
           "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 2,
-          "losses": 1,
+          "losses": 2,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "St. Joan of Arc-Gold",
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "Card. Ritter Jr. H-White",
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4511,7 +5011,7 @@
           "division": "2N",
           "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         },
         {
@@ -4525,7 +5025,7 @@
           "division": "2N",
           "team": "OL Lourdes-Blue",
           "wins": 0,
-          "losses": 2,
+          "losses": 3,
           "draws": 0
         }
       ]
@@ -8076,16 +8576,16 @@
       "startTime": "09:00",
       "endTime": "10:15",
       "venue": "Central Catholic Fb",
-      "status": "Paired",
+      "status": "Played",
       "league": "34",
       "division": "AAA",
       "team1": {
         "name": "East Side Crusaders-Red",
-        "score": null
+        "score": 18
       },
       "team2": {
         "name": "South Central-Black",
-        "score": null
+        "score": 6
       },
       "id": "5954d45fac03",
       "season": "2026 Fall Boys Football",
@@ -8145,16 +8645,16 @@
       "startTime": "18:30",
       "endTime": "19:30",
       "venue": "Little Flower Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "Little Flower-Gold",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Gold",
-        "score": null
+        "score": 0
       },
       "id": "7056562f32df",
       "season": "2026 Fall Girls Volleyball",
@@ -8280,35 +8780,6 @@
     },
     {
       "date": "2026-10-24",
-      "startTime": "09:00",
-      "endTime": null,
-      "venue": "Scecina HS Fb",
-      "status": "Played",
-      "league": "34",
-      "division": null,
-      "team1": {
-        "name": "Immac. Heart-Blue",
-        "score": 7
-      },
-      "team2": {
-        "name": "East Side Crusaders-Red",
-        "score": 18
-      },
-      "season": "2026 Fall Boys Football",
-      "tournament": {
-        "name": "2026 34 AAA Football Tournament",
-        "round": 1,
-        "host": "CYO",
-        "notes": null
-      },
-      "id": "7e9d425a30ad",
-      "teamIds": [
-        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
-      ],
-      "homeSide": null
-    },
-    {
-      "date": "2026-10-24",
       "startTime": "12:00",
       "endTime": "13:00",
       "venue": "Nativity Gym",
@@ -8329,35 +8800,6 @@
         "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
       ],
       "homeSide": 2
-    },
-    {
-      "date": "2026-10-25",
-      "startTime": "14:15",
-      "endTime": null,
-      "venue": "Scecina HS Fb",
-      "status": "Played",
-      "league": "Cadet",
-      "division": null,
-      "team1": {
-        "name": "East Side Crusaders-Red",
-        "score": 6
-      },
-      "team2": {
-        "name": "St. Luke-Royal",
-        "score": 14
-      },
-      "season": "2026 Fall Boys Football",
-      "tournament": {
-        "name": "2026 Cadet AAA Football Tournament",
-        "round": 1,
-        "host": "CYO",
-        "notes": null
-      },
-      "id": "f5300deeffa8",
-      "teamIds": [
-        "2026-fall-boys-football--cadet--aaa--east-side-crusaders-red"
-      ],
-      "homeSide": null
     },
     {
       "date": "2026-10-26",
@@ -8387,16 +8829,16 @@
       "startTime": "17:00",
       "endTime": "18:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": "2N",
       "team1": {
         "name": "St. Jude-Gold",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "id": "426dedb60fae",
       "season": "2026 Fall Girls Volleyball",
@@ -8433,16 +8875,16 @@
       "startTime": "19:00",
       "endTime": "20:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 B Girls",
       "division": "2N",
       "team1": {
         "name": "Immac. Heart-Gray",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "id": "9a25adc81e6a",
       "season": "2026 Fall Girls Volleyball",
@@ -8479,16 +8921,16 @@
       "startTime": "19:00",
       "endTime": "20:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": "1N",
       "team1": {
         "name": "Little Flower-Gold",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "id": "1cf2ce06d633",
       "season": "2026 Fall Girls Volleyball",
@@ -8502,16 +8944,16 @@
       "startTime": "20:00",
       "endTime": "21:00",
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet B Girls",
       "division": "2N",
       "team1": {
         "name": "St. Mark-Gold",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "id": "6adb75719e68",
       "season": "2026 Fall Girls Volleyball",
@@ -8525,16 +8967,16 @@
       "startTime": "19:30",
       "endTime": "20:30",
       "venue": "St. Roch Gym #1",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 B Girls",
       "division": "2N",
       "team1": {
         "name": "St. Roch-White",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "id": "7613bb7a397b",
       "season": "2026 Fall Girls Volleyball",
@@ -8542,35 +8984,6 @@
         "2026-fall-girls-volleyball--56-b-girls--2n--ol-lourdes-blue"
       ],
       "homeSide": 1
-    },
-    {
-      "date": "2026-10-31",
-      "startTime": "09:00",
-      "endTime": null,
-      "venue": "Scecina HS Fb",
-      "status": "Paired",
-      "league": "34",
-      "division": null,
-      "team1": {
-        "name": "East Side Crusaders-Red",
-        "score": null
-      },
-      "team2": {
-        "name": "OL Of Grace-Gold",
-        "score": null
-      },
-      "season": "2026 Fall Boys Football",
-      "tournament": {
-        "name": "2026 34 AAA Football Tournament",
-        "round": 2,
-        "host": "CYO",
-        "notes": null
-      },
-      "id": "3130e6cfeb65",
-      "teamIds": [
-        "2026-fall-boys-football--34--aaa--east-side-crusaders-red"
-      ],
-      "homeSide": null
     },
     {
       "date": "2026-11-01",
@@ -8669,16 +9082,16 @@
       "startTime": "18:30",
       "endTime": null,
       "venue": "Little Flower Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 A Girls",
       "division": null,
       "team1": {
         "name": "Little Flower-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -8698,16 +9111,16 @@
       "startTime": "19:00",
       "endTime": null,
       "venue": "St. Monica Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet A Girls",
       "division": null,
       "team1": {
         "name": "St. Rose-Blue",
-        "score": null
+        "score": 0
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 2
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -8732,11 +9145,11 @@
       "division": null,
       "team1": {
         "name": "OL Lourdes-Blue",
-        "score": 0
+        "score": 2
       },
       "team2": {
         "name": "St. Roch-Gold",
-        "score": 0
+        "score": 1
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -8756,16 +9169,16 @@
       "startTime": "17:30",
       "endTime": null,
       "venue": "Nativity Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "56 B Girls",
       "division": null,
       "team1": {
         "name": "St. Luke-Blue",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 0
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -8785,16 +9198,16 @@
       "startTime": "11:00",
       "endTime": null,
       "venue": "OL Lourdes Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "4th Girls",
       "division": null,
       "team1": {
-        "name": "",
-        "score": null
+        "name": "Nativity-Black",
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Gold",
-        "score": null
+        "score": 0
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -8803,27 +9216,56 @@
         "host": "OL Lourdes",
         "notes": null
       },
-      "id": "0403f966a480",
+      "id": "09bd17cf6481",
       "teamIds": [
         "2026-fall-girls-volleyball--4th-girls--2n--ol-lourdes-gold"
       ],
       "homeSide": 2
     },
     {
+      "date": "2026-11-07",
+      "startTime": "16:00",
+      "endTime": null,
+      "venue": "OL Lourdes Gym",
+      "status": "Played",
+      "league": "4th Girls",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 0
+      },
+      "team2": {
+        "name": "St. Monica-Black",
+        "score": 2
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - 4th Grade National",
+        "round": 2,
+        "host": "OL Lourdes",
+        "notes": null
+      },
+      "id": "98357807af6f",
+      "teamIds": [
+        "2026-fall-girls-volleyball--4th-girls--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
       "date": "2026-11-08",
       "startTime": "14:00",
       "endTime": null,
       "venue": "St. Malachy Gym",
-      "status": "Paired",
+      "status": "Played",
       "league": "Cadet B Girls",
       "division": null,
       "team1": {
         "name": "OL Of Grace-Navy",
-        "score": null
+        "score": 2
       },
       "team2": {
         "name": "OL Lourdes-Blue",
-        "score": null
+        "score": 1
       },
       "season": "2026 Fall Girls Volleyball",
       "tournament": {
@@ -8837,6 +9279,950 @@
         "2026-fall-girls-volleyball--cadet-b-girls--2n--ol-lourdes-blue"
       ],
       "homeSide": null
+    },
+    {
+      "date": "2026-11-11",
+      "startTime": "17:30",
+      "endTime": null,
+      "venue": "Little Flower Gym",
+      "status": "Played",
+      "league": "56 A Girls",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 1
+      },
+      "team2": {
+        "name": "St. Michael, Indy-Red",
+        "score": 2
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - 56A National",
+        "round": 3,
+        "host": "Little Flower",
+        "notes": null
+      },
+      "id": "0b466823b7fd",
+      "teamIds": [
+        "2026-fall-girls-volleyball--56-a-girls--2n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-12",
+      "startTime": "19:00",
+      "endTime": null,
+      "venue": "St. Monica Gym",
+      "status": "Played",
+      "league": "Cadet A Girls",
+      "division": null,
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": 2
+      },
+      "team2": {
+        "name": "St. Thomas Aquin.-Blue",
+        "score": 0
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - Cadet A National",
+        "round": 3,
+        "host": "St. Monica",
+        "notes": null
+      },
+      "id": "4adbd6ea8fb7",
+      "teamIds": [
+        "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-12",
+      "startTime": "20:00",
+      "endTime": null,
+      "venue": "St. Monica Gym",
+      "status": "Played",
+      "league": "Cadet A Girls",
+      "division": null,
+      "team1": {
+        "name": "Nativity-Black",
+        "score": 1
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 2
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - Cadet A National",
+        "round": 4,
+        "host": "St. Monica",
+        "notes": null
+      },
+      "id": "8665d235ec66",
+      "teamIds": [
+        "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-15",
+      "startTime": "15:30",
+      "endTime": null,
+      "venue": "Roncalli High School",
+      "status": "Played",
+      "league": "Cadet A Girls",
+      "division": null,
+      "team1": {
+        "name": "St. Monica-Black",
+        "score": 2
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": 1
+      },
+      "season": "2026 Fall Girls Volleyball",
+      "tournament": {
+        "name": "2026 Girls' Volleyball Tourney - Cadet A National",
+        "round": 5,
+        "host": "St. Monica",
+        "notes": null
+      },
+      "id": "cb6f299bc499",
+      "teamIds": [
+        "2026-fall-girls-volleyball--cadet-a-girls--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-22",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Anthony-Red",
+        "score": null
+      },
+      "id": "0021159dd138",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-11-22",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "Card. Ritter Jr. H-Black",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "eec52b6524e8",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-11-22",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Card. Ritter Jr. H-Gray",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "38c0addddf2c",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-11-23",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "St. Thomas Aquinas #2",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Thomas Aquin.-Blue",
+        "score": null
+      },
+      "id": "051751da16fe",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-11-30",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "Central Catholic Gym",
+      "status": "Paired",
+      "league": "Fr. So. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "Good Shepherd-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "cf76ef1a153c",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--fr-so-boys-mixed--2--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-11-30",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Malachy Gym",
+      "status": "Paired",
+      "league": "Jr. Sr. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "St. Malachy-Green",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "81ad14a35524",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--jr-sr-boys-mixed--2--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-01",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "CYO Center",
+      "status": "Paired",
+      "league": "Fr. So. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Jude-Gold",
+        "score": null
+      },
+      "id": "1f16bd1bcc11",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--fr-so-boys-mixed--2--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-12-01",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "venue": "St. Roch Gym #1",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Roch-Gold",
+        "score": null
+      },
+      "id": "3a380b76dbe6",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-03",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "CYO Center",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Lumen Christi-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "326700680535",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-12-05",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "venue": "St. Susanna Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Susanna-Gold",
+        "score": null
+      },
+      "id": "8d57c45f5994",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-05",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "venue": "St. Susanna Gym",
+      "status": "Paired",
+      "league": "Jr. Sr. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Susanna-Gold",
+        "score": null
+      },
+      "id": "51bd23e4f59b",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--jr-sr-boys-mixed--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-06",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "Roncalli HS Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Roch-Blue",
+        "score": null
+      },
+      "id": "865323174c8d",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-12-09",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "venue": "Holy Name Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "Holy Name-Blue",
+        "score": null
+      },
+      "id": "9f7911e5bd83",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-13",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Of Grace-Navy",
+        "score": null
+      },
+      "id": "01fc3f18b529",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-13",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "St. Philip-Green",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "01fadf0c0dca",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-13",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "Lumen Christi-White",
+        "score": null
+      },
+      "id": "b22cd9db7332",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Fr. So. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "Nativity-Black",
+        "score": null
+      },
+      "id": "4085ed848ce3",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--fr-so-boys-mixed--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-15",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "venue": "CYO Center",
+      "status": "Paired",
+      "league": "Jr. Sr. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "OL Greenwood-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "aa0cc410de99",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--jr-sr-boys-mixed--2--ol-lourdes-gold"
+      ],
+      "homeSide": null
+    },
+    {
+      "date": "2026-12-15",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "St. Joan of Arc Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "St. Joan of Arc-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "c5b72040c8a8",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-16",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "venue": "St. Thomas Aquinas #2",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "St. Thomas Aquin.-Blue",
+        "score": null
+      },
+      "id": "8f0e89878c88",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-20",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "Nativity-Black",
+        "score": null
+      },
+      "id": "d4207e87df26",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-20",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Holy Name-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "8dae5d3d71f9",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2026-12-20",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Fr. So. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "team2": {
+        "name": "Holy Spirit Geist-Navy",
+        "score": null
+      },
+      "id": "8380f9a740a3",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--fr-so-boys-mixed--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2026-12-20",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Jr. Sr. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "St. Barnabas-Yellow",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "f69dc37885ec",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--jr-sr-boys-mixed--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-03",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "St. Mark-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "2db1b51fbee2",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-03",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "Holy Name-Gold",
+        "score": null
+      },
+      "id": "924decf2ea69",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2027-01-03",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Jr. Sr. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "Good Shepherd-White",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "f44cd115396a",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--jr-sr-boys-mixed--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-04",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "venue": "Holy Spirit, Indy Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Holy Spirit, Indy-Yellow",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "e0fbdf255ee9",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2027-01-06",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "venue": "SS. Francis and Clare-Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "Ss. Fran. & Clare-Navy",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "ea19cfd3c6b9",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2027-01-06",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "venue": "SS. Francis and Clare-Gym",
+      "status": "Paired",
+      "league": "Fr. So. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "Ss. Fran. & Clare-Navy",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "75c472b994a4",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--fr-so-boys-mixed--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2027-01-09",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "St. Simon Gym",
+      "status": "Paired",
+      "league": "Fr. So. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "St. Simon-White",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "8cd7af62286b",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--fr-so-boys-mixed--2--ol-lourdes-blue"
+      ],
+      "homeSide": 1
+    },
+    {
+      "date": "2027-01-09",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "Nativity Gym",
+      "status": "Paired",
+      "league": "Jr. Sr. Boys Mixed",
+      "division": "2",
+      "team1": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "Nativity-Red",
+        "score": null
+      },
+      "id": "77d6fcb041df",
+      "season": "2026-2027 Boys & Girls High School Basketball",
+      "teamIds": [
+        "2026-2027-boys-girls-high-school-basketball--jr-sr-boys-mixed--2--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-10",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "Ss. Fran. & Clare-Gray",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "8d6ec9c0a888",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-10",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "Cadet A Boys",
+      "division": "1N",
+      "team1": {
+        "name": "St. Susanna-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "7d46586d2817",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-10",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 A Boys",
+      "division": "2N",
+      "team1": {
+        "name": "OL Greenwood-Gold",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Blue",
+        "score": null
+      },
+      "id": "0ad2b672c5af",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-a-boys--2n--ol-lourdes-blue"
+      ],
+      "homeSide": 2
+    },
+    {
+      "date": "2027-01-10",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "venue": "OL Lourdes Gym",
+      "status": "Paired",
+      "league": "56 B Boys",
+      "division": "2N",
+      "team1": {
+        "name": "St. Susanna-Royal",
+        "score": null
+      },
+      "team2": {
+        "name": "OL Lourdes-Gold",
+        "score": null
+      },
+      "id": "2244a036988c",
+      "season": "2026-2027 Boys Basketball",
+      "teamIds": [
+        "2026-2027-boys-basketball--56-b-boys--2n--ol-lourdes-gold"
+      ],
+      "homeSide": 2
     }
   ]
 }
