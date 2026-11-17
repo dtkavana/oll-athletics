@@ -10,11 +10,14 @@
  *
  * A is the top squad, then AA, then AAA. The gap is compressed the same way
  * as volleyball: the top squad from a four-team grade starts 100 points above
- * a one-team school. A close game counts less than a blowout.
+ * a one-team school. A close game counts less than a blowout. League and
+ * tournament results both update Elo; the published record includes both,
+ * while standings checks still use league play only.
  */
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { writeRatings } from './lib/write-ratings.mjs'
+import { fetchRatingTournaments } from './lib/ratings-tournaments.mjs'
 import {
   CyoClient, SCHEDULES_URL, STANDINGS_URL,
   formState, comboOptions, selection, imageButton, gridRows
@@ -351,6 +354,9 @@ function assignBaselines (teams) {
         team.wins = 0
         team.losses = 0
         team.draws = 0
+        team.tourneyWins = 0
+        team.tourneyLosses = 0
+        team.tourneyDraws = 0
         team.opponents = []
       }
       taken = worst
@@ -384,14 +390,23 @@ function applyResults (teams, games) {
     const k = K * weight
     a.rating = beforeA + k * (sa - ea)
     b.rating = beforeB + k * ((1 - sa) - (1 - ea))
-    if (sa === 1) { a.wins++; b.losses++ }
-    else if (sa === 0) { a.losses++; b.wins++ }
-    else { a.draws++; b.draws++ }
+    if (g.tournament) {
+      if (sa === 1) { a.tourneyWins++; b.tourneyLosses++ }
+      else if (sa === 0) { a.tourneyLosses++; b.tourneyWins++ }
+      else { a.tourneyDraws++; b.tourneyDraws++ }
+    } else if (sa === 1) {
+      a.wins++; b.losses++
+    } else if (sa === 0) {
+      a.losses++; b.wins++
+    } else {
+      a.draws++; b.draws++
+    }
     a.opponents.push(b)
     b.opponents.push(a)
     logGames.push({
       id: g.id,
       league: g.league,
+      tournament: g.tournament?.name ?? null,
       score1: g.team1.score,
       score2: g.team2.score,
       weight
@@ -400,9 +415,17 @@ function applyResults (teams, games) {
   return { logGames, skipped }
 }
 
-function record (team) {
+function leagueRecord (team) {
   const base = `${team.wins}-${team.losses}`
   return team.draws ? `${base}-${team.draws}` : base
+}
+
+function record (team) {
+  const wins = team.wins + team.tourneyWins
+  const losses = team.losses + team.tourneyLosses
+  const draws = team.draws + team.tourneyDraws
+  const base = `${wins}-${losses}`
+  return draws ? `${base}-${draws}` : base
 }
 
 function publishTeam (team) {
@@ -418,8 +441,9 @@ function publishTeam (team) {
     baseline: round1(team.baseline),
     rating: round1(team.rating),
     delta: round1(team.rating - team.baseline),
-    wins: team.wins,
-    losses: team.losses,
+    wins: team.wins + team.tourneyWins,
+    losses: team.losses + team.tourneyLosses,
+    leagueRecord: leagueRecord(team),
     record: record(team),
     sos: scheduleStrength(team)
   }
@@ -447,7 +471,7 @@ function buildFile ({ teams, logGames, skipped, standings, errors }) {
         team: row.team,
         league: row.league,
         division: row.division,
-        games: record(team),
+        games: leagueRecord(team),
         standings: `${row.wins}-${row.losses}${row.draws ? '-' + row.draws : ''}`
       })
     }
@@ -481,12 +505,14 @@ function buildFile ({ teams, logGames, skipped, standings, errors }) {
       pool: 'Within one grade league, pool = (teams that school fields in that league) × 16.',
       slices: 'A is the top squad, then AA, then AAA. Teams in the same division start equal. A school with one team in that grade starts at 1500.',
       scale: 'A one-team school starts at 1500. The top squad from a four-team grade starts 100 points higher.',
-      update: 'A game decided by 7 points or fewer is ±24 between even teams. A margin of 8 to 16 is ±30. A margin of 17 or more is ±36.',
+      update: 'A game decided by 7 points or fewer is ±24 between even teams. A margin of 8 to 16 is ±30. A margin of 17 or more is ±36. League and tournament games both count.',
       sos: 'SOS is the average final rating of the opponents played.'
     },
     summary: {
       teams: list.length,
       games: logGames.length,
+      leagueGames: logGames.filter(g => !g.tournament).length,
+      tournamentGames: logGames.filter(g => g.tournament).length,
       skippedGames: skipped.length,
       standingsMismatches: mismatches.length,
       scheduleErrors: errors.length
@@ -506,6 +532,16 @@ async function main () {
   const standings = await scrapeStandings(client)
   for (const row of standings) ensureTeam(teams, row.league, row.team, { division: row.division })
 
+  log(`tournaments`)
+  const tourney = await fetchRatingTournaments(client, { season: SEASON, teams, log })
+  const byId = new Map(games.map(g => [g.id, g]))
+  for (const g of tourney.games) {
+    if (!byId.has(g.id)) {
+      byId.set(g.id, g)
+      games.push(g)
+    }
+  }
+
   assignBaselines(teams)
   const { logGames, skipped } = applyResults(teams, games)
   const file = buildFile({ teams, logGames, skipped, standings, errors })
@@ -518,7 +554,7 @@ async function main () {
   }
 
   const wrote = await writeRatings(OUT, file)
-  log(`\n${file.summary.teams} teams, ${file.summary.games} games`)
+  log(`\n${file.summary.teams} teams, ${file.summary.games} games (${file.summary.leagueGames} league, ${file.summary.tournamentGames} tournament)`)
   log(`standings mismatches: ${file.summary.standingsMismatches}, skipped: ${file.summary.skippedGames}, errors: ${file.summary.scheduleErrors}`)
   if (file.checks.standingsMismatches.length) {
     for (const row of file.checks.standingsMismatches.slice(0, 12)) log('   ', JSON.stringify(row))

@@ -7,16 +7,20 @@
  * daily scrape will not merge it into snapshot.json. Pools are per grade:
  * a school's 4th-grade teams are a separate pool from its 5/6 and Cadet teams.
  *
- * Baseline: every team is 8 girls drawn from one shared talent distribution.
- * A school's pool is (its 5/6 teams) × 8. A teams take the top of that pool,
- * then B, then C. Teams in the same letter share a slice and start equal.
- * That gap is compressed: the best 8 of 32 start 100 points above a one-team
- * school. A 7-8 game season then outweighs the start. A 2-0 counts more than
- * a 2-1, and a 0-2 costs more than a 1-2.
+ * Each team is 8 girls from that school's tryout in that grade. Five teams
+ * is a pool of 40, one team is a pool of 8. A takes the best 8, then B, then
+ * C. Teams in the same letter share a slice and start equal. The best 8 of a
+ * 32-girl pool start 325 points above a one-team school, and the bottom 8
+ * start 325 below. That is enough that a short season does not rank a C team
+ * above its own school's A team, and a bigger pool still lifts the top squads.
+ * A 2-0 counts more than a 2-1, and a 0-2 costs more than a 1-2. League and
+ * tournament results both update Elo; the published record includes both,
+ * while standings checks still use league play only.
  */
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { writeRatings } from './lib/write-ratings.mjs'
+import { fetchRatingTournaments } from './lib/ratings-tournaments.mjs'
 import {
   CyoClient, SCHEDULES_URL, STANDINGS_URL,
   formState, comboOptions, selection, imageButton, gridRows
@@ -37,12 +41,14 @@ const ROSTER = 8
 const CENTER = 1500
 // Short season: 7-8 games, then the tournament. One even 2-1 is ±24 points
 // and one even 2-0 is ±36, so the record can pass the starting gap by tourney time.
+// Tournament brackets are applied after league games in date order.
 const K = 48
 const SWEEP_WEIGHT = 1.5
 const CLOSE_WEIGHT = 1
-// Best 8 of a 32-girl pool (four teams) start this far above a one-team school.
-// Every other slice uses the same scale, so the shape of the pool stays and the size does not.
-const PRIOR_HEAD_START = 100
+// Best 8 of a 32-girl pool start this far above a one-team school.
+// The bottom 8 of that pool start the same distance below. Eight sweeps is
+// 288 points, so this keeps a school's own letters in order.
+const PRIOR_HEAD_START = 325
 
 const log = (...a) => console.error(...a)
 
@@ -118,6 +124,10 @@ function assertModel () {
   if (top < 1 || top > 1.6) throw new Error(`top-8-of-32 mean ${top} is out of range`)
   const head = ELO_PER_STRENGTH * top
   if (Math.abs(head - PRIOR_HEAD_START) > 0.01) throw new Error(`head start ${head}`)
+  const bottom = orderMean(32, 25, 32)
+  if (Math.abs(bottom + top) > 0.02) throw new Error(`bottom-8-of-32 mean ${bottom} is not the mirror of the top`)
+  const middle = orderMean(32, 9, 24)
+  if (Math.abs(middle) > 0.02) throw new Error(`middle-16-of-32 mean ${middle} is not ~0`)
 }
 
 const round1 = n => Math.round(n * 10) / 10
@@ -360,6 +370,9 @@ function assignBaselines (teams) {
         team.wins = 0
         team.losses = 0
         team.draws = 0
+        team.tourneyWins = 0
+        team.tourneyLosses = 0
+        team.tourneyDraws = 0
         team.opponents = []
       }
       taken = worst
@@ -394,9 +407,17 @@ function applyResults (teams, games) {
     const k = K * weight
     a.rating = beforeA + k * (sa - ea)
     b.rating = beforeB + k * ((1 - sa) - (1 - ea))
-    if (sa === 1) { a.wins++; b.losses++ }
-    else if (sa === 0) { a.losses++; b.wins++ }
-    else { a.draws++; b.draws++ }
+    if (g.tournament) {
+      if (sa === 1) { a.tourneyWins++; b.tourneyLosses++ }
+      else if (sa === 0) { a.tourneyLosses++; b.tourneyWins++ }
+      else { a.tourneyDraws++; b.tourneyDraws++ }
+    } else if (sa === 1) {
+      a.wins++; b.losses++
+    } else if (sa === 0) {
+      a.losses++; b.wins++
+    } else {
+      a.draws++; b.draws++
+    }
     a.opponents.push(b)
     b.opponents.push(a)
     logGames.push({
@@ -405,6 +426,7 @@ function applyResults (teams, games) {
       startTime: g.startTime,
       league: g.league,
       division: g.division,
+      tournament: g.tournament?.name ?? null,
       team1: a.id,
       team2: b.id,
       score1: g.team1.score,
@@ -419,9 +441,17 @@ function applyResults (teams, games) {
   return { logGames, skipped }
 }
 
-function record (team) {
+function leagueRecord (team) {
   const base = `${team.wins}-${team.losses}`
   return team.draws ? `${base}-${team.draws}` : base
+}
+
+function record (team) {
+  const wins = team.wins + team.tourneyWins
+  const losses = team.losses + team.tourneyLosses
+  const draws = team.draws + team.tourneyDraws
+  const base = `${wins}-${losses}`
+  return draws ? `${base}-${draws}` : base
 }
 
 function publishTeam (team) {
@@ -437,8 +467,9 @@ function publishTeam (team) {
     baseline: round1(team.baseline),
     rating: round1(team.rating),
     delta: round1(team.rating - team.baseline),
-    wins: team.wins,
-    losses: team.losses,
+    wins: team.wins + team.tourneyWins,
+    losses: team.losses + team.tourneyLosses,
+    leagueRecord: leagueRecord(team),
     record: record(team),
     sos: scheduleStrength(team)
   }
@@ -465,7 +496,7 @@ function buildFile ({ teams, logGames, skipped, standings, errors }) {
       mismatches.push({
         team: row.team,
         league: row.league,
-        games: record(team),
+        games: leagueRecord(team),
         standings: `${row.wins}-${row.losses}${row.draws ? '-' + row.draws : ''}`
       })
     }
@@ -495,15 +526,17 @@ function buildFile ({ teams, logGames, skipped, standings, errors }) {
       k: K,
       sweepWeight: SWEEP_WEIGHT,
       priorHeadStart: PRIOR_HEAD_START,
-      pool: 'Within one grade, pool = (teams that school fields in that grade) × 8. 4th grade, 5/6, and Cadet are separate pools.',
-      slices: 'Where a grade has A, B, and C, A takes the top of the pool, then B, then C. Teams in the same letter start equal. A grade with no letter starts every team at 1500.',
-      scale: 'A one-team school starts at 1500. The best 8 of a 32-girl pool start 100 points higher.',
-      update: 'A 2-1 between even teams is ±24 points. A 2-0 is ±36.',
+      pool: 'Each team is 8 girls from that school\'s tryout in that grade. Five teams is a pool of 40. One team is a pool of 8. 4th grade, 5/6, and Cadet are separate pools.',
+      slices: 'A takes the best 8, then B, then C. Teams in the same letter share a slice and start equal. A grade with no letter starts every team at 1500.',
+      scale: 'A one-team school starts at 1500. The best 8 of a 32-girl pool start 325 points higher, and the bottom 8 start 325 lower. The middle of a big pool starts near a one-team school.',
+      update: 'A 2-1 between even teams is ±24 points. A 2-0 is ±36. League and tournament games both count.',
       sos: 'SOS is the average final rating of the opponents played.'
     },
     summary: {
       teams: list.length,
       games: logGames.length,
+      leagueGames: logGames.filter(g => !g.tournament).length,
+      tournamentGames: logGames.filter(g => g.tournament).length,
       skippedGames: skipped.length,
       standingsMismatches: mismatches.length,
       scheduleErrors: errors.length
@@ -523,6 +556,16 @@ async function main () {
   const standings = await scrapeStandings(client)
   for (const row of standings) ensureTeam(teams, row.league, row.team, { division: row.division })
 
+  log(`tournaments`)
+  const tourney = await fetchRatingTournaments(client, { season: SEASON, teams, log })
+  const byId = new Map(games.map(g => [g.id, g]))
+  for (const g of tourney.games) {
+    if (!byId.has(g.id)) {
+      byId.set(g.id, g)
+      games.push(g)
+    }
+  }
+
   assignBaselines(teams)
   const { logGames, skipped } = applyResults(teams, games)
   const file = buildFile({ teams, logGames, skipped, standings, errors })
@@ -535,7 +578,7 @@ async function main () {
   }
 
   const wrote = await writeRatings(OUT, file)
-  log(`\n${file.summary.teams} teams, ${file.summary.games} games`)
+  log(`\n${file.summary.teams} teams, ${file.summary.games} games (${file.summary.leagueGames} league, ${file.summary.tournamentGames} tournament)`)
   log(`standings mismatches: ${file.summary.standingsMismatches}, skipped: ${file.summary.skippedGames}, errors: ${file.summary.scheduleErrors}`)
   log(wrote ? `wrote ${OUT}` : `unchanged ${OUT}`)
   log(`${client.requests} requests, ${((Date.now() - started) / 1000).toFixed(0)}s`)

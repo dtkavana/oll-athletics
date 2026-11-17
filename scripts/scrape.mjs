@@ -16,6 +16,7 @@ import {
 } from './lib/cyo.mjs'
 import { parseTeamCell, parseInfoCell, parseCoaches, isMonthHeader, isEmptyNotice, gameId, slug } from './lib/parse.mjs'
 import { fetchVideos, mergeVideos, CHANNEL_URL, STREAMS_URL } from './lib/youtube.mjs'
+import { mergeTournamentCache } from './lib/tournament-cache.mjs'
 import { fetchTournaments, leagueKey, sportInTitle } from './lib/tournaments.mjs'
 import { readArchive, groupBySeason, mergeSeason, writeArchive } from './lib/archive.mjs'
 import { venueResolver, parishOf, homeSide } from './lib/venues.mjs'
@@ -249,6 +250,8 @@ function sportOfSeason (season) {
 async function scrapeTournaments (client, teams) {
   log('\n== tournaments')
   const brackets = await fetchTournaments(client, { formState, log: vlog })
+  // Keep full brackets for ratings after CYO drops finished ones from the list.
+  await mergeTournamentCache(brackets)
   const games = []
 
   for (const b of brackets) {

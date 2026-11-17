@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import volleyball from '~~/data/ratings/2026-fall-girls-volleyball.json'
 import football from '~~/data/ratings/2026-fall-boys-football.json'
-import basketball from '~~/data/ratings/2025-26-boys-basketball-56.json'
+import basketball from '~~/data/ratings/2026-27-boys-basketball.json'
+import basketballLast from '~~/data/ratings/2025-26-boys-basketball-56.json'
 
 useHead({
   title: 'Ratings',
@@ -36,13 +37,23 @@ const boards = [
     accent: 'var(--sport-2)'
   },
   {
-    to: '/2025-26/basketball',
+    to: '/2026-27/basketball',
     sport: 'Basketball',
     season: basketball.season,
-    coverage: '5th / 6th',
+    coverage: basketball.bands.map(b => b.label).join(' · '),
     teams: basketball.summary.teams,
     games: basketball.summary.games,
     updated: updated(basketball.generatedAt),
+    accent: 'var(--sport-other)'
+  },
+  {
+    to: '/2025-26/basketball',
+    sport: 'Basketball',
+    season: basketballLast.season,
+    coverage: '5th / 6th',
+    teams: basketballLast.summary.teams,
+    games: basketballLast.summary.games,
+    updated: updated(basketballLast.generatedAt),
     accent: 'var(--sport-other)'
   }
 ]

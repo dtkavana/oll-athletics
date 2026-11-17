@@ -22,7 +22,7 @@ const file = ratings as unknown as {
   generatedAt: string
   season: string
   summary: { teams: number }
-  model: { scale: string; update: string; sos: string }
+  model: { pool: string; scale: string; update: string; sos: string }
   rankings: RatedTeam[]
 }
 
@@ -69,7 +69,7 @@ function ours (name: string) {
       <NuxtLink to="/ratings">All ratings</NuxtLink>
     </div>
     <p class="muted small lead">
-      {{ file.season }}. {{ file.model.scale }} {{ file.model.update }}
+      {{ file.season }}. {{ file.model.pool }} {{ file.model.scale }} {{ file.model.update }}
       {{ file.model.sos }}
       OLL is highlighted. Updated {{ updated }}.
     </p>

@@ -46,8 +46,7 @@ jobs:
         run: node scripts/scrape.mjs
 
       # City-wide Elo. These hit every parish, so a failure here must not
-      # block the Lourdes scrape or the deploy. Basketball is last season's
-      # finished file and is not re-run.
+      # block the Lourdes scrape or the deploy.
       - name: Update volleyball ratings
         continue-on-error: true
         run: node scripts/ratings-volleyball.mjs
@@ -55,6 +54,10 @@ jobs:
       - name: Update football ratings
         continue-on-error: true
         run: node scripts/ratings-football.mjs
+
+      - name: Update basketball ratings
+        continue-on-error: true
+        run: node scripts/ratings-basketball.mjs
 
       - name: Commit changed data
         run: |
