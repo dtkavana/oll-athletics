@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:11:27.970Z",
+  "generatedAt": "2026-11-17T17:48:04.814Z",
   "season": "2026-2027 Boys Basketball",
   "model": {
     "rosterSize": 8,
@@ -21,7 +21,7 @@
     "tournamentGames": 0,
     "skippedGames": 0,
     "standingsMismatches": 0,
-    "scheduleErrors": 14
+    "scheduleErrors": 0
   },
   "bands": [
     {
@@ -4074,21 +4074,6 @@
   "checks": {
     "standingsMismatches": [],
     "skippedGames": [],
-    "scheduleErrors": [
-      "Card. Ritter Jr. H-Black / Cadet A Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Central Cath.-Blue / Cadet C Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Christ the King-Black / Cadet C Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Nativity-Black / 56 A Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Nativity-Black / Cadet A Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Mount Carmel-Blue / 56 B Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Barnabas-Maroon / 56 C Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Louis de Mont.-Red / 4th Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Louis de Mont.-Red / 56 B Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Louis de Mont.-Black / 4th Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Luke-White / Cadet C Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Luke-Yellow / Cadet B Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Mark-Black / 56 A Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Mark-Black / 4th Boys: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500"
-    ]
+    "scheduleErrors": []
   }
 }

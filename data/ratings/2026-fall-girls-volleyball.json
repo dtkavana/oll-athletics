@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:11:34.453Z",
+  "generatedAt": "2026-11-17T17:41:47.458Z",
   "season": "2026 Fall Girls Volleyball",
   "model": {
     "rosterSize": 8,
@@ -20,7 +20,7 @@
     "tournamentGames": 208,
     "skippedGames": 0,
     "standingsMismatches": 0,
-    "scheduleErrors": 14
+    "scheduleErrors": 0
   },
   "bands": [
     {
@@ -4263,21 +4263,6 @@
   "checks": {
     "standingsMismatches": [],
     "skippedGames": [],
-    "scheduleErrors": [
-      "Card. Ritter Jr. H-White / Cadet B Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Christ the King-Black / 4th Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Christ the King-Black / Cadet A Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Holy Spirit Geist-Blue / 4th Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Nativity-Red / 56 A Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Mount Carmel-Gold / 4th Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "Mount Carmel-Navy / Cadet B Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Louis de Mont.-Red / 56 A Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Louis de Mont.-Red / Cadet B Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Louis de Mont.-Black / Cadet B Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Luke-Blue / 56 B Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Luke-Royal / 56 A Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Luke-Gold / 56 B Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500",
-      "St. Malachy-White / 56 B Girls: POST https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx -> 500"
-    ]
+    "scheduleErrors": []
   }
 }
