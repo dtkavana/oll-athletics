@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-21T17:25:53.888Z",
+  "scrapedAt": "2026-11-21T22:10:23.139Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1562,21 +1562,21 @@
         },
         {
           "division": "2A",
-          "team": "CYO-BYE",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Maria Gor.-Navy",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
           "team": "St. Matthew-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "CYO-BYE",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1606,7 +1606,7 @@
           "division": "2A",
           "team": "OL Of Grace-Gold",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2092,9 +2092,44 @@
         },
         {
           "division": "2N",
-          "team": "Lumen Christi-Blue",
+          "team": "St. Susanna-Royal",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "OL Lourdes-Gold",
           "wins": 0,
           "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "OL Of Grace-Navy",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Holy Spirit Geist-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Christ the King-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Lumen Christi-Blue",
+          "wins": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2121,41 +2156,6 @@
         {
           "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Christ the King-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "OL Of Grace-Navy",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Susanna-Royal",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "OL Lourdes-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2224,6 +2224,34 @@
         },
         {
           "division": "1N",
+          "team": "St. Maria Gor.-Red",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "OL Of Grace-Navy",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Immac. Heart-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Malachy-Green",
           "wins": 0,
           "losses": 0,
@@ -2246,34 +2274,6 @@
         {
           "division": "1N",
           "team": "Christ the King-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "OL Of Grace-Navy",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Immac. Heart-White",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "CYO-BYE",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Maria Gor.-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2336,34 +2336,6 @@
         },
         {
           "division": "2N",
-          "team": "Holy Name-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Lumen Christi-White",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Little Flower-Yellow",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "Card. Ritter Jr. H-Gray",
           "wins": 0,
           "losses": 0,
@@ -2400,6 +2372,34 @@
         {
           "division": "2N",
           "team": "Nativity-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Lumen Christi-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Little Flower-Yellow",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Holy Name-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
