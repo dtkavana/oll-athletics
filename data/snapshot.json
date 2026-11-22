@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-21T22:10:23.139Z",
+  "scrapedAt": "2026-11-22T09:41:11.159Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1506,7 +1506,7 @@
         },
         {
           "division": "1N",
-          "team": "St. Roch-Blue",
+          "team": "Holy Name-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1555,7 +1555,7 @@
         },
         {
           "division": "1N",
-          "team": "Holy Name-Blue",
+          "team": "St. Roch-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1569,29 +1569,8 @@
         },
         {
           "division": "2A",
-          "team": "St. Matthew-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "CYO-BYE",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Malachy-Green",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Jude-Red",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
@@ -1612,6 +1591,55 @@
         {
           "division": "2A",
           "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Matthew-Red",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "OL Greenwood-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Joan of Arc-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Holy Spirit, Indy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Michael, Grnfld.-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1640,34 +1668,6 @@
         {
           "division": "2N",
           "team": "CYO-BYE-1",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Michael, Grnfld.-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "OL Greenwood-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Joan of Arc-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Holy Spirit, Indy-Green",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1764,7 +1764,14 @@
         },
         {
           "division": "1N",
-          "team": "Holy Name-Blue",
+          "team": "OL Of Grace-Gold",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Christopher-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1773,26 +1780,12 @@
           "division": "1N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "1N",
           "team": "Christ the King-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "OL Of Grace-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Christopher-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1814,6 +1807,34 @@
         {
           "division": "1N",
           "team": "St. Malachy-Green",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "Holy Name-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Mark-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "CYO-BYE",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Philip-Green",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1848,13 +1869,6 @@
         },
         {
           "division": "2N",
-          "team": "Holy Spirit, Indy-Yellow",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
           "team": "St. Joan of Arc-Gold",
           "wins": 0,
           "losses": 0,
@@ -1869,21 +1883,7 @@
         },
         {
           "division": "2N",
-          "team": "St. Mark-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "CYO-BYE",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Philip-Green",
+          "team": "Holy Spirit, Indy-Yellow",
           "wins": 0,
           "losses": 0,
           "draws": 0
