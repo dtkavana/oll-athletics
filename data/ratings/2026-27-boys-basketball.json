@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:48:51.320Z",
+  "generatedAt": "2026-11-22T17:55:28.451Z",
   "season": "2026-2027 Boys Basketball",
   "model": {
     "rosterSize": 8,
@@ -16,8 +16,8 @@
   },
   "summary": {
     "teams": 211,
-    "games": 14,
-    "leagueGames": 14,
+    "games": 20,
+    "leagueGames": 20,
     "tournamentGames": 0,
     "skippedGames": 0,
     "standingsMismatches": 0,
@@ -31,7 +31,7 @@
         "4th Boys"
       ],
       "teams": 45,
-      "games": 6,
+      "games": 7,
       "rankings": [
         {
           "id": "4th-boys--immac-heart-gray",
@@ -91,6 +91,25 @@
           "rank": 3
         },
         {
+          "id": "4th-boys--st-jude-red",
+          "band": "4th",
+          "school": "St. Jude",
+          "name": "St. Jude-Red",
+          "league": "4th Boys",
+          "tier": null,
+          "division": "1N",
+          "pool": 16,
+          "baseline": 1500,
+          "rating": 1536,
+          "delta": 36,
+          "wins": 1,
+          "losses": 0,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1464,
+          "rank": 4
+        },
+        {
           "id": "4th-boys--st-pius-x-white",
           "band": "4th",
           "school": "St. Pius X",
@@ -107,7 +126,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1464,
-          "rank": 4
+          "rank": 5
         },
         {
           "id": "4th-boys--st-joan-of-arc-red",
@@ -126,7 +145,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1470,
-          "rank": 5
+          "rank": 6
         },
         {
           "id": "4th-boys--st-luke-gold",
@@ -145,7 +164,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1476,
-          "rank": 6
+          "rank": 7
         },
         {
           "id": "4th-boys--central-cath-blue",
@@ -164,7 +183,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 7
+          "rank": 8
         },
         {
           "id": "4th-boys--christ-the-king-black",
@@ -183,7 +202,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 8
+          "rank": 9
         },
         {
           "id": "4th-boys--christ-the-king-gold",
@@ -202,7 +221,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 9
+          "rank": 10
         },
         {
           "id": "4th-boys--holy-name-blue",
@@ -221,7 +240,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 10
+          "rank": 11
         },
         {
           "id": "4th-boys--immac-heart-blue",
@@ -240,7 +259,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 11
+          "rank": 12
         },
         {
           "id": "4th-boys--mount-carmel-blue",
@@ -259,7 +278,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 12
+          "rank": 13
         },
         {
           "id": "4th-boys--mount-carmel-white",
@@ -270,25 +289,6 @@
           "tier": null,
           "division": "3A",
           "pool": 24,
-          "baseline": 1500,
-          "rating": 1500,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 13
-        },
-        {
-          "id": "4th-boys--nativity-black",
-          "band": "4th",
-          "school": "Nativity",
-          "name": "Nativity-Black",
-          "league": "4th Boys",
-          "tier": null,
-          "division": "1N",
-          "pool": 8,
           "baseline": 1500,
           "rating": 1500,
           "delta": 0,
@@ -414,25 +414,6 @@
           "rank": 20
         },
         {
-          "id": "4th-boys--st-jude-red",
-          "band": "4th",
-          "school": "St. Jude",
-          "name": "St. Jude-Red",
-          "league": "4th Boys",
-          "tier": null,
-          "division": "1N",
-          "pool": 16,
-          "baseline": 1500,
-          "rating": 1500,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 21
-        },
-        {
           "id": "4th-boys--st-louis-de-mont-black",
           "band": "4th",
           "school": "St. Louis de Mont.",
@@ -449,7 +430,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 22
+          "rank": 21
         },
         {
           "id": "4th-boys--st-louis-de-mont-red",
@@ -468,7 +449,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 23
+          "rank": 22
         },
         {
           "id": "4th-boys--st-louis-de-mont-white",
@@ -487,7 +468,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 24
+          "rank": 23
         },
         {
           "id": "4th-boys--st-luke-blue",
@@ -506,7 +487,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 25
+          "rank": 24
         },
         {
           "id": "4th-boys--st-luke-royal",
@@ -525,7 +506,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 26
+          "rank": 25
         },
         {
           "id": "4th-boys--st-malachy-green",
@@ -544,7 +525,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 27
+          "rank": 26
         },
         {
           "id": "4th-boys--st-malachy-white",
@@ -563,7 +544,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 28
+          "rank": 27
         },
         {
           "id": "4th-boys--st-maria-gor-navy",
@@ -582,7 +563,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 29
+          "rank": 28
         },
         {
           "id": "4th-boys--st-mark-black",
@@ -601,7 +582,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 30
+          "rank": 29
         },
         {
           "id": "4th-boys--st-pius-x-black",
@@ -620,7 +601,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 31
+          "rank": 30
         },
         {
           "id": "4th-boys--st-pius-x-gold",
@@ -639,7 +620,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 32
+          "rank": 31
         },
         {
           "id": "4th-boys--st-pius-x-purple",
@@ -658,7 +639,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 33
+          "rank": 32
         },
         {
           "id": "4th-boys--st-roch-blue",
@@ -677,7 +658,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 34
+          "rank": 33
         },
         {
           "id": "4th-boys--st-simon-black",
@@ -696,7 +677,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 35
+          "rank": 34
         },
         {
           "id": "4th-boys--st-simon-blue",
@@ -715,7 +696,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 36
+          "rank": 35
         },
         {
           "id": "4th-boys--st-simon-white",
@@ -734,7 +715,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 37
+          "rank": 36
         },
         {
           "id": "4th-boys--st-susanna-gold",
@@ -753,7 +734,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 38
+          "rank": 37
         },
         {
           "id": "4th-boys--st-thomas-aquin-blue",
@@ -772,7 +753,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 39
+          "rank": 38
         },
         {
           "id": "4th-boys--st-simon-royal",
@@ -791,7 +772,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1524,
-          "rank": 40
+          "rank": 39
         },
         {
           "id": "4th-boys--holy-spirit-indy-green",
@@ -810,7 +791,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1530,
-          "rank": 41
+          "rank": 40
         },
         {
           "id": "4th-boys--mount-carmel-gold",
@@ -821,6 +802,25 @@
           "tier": null,
           "division": "2A",
           "pool": 24,
+          "baseline": 1500,
+          "rating": 1464,
+          "delta": -36,
+          "wins": 0,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1536,
+          "rank": 41
+        },
+        {
+          "id": "4th-boys--nativity-black",
+          "band": "4th",
+          "school": "Nativity",
+          "name": "Nativity-Black",
+          "league": "4th Boys",
+          "tier": null,
+          "division": "1N",
+          "pool": 8,
           "baseline": 1500,
           "rating": 1464,
           "delta": -36,
@@ -899,7 +899,7 @@
         "56 C Boys"
       ],
       "teams": 85,
-      "games": 4,
+      "games": 6,
       "rankings": [
         {
           "id": "56-a-boys--immac-heart-blue",
@@ -1329,13 +1329,13 @@
           "division": "2A",
           "pool": 40,
           "baseline": 1569.4,
-          "rating": 1569.4,
-          "delta": 0,
-          "wins": 0,
+          "rating": 1588.7,
+          "delta": 19.3,
+          "wins": 1,
           "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1480.7,
           "rank": 23
         },
         {
@@ -1871,25 +1871,6 @@
           "rank": 51
         },
         {
-          "id": "56-b-boys--st-matthew-black",
-          "band": "56",
-          "school": "St. Matthew",
-          "name": "St. Matthew-Black",
-          "league": "56 B Boys",
-          "tier": "B",
-          "division": "2A",
-          "pool": 24,
-          "baseline": 1500,
-          "rating": 1500,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 52
-        },
-        {
           "id": "56-b-boys--st-monica-red",
           "band": "56",
           "school": "St. Monica",
@@ -1906,7 +1887,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 53
+          "rank": 52
         },
         {
           "id": "56-a-boys--st-philip-green",
@@ -1925,7 +1906,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 54
+          "rank": 53
         },
         {
           "id": "56-b-boys--st-pius-x-cream",
@@ -1944,7 +1925,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 55
+          "rank": 54
         },
         {
           "id": "56-b-boys--st-pius-x-gold",
@@ -1963,7 +1944,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 56
+          "rank": 55
         },
         {
           "id": "56-b-boys--st-pius-x-purple",
@@ -1982,7 +1963,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 57
+          "rank": 56
         },
         {
           "id": "56-b-boys--st-pius-x-white",
@@ -2001,6 +1982,25 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
+          "rank": 57
+        },
+        {
+          "id": "56-b-boys--st-matthew-black",
+          "band": "56",
+          "school": "St. Matthew",
+          "name": "St. Matthew-Black",
+          "league": "56 B Boys",
+          "tier": "B",
+          "division": "2A",
+          "pool": 24,
+          "baseline": 1500,
+          "rating": 1480.7,
+          "delta": -19.3,
+          "wins": 0,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1588.7,
           "rank": 58
         },
         {
@@ -2175,6 +2175,25 @@
           "rank": 67
         },
         {
+          "id": "56-c-boys--st-barnabas-maroon",
+          "band": "56",
+          "school": "St. Barnabas",
+          "name": "St. Barnabas-Maroon",
+          "league": "56 C Boys",
+          "tier": "C",
+          "division": "1",
+          "pool": 40,
+          "baseline": 1251.2,
+          "rating": 1266.2,
+          "delta": 15,
+          "wins": 1,
+          "losses": 0,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1099.8,
+          "rank": 68
+        },
+        {
           "id": "56-c-boys--mount-carmel-blue",
           "band": "56",
           "school": "Mount Carmel",
@@ -2191,7 +2210,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1187,
-          "rank": 68
+          "rank": 69
         },
         {
           "id": "56-c-boys--st-maria-gor-white",
@@ -2210,7 +2229,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1193.6,
-          "rank": 69
+          "rank": 70
         },
         {
           "id": "56-c-boys--st-barnabas-gold",
@@ -2220,25 +2239,6 @@
           "league": "56 C Boys",
           "tier": "C",
           "division": "2",
-          "pool": 40,
-          "baseline": 1251.2,
-          "rating": 1251.2,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 70
-        },
-        {
-          "id": "56-c-boys--st-barnabas-maroon",
-          "band": "56",
-          "school": "St. Barnabas",
-          "name": "St. Barnabas-Maroon",
-          "league": "56 C Boys",
-          "tier": "C",
-          "division": "1",
           "pool": 40,
           "baseline": 1251.2,
           "rating": 1251.2,
@@ -2507,13 +2507,13 @@
           "division": "1",
           "pool": 48,
           "baseline": 1114.9,
-          "rating": 1114.9,
-          "delta": 0,
+          "rating": 1099.8,
+          "delta": -15,
           "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1266.2,
           "rank": 85
         }
       ]
@@ -2527,7 +2527,7 @@
         "Cadet C Boys"
       ],
       "teams": 81,
-      "games": 4,
+      "games": 7,
       "rankings": [
         {
           "id": "cadet-a-boys--mount-carmel-blue",
@@ -3081,25 +3081,6 @@
           "rank": 29
         },
         {
-          "id": "cadet-b-boys--st-jude-gold",
-          "band": "Cadet",
-          "school": "St. Jude",
-          "name": "St. Jude-Gold",
-          "league": "Cadet B Boys",
-          "tier": "B",
-          "division": "1N",
-          "pool": 40,
-          "baseline": 1569.4,
-          "rating": 1569.4,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 30
-        },
-        {
           "id": "cadet-b-boys--st-jude-red",
           "band": "Cadet",
           "school": "St. Jude",
@@ -3107,6 +3088,25 @@
           "league": "Cadet B Boys",
           "tier": "B",
           "division": "2A",
+          "pool": 40,
+          "baseline": 1569.4,
+          "rating": 1598.3,
+          "delta": 28.9,
+          "wins": 1,
+          "losses": 0,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1471.1,
+          "rank": 30
+        },
+        {
+          "id": "cadet-b-boys--st-jude-gold",
+          "band": "Cadet",
+          "school": "St. Jude",
+          "name": "St. Jude-Gold",
+          "league": "Cadet B Boys",
+          "tier": "B",
+          "division": "1N",
           "pool": 40,
           "baseline": 1569.4,
           "rating": 1569.4,
@@ -3461,25 +3461,6 @@
           "rank": 49
         },
         {
-          "id": "cadet-b-boys--st-pius-x-gold",
-          "band": "Cadet",
-          "school": "St. Pius X",
-          "name": "St. Pius X-Gold",
-          "league": "Cadet B Boys",
-          "tier": "B",
-          "division": "2A",
-          "pool": 32,
-          "baseline": 1500,
-          "rating": 1500,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 50
-        },
-        {
           "id": "cadet-b-boys--st-pius-x-purple",
           "band": "Cadet",
           "school": "St. Pius X",
@@ -3496,7 +3477,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 51
+          "rank": 50
         },
         {
           "id": "cadet-c-boys--st-rose-blue",
@@ -3515,6 +3496,25 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
+          "rank": 51
+        },
+        {
+          "id": "cadet-b-boys--st-pius-x-gold",
+          "band": "Cadet",
+          "school": "St. Pius X",
+          "name": "St. Pius X-Gold",
+          "league": "Cadet B Boys",
+          "tier": "B",
+          "division": "2A",
+          "pool": 32,
+          "baseline": 1500,
+          "rating": 1471.1,
+          "delta": -28.9,
+          "wins": 0,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1598.3,
           "rank": 52
         },
         {
@@ -3803,6 +3803,25 @@
           "rank": 67
         },
         {
+          "id": "cadet-c-boys--mount-carmel-gold",
+          "band": "Cadet",
+          "school": "Mount Carmel",
+          "name": "Mount Carmel-Gold",
+          "league": "Cadet C Boys",
+          "tier": "C",
+          "division": "1",
+          "pool": 56,
+          "baseline": 1262.8,
+          "rating": 1289.9,
+          "delta": 27.1,
+          "wins": 1,
+          "losses": 0,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1147.9,
+          "rank": 68
+        },
+        {
           "id": "cadet-b-boys--ol-of-grace-navy",
           "band": "Cadet",
           "school": "OL Of Grace",
@@ -3819,32 +3838,13 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1517.3,
-          "rank": 68
+          "rank": 69
         },
         {
           "id": "cadet-c-boys--mount-carmel-blue",
           "band": "Cadet",
           "school": "Mount Carmel",
           "name": "Mount Carmel-Blue",
-          "league": "Cadet C Boys",
-          "tier": "C",
-          "division": "1",
-          "pool": 56,
-          "baseline": 1262.8,
-          "rating": 1262.8,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 69
-        },
-        {
-          "id": "cadet-c-boys--mount-carmel-gold",
-          "band": "Cadet",
-          "school": "Mount Carmel",
-          "name": "Mount Carmel-Gold",
           "league": "Cadet C Boys",
           "tier": "C",
           "division": "1",
@@ -3879,6 +3879,25 @@
           "rank": 71
         },
         {
+          "id": "cadet-c-boys--christ-the-king-black",
+          "band": "Cadet",
+          "school": "Christ the King",
+          "name": "Christ the King-Black",
+          "league": "Cadet C Boys",
+          "tier": "C",
+          "division": "2",
+          "pool": 24,
+          "baseline": 1223.6,
+          "rating": 1253.6,
+          "delta": 30,
+          "wins": 1,
+          "losses": 0,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1193.6,
+          "rank": 72
+        },
+        {
           "id": "cadet-c-boys--st-simon-white",
           "band": "Cadet",
           "school": "St. Simon",
@@ -3895,7 +3914,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1291.5,
-          "rank": 72
+          "rank": 73
         },
         {
           "id": "cadet-c-boys--st-jude-gold",
@@ -3908,25 +3927,6 @@
           "pool": 40,
           "baseline": 1251.2,
           "rating": 1251.2,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 73
-        },
-        {
-          "id": "cadet-c-boys--christ-the-king-black",
-          "band": "Cadet",
-          "school": "Christ the King",
-          "name": "Christ the King-Black",
-          "league": "Cadet C Boys",
-          "tier": "C",
-          "division": "2",
-          "pool": 24,
-          "baseline": 1223.6,
-          "rating": 1223.6,
           "delta": 0,
           "wins": 0,
           "losses": 0,
@@ -3983,13 +3983,13 @@
           "division": "2",
           "pool": 24,
           "baseline": 1223.6,
-          "rating": 1223.6,
-          "delta": 0,
+          "rating": 1193.6,
+          "delta": -30,
           "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1253.6,
           "rank": 77
         },
         {
@@ -4040,13 +4040,13 @@
           "division": "1",
           "pool": 32,
           "baseline": 1175,
-          "rating": 1175,
-          "delta": 0,
+          "rating": 1147.9,
+          "delta": -27.1,
           "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1289.9,
           "rank": 80
         },
         {

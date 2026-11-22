@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-22T09:41:11.159Z",
+  "scrapedAt": "2026-11-22T17:47:48.181Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -35,6 +35,14 @@
     "2026 Spring Girls Kickball"
   ],
   "videos": [
+    {
+      "id": "CAc4wXFuNms",
+      "title": "56A vs. St. Anthony, 11/22/2026",
+      "published": "2026-11-22T17:18:55+00:00",
+      "date": "2026-11-22",
+      "url": "https://www.youtube.com/watch?v=CAc4wXFuNms",
+      "thumb": "https://i.ytimg.com/vi/CAc4wXFuNms/mqdefault.jpg"
+    },
     {
       "id": "hCWOKH6NzRI",
       "title": "4th Grade Volleyball Tournament, SSFC vs. St. Monica 11/11/2026",
@@ -2036,6 +2044,27 @@
         },
         {
           "division": "2A",
+          "team": "St. Barnabas-Gold",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Maria Gor.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Matthew-Black",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Charles-White",
           "wins": 0,
           "losses": 0,
@@ -2065,27 +2094,6 @@
         {
           "division": "2A",
           "team": "St. Malachy-Green",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Maria Gor.-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Matthew-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Barnabas-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2259,13 +2267,6 @@
         },
         {
           "division": "1N",
-          "team": "St. Jude-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Luke-Yellow",
           "wins": 0,
           "losses": 0,
@@ -2274,6 +2275,41 @@
         {
           "division": "1N",
           "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Jude-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Jude-Red",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Louis de Mont.-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Luke-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Simon-Royal",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -2303,35 +2339,7 @@
           "division": "2A",
           "team": "St. Pius X-Gold",
           "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Louis de Mont.-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Jude-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Simon-Royal",
-          "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {

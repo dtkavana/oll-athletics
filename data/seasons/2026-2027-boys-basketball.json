@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-11-22T09:41:11.159Z",
+  "scrapedAt": "2026-11-22T17:47:48.181Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue",
@@ -1238,6 +1238,27 @@
         },
         {
           "division": "2A",
+          "team": "St. Barnabas-Gold",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Maria Gor.-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Matthew-Black",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
           "team": "St. Charles-White",
           "wins": 0,
           "losses": 0,
@@ -1267,27 +1288,6 @@
         {
           "division": "2A",
           "team": "St. Malachy-Green",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Maria Gor.-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Matthew-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Barnabas-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1461,13 +1461,6 @@
         },
         {
           "division": "1N",
-          "team": "St. Jude-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
           "team": "St. Luke-Yellow",
           "wins": 0,
           "losses": 0,
@@ -1476,6 +1469,41 @@
         {
           "division": "1N",
           "team": "Christ the King-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Jude-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Jude-Red",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Louis de Mont.-Black",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Luke-Blue",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Simon-Royal",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1505,35 +1533,7 @@
           "division": "2A",
           "team": "St. Pius X-Gold",
           "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Luke-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Louis de Mont.-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Jude-Red",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
-          "team": "St. Simon-Royal",
-          "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
