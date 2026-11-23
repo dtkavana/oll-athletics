@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-11-22T22:26:28.352Z",
+  "scrapedAt": "2026-11-23T10:40:01.369Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue",
@@ -1385,20 +1385,20 @@
         {
           "division": "1A",
           "team": "Mount Carmel-Gold",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1A",
-          "team": "Immac. Heart-Blue",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
           "team": "St. Pius X-Purple",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1A",
+          "team": "Immac. Heart-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1433,15 +1433,8 @@
         },
         {
           "division": "1N",
-          "team": "CYO-BYE",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "Immac. Heart-White",
-          "wins": 0,
+          "team": "Christ the King-Black",
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
@@ -1454,6 +1447,20 @@
         },
         {
           "division": "1N",
+          "team": "St. Luke-Yellow",
+          "wins": 0,
+          "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "1N",
+          "team": "St. Jude-Gold",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1N",
           "team": "St. Malachy-Green",
           "wins": 0,
           "losses": 0,
@@ -1461,21 +1468,14 @@
         },
         {
           "division": "1N",
-          "team": "St. Luke-Yellow",
+          "team": "CYO-BYE",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Christ the King-Black",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1N",
-          "team": "St. Jude-Gold",
+          "team": "Immac. Heart-White",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1510,13 +1510,6 @@
         },
         {
           "division": "2A",
-          "team": "St. Charles-White",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2A",
           "team": "St. Matthew-Black",
           "wins": 0,
           "losses": 0,
@@ -1527,6 +1520,13 @@
           "team": "St. Pius X-Gold",
           "wins": 0,
           "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2A",
+          "team": "St. Charles-White",
+          "wins": 0,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -1545,6 +1545,13 @@
         },
         {
           "division": "2N",
+          "team": "Lumen Christi-White",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "St. Thomas Aquin.-Blue",
           "wins": 0,
           "losses": 0,
@@ -1553,20 +1560,6 @@
         {
           "division": "2N",
           "team": "Little Flower-Yellow",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Lumen Christi-White",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Card. Ritter Jr. H-Gray",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1602,6 +1595,13 @@
         {
           "division": "2N",
           "team": "Nativity-Red",
+          "wins": 0,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Card. Ritter Jr. H-Gray",
           "wins": 0,
           "losses": 0,
           "draws": 0
