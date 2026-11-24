@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:44:51.134Z",
+  "generatedAt": "2026-11-24T20:46:03.042Z",
   "season": "2026-2027 Boys Basketball",
   "model": {
     "rosterSize": 8,
@@ -16,8 +16,8 @@
   },
   "summary": {
     "teams": 211,
-    "games": 70,
-    "leagueGames": 70,
+    "games": 71,
+    "leagueGames": 71,
     "tournamentGames": 0,
     "skippedGames": 0,
     "standingsMismatches": 0,
@@ -899,7 +899,7 @@
         "56 C Boys"
       ],
       "teams": 85,
-      "games": 26,
+      "games": 27,
       "rankings": [
         {
           "id": "56-a-boys--immac-heart-blue",
@@ -921,6 +921,25 @@
           "rank": 1
         },
         {
+          "id": "56-a-boys--st-simon-royal",
+          "band": "56",
+          "school": "St. Simon",
+          "name": "St. Simon-Royal",
+          "league": "56 A Boys",
+          "tier": "A",
+          "division": "1A",
+          "pool": 40,
+          "baseline": 1858.9,
+          "rating": 1886,
+          "delta": 27.1,
+          "wins": 1,
+          "losses": 0,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1797.9,
+          "rank": 2
+        },
+        {
           "id": "56-a-boys--st-pius-x-purple",
           "band": "56",
           "school": "St. Pius X",
@@ -937,7 +956,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 2
+          "rank": 3
         },
         {
           "id": "56-a-boys--st-barnabas-maroon",
@@ -956,7 +975,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1758,
-          "rank": 3
+          "rank": 4
         },
         {
           "id": "56-a-boys--st-luke-royal",
@@ -975,25 +994,6 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1843,
-          "rank": 4
-        },
-        {
-          "id": "56-a-boys--st-simon-royal",
-          "band": "56",
-          "school": "St. Simon",
-          "name": "St. Simon-Royal",
-          "league": "56 A Boys",
-          "tier": "A",
-          "division": "1A",
-          "pool": 40,
-          "baseline": 1858.9,
-          "rating": 1858.9,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
           "rank": 5
         },
         {
@@ -1054,25 +1054,6 @@
           "rank": 8
         },
         {
-          "id": "56-a-boys--st-jude-red",
-          "band": "56",
-          "school": "St. Jude",
-          "name": "St. Jude-Red",
-          "league": "56 A Boys",
-          "tier": "A",
-          "division": "1A",
-          "pool": 32,
-          "baseline": 1825,
-          "rating": 1825,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 9
-        },
-        {
           "id": "56-a-boys--nativity-black",
           "band": "56",
           "school": "Nativity",
@@ -1089,6 +1070,25 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1676.1,
+          "rank": 9
+        },
+        {
+          "id": "56-a-boys--st-jude-red",
+          "band": "56",
+          "school": "St. Jude",
+          "name": "St. Jude-Red",
+          "league": "56 A Boys",
+          "tier": "A",
+          "division": "1A",
+          "pool": 32,
+          "baseline": 1825,
+          "rating": 1797.9,
+          "delta": -27.1,
+          "wins": 0,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1886,
           "rank": 10
         },
         {
