@@ -6,7 +6,7 @@ import basketballLast from '~~/data/ratings/2025-26-boys-basketball-56.json'
 
 useHead({
   title: 'Ratings',
-  meta: [{ name: 'robots', content: 'noindex' }]
+  meta: [{ key: 'robots', name: 'robots', content: 'noindex, nofollow' }]
 })
 
 function updated (iso: string) {

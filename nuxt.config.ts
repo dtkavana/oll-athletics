@@ -24,7 +24,13 @@ export default defineNuxtConfig({
   routeRules: {
     '/football-ratings': { redirect: '/2026/football' },
     '/volleyball-ratings': { redirect: '/2026/volleyball' },
-    '/basketball-ratings': { redirect: '/2026-27/basketball' }
+    '/basketball-ratings': { redirect: '/2026-27/basketball' },
+    '/ratings': { headers: { 'X-Robots-Tag': 'noindex, nofollow' } },
+    '/ratings/**': { headers: { 'X-Robots-Tag': 'noindex, nofollow' } },
+    '/2026/volleyball': { headers: { 'X-Robots-Tag': 'noindex, nofollow' } },
+    '/2026/football': { headers: { 'X-Robots-Tag': 'noindex, nofollow' } },
+    '/2026-27/basketball': { headers: { 'X-Robots-Tag': 'noindex, nofollow' } },
+    '/2025-26/basketball': { headers: { 'X-Robots-Tag': 'noindex, nofollow' } }
   },
 
   nitro: {
@@ -35,6 +41,7 @@ export default defineNuxtConfig({
       routes: [
         '/', '/calendar', '/scores', '/standings', '/teams', '/watch',
         '/ratings', '/2026/volleyball', '/2026/football', '/2026-27/basketball', '/2025-26/basketball',
+        '/ratings/basketball/cadet/oll', '/ratings/basketball/cadet/oll/eec52b6524e8',
         '/ics/all-games.ics',
         ...teamIds.map(id => `/teams/${id}`),
         ...teamIds.map(id => `/ics/${id}.ics`)

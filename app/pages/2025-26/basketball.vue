@@ -4,7 +4,7 @@ import { isOurs } from '~/composables/useSnapshot'
 
 useHead({
   title: 'Basketball ratings',
-  meta: [{ name: 'robots', content: 'noindex' }]
+  meta: [{ key: 'robots', name: 'robots', content: 'noindex, nofollow' }]
 })
 
 interface RatedTeam {

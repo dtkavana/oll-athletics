@@ -4,7 +4,7 @@ import { isOurs } from '~/composables/useSnapshot'
 
 useHead({
   title: 'Basketball ratings',
-  meta: [{ name: 'robots', content: 'noindex' }]
+  meta: [{ key: 'robots', name: 'robots', content: 'noindex, nofollow' }]
 })
 
 interface RatedTeam {
@@ -40,7 +40,7 @@ const file = ratings as unknown as {
 }
 
 const bands = file.bands
-const bandId = ref(bands.find(b => b.id === '56')?.id ?? bands[0]?.id ?? '')
+const bandId = ref(bands.find(b => b.id === 'Cadet')?.id ?? bands[0]?.id ?? '')
 const league = ref('all')
 const query = ref('')
 
@@ -138,7 +138,16 @@ function ratingText (n: number) {
         <tbody>
           <tr v-for="team in sortedRows" :key="team.id" :class="{ 'is-ours': isOurs(team.name) }">
             <td class="rank">{{ team.rank }}</td>
-            <td>{{ team.name }}</td>
+            <td>
+              <NuxtLink
+                v-if="team.id === 'cadet-a-boys--ol-lourdes-blue'"
+                class="team-link"
+                to="/ratings/basketball/cadet/oll"
+              >
+                {{ team.name }} <span class="stats-mark">Stats</span>
+              </NuxtLink>
+              <template v-else>{{ team.name }}</template>
+            </td>
             <td>{{ leagueShort(team.league) }}</td>
             <td class="col-div">{{ team.division }}</td>
             <td class="num">{{ team.record }}</td>
@@ -174,6 +183,28 @@ th, td { white-space: nowrap; }
   border: 2px solid var(--navy); border-radius: 3px; padding: 8px 10px;
 }
 .count { margin: 0; }
+.team-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--navy);
+  text-underline-offset: 3px;
+}
+.team-link:hover { color: var(--navy); }
+.team-link:focus-visible { outline: 2px solid var(--navy); outline-offset: 2px; }
+.stats-mark {
+  margin-left: 4px;
+  font-family: var(--font-cond);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--navy);
+}
+@media (prefers-color-scheme: dark) {
+  .team-link { text-decoration-color: var(--gold); }
+  .team-link:hover, .stats-mark { color: var(--gold); }
+  .team-link:focus-visible { outline-color: var(--gold); }
+}
 @media (max-width: 640px) {
   .col-start, .col-div { display: none; }
 }
