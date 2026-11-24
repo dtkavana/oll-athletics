@@ -1,6 +1,6 @@
 {
   "season": "2026-2027 Boys Basketball",
-  "scrapedAt": "2026-11-23T22:01:22.448Z",
+  "scrapedAt": "2026-11-24T03:17:35.999Z",
   "teams": [
     {
       "id": "2026-2027-boys-basketball--cadet-a-boys--1n--ol-lourdes-blue",
@@ -896,14 +896,14 @@
         },
         {
           "division": "1A",
-          "team": "St. Charles-Red",
-          "wins": 0,
+          "team": "St. Barnabas-Maroon",
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1A",
-          "team": "St. Barnabas-Maroon",
+          "team": "St. Charles-Red",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -933,7 +933,7 @@
           "division": "1A",
           "team": "St. Matthew-Red",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -987,16 +987,16 @@
         },
         {
           "division": "1N",
-          "team": "St. Christopher-Blue",
-          "wins": 0,
+          "team": "Christ the King-Black",
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "1N",
-          "team": "Christ the King-Black",
+          "team": "St. Christopher-Blue",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -1538,6 +1538,20 @@
         },
         {
           "division": "2N",
+          "team": "St. Thomas Aquin.-Blue",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "Little Flower-Yellow",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "2N",
           "team": "Holy Name-Gold",
           "wins": 1,
           "losses": 0,
@@ -1546,20 +1560,6 @@
         {
           "division": "2N",
           "team": "Lumen Christi-White",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "St. Thomas Aquin.-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "Little Flower-Yellow",
           "wins": 0,
           "losses": 0,
           "draws": 0
@@ -1589,14 +1589,14 @@
           "division": "2N",
           "team": "St. Roch-Gold",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
           "division": "2N",
           "team": "Nativity-Red",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
