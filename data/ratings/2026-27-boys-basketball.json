@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T01:33:29.872Z",
+  "generatedAt": "2026-11-25T11:21:12.595Z",
   "season": "2026-2027 Boys Basketball",
   "model": {
     "rosterSize": 8,
@@ -16,8 +16,8 @@
   },
   "summary": {
     "teams": 211,
-    "games": 73,
-    "leagueGames": 73,
+    "games": 75,
+    "leagueGames": 75,
     "tournamentGames": 0,
     "skippedGames": 0,
     "standingsMismatches": 0,
@@ -31,7 +31,7 @@
         "4th Boys"
       ],
       "teams": 45,
-      "games": 18,
+      "games": 19,
       "rankings": [
         {
           "id": "4th-boys--st-joan-of-arc-red",
@@ -281,6 +281,25 @@
           "rank": 13
         },
         {
+          "id": "4th-boys--st-mark-black",
+          "band": "4th",
+          "school": "St. Mark",
+          "name": "St. Mark-Black",
+          "league": "4th Boys",
+          "tier": null,
+          "division": "3N",
+          "pool": 8,
+          "baseline": 1500,
+          "rating": 1530,
+          "delta": 30,
+          "wins": 1,
+          "losses": 0,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1470,
+          "rank": 14
+        },
+        {
           "id": "4th-boys--st-pius-x-gold",
           "band": "4th",
           "school": "St. Pius X",
@@ -297,7 +316,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1470,
-          "rank": 14
+          "rank": 15
         },
         {
           "id": "4th-boys--st-louis-de-mont-black",
@@ -316,7 +335,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1476,
-          "rank": 15
+          "rank": 16
         },
         {
           "id": "4th-boys--st-luke-gold",
@@ -335,7 +354,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1476,
-          "rank": 16
+          "rank": 17
         },
         {
           "id": "4th-boys--st-simon-black",
@@ -354,25 +373,6 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1476,
-          "rank": 17
-        },
-        {
-          "id": "4th-boys--central-cath-blue",
-          "band": "4th",
-          "school": "Central Cath.",
-          "name": "Central Cath.-Blue",
-          "league": "4th Boys",
-          "tier": null,
-          "division": "3N",
-          "pool": 8,
-          "baseline": 1500,
-          "rating": 1500,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
           "rank": 18
         },
         {
@@ -471,25 +471,6 @@
           "rank": 23
         },
         {
-          "id": "4th-boys--st-mark-black",
-          "band": "4th",
-          "school": "St. Mark",
-          "name": "St. Mark-Black",
-          "league": "4th Boys",
-          "tier": null,
-          "division": "3N",
-          "pool": 8,
-          "baseline": 1500,
-          "rating": 1500,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 24
-        },
-        {
           "id": "4th-boys--st-pius-x-black",
           "band": "4th",
           "school": "St. Pius X",
@@ -506,7 +487,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 25
+          "rank": 24
         },
         {
           "id": "4th-boys--st-pius-x-purple",
@@ -525,7 +506,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 26
+          "rank": 25
         },
         {
           "id": "4th-boys--st-thomas-aquin-blue",
@@ -544,7 +525,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 27
+          "rank": 26
         },
         {
           "id": "4th-boys--st-louis-de-mont-white",
@@ -563,7 +544,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1524,
-          "rank": 28
+          "rank": 27
         },
         {
           "id": "4th-boys--st-simon-blue",
@@ -582,7 +563,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1524,
-          "rank": 29
+          "rank": 28
         },
         {
           "id": "4th-boys--st-simon-royal",
@@ -601,6 +582,25 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1524,
+          "rank": 29
+        },
+        {
+          "id": "4th-boys--central-cath-blue",
+          "band": "4th",
+          "school": "Central Cath.",
+          "name": "Central Cath.-Blue",
+          "league": "4th Boys",
+          "tier": null,
+          "division": "3N",
+          "pool": 8,
+          "baseline": 1500,
+          "rating": 1470,
+          "delta": -30,
+          "wins": 0,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1530,
           "rank": 30
         },
         {
@@ -899,7 +899,7 @@
         "56 C Boys"
       ],
       "teams": 85,
-      "games": 27,
+      "games": 28,
       "rankings": [
         {
           "id": "56-a-boys--immac-heart-blue",
@@ -2051,13 +2051,13 @@
           "division": "2N",
           "pool": 16,
           "baseline": 1300.4,
-          "rating": 1300.4,
-          "delta": 0,
-          "wins": 0,
+          "rating": 1330.4,
+          "delta": 30,
+          "wins": 1,
           "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1270.4,
           "rank": 61
         },
         {
@@ -2099,25 +2099,6 @@
           "rank": 63
         },
         {
-          "id": "56-b-boys--st-mark-gold",
-          "band": "56",
-          "school": "St. Mark",
-          "name": "St. Mark-Gold",
-          "league": "56 B Boys",
-          "tier": "B",
-          "division": "2N",
-          "pool": 16,
-          "baseline": 1300.4,
-          "rating": 1300.4,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 64
-        },
-        {
           "id": "56-b-boys--st-thomas-aquin-blue",
           "band": "56",
           "school": "St. Thomas Aquin.",
@@ -2134,7 +2115,7 @@
           "leagueRecord": "0-0",
           "record": "0-0",
           "sos": null,
-          "rank": 65
+          "rank": 64
         },
         {
           "id": "56-b-boys--ol-of-grace-navy",
@@ -2153,7 +2134,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1517.3,
-          "rank": 66
+          "rank": 65
         },
         {
           "id": "56-b-boys--st-roch-gold",
@@ -2172,7 +2153,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1517.3,
-          "rank": 67
+          "rank": 66
         },
         {
           "id": "56-c-boys--st-simon-blue",
@@ -2191,6 +2172,25 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1146.8,
+          "rank": 67
+        },
+        {
+          "id": "56-b-boys--st-mark-gold",
+          "band": "56",
+          "school": "St. Mark",
+          "name": "St. Mark-Gold",
+          "league": "56 B Boys",
+          "tier": "B",
+          "division": "2N",
+          "pool": 16,
+          "baseline": 1300.4,
+          "rating": 1270.4,
+          "delta": -30,
+          "wins": 0,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1330.4,
           "rank": 68
         },
         {

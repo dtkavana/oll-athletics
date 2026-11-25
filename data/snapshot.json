@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-25T01:23:22.122Z",
+  "scrapedAt": "2026-11-25T11:11:06.713Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -2138,23 +2138,23 @@
         },
         {
           "division": "2N",
-          "team": "OL Lourdes-Gold",
-          "wins": 0,
+          "team": "Holy Name-Gold",
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "Holy Spirit Geist-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "2N",
-          "team": "OL Of Grace-Navy",
+          "team": "St. Mark-Gold",
           "wins": 0,
           "losses": 1,
+          "draws": 0
+        },
+        {
+          "division": "2N",
+          "team": "St. Monica-Red",
+          "wins": 0,
+          "losses": 0,
           "draws": 0
         },
         {
@@ -2173,23 +2173,23 @@
         },
         {
           "division": "2N",
-          "team": "Holy Name-Gold",
+          "team": "OL Lourdes-Gold",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Mark-Gold",
+          "team": "Holy Spirit Geist-Blue",
           "wins": 0,
           "losses": 0,
           "draws": 0
         },
         {
           "division": "2N",
-          "team": "St. Monica-Red",
+          "team": "OL Of Grace-Navy",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         }
       ]
