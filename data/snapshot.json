@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-25T11:11:06.713Z",
+  "scrapedAt": "2026-11-25T19:54:07.796Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1665,7 +1665,7 @@
         {
           "division": "2N",
           "team": "St. Monica-Red",
-          "wins": 0,
+          "wins": 1,
           "losses": 0,
           "draws": 0
         },
@@ -1687,7 +1687,7 @@
           "division": "2N",
           "team": "OL Greenwood-Gold",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
