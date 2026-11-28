@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-27T19:27:12.980Z",
+  "scrapedAt": "2026-11-28T00:31:14.287Z",
   "source": "https://cyo.orgsonline.com/Athletics_SchedulesStandings.aspx",
   "orgs": [
     {
@@ -1935,6 +1935,13 @@
         },
         {
           "division": "1A",
+          "team": "Immac. Heart-Blue",
+          "wins": 1,
+          "losses": 0,
+          "draws": 0
+        },
+        {
+          "division": "1A",
           "team": "St. Barnabas-Maroon",
           "wins": 1,
           "losses": 0,
@@ -1963,13 +1970,6 @@
         },
         {
           "division": "1A",
-          "team": "Immac. Heart-Blue",
-          "wins": 0,
-          "losses": 0,
-          "draws": 0
-        },
-        {
-          "division": "1A",
           "team": "St. Simon-Blue",
           "wins": 0,
           "losses": 0,
@@ -1979,7 +1979,7 @@
           "division": "1A",
           "team": "St. Louis de Mont.-Red",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
@@ -2103,16 +2103,16 @@
         },
         {
           "division": "2A",
-          "team": "Immac. Heart-White",
+          "team": "St. Pius X-White",
           "wins": 0,
-          "losses": 1,
+          "losses": 0,
           "draws": 0
         },
         {
           "division": "2A",
-          "team": "St. Pius X-White",
+          "team": "Immac. Heart-White",
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "draws": 0
         },
         {
