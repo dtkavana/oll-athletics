@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T19:37:07.619Z",
+  "generatedAt": "2026-11-28T10:27:01.090Z",
   "season": "2026-2027 Boys Basketball",
   "model": {
     "rosterSize": 8,
@@ -16,8 +16,8 @@
   },
   "summary": {
     "teams": 211,
-    "games": 78,
-    "leagueGames": 78,
+    "games": 79,
+    "leagueGames": 79,
     "tournamentGames": 0,
     "skippedGames": 0,
     "standingsMismatches": 0,
@@ -2527,7 +2527,7 @@
         "Cadet C Boys"
       ],
       "teams": 81,
-      "games": 29,
+      "games": 30,
       "rankings": [
         {
           "id": "cadet-a-boys--mount-carmel-blue",
@@ -2853,25 +2853,6 @@
           "rank": 17
         },
         {
-          "id": "cadet-a-boys--st-roch-blue",
-          "band": "Cadet",
-          "school": "St. Roch",
-          "name": "St. Roch-Blue",
-          "league": "Cadet A Boys",
-          "tier": "A",
-          "division": "1N",
-          "pool": 16,
-          "baseline": 1699.6,
-          "rating": 1699.6,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 18
-        },
-        {
           "id": "cadet-a-boys--st-matthew-red",
           "band": "Cadet",
           "school": "St. Matthew",
@@ -2888,7 +2869,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1879.5,
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "cadet-a-boys--card-ritter-jr-h-black",
@@ -2907,7 +2888,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1723.6,
-          "rank": 20
+          "rank": 19
         },
         {
           "id": "cadet-a-boys--ol-of-grace-gold",
@@ -2926,7 +2907,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1804.6,
-          "rank": 21
+          "rank": 20
         },
         {
           "id": "cadet-a-boys--ss-fran-clare-navy",
@@ -2945,7 +2926,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1735.6,
-          "rank": 22
+          "rank": 21
         },
         {
           "id": "cadet-a-boys--st-susanna-gold",
@@ -2964,7 +2945,7 @@
           "leagueRecord": "0-1",
           "record": "0-1",
           "sos": 1735.6,
-          "rank": 23
+          "rank": 22
         },
         {
           "id": "cadet-a-boys--ol-greenwood-gold",
@@ -2974,6 +2955,25 @@
           "league": "Cadet A Boys",
           "tier": "A",
           "division": "2N",
+          "pool": 16,
+          "baseline": 1699.6,
+          "rating": 1663.2,
+          "delta": -36.4,
+          "wins": 0,
+          "losses": 1,
+          "leagueRecord": "0-1",
+          "record": "0-1",
+          "sos": 1536.4,
+          "rank": 23
+        },
+        {
+          "id": "cadet-a-boys--st-roch-blue",
+          "band": "Cadet",
+          "school": "St. Roch",
+          "name": "St. Roch-Blue",
+          "league": "Cadet A Boys",
+          "tier": "A",
+          "division": "1N",
           "pool": 16,
           "baseline": 1699.6,
           "rating": 1663.2,
@@ -3119,6 +3119,25 @@
           "rank": 31
         },
         {
+          "id": "cadet-a-boys--holy-spirit-geist-blue",
+          "band": "Cadet",
+          "school": "Holy Spirit Geist",
+          "name": "Holy Spirit Geist-Blue",
+          "league": "Cadet A Boys",
+          "tier": "A",
+          "division": "1N",
+          "pool": 8,
+          "baseline": 1500,
+          "rating": 1536.4,
+          "delta": 36.4,
+          "wins": 1,
+          "losses": 0,
+          "leagueRecord": "1-0",
+          "record": "1-0",
+          "sos": 1663.2,
+          "rank": 32
+        },
+        {
           "id": "cadet-a-boys--st-monica-red",
           "band": "Cadet",
           "school": "St. Monica",
@@ -3135,7 +3154,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1663.2,
-          "rank": 32
+          "rank": 33
         },
         {
           "id": "cadet-b-boys--christ-the-king-black",
@@ -3154,7 +3173,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1470,
-          "rank": 33
+          "rank": 34
         },
         {
           "id": "cadet-b-boys--st-louis-de-mont-red",
@@ -3173,7 +3192,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1476,
-          "rank": 34
+          "rank": 35
         },
         {
           "id": "cadet-b-boys--st-maria-gor-red",
@@ -3192,7 +3211,7 @@
           "leagueRecord": "1-0",
           "record": "1-0",
           "sos": 1283.1,
-          "rank": 35
+          "rank": 36
         },
         {
           "id": "cadet-c-boys--central-cath-blue",
@@ -3202,25 +3221,6 @@
           "league": "Cadet C Boys",
           "tier": "C",
           "division": "2",
-          "pool": 8,
-          "baseline": 1500,
-          "rating": 1500,
-          "delta": 0,
-          "wins": 0,
-          "losses": 0,
-          "leagueRecord": "0-0",
-          "record": "0-0",
-          "sos": null,
-          "rank": 36
-        },
-        {
-          "id": "cadet-a-boys--holy-spirit-geist-blue",
-          "band": "Cadet",
-          "school": "Holy Spirit Geist",
-          "name": "Holy Spirit Geist-Blue",
-          "league": "Cadet A Boys",
-          "tier": "A",
-          "division": "1N",
           "pool": 8,
           "baseline": 1500,
           "rating": 1500,
